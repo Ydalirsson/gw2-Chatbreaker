@@ -1,8 +1,8 @@
 {
   "name": "Chatbreaker",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": "Ydalirsson",
-  "description": "Chartbreaker is an application for separating text into single chat messages. Specified for Guild Wars 2 chat messages.",
+  "description": "Chatbreaker is an application for separating text into single chat messages. Specified for Guild Wars 2 chat messages.",
   "license": "GNUv3.0",
   "private": true,
   "main": "background.js",
