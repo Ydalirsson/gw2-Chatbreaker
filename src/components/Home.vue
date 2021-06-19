@@ -18,7 +18,7 @@
     <p></p>
 
     <div class="table-responsive">
-      <table class="table table-striped">
+      <table class="table table-dark table-striped">
         <tbody>
         <tr v-for="msg in singleMessage">
           <td>{{ msg }}</td>
@@ -109,5 +109,13 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped lang="scss">
+<style scoped lang="css">
+  textarea:focus {
+    background-color : #23272a ;
+    color: #fff;
+  }
+  input[type="text"], textarea {
+    background-color : #23272a ;
+    color: #fff;
+  }
 </style>
