@@ -1,6 +1,6 @@
 {
   "name": "Chatbreaker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Ydalirsson",
   "description": "Chatbreaker is an application for separating text into single chat messages. Specified for Guild Wars 2 chat messages.",
   "license": "GNUv3.0",
@@ -29,7 +29,7 @@
     "@vue/cli-plugin-typescript": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
-    "electron": "^11.0.0",
+    "electron": "^14.0.0",
     "electron-devtools-installer": "^3.1.0",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
