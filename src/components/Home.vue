@@ -12,7 +12,7 @@
         </svg>
         Delete
       </button>
-      <div class="float-end">total characters: {{ totalcharacter }}</div>
+      <div class="float-end">total characters: {{ totalCharacter }}</div>
     </div>
 
     <p></p>
@@ -38,31 +38,32 @@
   </div>
 </template>
 
-<script>
-const { clipboard } = require('electron');
+<script lang="ts">
+import { defineComponent } from "vue";
+import { clipboard } from "electron";
 
-export default {
+export default defineComponent({
   name: "home",
   data() {
     return {
-      chatContent: '',
-      contentWordArray: [''],
-      singleMessage: [''],
-      errorMessage: '',
-      totalcharacter: 0
+      chatContent: '' as string,
+      contentWordArray: [''] as Array<string>,
+      singleMessage: [''] as Array<string>,
+      errorMessage: '' as string,
+      totalCharacter: 0 as number
     }
   },
   methods: {
-    delete() {
+    delete(): void {
       this.chatContent = '';
       this.singleMessage = [''];
       this.contentWordArray = [''];
       this.errorMessage = '';
 
-      this.totalcharacter = this.chatContent.length;
-      this.$refs.chatEdit.focus();
+      this.totalCharacter = this.chatContent.length;
+      (this.$refs.chatEdit as HTMLElement).focus();
     },
-    update() {
+    update() : void {
       const MSG_CHAR_LIMIT = 197; // character limit per single chat message (in gw2 it's 199, but 197 needed to add ' >' automatically
       let i = 0;                  // place of message
       let j = 0;                  // position of word
@@ -71,7 +72,7 @@ export default {
       this.contentWordArray = [''];
       this.errorMessage = '';
 
-      this.totalcharacter = this.chatContent.length;
+      this.totalCharacter = this.chatContent.length;
       // generate table if textarea is filled
       if (this.chatContent.length != 0) {
         this.contentWordArray = this.chatContent.split(' ');
@@ -100,12 +101,12 @@ export default {
       }
       //console.log(this.singleMessage)
     },
-    onCopy(msg) {
+    onCopy(msg: string) : void {
       //console.log("CopyText" + msg);
       clipboard.writeText(msg, 'clipboard')
     },
   }
-}
+})
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
