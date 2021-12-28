@@ -9,14 +9,17 @@
 
       <p v-if="errorMessage" class="alert alert-danger" role="alert"> {{ errorMessage }} </p>
 
-      <button type="button" class="btn btn-primary float-start" style="margin-top: 4px" @click="delete">
+      <ul class="controlBar">
+        <li>
+      <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="delete">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
           <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"/>
           <path fill-rule="evenodd" d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z"/>
         </svg>
         Delete
       </button>
-
+        </li>
+        <li>
       <select class="form-select form-select-sm" style="margin-top: 4px; width: 110px; height: 38px;"
               v-model="selected" @change="update">
         <option disabled value="0">Separator</option>
@@ -25,11 +28,67 @@
         <option value="3">-</option>
         <option value="4">~</option>
       </select>
+        </li>
+    <li>
+      <ul id="emoteListID" class="list-group" @click="changeEmoteList" v-if="listCollapsed">
+        <li class="list-group-item py-0">/beckon</li>
+        <li class="list-group-item py-0">/bow</li>
+        <li class="list-group-item py-0">/cheer</li>
+        <li class="list-group-item py-0">/cower</li>
+        <li class="list-group-item py-0">/crossarms</li>
+        <li class="list-group-item py-0">/cry</li>
+        <li class="list-group-item py-0">/dance</li>
+        <li class="list-group-item py-0">/facepalm</li>
+        <li class="list-group-item py-0">/upset</li>
+        <li class="list-group-item py-0">/geargrind</li>
+        <li class="list-group-item py-0">/kneel</li>
+        <li class="list-group-item py-0">/laugh</li>
+        <li class="list-group-item py-0">/no</li>
+        <li class="list-group-item py-0">/playdead</li>
+        <li class="list-group-item py-0">/point</li>
+        <li class="list-group-item py-0">/ponder</li>
+        <li class="list-group-item py-0">/rockout</li>
+        <li class="list-group-item py-0">/sad</li>
+        <li class="list-group-item py-0">/salute</li>
+        <li class="list-group-item py-0">/shiver</li>
+        <li class="list-group-item py-0">/shiverplus</li>
+        <li class="list-group-item py-0">/shrug</li>
+        <li class="list-group-item py-0">/shuffle</li>
+        <li class="list-group-item py-0">/sit</li>
+        <li class="list-group-item py-0">/sleep</li>
+        <li class="list-group-item py-0">/step</li>
+        <li class="list-group-item py-0">/stretch</li>
+        <li class="list-group-item py-0">/surprised</li>
+        <li class="list-group-item py-0">/talk</li>
+        <li class="list-group-item py-0">/thanks</li>
+        <li class="list-group-item py-0">/thank</li>
+        <li class="list-group-item py-0">/thx</li>
+        <li class="list-group-item py-0">/ty</li>
+        <li class="list-group-item py-0">/threaten</li>
+        <li class="list-group-item py-0">/wave</li>
+        <li class="list-group-item py-0">/yes</li>
+        <li class="list-group-item py-0">/e</li>
+        <li class="list-group-item py-0">/em</li>
+        <li class="list-group-item py-0">/emote</li>
+        <li class="list-group-item py-0">/me</li>
+        <span class="tooltiptext">Click to collapse</span>
+      </ul>
+      <ul id="emoteID" class="list-group" @click="changeEmoteList" v-else>
+        <li class="list-group-item">List of emotes</li>
+        <span class="tooltiptext">Click to expand</span>
+      </ul>
+    </li>
 
-      <div class="float-end">total characters: {{ totalCharacter }}</div>
+      <li>
+      <div>
+        total characters: {{ totalCharacter }}
+      </div>
+      </li>
+      </ul>
     </div>
 
-    <p></p><br>
+    <p></p>
+    <br>
 
     <div class="table-responsive">
       <table class="table table-dark table-striped">
@@ -65,10 +124,14 @@ export default defineComponent({
       singleMessage: [''] as Array<string>,
       errorMessage: '' as string,
       totalCharacter: 0 as number,
-      selected: '0'
+      selected: '0',
+      listCollapsed: false as boolean
     }
   },
   methods: {
+    changeEmoteList() : void {
+      this.listCollapsed = !this.listCollapsed;
+    },
     currentDate() {
       const dateNow = new Date(Date.now());
       const currentYear = new Date(dateNow.getFullYear(), 0, 1, 23,59,59,999);
@@ -172,5 +235,30 @@ export default defineComponent({
   select {
     background-color : #375a7f ;
     color: #fff;
+  }
+  .controlBar {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-left: 0;
+  }
+  #emoteID .tooltiptext, #emoteListID .tooltiptext{
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  #emoteID:hover .tooltiptext, #emoteListID:hover .tooltiptext {
+    visibility: visible;
+  }
+  #emoteID, #emoteListID {
+    font-size: 10pt;
   }
 </style>
