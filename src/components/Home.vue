@@ -1,7 +1,8 @@
 <template>
   <div class="home">
     <div>
-      <p style="font-size: 10pt">Hello, today is {{currentDate()}}!</p>
+      <p style="font-size: 10pt">Hello, today is {{currentDate()}}, {{currentDate()}}, {{currentDate()}}
+      </p>
     </div>
 
     <div>
@@ -11,7 +12,7 @@
 
       <ul class="controlBar">
         <li>
-      <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="delete">
+      <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="deleteAreaInput">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
           <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"/>
           <path fill-rule="evenodd" d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z"/>
@@ -113,7 +114,7 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import { clipboard } from "electron";
+import { writeText } from "@tauri-apps/api/clipboard";
 
 export default defineComponent({
   name: "home",
@@ -155,7 +156,7 @@ export default defineComponent({
       }
       return mouveCalenderDay + ' ' + season + ' ' + (dateNow.getFullYear()-687) + ' A.E.';
       },
-    delete(): void {
+    deleteAreaInput(): void {
       this.chatContent = '';
       this.singleMessage = [''];
       this.contentWordArray = [''];
@@ -216,7 +217,7 @@ export default defineComponent({
     },
     onCopy(msg: string) : void {
       //console.log("CopyText" + msg);
-      clipboard.writeText(msg, 'clipboard')
+      writeText(msg);
     },
   }
 })

@@ -4,12 +4,11 @@
     "beforeBuildCommand": "",
     "beforeDevCommand": "",
     "devPath": "Set automatically by Vue CLI plugin",
-    "distDir": "Set automatically by Vue CLI plugin",
-    "withGlobalTauri": true
+    "distDir": "Set automatically by Vue CLI plugin"
   },
   "package": {
-    "productName": "hello1",
-    "version": "1.0.0"
+    "productName": "Chatbreaker",
+    "version": "1.1.2"
   },
   "tauri": {
     "allowlist": {
@@ -30,7 +29,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.ydalir.pro",
+      "identifier": "com.ydalirsson.prod",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -59,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "hello1",
+        "title": "Chatbreaker",
         "width": 800,
         "theme": "Dark"
       }
