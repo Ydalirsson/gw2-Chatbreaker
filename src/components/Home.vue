@@ -88,6 +88,41 @@
       </ul>
     </div>
 
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1" checked>
+  <label class="form-check-label" for="inlineCheckbox1">items</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2" checked>
+  <label class="form-check-label" for="inlineCheckbox2">pois</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3" checked>
+  <label class="form-check-label" for="inlineCheckbox3">skils</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option4" checked>
+  <label class="form-check-label" for="inlineCheckbox4">traits</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox5" value="option5" checked>
+  <label class="form-check-label" for="inlineCheckbox5">recipes</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox6" value="option6" checked>
+  <label class="form-check-label" for="inlineCheckbox6">skins</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox7" value="option7" checked>
+  <label class="form-check-label" for="inlineCheckbox7">colors</label>
+</div>
+
+<label for="search">
+  Type the name of a country to search
+</label>
+
+<input type="text" id="search" placeholder="Type here...">
+
     <p></p>
     <br>
 
@@ -121,6 +156,30 @@
 import { defineComponent } from "vue";
 import { writeText } from "@tauri-apps/api/clipboard";
 
+const _colors = require("../chatcodes/eng/colors.json");
+const _items = require("../chatcodes/eng/items.json");
+const _pois = require( "../chatcodes/eng/pois.json");
+const _recipes = require("../chatcodes/eng/recipes.json");
+const _skills = require("../chatcodes/eng/skills.json");
+const _skin = require("../chatcodes/eng/skins.json");
+const _traits = require("../chatcodes/eng/traits.json");
+
+export interface Item  {
+  [key: string]: { 
+    name: string,
+    id: number,
+    chat_link: string
+    }
+}
+
+const colors = _colors as Item[];
+const items = _items as Item[];
+const pois = _pois as Item[];
+const recipes = _recipes as Item[];
+const skills = _skills as Item[];
+const skin = _skin as Item[];
+const traits = _traits as Item[];
+
 export default defineComponent({
   name: "home",
   data() {
@@ -131,12 +190,14 @@ export default defineComponent({
       errorMessage: '' as string,
       totalCharacter: 0 as number,
       selected: '0',
-      listCollapsed: false as boolean
+      listCollapsed: false as boolean,
+      searchRes: [] as Array<Item>
     }
   },
   methods: {
     changeEmoteList() : void {
       this.listCollapsed = !this.listCollapsed;
+      this.searchForLink();
     },
     currentDate() {
       const dateNow = new Date(Date.now());
@@ -226,6 +287,19 @@ export default defineComponent({
       msg.copied = true;
       
     },
+    searchForLink() : void {
+      let i = 0;
+      
+      for(i = 0; i < items.length; i++) {
+        if(items[i].name != null) {
+          if (items[i].name.toString().includes("Ass")) {
+            this.searchRes.push(items[i]);
+            }
+        }
+     }
+
+     console.log(this.searchRes);
+    }
   }
 })
 </script>
