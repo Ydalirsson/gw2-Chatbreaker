@@ -2,8 +2,8 @@
   <div class="home">
     <div>
       <p style="font-size: 10pt">
-        Hello, today is {{ currentDate() }}, {{ currentDate() }},
-        {{ currentDate() }}
+        Hello, today is {{ currentMouvDate() }}, {{ currentElonDate() }},
+        {{ currentCantDate() }}
       </p>
     </div>
 
@@ -252,21 +252,37 @@ export interface Item {
   };
 }
 
-const _colors = require("../chatcodes/eng/colors.json");
-const _items = require("../chatcodes/eng/items.json");
-const _pois = require("../chatcodes/eng/pois.json");
-const _recipes = require("../chatcodes/eng/recipes.json");
-const _skills = require("../chatcodes/eng/skills.json");
-const _skins = require("../chatcodes/eng/skins.json");
-const _traits = require("../chatcodes/eng/traits.json");
+const _colorsEN = require("../chatcodes/eng/colors.json");
+const _itemsEN = require("../chatcodes/eng/items.json");
+const _poisEN = require("../chatcodes/eng/pois.json");
+const _recipesEN = require("../chatcodes/eng/recipes.json");
+const _skillsEN = require("../chatcodes/eng/skills.json");
+const _skinsEN = require("../chatcodes/eng/skins.json");
+const _traitsEN = require("../chatcodes/eng/traits.json");
 
-const colors = _colors as Item[];
-const items = _items as Item[];
-const pois = _pois as Item[];
-const recipes = _recipes as Item[];
-const skills = _skills as Item[];
-const skins = _skins as Item[];
-const traits = _traits as Item[];
+const _colorsDE = require("../chatcodes/deu/colors.json");
+const _itemsDE = require("../chatcodes/deu/items.json");
+const _poisDE = require("../chatcodes/deu/pois.json");
+const _recipesDE = require("../chatcodes/deu/recipes.json");
+const _skillsDE = require("../chatcodes/deu/skills.json");
+const _skinsDE = require("../chatcodes/deu/skins.json");
+const _traitsDE = require("../chatcodes/deu/traits.json");
+
+const colorsEN = _colorsEN as Item[];
+const itemsEN = _itemsEN as Item[];
+const poisEN = _poisEN as Item[];
+const recipesEN = _recipesEN as Item[];
+const skillsEN = _skillsEN as Item[];
+const skinsEN = _skinsEN as Item[];
+const traitsEN = _traitsEN as Item[];
+
+const colorsDE = _colorsDE as Item[];
+const itemsDE = _itemsDE as Item[];
+const poisDE = _poisDE as Item[];
+const recipesDE = _recipesDE as Item[];
+const skillsDE = _skillsDE as Item[];
+const skinsDE = _skinsDE as Item[];
+const traitsDE = _traitsDE as Item[];
 
 export default defineComponent({
   name: "home",
@@ -284,7 +300,7 @@ export default defineComponent({
       showItems: false as boolean,
       cursor: -1 as number,
       cbxLangEng: true as boolean,
-      cbxLangGer: false as boolean
+      cbxLangGer: false as boolean,
     };
   },
   watch: {
@@ -293,13 +309,13 @@ export default defineComponent({
     },
     upateLanguage() {
       this.searchResult = [];
-    }
+    },
   },
   methods: {
     changeEmoteList(): void {
       this.listCollapsed = !this.listCollapsed;
     },
-    currentDate() {
+    currentMouvDate() {
       const dateNow = new Date(Date.now());
       const currentYear = new Date(
         dateNow.getFullYear(),
@@ -340,6 +356,123 @@ export default defineComponent({
         " " +
         (dateNow.getFullYear() - 687) +
         " A.E."
+      );
+    },
+    currentElonDate() {
+      const dateNow = new Date(Date.now());
+      const currentYear = new Date(
+        dateNow.getFullYear(),
+        0,
+        1,
+        23,
+        59,
+        59,
+        999
+      );
+      let dayOfYear =
+        Math.floor(dateNow.getTime() - currentYear.getTime()) /
+        1000 /
+        60 /
+        60 /
+        24;
+      dayOfYear = Math.floor(dayOfYear) + 2;
+
+      let season = "";
+      let mouveCalenderDay = 0;
+      if (1 <= dayOfYear && dayOfYear <= 90) {
+        season = "Zephyr";
+        mouveCalenderDay = dayOfYear;
+      } else if (91 <= dayOfYear && dayOfYear <= 180) {
+        season = "Phoenix";
+        mouveCalenderDay = dayOfYear - 90;
+      } else if (181 <= dayOfYear && dayOfYear <= 270) {
+        season = "Scion";
+        mouveCalenderDay = dayOfYear - 180;
+      } else if (271 <= dayOfYear && dayOfYear <= 366) {
+        season = "Colossus";
+        mouveCalenderDay = dayOfYear - 270;
+      }
+      return (
+        mouveCalenderDay +
+        " " +
+        season +
+        " " +
+        (dateNow.getFullYear() - 687 + 200) +
+        " D.Z."
+      );
+    },
+    currentCantDate() {
+      const dateNow = new Date(Date.now());
+      const currentYear = new Date(
+        dateNow.getFullYear(),
+        0,
+        1,
+        23,
+        59,
+        59,
+        999
+      );
+      let dayOfYear =
+        Math.floor(dateNow.getTime() - currentYear.getTime()) /
+        1000 /
+        60 /
+        60 /
+        24;
+      dayOfYear = Math.floor(dayOfYear) + 2;
+
+      let season = "";
+      let mouveCalenderDay = dateNow.getDate();
+
+      switch (dateNow.getMonth()) {
+        case 0:
+          season = "Changhai";
+          break;
+        case 1:
+          season = "Zhoyo";
+          break;
+        case 2:
+          season = "Nongkam";
+          break;
+        case 3:
+          season = "Zalfawn";
+          break;
+        case 4:
+          season = "Saita";
+          break;
+        case 5:
+          season = "Mikan";
+          break;
+        case 6:
+          season = "Nemnai";
+          break;
+        case 7:
+          season = "Beibacah";
+          break;
+        case 8:
+          season = "Suzhen";
+          break;
+        case 9:
+          season = "Yundinfang";
+          break;
+        case 10:
+          season = "Songtahn";
+          break;
+        case 11:
+          season = "Kainengtah";
+          break;
+
+        default:
+          season = "";
+          break;
+      }
+
+      return (
+        mouveCalenderDay +
+        " " +
+        season +
+        " " +
+        (dateNow.getFullYear() - 687 + 510) +
+        " C.K."
       );
     },
     deleteAreaInput(): void {
@@ -412,61 +545,121 @@ export default defineComponent({
       this.searchResult = [];
       if (searchInput.length < 3) return;
 
+      // searching for english results
       if (this.cbxLangEng == true) {
+
         let i = 0;
-        for (i = 0; i < colors.length; i++) {
-          if (colors[i].name != null) {
-            if (colors[i].name.toString().includes(searchInput)) {
-              this.searchResult.push(colors[i]);
+        for (i = 0; i < colorsEN.length; i++) {
+          if (colorsEN[i].name != null) {
+            if (colorsEN[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(colorsEN[i]);
             }
           }
 
-          for (i = 0; i < items.length; i++) {
-            if (items[i].name != null) {
-              if (items[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(items[i]);
-              }
-            }
-          }
-
-          for (i = 0; i < pois.length; i++) {
-            if (pois[i].name != null) {
-              if (pois[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(pois[i]);
+          for (i = 0; i < itemsEN.length; i++) {
+            if (itemsEN[i].name != null) {
+              if (itemsEN[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(itemsEN[i]);
               }
             }
           }
 
-          for (i = 0; i < recipes.length; i++) {
-            if (recipes[i].name != null) {
-              if (recipes[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(recipes[i]);
+          for (i = 0; i < poisEN.length; i++) {
+            if (poisEN[i].name != null) {
+              if (poisEN[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(poisEN[i]);
               }
             }
           }
 
-          for (i = 0; i < skills.length; i++) {
-            if (skills[i].name != null) {
-              if (skills[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skills[i]);
+          for (i = 0; i < recipesEN.length; i++) {
+            if (recipesEN[i].name != null) {
+              if (recipesEN[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(recipesEN[i]);
               }
             }
           }
-          for (i = 0; i < skins.length; i++) {
-            if (skins[i].name != null) {
-              if (skins[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skins[i]);
+
+          for (i = 0; i < skillsEN.length; i++) {
+            if (skillsEN[i].name != null) {
+              if (skillsEN[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(skillsEN[i]);
               }
             }
           }
-          for (i = 0; i < traits.length; i++) {
-            if (traits[i].name != null) {
-              if (traits[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(traits[i]);
+          for (i = 0; i < skinsEN.length; i++) {
+            if (skinsEN[i].name != null) {
+              if (skinsEN[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(skinsEN[i]);
+              }
+            }
+          }
+          for (i = 0; i < traitsEN.length; i++) {
+            if (traitsEN[i].name != null) {
+              if (traitsEN[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(traitsEN[i]);
               }
             }
           }
         }
+      }
+
+      // searching for german results
+      if (this.cbxLangGer == true) {
+        let i = 0;
+        for (i = 0; i < colorsDE.length; i++) {
+          if (colorsDE[i].name != null) {
+            if (colorsDE[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(colorsDE[i]);
+            }
+          }
+
+          for (i = 0; i < itemsDE.length; i++) {
+            if (itemsDE[i].name != null) {
+              if (itemsDE[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(itemsDE[i]);
+              }
+            }
+          }
+
+          for (i = 0; i < poisDE.length; i++) {
+            if (poisDE[i].name != null) {
+              if (poisDE[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(poisDE[i]);
+              }
+            }
+          }
+
+          for (i = 0; i < recipesDE.length; i++) {
+            if (recipesDE[i].name != null) {
+              if (recipesDE[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(recipesDE[i]);
+              }
+            }
+          }
+
+          for (i = 0; i < skillsDE.length; i++) {
+            if (skillsDE[i].name != null) {
+              if (skillsDE[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(skillsDE[i]);
+              }
+            }
+          }
+          for (i = 0; i < skinsDE.length; i++) {
+            if (skinsDE[i].name != null) {
+              if (skinsDE[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(skinsDE[i]);
+              }
+            }
+          }
+          for (i = 0; i < traitsDE.length; i++) {
+            if (traitsDE[i].name != null) {
+              if (traitsDE[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(traitsDE[i]);
+              }
+            }
+          }
+        } 
       }
     },
     selectItem(item: Item): void {
@@ -566,7 +759,7 @@ select {
   justify-content: start;
 }
 .ac-filtered-items {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   right: 0;
