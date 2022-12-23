@@ -299,8 +299,8 @@ export default defineComponent({
       searchInput: "" as string,
       showItems: false as boolean,
       cursor: -1 as number,
-      cbxLangEng: true as boolean,
-      cbxLangGer: false as boolean,
+      cbxLangEng: "true" as string,
+      cbxLangGer: "false" as string
     };
   },
   watch: {
@@ -546,8 +546,7 @@ export default defineComponent({
       if (searchInput.length < 3) return;
 
       // searching for english results
-      if (this.cbxLangEng == true) {
-
+      if (this.cbxLangEng == "true") {
         let i = 0;
         for (i = 0; i < colorsEN.length; i++) {
           if (colorsEN[i].name != null) {
@@ -605,7 +604,7 @@ export default defineComponent({
       }
 
       // searching for german results
-      if (this.cbxLangGer == true) {
+      if (this.cbxLangGer == "true") {
         let i = 0;
         for (i = 0; i < colorsDE.length; i++) {
           if (colorsDE[i].name != null) {
