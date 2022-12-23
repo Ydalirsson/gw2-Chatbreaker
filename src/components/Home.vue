@@ -268,22 +268,6 @@ const _skillsDE = require("../chatcodes/deu/skills.json");
 const _skinsDE = require("../chatcodes/deu/skins.json");
 const _traitsDE = require("../chatcodes/deu/traits.json");
 
-const colorsEN = _colorsEN as Item[];
-const itemsEN = _itemsEN as Item[];
-const poisEN = _poisEN as Item[];
-const recipesEN = _recipesEN as Item[];
-const skillsEN = _skillsEN as Item[];
-const skinsEN = _skinsEN as Item[];
-const traitsEN = _traitsEN as Item[];
-
-const colorsDE = _colorsDE as Item[];
-const itemsDE = _itemsDE as Item[];
-const poisDE = _poisDE as Item[];
-const recipesDE = _recipesDE as Item[];
-const skillsDE = _skillsDE as Item[];
-const skinsDE = _skinsDE as Item[];
-const traitsDE = _traitsDE as Item[];
-
 export default defineComponent({
   name: "home",
   data() {
@@ -300,7 +284,7 @@ export default defineComponent({
       showItems: false as boolean,
       cursor: -1 as number,
       cbxLangEng: "true" as string,
-      cbxLangGer: "false" as string
+      cbxLangGer: "false" as string,
     };
   },
   watch: {
@@ -547,56 +531,64 @@ export default defineComponent({
 
       // searching for english results
       if (this.cbxLangEng == "true") {
+        const colors = _colorsEN as Item[];
+        const items = _itemsEN as Item[];
+        const pois = _poisEN as Item[];
+        const recipes = _recipesEN as Item[];
+        const skills = _skillsEN as Item[];
+        const skins = _skinsEN as Item[];
+        const traits = _traitsEN as Item[];
+
         let i = 0;
-        for (i = 0; i < colorsEN.length; i++) {
-          if (colorsEN[i].name != null) {
-            if (colorsEN[i].name.toString().includes(searchInput)) {
-              this.searchResult.push(colorsEN[i]);
+        for (i = 0; i < colors.length; i++) {
+          if (colors[i].name != null) {
+            if (colors[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(colors[i]);
             }
           }
 
-          for (i = 0; i < itemsEN.length; i++) {
-            if (itemsEN[i].name != null) {
-              if (itemsEN[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(itemsEN[i]);
-              }
-            }
-          }
-
-          for (i = 0; i < poisEN.length; i++) {
-            if (poisEN[i].name != null) {
-              if (poisEN[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(poisEN[i]);
+          for (i = 0; i < items.length; i++) {
+            if (items[i].name != null) {
+              if (items[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(items[i]);
               }
             }
           }
 
-          for (i = 0; i < recipesEN.length; i++) {
-            if (recipesEN[i].name != null) {
-              if (recipesEN[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(recipesEN[i]);
+          for (i = 0; i < pois.length; i++) {
+            if (pois[i].name != null) {
+              if (pois[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(pois[i]);
               }
             }
           }
 
-          for (i = 0; i < skillsEN.length; i++) {
-            if (skillsEN[i].name != null) {
-              if (skillsEN[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skillsEN[i]);
+          for (i = 0; i < recipes.length; i++) {
+            if (recipes[i].name != null) {
+              if (recipes[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(recipes[i]);
               }
             }
           }
-          for (i = 0; i < skinsEN.length; i++) {
-            if (skinsEN[i].name != null) {
-              if (skinsEN[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skinsEN[i]);
+
+          for (i = 0; i < skills.length; i++) {
+            if (skills[i].name != null) {
+              if (skills[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(skills[i]);
               }
             }
           }
-          for (i = 0; i < traitsEN.length; i++) {
-            if (traitsEN[i].name != null) {
-              if (traitsEN[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(traitsEN[i]);
+          for (i = 0; i < skins.length; i++) {
+            if (skins[i].name != null) {
+              if (skins[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(skins[i]);
+              }
+            }
+          }
+          for (i = 0; i < traits.length; i++) {
+            if (traits[i].name != null) {
+              if (traits[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(traits[i]);
               }
             }
           }
@@ -605,60 +597,68 @@ export default defineComponent({
 
       // searching for german results
       if (this.cbxLangGer == "true") {
+        const colors = _colorsDE as Item[];
+        const items = _itemsDE as Item[];
+        const pois = _poisDE as Item[];
+        const recipes = _recipesDE as Item[];
+        const skills = _skillsDE as Item[];
+        const skins = _skinsDE as Item[];
+        const traits = _traitsDE as Item[];
+
         let i = 0;
-        for (i = 0; i < colorsDE.length; i++) {
-          if (colorsDE[i].name != null) {
-            if (colorsDE[i].name.toString().includes(searchInput)) {
-              this.searchResult.push(colorsDE[i]);
+        for (i = 0; i < colors.length; i++) {
+          if (colors[i].name != null) {
+            if (colors[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(colors[i]);
             }
           }
 
-          for (i = 0; i < itemsDE.length; i++) {
-            if (itemsDE[i].name != null) {
-              if (itemsDE[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(itemsDE[i]);
-              }
-            }
-          }
-
-          for (i = 0; i < poisDE.length; i++) {
-            if (poisDE[i].name != null) {
-              if (poisDE[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(poisDE[i]);
+          for (i = 0; i < items.length; i++) {
+            if (items[i].name != null) {
+              if (items[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(items[i]);
               }
             }
           }
 
-          for (i = 0; i < recipesDE.length; i++) {
-            if (recipesDE[i].name != null) {
-              if (recipesDE[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(recipesDE[i]);
+          for (i = 0; i < pois.length; i++) {
+            if (pois[i].name != null) {
+              if (pois[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(pois[i]);
               }
             }
           }
 
-          for (i = 0; i < skillsDE.length; i++) {
-            if (skillsDE[i].name != null) {
-              if (skillsDE[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skillsDE[i]);
+          for (i = 0; i < recipes.length; i++) {
+            if (recipes[i].name != null) {
+              if (recipes[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(recipes[i]);
               }
             }
           }
-          for (i = 0; i < skinsDE.length; i++) {
-            if (skinsDE[i].name != null) {
-              if (skinsDE[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skinsDE[i]);
+
+          for (i = 0; i < skills.length; i++) {
+            if (skills[i].name != null) {
+              if (skills[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(skills[i]);
               }
             }
           }
-          for (i = 0; i < traitsDE.length; i++) {
-            if (traitsDE[i].name != null) {
-              if (traitsDE[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(traitsDE[i]);
+          for (i = 0; i < skins.length; i++) {
+            if (skins[i].name != null) {
+              if (skins[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(skins[i]);
               }
             }
           }
-        } 
+          for (i = 0; i < traits.length; i++) {
+            if (traits[i].name != null) {
+              if (traits[i].name.toString().includes(searchInput)) {
+                this.searchResult.push(traits[i]);
+              }
+            }
+          }
+        }
       }
     },
     selectItem(item: Item): void {
