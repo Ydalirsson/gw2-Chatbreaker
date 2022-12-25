@@ -7,8 +7,15 @@ import sys
 def getCategories(catType):
     res = requests.get("https://api.guildwars2.com/v2/" + catType + "?lang=de")
     data = []
+   # with open(catType + ".json", "a") as f:
+   #     f.write("[")
+    #    f.close()
+
     print(len(res.json()))
-    for nmb in res.json():
+    listofID = res.json()
+    idx = listofID.index(71203)
+
+    for nmb in res.json()[idx:]:
         try:
             item = requests.get("https://api.guildwars2.com/v2/" + catType + "/" + str(nmb) + "?lang=de")
             print(str(item.status_code) + "|" + str(item.json()))
@@ -17,7 +24,12 @@ def getCategories(catType):
                 "id": item.json().get("id"),
                 "chat_link": item.json().get("chat_link")
                 }
-            data.append(dic)
+
+            with open(catType + ".json", "a") as f:
+                newEntry = json.dumps(dic) + ","
+                f.write(newEntry)
+                f.close()
+
         except requests.exceptions.RequestException as e:
             print(e)
             pass
@@ -28,8 +40,10 @@ def getCategories(catType):
             print("Failed to resolve - InvalidErr")
             pass
 
-    with open(catType + ".json", "w") as f:
-        json.dump(data, f)
+    with open(catType + ".json", "a") as f:
+        f.write("\b\b]")
+        f.close()
+
 
     """
     with open('my.json') as json_file:
@@ -62,6 +76,10 @@ def getPois():
                         "chat_link": item.json().get("chat_link")
                     }
                     data.append(dic)
+                    with open("pois" + ".json", "a") as f:
+                        newEntry = json.dumps(dic) + ","
+                        f.write(newEntry)
+                        f.close()
 
         regions = requests.get("https://api.guildwars2.com/v2/continents/2/floors/1/regions" + "?lang=de")
         print(regions.json())
@@ -82,7 +100,10 @@ def getPois():
                         "id": item.json().get("id"),
                         "chat_link": item.json().get("chat_link")
                     }
-                    data.append(dic)
+                    with open("pois" + ".json", "a") as f:
+                        newEntry = json.dumps(dic) + ","
+                        f.write(newEntry)
+                        f.close()
 
     except requests.exceptions.RequestException as e:
         print(e)
@@ -94,21 +115,21 @@ def getPois():
         print("Failed to resolve - InvalidErr")
         pass
 
-    with open("pois" + ".json", "w") as f:
-        json.dump(data, f)
+ #   with open("pois" + ".json", "w") as f:
+  #      json.dump(data, f)
 
     pass
 
 
 
 def main():
-    getCategories("items")
+    #getCategories("items")
     #getCategories("skills")
     #getCategories("skins")
     #getCategories("colors")
     #getCategories("traits")
     #getCategories("recipes")
-    #getPois()
+    getPois()
 
 if __name__ == '__main__':
     main()

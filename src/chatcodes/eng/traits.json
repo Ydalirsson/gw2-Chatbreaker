@@ -1,1 +1,4457 @@
-[{"name": "Raging Storm", "id": 214, "chat_link": null}, {"name": "Zephyr's Speed", "id": 221, "chat_link": null}, {"name": "Electric Discharge", "id": 222, "chat_link": null}, {"name": "Aeromancer's Training", "id": 223, "chat_link": null}, {"name": "One with Air", "id": 224, "chat_link": null}, {"name": "Bolt to the Heart", "id": 226, "chat_link": null}, {"name": "Zephyr's Boon", "id": 227, "chat_link": null}, {"name": "Inscription", "id": 229, "chat_link": null}, {"name": "Ferocious Winds", "id": 232, "chat_link": null}, {"name": "Evasive Arcana", "id": 238, "chat_link": null}, {"name": "Arcane Precision", "id": 253, "chat_link": null}, {"name": "Final Shielding", "id": 257, "chat_link": null}, {"name": "Elemental Surge", "id": 263, "chat_link": null}, {"name": "Elemental Attunement", "id": 264, "chat_link": null}, {"name": "Arcane Resurrection", "id": 265, "chat_link": null}, {"name": "Renewing Stamina", "id": 266, "chat_link": null}, {"name": "Arcane Prowess", "id": 268, "chat_link": null}, {"name": "Strength of Stone", "id": 275, "chat_link": null}, {"name": "Earthen Blessing", "id": 277, "chat_link": null}, {"name": "Stone Flesh", "id": 278, "chat_link": null}, {"name": "Earthen Blast", "id": 279, "chat_link": null}, {"name": "Geomancer's Training", "id": 280, "chat_link": null}, {"name": "Rock Solid", "id": 281, "chat_link": null}, {"name": "Earth's Embrace", "id": 282, "chat_link": null}, {"name": "Written in Stone", "id": 287, "chat_link": null}, {"name": "Elemental Shielding", "id": 289, "chat_link": null}, {"name": "Pyromancer's Puissance", "id": 294, "chat_link": null}, {"name": "Burning Precision", "id": 296, "chat_link": null}, {"name": "Sunspot", "id": 318, "chat_link": null}, {"name": "Pyromancer's Training", "id": 319, "chat_link": null}, {"name": "Empowering Flame", "id": 320, "chat_link": null}, {"name": "Burning Rage", "id": 325, "chat_link": null}, {"name": "Conjurer", "id": 328, "chat_link": null}, {"name": "Power Overwhelming", "id": 334, "chat_link": null}, {"name": "Burning Fire", "id": 335, "chat_link": null}, {"name": "Smothering Auras", "id": 340, "chat_link": null}, {"name": "Soothing Ice", "id": 348, "chat_link": null}, {"name": "Flow like Water", "id": 349, "chat_link": null}, {"name": "Soothing Mist", "id": 350, "chat_link": null}, {"name": "Healing Ripple", "id": 351, "chat_link": null}, {"name": "Cleansing Wave", "id": 358, "chat_link": null}, {"name": "Stop, Drop, and Roll", "id": 360, "chat_link": null}, {"name": "Powerful Aura", "id": 361, "chat_link": null}, {"name": "Cleansing Water", "id": 362, "chat_link": null}, {"name": "Piercing Shards", "id": 363, "chat_link": null}, {"name": "Soothing Disruption", "id": 364, "chat_link": null}, {"name": "Over Shield", "id": 394, "chat_link": null}, {"name": "Invigorating Speed", "id": 396, "chat_link": null}, {"name": "Compounding Chemicals", "id": 413, "chat_link": null}, {"name": "Shaped Charge", "id": 429, "chat_link": null}, {"name": "Explosive Entrance", "id": 432, "chat_link": null}, {"name": "Incendiary Powder", "id": 433, "chat_link": null}, {"name": "Mecha Legs", "id": 445, "chat_link": null}, {"name": "Hidden Flask", "id": 468, "chat_link": null}, {"name": "Emergency Elixir", "id": 469, "chat_link": null}, {"name": "Backpack Regenerator", "id": 470, "chat_link": null}, {"name": "Anticorrosion Plating", "id": 472, "chat_link": null}, {"name": "HGH", "id": 473, "chat_link": null}, {"name": "Aim-Assisted Rocket", "id": 482, "chat_link": null}, {"name": "Transmute", "id": 487, "chat_link": null}, {"name": "Shrapnel", "id": 505, "chat_link": null}, {"name": "Autodefense Bomb Dispenser", "id": 507, "chat_link": null}, {"name": "Reconstruction Enclosure", "id": 508, "chat_link": null}, {"name": "Protection Injection", "id": 509, "chat_link": null}, {"name": "Juggernaut", "id": 510, "chat_link": null}, {"name": "Streamlined Kits", "id": 512, "chat_link": null}, {"name": "Grenadier", "id": 514, "chat_link": null}, {"name": "Sharpshooter", "id": 515, "chat_link": null}, {"name": "Serrated Steel", "id": 516, "chat_link": null}, {"name": "Steel-Packed Powder", "id": 517, "chat_link": null}, {"name": "Cleansing Synergy", "id": 518, "chat_link": null}, {"name": "Energy Amplifier", "id": 519, "chat_link": null}, {"name": "Comeback Cure", "id": 520, "chat_link": null}, {"name": "Health Insurance", "id": 521, "chat_link": null}, {"name": "Adrenal Implant", "id": 523, "chat_link": null}, {"name": "Short Fuse", "id": 525, "chat_link": null}, {"name": "Modified Ammunition", "id": 526, "chat_link": null}, {"name": "Power Wrench", "id": 531, "chat_link": null}, {"name": "Static Discharge", "id": 532, "chat_link": null}, {"name": "Hematic Focus", "id": 536, "chat_link": null}, {"name": "Pure of Heart", "id": 549, "chat_link": null}, {"name": "Selfless Daring", "id": 551, "chat_link": null}, {"name": "Pure of Voice", "id": 553, "chat_link": null}, {"name": "Battle Presence", "id": 554, "chat_link": null}, {"name": "Honorable Staff", "id": 557, "chat_link": null}, {"name": "Writ of Persistence", "id": 558, "chat_link": null}, {"name": "Protective Reviver", "id": 559, "chat_link": null}, {"name": "Empowering Might", "id": 562, "chat_link": null}, {"name": "Wrathful Spirit", "id": 563, "chat_link": null}, {"name": "Vigorous Precision", "id": 564, "chat_link": null}, {"name": "Retribution", "id": 565, "chat_link": null}, {"name": "Right-Hand Strength", "id": 566, "chat_link": null}, {"name": "Radiant Fire", "id": 567, "chat_link": null}, {"name": "Radiant Power", "id": 568, "chat_link": null}, {"name": "Renewed Justice", "id": 571, "chat_link": null}, {"name": "Justice is Blind", "id": 572, "chat_link": null}, {"name": "Healer's Resolution", "id": 574, "chat_link": null}, {"name": "Inner Fire", "id": 577, "chat_link": null}, {"name": "Wrath of Justice", "id": 578, "chat_link": null}, {"name": "Perfect Inscriptions", "id": 579, "chat_link": null}, {"name": "Stalwart Defender", "id": 580, "chat_link": null}, {"name": "Smiter's Boon", "id": 581, "chat_link": null}, {"name": "Valorous Defense", "id": 582, "chat_link": null}, {"name": "Might of the Protector", "id": 583, "chat_link": null}, {"name": "Strength in Numbers", "id": 584, "chat_link": null}, {"name": "Altruistic Healing", "id": 585, "chat_link": null}, {"name": "Monk's Focus", "id": 586, "chat_link": null}, {"name": "Glacial Heart", "id": 587, "chat_link": null}, {"name": "Strength of the Fallen", "id": 588, "chat_link": null}, {"name": "Tenacious Defense", "id": 589, "chat_link": null}, {"name": "Steadfast Courage", "id": 594, "chat_link": null}, {"name": "Inspiring Virtue", "id": 603, "chat_link": null}, {"name": "Virtue of Resolution", "id": 604, "chat_link": null}, {"name": "Absolute Resolve", "id": 610, "chat_link": null}, {"name": "Indomitable Courage", "id": 612, "chat_link": null}, {"name": "Master of Consecrations", "id": 617, "chat_link": null}, {"name": "Power of the Virtuous", "id": 620, "chat_link": null}, {"name": "Inspired Virtue", "id": 621, "chat_link": null}, {"name": "Permeating Wrath", "id": 622, "chat_link": null}, {"name": "Unscathed Contender", "id": 624, "chat_link": null}, {"name": "Resolute Subconscious", "id": 625, "chat_link": null}, {"name": "Furious Focus", "id": 628, "chat_link": null}, {"name": "Focus Mastery", "id": 633, "chat_link": null}, {"name": "Fiery Wrath", "id": 634, "chat_link": null}, {"name": "Eternal Armory", "id": 635, "chat_link": null}, {"name": "Shattered Aegis", "id": 637, "chat_link": null}, {"name": "Symbolic Exposure", "id": 646, "chat_link": null}, {"name": "Zealot's Resolution", "id": 648, "chat_link": null}, {"name": "Symbolic Power", "id": 649, "chat_link": null}, {"name": "Zealous Blade", "id": 653, "chat_link": null}, {"name": "Protector's Restoration", "id": 654, "chat_link": null}, {"name": "Metaphysical Rejuvenation", "id": 666, "chat_link": null}, {"name": "Illusionary Membrane", "id": 667, "chat_link": null}, {"name": "Chaotic Transference", "id": 668, "chat_link": null}, {"name": "Chaotic Potency", "id": 669, "chat_link": null}, {"name": "Method of Madness", "id": 670, "chat_link": null}, {"name": "Chaotic Interruption", "id": 671, "chat_link": null}, {"name": "Auspicious Anguish", "id": 673, "chat_link": null}, {"name": "Prismatic Understanding", "id": 674, "chat_link": null}, {"name": "Illusionary Defense", "id": 675, "chat_link": null}, {"name": "Master of Manipulation", "id": 677, "chat_link": null}, {"name": "Mental Anguish", "id": 680, "chat_link": null}, {"name": "Vicious Expression", "id": 681, "chat_link": null}, {"name": "Empowered Illusions", "id": 682, "chat_link": null}, {"name": "Illusion of Vulnerability", "id": 685, "chat_link": null}, {"name": "Bountiful Blades", "id": 686, "chat_link": null}, {"name": "Rending Shatter", "id": 687, "chat_link": null}, {"name": "The Pledge", "id": 691, "chat_link": null}, {"name": "Superiority Complex", "id": 692, "chat_link": null}, {"name": "Shattered Concentration", "id": 693, "chat_link": null}, {"name": "Dazzling", "id": 694, "chat_link": null}, {"name": "Duelist's Discipline", "id": 700, "chat_link": null}, {"name": "Phantasmal Fury", "id": 701, "chat_link": null}, {"name": "Deceptive Evasion", "id": 704, "chat_link": null}, {"name": "Desperate Decoy", "id": 705, "chat_link": null}, {"name": "Critical Infusion", "id": 706, "chat_link": null}, {"name": "Master Fencer", "id": 707, "chat_link": null}, {"name": "Fencer's Finesse", "id": 708, "chat_link": null}, {"name": "Sharper Images", "id": 710, "chat_link": null}, {"name": "Furious Interruption", "id": 712, "chat_link": null}, {"name": "Egotism", "id": 713, "chat_link": null}, {"name": "Shatter Storm", "id": 721, "chat_link": null}, {"name": "Escape Artist", "id": 722, "chat_link": null}, {"name": "Compounding Power", "id": 723, "chat_link": null}, {"name": "Phantasmal Haste", "id": 729, "chat_link": null}, {"name": "Master of Misdirection", "id": 731, "chat_link": null}, {"name": "Phantasmal Force", "id": 733, "chat_link": null}, {"name": "Cry of Pain", "id": 734, "chat_link": null}, {"name": "Restorative Mantras", "id": 738, "chat_link": null}, {"name": "Restorative Illusions", "id": 740, "chat_link": null}, {"name": "Sympathetic Visage", "id": 744, "chat_link": null}, {"name": "Warden's Feedback", "id": 751, "chat_link": null}, {"name": "Blurred Inscriptions", "id": 752, "chat_link": null}, {"name": "Malicious Sorcery", "id": 753, "chat_link": null}, {"name": "Medic's Feedback", "id": 756, "chat_link": null}, {"name": "Mender's Purity", "id": 757, "chat_link": null}, {"name": "Transfusion", "id": 778, "chat_link": null}, {"name": "Ritual of Life", "id": 780, "chat_link": null}, {"name": "Blood Bank", "id": 782, "chat_link": null}, {"name": "Vampiric", "id": 783, "chat_link": null}, {"name": "Quickening Thirst", "id": 788, "chat_link": null}, {"name": "Life from Death", "id": 789, "chat_link": null}, {"name": "Mark of Evasion", "id": 792, "chat_link": null}, {"name": "Banshee's Wail", "id": 799, "chat_link": null}, {"name": "Lingering Curse", "id": 801, "chat_link": null}, {"name": "Barbed Precision", "id": 802, "chat_link": null}, {"name": "Furious Demise", "id": 803, "chat_link": null}, {"name": "Target the Weak", "id": 810, "chat_link": null}, {"name": "Terror", "id": 812, "chat_link": null}, {"name": "Weakening Shroud", "id": 813, "chat_link": null}, {"name": "Chilling Darkness", "id": 815, "chat_link": null}, {"name": "Master of Corruption", "id": 816, "chat_link": null}, {"name": "Flesh of the Master", "id": 820, "chat_link": null}, {"name": "Awaken the Pain", "id": 829, "chat_link": null}, {"name": "Soul Comprehension", "id": 839, "chat_link": null}, {"name": "Death Nova", "id": 842, "chat_link": null}, {"name": "Close to Death", "id": 853, "chat_link": null}, {"name": "Deadly Strength", "id": 855, "chat_link": null}, {"name": "Armored Shroud", "id": 856, "chat_link": null}, {"name": "Putrid Defense", "id": 857, "chat_link": null}, {"name": "Necromantic Corruption", "id": 858, "chat_link": null}, {"name": "Dark Defiance", "id": 860, "chat_link": null}, {"name": "Vital Persistence", "id": 861, "chat_link": null}, {"name": "Soul Battery", "id": 874, "chat_link": null}, {"name": "Unyielding Blast", "id": 875, "chat_link": null}, {"name": "Gluttony", "id": 887, "chat_link": null}, {"name": "Speed of Shadows", "id": 888, "chat_link": null}, {"name": "Eternal Life", "id": 889, "chat_link": null}, {"name": "Sinister Shroud", "id": 891, "chat_link": null}, {"name": "Fear of Death", "id": 892, "chat_link": null}, {"name": "Death Perception", "id": 893, "chat_link": null}, {"name": "Soul Barbs", "id": 894, "chat_link": null}, {"name": "Soul Marks", "id": 898, "chat_link": null}, {"name": "Chill of Death", "id": 899, "chat_link": null}, {"name": "Spiteful Spirit", "id": 903, "chat_link": null}, {"name": "Dhuumfire", "id": 905, "chat_link": null}, {"name": "Signets of Suffering", "id": 909, "chat_link": null}, {"name": "Reaper's Might", "id": 913, "chat_link": null}, {"name": "Spiteful Talisman", "id": 914, "chat_link": null}, {"name": "Death's Embrace", "id": 915, "chat_link": null}, {"name": "Spiteful Renewal", "id": 916, "chat_link": null}, {"name": "Siphoned Power", "id": 917, "chat_link": null}, {"name": "Dread", "id": 919, "chat_link": null}, {"name": "Windborne Notes", "id": 964, "chat_link": null}, {"name": "Spirited Arrival", "id": 965, "chat_link": null}, {"name": "Zephyr's Speed", "id": 968, "chat_link": null}, {"name": "Natural Healing", "id": 970, "chat_link": null}, {"name": "Loud Whistle", "id": 974, "chat_link": null}, {"name": "Wilting Strike", "id": 975, "chat_link": null}, {"name": "Instinctive Reaction", "id": 978, "chat_link": null}, {"name": "Clarion Bond", "id": 986, "chat_link": null}, {"name": "Predator's Onslaught", "id": 996, "chat_link": null}, {"name": "Farsighted", "id": 1000, "chat_link": null}, {"name": "Brutish Seals", "id": 1001, "chat_link": null}, {"name": "Alpha Focus", "id": 1009, "chat_link": null}, {"name": "Opening Strike", "id": 1010, "chat_link": null}, {"name": "Precise Strike", "id": 1011, "chat_link": null}, {"name": "Hunter's Gaze", "id": 1014, "chat_link": null}, {"name": "Remorseless", "id": 1015, "chat_link": null}, {"name": "Spotter", "id": 1016, "chat_link": null}, {"name": "Stoneform", "id": 1021, "chat_link": null}, {"name": "Nature's Vengeance", "id": 1038, "chat_link": null}, {"name": "Two-Handed Training", "id": 1047, "chat_link": null}, {"name": "Evasive Purity", "id": 1054, "chat_link": null}, {"name": "Rejuvenation", "id": 1055, "chat_link": null}, {"name": "Fortifying Bond", "id": 1056, "chat_link": null}, {"name": "Lingering Magic", "id": 1059, "chat_link": null}, {"name": "Allies' Aid", "id": 1060, "chat_link": null}, {"name": "Bountiful Hunter", "id": 1062, "chat_link": null}, {"name": "Quick Draw", "id": 1064, "chat_link": null}, {"name": "Pet's Prowess", "id": 1065, "chat_link": null}, {"name": "Honed Axes", "id": 1066, "chat_link": null}, {"name": "Primal Reflexes", "id": 1067, "chat_link": null}, {"name": "Hunter's Tactics", "id": 1068, "chat_link": null}, {"name": "Sharpened Edges", "id": 1069, "chat_link": null}, {"name": "Moment of Clarity", "id": 1070, "chat_link": null}, {"name": "Potent Ally", "id": 1072, "chat_link": null}, {"name": "Trapper's Expertise", "id": 1075, "chat_link": null}, {"name": "Tail Wind", "id": 1080, "chat_link": null}, {"name": "Furious Grip", "id": 1083, "chat_link": null}, {"name": "Oakheart Salve", "id": 1086, "chat_link": null}, {"name": "Rugged Growth", "id": 1089, "chat_link": null}, {"name": "Companion's Defense", "id": 1090, "chat_link": null}, {"name": "Empathic Bond", "id": 1094, "chat_link": null}, {"name": "Natural Vigor", "id": 1096, "chat_link": null}, {"name": "Child of Earth", "id": 1098, "chat_link": null}, {"name": "Taste for Danger", "id": 1099, "chat_link": null}, {"name": "Shared Anguish", "id": 1100, "chat_link": null}, {"name": "Ambidexterity", "id": 1101, "chat_link": null}, {"name": "Instant Reflexes", "id": 1112, "chat_link": null}, {"name": "Leeching Venoms", "id": 1130, "chat_link": null}, {"name": "Cover of Shadow", "id": 1134, "chat_link": null}, {"name": "Shadow's Rejuvenation", "id": 1135, "chat_link": null}, {"name": "Meld with Shadows", "id": 1136, "chat_link": null}, {"name": "Kleptomaniac", "id": 1137, "chat_link": null}, {"name": "Lead Attacks", "id": 1157, "chat_link": null}, {"name": "Sleight of Hand", "id": 1158, "chat_link": null}, {"name": "Uncatchable", "id": 1159, "chat_link": null}, {"name": "Shielding Restoration", "id": 1160, "chat_link": null}, {"name": "Rending Shade", "id": 1162, "chat_link": null}, {"name": "Thrill of the Crime", "id": 1163, "chat_link": null}, {"name": "Deadly Ambition", "id": 1164, "chat_link": null}, {"name": "Improvisation", "id": 1167, "chat_link": null}, {"name": "Even the Odds", "id": 1169, "chat_link": null}, {"name": "Sundering Shade", "id": 1170, "chat_link": null}, {"name": "Quick Pockets", "id": 1187, "chat_link": null}, {"name": "Pressure Striking", "id": 1190, "chat_link": null}, {"name": "Swindler's Equilibrium", "id": 1192, "chat_link": null}, {"name": "Assassin's Fury", "id": 1209, "chat_link": null}, {"name": "Unrelenting Strikes", "id": 1210, "chat_link": null}, {"name": "Hidden Killer", "id": 1215, "chat_link": null}, {"name": "Preparedness", "id": 1232, "chat_link": null}, {"name": "Feline Grace", "id": 1234, "chat_link": null}, {"name": "Pain Response", "id": 1237, "chat_link": null}, {"name": "Assassin's Reward", "id": 1238, "chat_link": null}, {"name": "Expeditious Dodger", "id": 1240, "chat_link": null}, {"name": "Guarded Initiation", "id": 1241, "chat_link": null}, {"name": "Endless Stamina", "id": 1242, "chat_link": null}, {"name": "Dagger Training", "id": 1245, "chat_link": null}, {"name": "Burst of Agility", "id": 1252, "chat_link": null}, {"name": "Exposed Weakness", "id": 1257, "chat_link": null}, {"name": "Signets of Power", "id": 1267, "chat_link": null}, {"name": "Twin Fangs", "id": 1268, "chat_link": null}, {"name": "Executioner", "id": 1269, "chat_link": null}, {"name": "Practiced Tolerance", "id": 1272, "chat_link": null}, {"name": "Mug", "id": 1276, "chat_link": null}, {"name": "Bountiful Theft", "id": 1277, "chat_link": null}, {"name": "Serpent's Touch", "id": 1279, "chat_link": null}, {"name": "Lotus Poison", "id": 1280, "chat_link": null}, {"name": "Keen Observer", "id": 1281, "chat_link": null}, {"name": "Ferocious Strikes", "id": 1282, "chat_link": null}, {"name": "Hidden Thief", "id": 1284, "chat_link": null}, {"name": "Trickster", "id": 1286, "chat_link": null}, {"name": "Vigorous Recovery", "id": 1289, "chat_link": null}, {"name": "Hard to Catch", "id": 1290, "chat_link": null}, {"name": "Potent Poison", "id": 1291, "chat_link": null}, {"name": "Panic Strike", "id": 1292, "chat_link": null}, {"name": "Shadow's Embrace", "id": 1293, "chat_link": null}, {"name": "Merciful Ambush", "id": 1294, "chat_link": null}, {"name": "Upper Hand", "id": 1295, "chat_link": null}, {"name": "Shadow Savior", "id": 1297, "chat_link": null}, {"name": "Deadly Aim", "id": 1299, "chat_link": null}, {"name": "Cloaked in Shadow", "id": 1300, "chat_link": null}, {"name": "Unsuspecting Foe", "id": 1315, "chat_link": null}, {"name": "Sundering Burst", "id": 1316, "chat_link": null}, {"name": "Heightened Focus", "id": 1317, "chat_link": null}, {"name": "Crack Shot", "id": 1329, "chat_link": null}, {"name": "Blademaster", "id": 1333, "chat_link": null}, {"name": "Opportunist", "id": 1334, "chat_link": null}, {"name": "Burst Precision", "id": 1336, "chat_link": null}, {"name": "Bloodlust", "id": 1337, "chat_link": null}, {"name": "Forceful Greatsword", "id": 1338, "chat_link": null}, {"name": "Furious Burst", "id": 1342, "chat_link": null}, {"name": "Deep Strikes", "id": 1343, "chat_link": null}, {"name": "Signet Mastery", "id": 1344, "chat_link": null}, {"name": "Furious", "id": 1346, "chat_link": null}, {"name": "Adrenal Health", "id": 1348, "chat_link": null}, {"name": "Thick Skin", "id": 1350, "chat_link": null}, {"name": "Merciless Hammer", "id": 1367, "chat_link": null}, {"name": "Defy Pain", "id": 1368, "chat_link": null}, {"name": "Axe Mastery", "id": 1369, "chat_link": null}, {"name": "Cull the Weak", "id": 1372, "chat_link": null}, {"name": "Last Stand", "id": 1375, "chat_link": null}, {"name": "Shield Master", "id": 1376, "chat_link": null}, {"name": "Resilient Roll", "id": 1379, "chat_link": null}, {"name": "Hardened Armor", "id": 1380, "chat_link": null}, {"name": "Vengeful Return", "id": 1381, "chat_link": null}, {"name": "Warrior's Sprint", "id": 1413, "chat_link": null}, {"name": "Versatile Rage", "id": 1415, "chat_link": null}, {"name": "Fast Hands", "id": 1416, "chat_link": null}, {"name": "Versatile Power", "id": 1417, "chat_link": null}, {"name": "Berserker's Power", "id": 1437, "chat_link": null}, {"name": "Aggressive Onslaught", "id": 1440, "chat_link": null}, {"name": "Peak Performance", "id": 1444, "chat_link": null}, {"name": "Reckless Dodge", "id": 1446, "chat_link": null}, {"name": "Brave Stride", "id": 1447, "chat_link": null}, {"name": "Building Momentum", "id": 1448, "chat_link": null}, {"name": "Great Fortitude", "id": 1449, "chat_link": null}, {"name": "Restorative Strength", "id": 1451, "chat_link": null}, {"name": "Pinnacle of Strength", "id": 1453, "chat_link": null}, {"name": "Might Makes Right", "id": 1454, "chat_link": null}, {"name": "Wounding Precision", "id": 1455, "chat_link": null}, {"name": "Leg Specialist", "id": 1469, "chat_link": null}, {"name": "Vigorous Shouts", "id": 1470, "chat_link": null}, {"name": "Roaring Reveille", "id": 1471, "chat_link": null}, {"name": "Soldier's Comfort", "id": 1474, "chat_link": null}, {"name": "Shrug It Off", "id": 1479, "chat_link": null}, {"name": "Marching Orders", "id": 1480, "chat_link": null}, {"name": "Mending Might", "id": 1481, "chat_link": null}, {"name": "Empower Allies", "id": 1482, "chat_link": null}, {"name": "Doubled Standards", "id": 1484, "chat_link": null}, {"name": "Empowered", "id": 1485, "chat_link": null}, {"name": "Warrior's Cunning", "id": 1486, "chat_link": null}, {"name": "Arcane Restoration", "id": 1487, "chat_link": null}, {"name": "Dogged March", "id": 1488, "chat_link": null}, {"name": "Destruction of the Empowered", "id": 1489, "chat_link": null}, {"name": "Stormsoul", "id": 1502, "chat_link": null}, {"name": "Fresh Air", "id": 1503, "chat_link": null}, {"name": "Serrated Stones", "id": 1507, "chat_link": null}, {"name": "Diamond Skin", "id": 1508, "chat_link": null}, {"name": "Persisting Flames", "id": 1510, "chat_link": null}, {"name": "Bountiful Power", "id": 1511, "chat_link": null}, {"name": "Flashbang", "id": 1541, "chat_link": null}, {"name": "Kindled Zeal", "id": 1556, "chat_link": null}, {"name": "Resounding Timbre", "id": 1606, "chat_link": null}, {"name": "Cleansing Ire", "id": 1649, "chat_link": null}, {"name": "Burst Mastery", "id": 1657, "chat_link": null}, {"name": "Martial Cadence", "id": 1667, "chat_link": null}, {"name": "Lightning Rod", "id": 1672, "chat_link": null}, {"name": "Elemental Lockdown", "id": 1673, "chat_link": null}, {"name": "Stone Heart", "id": 1674, "chat_link": null}, {"name": "Blinding Ashes", "id": 1675, "chat_link": null}, {"name": "Aquamancer's Training", "id": 1676, "chat_link": null}, {"name": "Experimental Turrets", "id": 1678, "chat_link": null}, {"name": "Gadgeteer", "id": 1679, "chat_link": null}, {"name": "Bunker Down", "id": 1680, "chat_link": null}, {"name": "Force of Will", "id": 1682, "chat_link": null}, {"name": "Righteous Instincts", "id": 1683, "chat_link": null}, {"name": "Communal Defenses", "id": 1684, "chat_link": null}, {"name": "Purity of Body", "id": 1685, "chat_link": null}, {"name": "Amplified Wrath", "id": 1686, "chat_link": null}, {"name": "Bountiful Disillusionment", "id": 1687, "chat_link": null}, {"name": "Power Block", "id": 1688, "chat_link": null}, {"name": "Maim the Disillusioned", "id": 1690, "chat_link": null}, {"name": "Unholy Martyr", "id": 1692, "chat_link": null}, {"name": "Path of Corruption", "id": 1693, "chat_link": null}, {"name": "Unholy Sanctuary", "id": 1694, "chat_link": null}, {"name": "Parasitic Contagion", "id": 1696, "chat_link": null}, {"name": "Invigorating Bond", "id": 1697, "chat_link": null}, {"name": "Lead the Wind", "id": 1698, "chat_link": null}, {"name": "Wilderness Knowledge", "id": 1699, "chat_link": null}, {"name": "Strider's Defense", "id": 1700, "chat_link": null}, {"name": "Poison Master", "id": 1701, "chat_link": null}, {"name": "Invigorating Precision", "id": 1702, "chat_link": null}, {"name": "Don't Stop", "id": 1703, "chat_link": null}, {"name": "Revealed Training", "id": 1704, "chat_link": null}, {"name": "Shadow Siphoning", "id": 1705, "chat_link": null}, {"name": "Deadly Ambush", "id": 1706, "chat_link": null}, {"name": "Dual Wielding", "id": 1707, "chat_link": null}, {"name": "Stalwart Strength", "id": 1708, "chat_link": null}, {"name": "Brawler's Recovery", "id": 1709, "chat_link": null}, {"name": "Phalanx Strength", "id": 1711, "chat_link": null}, {"name": "Determined Resolution", "id": 1713, "chat_link": null}, {"name": "Pact of Pain", "id": 1714, "chat_link": null}, {"name": "Brutality", "id": 1715, "chat_link": null}, {"name": "Rising Momentum", "id": 1716, "chat_link": null}, {"name": "Roiling Mists", "id": 1719, "chat_link": null}, {"name": "Fiendish Tenacity", "id": 1720, "chat_link": null}, {"name": "Permeating Pestilence", "id": 1721, "chat_link": null}, {"name": "Destructive Impulses", "id": 1724, "chat_link": null}, {"name": "Demonic Resistance", "id": 1726, "chat_link": null}, {"name": "Abyssal Chill", "id": 1727, "chat_link": null}, {"name": "Close Quarters", "id": 1728, "chat_link": null}, {"name": "Hardening Persistence", "id": 1730, "chat_link": null}, {"name": "Cleansing Channel", "id": 1732, "chat_link": null}, {"name": "Draconic Fortitude", "id": 1737, "chat_link": null}, {"name": "Shared Empowerment", "id": 1738, "chat_link": null}, {"name": "Dwarven Battle Training", "id": 1740, "chat_link": null}, {"name": "Replenishing Despair", "id": 1741, "chat_link": null}, {"name": "Shining Aspects", "id": 1743, "chat_link": null}, {"name": "Yearning Empowerment", "id": 1744, "chat_link": null}, {"name": "Elevated Compassion", "id": 1746, "chat_link": null}, {"name": "Song of the Mists", "id": 1749, "chat_link": null}, {"name": "Dance of Death", "id": 1754, "chat_link": null}, {"name": "Battle Scarred", "id": 1755, "chat_link": null}, {"name": "Unwavering Avoidance", "id": 1757, "chat_link": null}, {"name": "Ferocious Aggression", "id": 1758, "chat_link": null}, {"name": "Rapid Flow", "id": 1760, "chat_link": null}, {"name": "Rising Tide", "id": 1761, "chat_link": null}, {"name": "Notoriety", "id": 1765, "chat_link": null}, {"name": "Eye for an Eye", "id": 1766, "chat_link": null}, {"name": "Unsuspecting Strikes", "id": 1767, "chat_link": null}, {"name": "Contained Temper", "id": 1769, "chat_link": null}, {"name": "Versed in Stone", "id": 1770, "chat_link": null}, {"name": "Draconic Echo", "id": 1772, "chat_link": null}, {"name": "Spirit Boon", "id": 1774, "chat_link": null}, {"name": "Aggressive Agility", "id": 1776, "chat_link": null}, {"name": "Crystal Harbinger", "id": 1777, "chat_link": null}, {"name": "Invoker's Rage", "id": 1778, "chat_link": null}, {"name": "Vicious Reprisal", "id": 1779, "chat_link": null}, {"name": "Incensed Response", "id": 1781, "chat_link": null}, {"name": "Resolute Evasion", "id": 1782, "chat_link": null}, {"name": "Enduring Recovery", "id": 1783, "chat_link": null}, {"name": "Glaring Resolve", "id": 1784, "chat_link": null}, {"name": "Assassin's Presence", "id": 1786, "chat_link": null}, {"name": "Reinforced Potency", "id": 1788, "chat_link": null}, {"name": "Demonic Defiance", "id": 1789, "chat_link": null}, {"name": "Steadfast Rejuvenation", "id": 1790, "chat_link": null}, {"name": "Charged Mists", "id": 1791, "chat_link": null}, {"name": "Targeted Destruction", "id": 1792, "chat_link": null}, {"name": "Acolyte of Torment", "id": 1793, "chat_link": null}, {"name": "Diabolic Inferno", "id": 1795, "chat_link": null}, {"name": "Invoking Torment", "id": 1799, "chat_link": null}, {"name": "Swift Termination", "id": 1800, "chat_link": null}, {"name": "Seething Malice", "id": 1801, "chat_link": null}, {"name": "Thrill of Combat", "id": 1802, "chat_link": null}, {"name": "Forceful Persistence", "id": 1803, "chat_link": null}, {"name": "Core Value", "id": 1806, "chat_link": null}, {"name": "Expose Defenses", "id": 1808, "chat_link": null}, {"name": "Spiritual Reckoning", "id": 1810, "chat_link": null}, {"name": "Planar Protection", "id": 1811, "chat_link": null}, {"name": "Elder's Respite", "id": 1813, "chat_link": null}, {"name": "Serene Rejuvenation", "id": 1814, "chat_link": null}, {"name": "Generous Abundance", "id": 1815, "chat_link": null}, {"name": "Healer's Gift", "id": 1816, "chat_link": null}, {"name": "Resilient Spirit", "id": 1817, "chat_link": null}, {"name": "Fortified Blessing", "id": 1818, "chat_link": null}, {"name": "Words of Censure", "id": 1819, "chat_link": null}, {"name": "Invigorating Dismissal", "id": 1820, "chat_link": null}, {"name": "Life Attunement", "id": 1821, "chat_link": null}, {"name": "Eluding Nullification", "id": 1822, "chat_link": null}, {"name": "Invoking Harmony", "id": 1823, "chat_link": null}, {"name": "Blinding Truths", "id": 1824, "chat_link": null}, {"name": "Unyielding Devotion", "id": 1825, "chat_link": null}, {"name": "Longbow Proficiency", "id": 1826, "chat_link": null}, {"name": "Torch Proficiency", "id": 1829, "chat_link": null}, {"name": "Primal Rage", "id": 1831, "chat_link": null}, {"name": "Takedown Round", "id": 1832, "chat_link": null}, {"name": "Lotus Training", "id": 1833, "chat_link": null}, {"name": "Soothing Detonation", "id": 1834, "chat_link": null}, {"name": "Zealot's Aggression", "id": 1835, "chat_link": null}, {"name": "Endurance Thief", "id": 1837, "chat_link": null}, {"name": "Delayed Reactions", "id": 1838, "chat_link": null}, {"name": "Transcendent Tempest", "id": 1839, "chat_link": null}, {"name": "Vampiric Presence", "id": 1844, "chat_link": null}, {"name": "Hidden Barbs", "id": 1846, "chat_link": null}, {"name": "Virtuous Action", "id": 1848, "chat_link": null}, {"name": "Applied Force", "id": 1849, "chat_link": null}, {"name": "Inspiring Distortion", "id": 1852, "chat_link": null}, {"name": "Iron Blooded", "id": 1854, "chat_link": null}, {"name": "Kinetic Battery", "id": 1856, "chat_link": null}, {"name": "Time Marches On", "id": 1859, "chat_link": null}, {"name": "Object in Motion", "id": 1860, "chat_link": null}, {"name": "Go for the Eyes", "id": 1861, "chat_link": null}, {"name": "Live Vicariously", "id": 1862, "chat_link": null}, {"name": "Bitter Chill", "id": 1863, "chat_link": null}, {"name": "Chaotic Persistence", "id": 1865, "chat_link": null}, {"name": "Illusionary Inspiration", "id": 1866, "chat_link": null}, {"name": "Mass Momentum", "id": 1867, "chat_link": null}, {"name": "Druidic Clarity", "id": 1868, "chat_link": null}, {"name": "Persistence of Memory", "id": 1869, "chat_link": null}, {"name": "Purity of Purpose", "id": 1871, "chat_link": null}, {"name": "Mechanized Deployment", "id": 1872, "chat_link": null}, {"name": "Celestial Being", "id": 1874, "chat_link": null}, {"name": "Blood Bond", "id": 1876, "chat_link": null}, {"name": "Impact Savant", "id": 1877, "chat_link": null}, {"name": "Chemical Rounds", "id": 1878, "chat_link": null}, {"name": "Shivers of Dread", "id": 1879, "chat_link": null}, {"name": "Glass Cannon", "id": 1882, "chat_link": null}, {"name": "Insidious Disruption", "id": 1883, "chat_link": null}, {"name": "Staff Master", "id": 1884, "chat_link": null}, {"name": "Unstable Conduit", "id": 1886, "chat_link": null}, {"name": "Weakening Strikes", "id": 1887, "chat_link": null}, {"name": "Vicious Quarry", "id": 1888, "chat_link": null}, {"name": "Blinding Dissipation", "id": 1889, "chat_link": null}, {"name": "Chronophantasma", "id": 1890, "chat_link": null}, {"name": "Tempestuous Aria", "id": 1891, "chat_link": null}, {"name": "Explosive Temper", "id": 1892, "chat_link": null}, {"name": "Havoc Specialist", "id": 1893, "chat_link": null}, {"name": "Defender's Dogma", "id": 1896, "chat_link": null}, {"name": "Piercing Light", "id": 1898, "chat_link": null}, {"name": "Invigorated Bulwark", "id": 1899, "chat_link": null}, {"name": "Pack Alpha", "id": 1900, "chat_link": null}, {"name": "Automated Medical Response", "id": 1901, "chat_link": null}, {"name": "Harmonious Conduit", "id": 1902, "chat_link": null}, {"name": "No Quarter", "id": 1904, "chat_link": null}, {"name": "Shroud Knight", "id": 1905, "chat_link": null}, {"name": "Hunter's Fortification", "id": 1908, "chat_link": null}, {"name": "Shield Proficiency", "id": 1910, "chat_link": null}, {"name": "Soaring Devastation", "id": 1911, "chat_link": null}, {"name": "Light on your Feet", "id": 1912, "chat_link": null}, {"name": "Illusionary Reversion", "id": 1913, "chat_link": null}, {"name": "High Caliber", "id": 1914, "chat_link": null}, {"name": "Healing Prism", "id": 1915, "chat_link": null}, {"name": "Medical Dispersion Field", "id": 1916, "chat_link": null}, {"name": "Gyroscopic Acceleration", "id": 1917, "chat_link": null}, {"name": "Deathly Chill", "id": 1919, "chat_link": null}, {"name": "Shrouded Removal", "id": 1922, "chat_link": null}, {"name": "No Scope", "id": 1923, "chat_link": null}, {"name": "Zealous Scepter", "id": 1925, "chat_link": null}, {"name": "Pure of Sight", "id": 1926, "chat_link": null}, {"name": "Flow of Time", "id": 1927, "chat_link": null}, {"name": "Bloody Roar", "id": 1928, "chat_link": null}, {"name": "Beyond the Veil", "id": 1929, "chat_link": null}, {"name": "Sanguine Array", "id": 1930, "chat_link": null}, {"name": "Last Rites", "id": 1931, "chat_link": null}, {"name": "Blighter's Boon", "id": 1932, "chat_link": null}, {"name": "Marauder's Resilience", "id": 1933, "chat_link": null}, {"name": "Primal Echoes", "id": 1935, "chat_link": null}, {"name": "Excessive Energy", "id": 1936, "chat_link": null}, {"name": "Gathered Focus", "id": 1938, "chat_link": null}, {"name": "Corrupter's Fervor", "id": 1940, "chat_link": null}, {"name": "Fragility", "id": 1941, "chat_link": null}, {"name": "Stretched Time", "id": 1942, "chat_link": null}, {"name": "Bulwark", "id": 1943, "chat_link": null}, {"name": "Blast Shield", "id": 1944, "chat_link": null}, {"name": "Beastly Warden", "id": 1945, "chat_link": null}, {"name": "Lock On", "id": 1946, "chat_link": null}, {"name": "Big Boomer", "id": 1947, "chat_link": null}, {"name": "Hardy Conduit", "id": 1948, "chat_link": null}, {"name": "Brawler's Tenacity", "id": 1949, "chat_link": null}, {"name": "Ineptitude", "id": 1950, "chat_link": null}, {"name": "Hammer Proficiency", "id": 1951, "chat_link": null}, {"name": "Gale Song", "id": 1952, "chat_link": null}, {"name": "Damage Dampener", "id": 1954, "chat_link": null}, {"name": "Big Game Hunter", "id": 1955, "chat_link": null}, {"name": "Staff Proficiency", "id": 1957, "chat_link": null}, {"name": "Function Gyro", "id": 1959, "chat_link": null}, {"name": "Evasive Mirror", "id": 1960, "chat_link": null}, {"name": "Latent Stamina", "id": 1962, "chat_link": null}, {"name": "Heavy Light", "id": 1963, "chat_link": null}, {"name": "Unhindered Combatant", "id": 1964, "chat_link": null}, {"name": "Staff Proficiency", "id": 1965, "chat_link": null}, {"name": "Soul Eater", "id": 1969, "chat_link": null}, {"name": "System Shocker", "id": 1971, "chat_link": null}, {"name": "Augury of Death", "id": 1974, "chat_link": null}, {"name": "Impacting Disruption", "id": 1975, "chat_link": null}, {"name": "Savage Instinct", "id": 1977, "chat_link": null}, {"name": "Improved Alacrity", "id": 1978, "chat_link": null}, {"name": "Optimized Activation", "id": 1979, "chat_link": null}, {"name": "Protected Phantasms", "id": 1980, "chat_link": null}, {"name": "Adaptive Armor", "id": 1981, "chat_link": null}, {"name": "Dulled Senses", "id": 1983, "chat_link": null}, {"name": "Pinpoint Distribution", "id": 1984, "chat_link": null}, {"name": "Greatsword Proficiency", "id": 1985, "chat_link": null}, {"name": "Elemental Bastion", "id": 1986, "chat_link": null}, {"name": "All's Well That Ends Well", "id": 1987, "chat_link": null}, {"name": "Protective Ward", "id": 1988, "chat_link": null}, {"name": "Natural Mender", "id": 1992, "chat_link": null}, {"name": "Burst of Aggression", "id": 1993, "chat_link": null}, {"name": "Physical Supremacy", "id": 1994, "chat_link": null}, {"name": "Time Catches Up", "id": 1995, "chat_link": null}, {"name": "Reactive Lenses", "id": 1997, "chat_link": null}, {"name": "Expert Examination", "id": 1999, "chat_link": null}, {"name": "Body Blow", "id": 2000, "chat_link": null}, {"name": "Verdant Etching", "id": 2001, "chat_link": null}, {"name": "Dead or Alive", "id": 2002, "chat_link": null}, {"name": "Elemental Enchantment", "id": 2004, "chat_link": null}, {"name": "Mental Defense", "id": 2005, "chat_link": null}, {"name": "Thermal Vision", "id": 2006, "chat_link": null}, {"name": "Chilling Victory", "id": 2008, "chat_link": null}, {"name": "Danger Time", "id": 2009, "chat_link": null}, {"name": "Blood Reaction", "id": 2011, "chat_link": null}, {"name": "Plague Sending", "id": 2013, "chat_link": null}, {"name": "Speed of Synergy", "id": 2014, "chat_link": null}, {"name": "Invigorating Torrents", "id": 2015, "chat_link": null}, {"name": "Cultivated Synergy", "id": 2016, "chat_link": null}, {"name": "Symbolic Avenger", "id": 2017, "chat_link": null}, {"name": "Cold Shoulder", "id": 2018, "chat_link": null}, {"name": "Chilling Nova", "id": 2020, "chat_link": null}, {"name": "Reaper's Onslaught", "id": 2021, "chat_link": null}, {"name": "Seize the Moment", "id": 2022, "chat_link": null}, {"name": "Escapist's Fortitude", "id": 2023, "chat_link": null}, {"name": "Singularity", "id": 2025, "chat_link": null}, {"name": "Relentless Pursuit", "id": 2026, "chat_link": null}, {"name": "Soothing Power", "id": 2028, "chat_link": null}, {"name": "Time Splitter", "id": 2030, "chat_link": null}, {"name": "Decimate Defenses", "id": 2031, "chat_link": null}, {"name": "Refined Toxins", "id": 2032, "chat_link": null}, {"name": "Lucid Singularity", "id": 2033, "chat_link": null}, {"name": "Master of Fragmentation", "id": 2035, "chat_link": null}, {"name": "Warhorn Proficiency", "id": 2036, "chat_link": null}, {"name": "Hunter's Determination", "id": 2037, "chat_link": null}, {"name": "King of Fires", "id": 2038, "chat_link": null}, {"name": "Last Blaze", "id": 2039, "chat_link": null}, {"name": "Heat the Soul", "id": 2042, "chat_link": null}, {"name": "Eternal Champion", "id": 2043, "chat_link": null}, {"name": "Fatal Frenzy", "id": 2046, "chat_link": null}, {"name": "Bounding Dodger", "id": 2047, "chat_link": null}, {"name": "Smash Brawler", "id": 2049, "chat_link": null}, {"name": "Shield Proficiency", "id": 2050, "chat_link": null}, {"name": "Kinetic Accelerators", "id": 2052, "chat_link": null}, {"name": "Celestial Shadow", "id": 2053, "chat_link": null}, {"name": "Ancient Seeds", "id": 2055, "chat_link": null}, {"name": "Natural Stride", "id": 2056, "chat_link": null}, {"name": "Grace of the Land", "id": 2057, "chat_link": null}, {"name": "Lingering Light", "id": 2058, "chat_link": null}, {"name": "Desert Empowerment", "id": 2059, "chat_link": null}, {"name": "Magebane Tether", "id": 2060, "chat_link": null}, {"name": "Swift Revenge", "id": 2061, "chat_link": null}, {"name": "Swift Scholar", "id": 2062, "chat_link": null}, {"name": "Weighty Terms", "id": 2063, "chat_link": null}, {"name": "Photonic Blasting Module", "id": 2064, "chat_link": null}, {"name": "Thermal Release Valve", "id": 2066, "chat_link": null}, {"name": "Sadistic Searing", "id": 2067, "chat_link": null}, {"name": "Nomad's Endurance", "id": 2069, "chat_link": null}, {"name": "Infinite Horizon", "id": 2070, "chat_link": null}, {"name": "Live Fast", "id": 2071, "chat_link": null}, {"name": "Unstoppable Union", "id": 2072, "chat_link": null}, {"name": "Axe Proficiency", "id": 2073, "chat_link": null}, {"name": "Fell Beacon", "id": 2074, "chat_link": null}, {"name": "Unrelenting Criticism", "id": 2075, "chat_link": null}, {"name": "Stalwart Speed", "id": 2076, "chat_link": null}, {"name": "Elemental Refreshment", "id": 2077, "chat_link": null}, {"name": "Payback", "id": 2078, "chat_link": null}, {"name": "Blood Fury", "id": 2079, "chat_link": null}, {"name": "Feed from Corruption", "id": 2080, "chat_link": null}, {"name": "Elemental Polyphony", "id": 2081, "chat_link": null}, {"name": "Renewing Oasis", "id": 2082, "chat_link": null}, {"name": "Iron Sight", "id": 2084, "chat_link": null}, {"name": "Essence of Speed", "id": 2085, "chat_link": null}, {"name": "Archivist of Whispers", "id": 2086, "chat_link": null}, {"name": "Axe Proficiency", "id": 2087, "chat_link": null}, {"name": "Dagger Proficiency", "id": 2088, "chat_link": null}, {"name": "Purity of Word", "id": 2089, "chat_link": null}, {"name": "Woven Stride", "id": 2090, "chat_link": null}, {"name": "Crystal Configuration: Zephyr", "id": 2091, "chat_link": null}, {"name": "Heartpiercer", "id": 2092, "chat_link": null}, {"name": "Be Quick or Be Killed", "id": 2093, "chat_link": null}, {"name": "Vindication", "id": 2094, "chat_link": null}, {"name": "Sun and Moon Style", "id": 2095, "chat_link": null}, {"name": "Blood as Sand", "id": 2096, "chat_link": null}, {"name": "Slow Counter", "id": 2097, "chat_link": null}, {"name": "Mirrored Axes", "id": 2098, "chat_link": null}, {"name": "Short Bow Proficiency", "id": 2099, "chat_link": null}, {"name": "Lasting Legacy", "id": 2100, "chat_link": null}, {"name": "Liberator's Vow", "id": 2101, "chat_link": null}, {"name": "Nourishing Ashes", "id": 2102, "chat_link": null}, {"name": "Crystal Configuration: Storm", "id": 2103, "chat_link": null}, {"name": "Stoic Demeanor", "id": 2105, "chat_link": null}, {"name": "Solar Focusing Lens", "id": 2106, "chat_link": null}, {"name": "Pure Strike", "id": 2107, "chat_link": null}, {"name": "All for One", "id": 2108, "chat_link": null}, {"name": "Weaver", "id": 2109, "chat_link": null}, {"name": "Riddle of Sand", "id": 2110, "chat_link": null}, {"name": "Maleficent Seven", "id": 2111, "chat_link": null}, {"name": "Sand Savant", "id": 2112, "chat_link": null}, {"name": "Elusive Mind", "id": 2113, "chat_link": null}, {"name": "Light Density Amplifier", "id": 2114, "chat_link": null}, {"name": "Master's Fortitude", "id": 2115, "chat_link": null}, {"name": "Legendary Lore", "id": 2116, "chat_link": null}, {"name": "Speed of Sand", "id": 2117, "chat_link": null}, {"name": "Silent Scope", "id": 2118, "chat_link": null}, {"name": "Second Skin", "id": 2119, "chat_link": null}, {"name": "Wrought-Iron Will", "id": 2120, "chat_link": null}, {"name": "Sand Sage", "id": 2121, "chat_link": null}, {"name": "Laser's Edge", "id": 2122, "chat_link": null}, {"name": "Herald of Sorrow", "id": 2123, "chat_link": null}, {"name": "Dagger Proficiency", "id": 2124, "chat_link": null}, {"name": "Sword Proficiency", "id": 2125, "chat_link": null}, {"name": "Loss Aversion", "id": 2126, "chat_link": null}, {"name": "Twice as Vicious", "id": 2127, "chat_link": null}, {"name": "Leader of the Pack", "id": 2128, "chat_link": null}, {"name": "Rifle Proficiency", "id": 2129, "chat_link": null}, {"name": "Attacker's Insight", "id": 2130, "chat_link": null}, {"name": "Elements of Rage", "id": 2131, "chat_link": null}, {"name": "Bold Reversal", "id": 2133, "chat_link": null}, {"name": "Fresh Reinforcement", "id": 2134, "chat_link": null}, {"name": "Heat Therapy", "id": 2135, "chat_link": null}, {"name": "One in the Chamber", "id": 2136, "chat_link": null}, {"name": "Enhanced Capacity Storage Unit", "id": 2137, "chat_link": null}, {"name": "Invigorating Strikes", "id": 2138, "chat_link": null}, {"name": "No Escape", "id": 2140, "chat_link": null}, {"name": "Self-Deception", "id": 2141, "chat_link": null}, {"name": "Brutal Momentum", "id": 2142, "chat_link": null}, {"name": "Oppressive Superiority", "id": 2143, "chat_link": null}, {"name": "Torch Proficiency", "id": 2144, "chat_link": null}, {"name": "Malicious Intent", "id": 2145, "chat_link": null}, {"name": "Fire for Effect", "id": 2146, "chat_link": null}, {"name": "Mantle of Sand", "id": 2147, "chat_link": null}, {"name": "Imbued Haste", "id": 2148, "chat_link": null}, {"name": "Sword Proficiency", "id": 2149, "chat_link": null}, {"name": "Mirage Cloak", "id": 2150, "chat_link": null}, {"name": "Elevated Bond", "id": 2151, "chat_link": null}, {"name": "Crystal Configuration: Eclipse", "id": 2152, "chat_link": null}, {"name": "Guard Counter", "id": 2153, "chat_link": null}, {"name": "Endless Enmity", "id": 2154, "chat_link": null}, {"name": "Eternal Bond", "id": 2155, "chat_link": null}, {"name": "Furious Strength", "id": 2156, "chat_link": null}, {"name": "Prismatic Converter", "id": 2157, "chat_link": null}, {"name": "Photon Projector", "id": 2158, "chat_link": null}, {"name": "Loremaster", "id": 2159, "chat_link": null}, {"name": "Premeditation", "id": 2160, "chat_link": null}, {"name": "Predator's Cunning", "id": 2161, "chat_link": null}, {"name": "Dispelling Force", "id": 2162, "chat_link": null}, {"name": "Enchantment Collapse", "id": 2163, "chat_link": null}, {"name": "Demonic Lore", "id": 2164, "chat_link": null}, {"name": "Elemental Pursuit", "id": 2165, "chat_link": null}, {"name": "Ashen Demeanor", "id": 2166, "chat_link": null}, {"name": "Abrasive Grit", "id": 2167, "chat_link": null}, {"name": "Revenge Counter", "id": 2168, "chat_link": null}, {"name": "Dune Cloak", "id": 2169, "chat_link": null}, {"name": "Bolstered Elements", "id": 2170, "chat_link": null}, {"name": "Deadeye's Gaze", "id": 2171, "chat_link": null}, {"name": "Renewing Gaze", "id": 2172, "chat_link": null}, {"name": "Collateral Damage", "id": 2173, "chat_link": null}, {"name": "Mirage Mantle", "id": 2174, "chat_link": null}, {"name": "Spellbreaker's Conviction", "id": 2175, "chat_link": null}, {"name": "Superior Elements", "id": 2177, "chat_link": null}, {"name": "Desert Distortion", "id": 2178, "chat_link": null}, {"name": "Quickfire", "id": 2179, "chat_link": null}, {"name": "Weaver's Prowess", "id": 2180, "chat_link": null}, {"name": "Ambush Commander", "id": 2181, "chat_link": null}, {"name": "Righteous Rebel", "id": 2182, "chat_link": null}, {"name": "Dark Disciple", "id": 2183, "chat_link": null}, {"name": "Specter", "id": 2184, "chat_link": null}, {"name": "Septic Corruption", "id": 2185, "chat_link": null}, {"name": "Alchemic Vigor", "id": 2186, "chat_link": null}, {"name": "Conceited Curate", "id": 2187, "chat_link": null}, {"name": "Wicked Corruption", "id": 2188, "chat_link": null}, {"name": "Lethal Tempo", "id": 2189, "chat_link": null}, {"name": "Power for Power", "id": 2190, "chat_link": null}, {"name": "Searing Pact", "id": 2191, "chat_link": null}, {"name": "Implacable Foe", "id": 2192, "chat_link": null}, {"name": "Quiet Intensity", "id": 2193, "chat_link": null}, {"name": "Deathly Haste", "id": 2194, "chat_link": null}, {"name": "Phoenix Protocol", "id": 2195, "chat_link": null}, {"name": "Sword Proficiency", "id": 2196, "chat_link": null}, {"name": "Restorative Virtues", "id": 2197, "chat_link": null}, {"name": "Deathless Courage", "id": 2198, "chat_link": null}, {"name": "Vanguard Tactics", "id": 2199, "chat_link": null}, {"name": "Willbender Training", "id": 2200, "chat_link": null}, {"name": "Tyrant's Momentum", "id": 2201, "chat_link": null}, {"name": "Jagged Mind", "id": 2202, "chat_link": null}, {"name": "Doom Approaches", "id": 2203, "chat_link": null}, {"name": "Deadly Blades", "id": 2204, "chat_link": null}, {"name": "Phantasmal Blades", "id": 2205, "chat_link": null}, {"name": "Infinite Forge", "id": 2206, "chat_link": null}, {"name": "Sharpening Sorrow", "id": 2207, "chat_link": null}, {"name": "Mental Focus", "id": 2208, "chat_link": null}, {"name": "Dark Gunslinger", "id": 2209, "chat_link": null}, {"name": "Holy Reckoning", "id": 2210, "chat_link": null}, {"name": "Psychic Riposte", "id": 2211, "chat_link": null}, {"name": "Bladeturn Refrain", "id": 2212, "chat_link": null}, {"name": "Pistol Proficiency", "id": 2213, "chat_link": null}, {"name": "Dagger Proficiency", "id": 2214, "chat_link": null}, {"name": "Duelist's Reversal", "id": 2215, "chat_link": null}, {"name": "Psychic Blades", "id": 2216, "chat_link": null}, {"name": "Corrupted Talent", "id": 2217, "chat_link": null}, {"name": "Cascading Corruption", "id": 2218, "chat_link": null}, {"name": "Vile Vials", "id": 2219, "chat_link": null}, {"name": "Twisted Medicine", "id": 2220, "chat_link": null}, {"name": "Righteous Sprint", "id": 2222, "chat_link": null}, {"name": "Bloodsong", "id": 2223, "chat_link": null}, {"name": "Energized Elements", "id": 2224, "chat_link": null}, {"name": "Unseen Sword", "id": 2225, "chat_link": null}, {"name": "Gun X Sword", "id": 2226, "chat_link": null}, {"name": "Depth of Elements", "id": 2227, "chat_link": null}, {"name": "Redemptor's Sermon", "id": 2228, "chat_link": null}, {"name": "Empire Divided", "id": 2229, "chat_link": null}, {"name": "Hardened Auras", "id": 2230, "chat_link": null}, {"name": "Elemental Epitome", "id": 2231, "chat_link": null}, {"name": "Vassals of the Empire", "id": 2232, "chat_link": null}, {"name": "Staunch Auras", "id": 2233, "chat_link": null}, {"name": "Spectacular Sphere", "id": 2234, "chat_link": null}, {"name": "Greatsword Proficiency", "id": 2235, "chat_link": null}, {"name": "Guns and Glory", "id": 2236, "chat_link": null}, {"name": "River's Flow", "id": 2237, "chat_link": null}, {"name": "Saint of zu Heltzer", "id": 2238, "chat_link": null}, {"name": "Unyielding Dragon", "id": 2239, "chat_link": null}, {"name": "Empowered Empowerment", "id": 2241, "chat_link": null}, {"name": "Dragonscale Defense", "id": 2242, "chat_link": null}, {"name": "Angsiyan's Trust", "id": 2243, "chat_link": null}, {"name": "Daring Dragon", "id": 2245, "chat_link": null}, {"name": "Hammer Proficiency", "id": 2246, "chat_link": null}, {"name": "Empowering Auras", "id": 2247, "chat_link": null}, {"name": "Amnesty of Shing Jea", "id": 2248, "chat_link": null}, {"name": "Evasive Empowerment", "id": 2249, "chat_link": null}, {"name": "Elemental Empowerment", "id": 2250, "chat_link": null}, {"name": "Sphere Specialist", "id": 2251, "chat_link": null}, {"name": "Vicious Empowerment", "id": 2252, "chat_link": null}, {"name": "Unshakable Mountain", "id": 2253, "chat_link": null}, {"name": "Balance in Discord", "id": 2254, "chat_link": null}, {"name": "Song of Arboreum", "id": 2255, "chat_link": null}, {"name": "Pistol Proficiency", "id": 2256, "chat_link": null}, {"name": "Forerunner of Death", "id": 2257, "chat_link": null}, {"name": "Leviathan Strength", "id": 2258, "chat_link": null}, {"name": "Reaver's Curse", "id": 2259, "chat_link": null}, {"name": "Swift as the Wind", "id": 2260, "chat_link": null}, {"name": "Immortal Dragon", "id": 2261, "chat_link": null}, {"name": "Tenacious Ruin", "id": 2262, "chat_link": null}, {"name": "Enhancing Impact", "id": 2263, "chat_link": null}, {"name": "Strength of Shadows", "id": 2264, "chat_link": null}, {"name": "Mace Proficiency", "id": 2265, "chat_link": null}, {"name": "Mech Fighter", "id": 2266, "chat_link": null}, {"name": "Exigency Protocols", "id": 2267, "chat_link": null}, {"name": "Unleashed Power", "id": 2268, "chat_link": null}, {"name": "Vow of the Untamed", "id": 2269, "chat_link": null}, {"name": "Mech Frame: Conductive Alloys", "id": 2270, "chat_link": null}, {"name": "Fervent Force", "id": 2271, "chat_link": null}, {"name": "Dark Sentry", "id": 2272, "chat_link": null}, {"name": "Hammer Proficiency", "id": 2273, "chat_link": null}, {"name": "Ferocious Symbiosis", "id": 2274, "chat_link": null}, {"name": "Consume Shadows", "id": 2275, "chat_link": null}, {"name": "Mech Frame: Channeling Conduits", "id": 2276, "chat_link": null}, {"name": "Nature's Shield", "id": 2277, "chat_link": null}, {"name": "Corrupting Vines", "id": 2278, "chat_link": null}, {"name": "Mech Arms: Jade Cannons", "id": 2279, "chat_link": null}, {"name": "Panaku's Ambition", "id": 2280, "chat_link": null}, {"name": "Mech Core: Barrier Engine", "id": 2281, "chat_link": null}, {"name": "Mech Arms: Single-Edge Cutters", "id": 2282, "chat_link": null}, {"name": "Restorative Strikes", "id": 2283, "chat_link": null}, {"name": "Second Opinion", "id": 2284, "chat_link": null}, {"name": "Traversing Dusk", "id": 2285, "chat_link": null}, {"name": "Natural Fortitude", "id": 2286, "chat_link": null}, {"name": "Cleansing Unleash", "id": 2287, "chat_link": null}, {"name": "Amplified Siphoning", "id": 2288, "chat_link": null}, {"name": "Shadestep", "id": 2289, "chat_link": null}, {"name": "Larcenous Torment", "id": 2290, "chat_link": null}, {"name": "Mechanical Genius", "id": 2291, "chat_link": null}, {"name": "Mech Core: Jade Dynamo", "id": 2292, "chat_link": null}, {"name": "Mech Frame: Variable Mass Distributor", "id": 2294, "chat_link": null}, {"name": "Scepter Proficiency", "id": 2295, "chat_link": null}, {"name": "Mech Arms: High-Impact Drivers", "id": 2296, "chat_link": null}, {"name": "Debilitating Blows", "id": 2297, "chat_link": null}, {"name": "Mech Core: J-Drive", "id": 2298, "chat_link": null}, {"name": "Shallow Grave", "id": 2299, "chat_link": null}, {"name": "Hungering Darkness", "id": 2300, "chat_link": null}, {"name": "Blinding Outburst", "id": 2301, "chat_link": null}, {"name": "Fierce as Fire", "id": 2302, "chat_link": null}, {"name": "Lush Forest", "id": 2303, "chat_link": null}]
+[
+    {
+        "name": "Raging Storm",
+        "id": 214,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyr's Speed",
+        "id": 221,
+        "chat_link": null
+    },
+    {
+        "name": "Electric Discharge",
+        "id": 222,
+        "chat_link": null
+    },
+    {
+        "name": "Aeromancer's Training",
+        "id": 223,
+        "chat_link": null
+    },
+    {
+        "name": "One with Air",
+        "id": 224,
+        "chat_link": null
+    },
+    {
+        "name": "Bolt to the Heart",
+        "id": 226,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyr's Boon",
+        "id": 227,
+        "chat_link": null
+    },
+    {
+        "name": "Inscription",
+        "id": 229,
+        "chat_link": null
+    },
+    {
+        "name": "Ferocious Winds",
+        "id": 232,
+        "chat_link": null
+    },
+    {
+        "name": "Evasive Arcana",
+        "id": 238,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Precision",
+        "id": 253,
+        "chat_link": null
+    },
+    {
+        "name": "Final Shielding",
+        "id": 257,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Surge",
+        "id": 263,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Attunement",
+        "id": 264,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Resurrection",
+        "id": 265,
+        "chat_link": null
+    },
+    {
+        "name": "Renewing Stamina",
+        "id": 266,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Prowess",
+        "id": 268,
+        "chat_link": null
+    },
+    {
+        "name": "Strength of Stone",
+        "id": 275,
+        "chat_link": null
+    },
+    {
+        "name": "Earthen Blessing",
+        "id": 277,
+        "chat_link": null
+    },
+    {
+        "name": "Stone Flesh",
+        "id": 278,
+        "chat_link": null
+    },
+    {
+        "name": "Earthen Blast",
+        "id": 279,
+        "chat_link": null
+    },
+    {
+        "name": "Geomancer's Training",
+        "id": 280,
+        "chat_link": null
+    },
+    {
+        "name": "Rock Solid",
+        "id": 281,
+        "chat_link": null
+    },
+    {
+        "name": "Earth's Embrace",
+        "id": 282,
+        "chat_link": null
+    },
+    {
+        "name": "Written in Stone",
+        "id": 287,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Shielding",
+        "id": 289,
+        "chat_link": null
+    },
+    {
+        "name": "Pyromancer's Puissance",
+        "id": 294,
+        "chat_link": null
+    },
+    {
+        "name": "Burning Precision",
+        "id": 296,
+        "chat_link": null
+    },
+    {
+        "name": "Sunspot",
+        "id": 318,
+        "chat_link": null
+    },
+    {
+        "name": "Pyromancer's Training",
+        "id": 319,
+        "chat_link": null
+    },
+    {
+        "name": "Empowering Flame",
+        "id": 320,
+        "chat_link": null
+    },
+    {
+        "name": "Burning Rage",
+        "id": 325,
+        "chat_link": null
+    },
+    {
+        "name": "Conjurer",
+        "id": 328,
+        "chat_link": null
+    },
+    {
+        "name": "Power Overwhelming",
+        "id": 334,
+        "chat_link": null
+    },
+    {
+        "name": "Burning Fire",
+        "id": 335,
+        "chat_link": null
+    },
+    {
+        "name": "Smothering Auras",
+        "id": 340,
+        "chat_link": null
+    },
+    {
+        "name": "Soothing Ice",
+        "id": 348,
+        "chat_link": null
+    },
+    {
+        "name": "Flow like Water",
+        "id": 349,
+        "chat_link": null
+    },
+    {
+        "name": "Soothing Mist",
+        "id": 350,
+        "chat_link": null
+    },
+    {
+        "name": "Healing Ripple",
+        "id": 351,
+        "chat_link": null
+    },
+    {
+        "name": "Cleansing Wave",
+        "id": 358,
+        "chat_link": null
+    },
+    {
+        "name": "Stop, Drop, and Roll",
+        "id": 360,
+        "chat_link": null
+    },
+    {
+        "name": "Powerful Aura",
+        "id": 361,
+        "chat_link": null
+    },
+    {
+        "name": "Cleansing Water",
+        "id": 362,
+        "chat_link": null
+    },
+    {
+        "name": "Piercing Shards",
+        "id": 363,
+        "chat_link": null
+    },
+    {
+        "name": "Soothing Disruption",
+        "id": 364,
+        "chat_link": null
+    },
+    {
+        "name": "Over Shield",
+        "id": 394,
+        "chat_link": null
+    },
+    {
+        "name": "Invigorating Speed",
+        "id": 396,
+        "chat_link": null
+    },
+    {
+        "name": "Compounding Chemicals",
+        "id": 413,
+        "chat_link": null
+    },
+    {
+        "name": "Shaped Charge",
+        "id": 429,
+        "chat_link": null
+    },
+    {
+        "name": "Explosive Entrance",
+        "id": 432,
+        "chat_link": null
+    },
+    {
+        "name": "Incendiary Powder",
+        "id": 433,
+        "chat_link": null
+    },
+    {
+        "name": "Mecha Legs",
+        "id": 445,
+        "chat_link": null
+    },
+    {
+        "name": "Hidden Flask",
+        "id": 468,
+        "chat_link": null
+    },
+    {
+        "name": "Emergency Elixir",
+        "id": 469,
+        "chat_link": null
+    },
+    {
+        "name": "Backpack Regenerator",
+        "id": 470,
+        "chat_link": null
+    },
+    {
+        "name": "Anticorrosion Plating",
+        "id": 472,
+        "chat_link": null
+    },
+    {
+        "name": "HGH",
+        "id": 473,
+        "chat_link": null
+    },
+    {
+        "name": "Aim-Assisted Rocket",
+        "id": 482,
+        "chat_link": null
+    },
+    {
+        "name": "Transmute",
+        "id": 487,
+        "chat_link": null
+    },
+    {
+        "name": "Shrapnel",
+        "id": 505,
+        "chat_link": null
+    },
+    {
+        "name": "Autodefense Bomb Dispenser",
+        "id": 507,
+        "chat_link": null
+    },
+    {
+        "name": "Reconstruction Enclosure",
+        "id": 508,
+        "chat_link": null
+    },
+    {
+        "name": "Protection Injection",
+        "id": 509,
+        "chat_link": null
+    },
+    {
+        "name": "Juggernaut",
+        "id": 510,
+        "chat_link": null
+    },
+    {
+        "name": "Streamlined Kits",
+        "id": 512,
+        "chat_link": null
+    },
+    {
+        "name": "Grenadier",
+        "id": 514,
+        "chat_link": null
+    },
+    {
+        "name": "Sharpshooter",
+        "id": 515,
+        "chat_link": null
+    },
+    {
+        "name": "Serrated Steel",
+        "id": 516,
+        "chat_link": null
+    },
+    {
+        "name": "Steel-Packed Powder",
+        "id": 517,
+        "chat_link": null
+    },
+    {
+        "name": "Cleansing Synergy",
+        "id": 518,
+        "chat_link": null
+    },
+    {
+        "name": "Energy Amplifier",
+        "id": 519,
+        "chat_link": null
+    },
+    {
+        "name": "Comeback Cure",
+        "id": 520,
+        "chat_link": null
+    },
+    {
+        "name": "Health Insurance",
+        "id": 521,
+        "chat_link": null
+    },
+    {
+        "name": "Adrenal Implant",
+        "id": 523,
+        "chat_link": null
+    },
+    {
+        "name": "Short Fuse",
+        "id": 525,
+        "chat_link": null
+    },
+    {
+        "name": "Modified Ammunition",
+        "id": 526,
+        "chat_link": null
+    },
+    {
+        "name": "Power Wrench",
+        "id": 531,
+        "chat_link": null
+    },
+    {
+        "name": "Static Discharge",
+        "id": 532,
+        "chat_link": null
+    },
+    {
+        "name": "Hematic Focus",
+        "id": 536,
+        "chat_link": null
+    },
+    {
+        "name": "Pure of Heart",
+        "id": 549,
+        "chat_link": null
+    },
+    {
+        "name": "Selfless Daring",
+        "id": 551,
+        "chat_link": null
+    },
+    {
+        "name": "Pure of Voice",
+        "id": 553,
+        "chat_link": null
+    },
+    {
+        "name": "Battle Presence",
+        "id": 554,
+        "chat_link": null
+    },
+    {
+        "name": "Honorable Staff",
+        "id": 557,
+        "chat_link": null
+    },
+    {
+        "name": "Writ of Persistence",
+        "id": 558,
+        "chat_link": null
+    },
+    {
+        "name": "Protective Reviver",
+        "id": 559,
+        "chat_link": null
+    },
+    {
+        "name": "Empowering Might",
+        "id": 562,
+        "chat_link": null
+    },
+    {
+        "name": "Wrathful Spirit",
+        "id": 563,
+        "chat_link": null
+    },
+    {
+        "name": "Vigorous Precision",
+        "id": 564,
+        "chat_link": null
+    },
+    {
+        "name": "Retribution",
+        "id": 565,
+        "chat_link": null
+    },
+    {
+        "name": "Right-Hand Strength",
+        "id": 566,
+        "chat_link": null
+    },
+    {
+        "name": "Radiant Fire",
+        "id": 567,
+        "chat_link": null
+    },
+    {
+        "name": "Radiant Power",
+        "id": 568,
+        "chat_link": null
+    },
+    {
+        "name": "Renewed Justice",
+        "id": 571,
+        "chat_link": null
+    },
+    {
+        "name": "Justice is Blind",
+        "id": 572,
+        "chat_link": null
+    },
+    {
+        "name": "Healer's Resolution",
+        "id": 574,
+        "chat_link": null
+    },
+    {
+        "name": "Inner Fire",
+        "id": 577,
+        "chat_link": null
+    },
+    {
+        "name": "Wrath of Justice",
+        "id": 578,
+        "chat_link": null
+    },
+    {
+        "name": "Perfect Inscriptions",
+        "id": 579,
+        "chat_link": null
+    },
+    {
+        "name": "Stalwart Defender",
+        "id": 580,
+        "chat_link": null
+    },
+    {
+        "name": "Smiter's Boon",
+        "id": 581,
+        "chat_link": null
+    },
+    {
+        "name": "Valorous Defense",
+        "id": 582,
+        "chat_link": null
+    },
+    {
+        "name": "Might of the Protector",
+        "id": 583,
+        "chat_link": null
+    },
+    {
+        "name": "Strength in Numbers",
+        "id": 584,
+        "chat_link": null
+    },
+    {
+        "name": "Altruistic Healing",
+        "id": 585,
+        "chat_link": null
+    },
+    {
+        "name": "Monk's Focus",
+        "id": 586,
+        "chat_link": null
+    },
+    {
+        "name": "Glacial Heart",
+        "id": 587,
+        "chat_link": null
+    },
+    {
+        "name": "Strength of the Fallen",
+        "id": 588,
+        "chat_link": null
+    },
+    {
+        "name": "Tenacious Defense",
+        "id": 589,
+        "chat_link": null
+    },
+    {
+        "name": "Steadfast Courage",
+        "id": 594,
+        "chat_link": null
+    },
+    {
+        "name": "Inspiring Virtue",
+        "id": 603,
+        "chat_link": null
+    },
+    {
+        "name": "Virtue of Resolution",
+        "id": 604,
+        "chat_link": null
+    },
+    {
+        "name": "Absolute Resolve",
+        "id": 610,
+        "chat_link": null
+    },
+    {
+        "name": "Indomitable Courage",
+        "id": 612,
+        "chat_link": null
+    },
+    {
+        "name": "Master of Consecrations",
+        "id": 617,
+        "chat_link": null
+    },
+    {
+        "name": "Power of the Virtuous",
+        "id": 620,
+        "chat_link": null
+    },
+    {
+        "name": "Inspired Virtue",
+        "id": 621,
+        "chat_link": null
+    },
+    {
+        "name": "Permeating Wrath",
+        "id": 622,
+        "chat_link": null
+    },
+    {
+        "name": "Unscathed Contender",
+        "id": 624,
+        "chat_link": null
+    },
+    {
+        "name": "Resolute Subconscious",
+        "id": 625,
+        "chat_link": null
+    },
+    {
+        "name": "Furious Focus",
+        "id": 628,
+        "chat_link": null
+    },
+    {
+        "name": "Focus Mastery",
+        "id": 633,
+        "chat_link": null
+    },
+    {
+        "name": "Fiery Wrath",
+        "id": 634,
+        "chat_link": null
+    },
+    {
+        "name": "Eternal Armory",
+        "id": 635,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Aegis",
+        "id": 637,
+        "chat_link": null
+    },
+    {
+        "name": "Symbolic Exposure",
+        "id": 646,
+        "chat_link": null
+    },
+    {
+        "name": "Zealot's Resolution",
+        "id": 648,
+        "chat_link": null
+    },
+    {
+        "name": "Symbolic Power",
+        "id": 649,
+        "chat_link": null
+    },
+    {
+        "name": "Zealous Blade",
+        "id": 653,
+        "chat_link": null
+    },
+    {
+        "name": "Protector's Restoration",
+        "id": 654,
+        "chat_link": null
+    },
+    {
+        "name": "Metaphysical Rejuvenation",
+        "id": 666,
+        "chat_link": null
+    },
+    {
+        "name": "Illusionary Membrane",
+        "id": 667,
+        "chat_link": null
+    },
+    {
+        "name": "Chaotic Transference",
+        "id": 668,
+        "chat_link": null
+    },
+    {
+        "name": "Chaotic Potency",
+        "id": 669,
+        "chat_link": null
+    },
+    {
+        "name": "Method of Madness",
+        "id": 670,
+        "chat_link": null
+    },
+    {
+        "name": "Chaotic Interruption",
+        "id": 671,
+        "chat_link": null
+    },
+    {
+        "name": "Auspicious Anguish",
+        "id": 673,
+        "chat_link": null
+    },
+    {
+        "name": "Prismatic Understanding",
+        "id": 674,
+        "chat_link": null
+    },
+    {
+        "name": "Illusionary Defense",
+        "id": 675,
+        "chat_link": null
+    },
+    {
+        "name": "Master of Manipulation",
+        "id": 677,
+        "chat_link": null
+    },
+    {
+        "name": "Mental Anguish",
+        "id": 680,
+        "chat_link": null
+    },
+    {
+        "name": "Vicious Expression",
+        "id": 681,
+        "chat_link": null
+    },
+    {
+        "name": "Empowered Illusions",
+        "id": 682,
+        "chat_link": null
+    },
+    {
+        "name": "Illusion of Vulnerability",
+        "id": 685,
+        "chat_link": null
+    },
+    {
+        "name": "Bountiful Blades",
+        "id": 686,
+        "chat_link": null
+    },
+    {
+        "name": "Rending Shatter",
+        "id": 687,
+        "chat_link": null
+    },
+    {
+        "name": "The Pledge",
+        "id": 691,
+        "chat_link": null
+    },
+    {
+        "name": "Superiority Complex",
+        "id": 692,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Concentration",
+        "id": 693,
+        "chat_link": null
+    },
+    {
+        "name": "Dazzling",
+        "id": 694,
+        "chat_link": null
+    },
+    {
+        "name": "Duelist's Discipline",
+        "id": 700,
+        "chat_link": null
+    },
+    {
+        "name": "Phantasmal Fury",
+        "id": 701,
+        "chat_link": null
+    },
+    {
+        "name": "Deceptive Evasion",
+        "id": 704,
+        "chat_link": null
+    },
+    {
+        "name": "Desperate Decoy",
+        "id": 705,
+        "chat_link": null
+    },
+    {
+        "name": "Critical Infusion",
+        "id": 706,
+        "chat_link": null
+    },
+    {
+        "name": "Master Fencer",
+        "id": 707,
+        "chat_link": null
+    },
+    {
+        "name": "Fencer's Finesse",
+        "id": 708,
+        "chat_link": null
+    },
+    {
+        "name": "Sharper Images",
+        "id": 710,
+        "chat_link": null
+    },
+    {
+        "name": "Furious Interruption",
+        "id": 712,
+        "chat_link": null
+    },
+    {
+        "name": "Egotism",
+        "id": 713,
+        "chat_link": null
+    },
+    {
+        "name": "Shatter Storm",
+        "id": 721,
+        "chat_link": null
+    },
+    {
+        "name": "Escape Artist",
+        "id": 722,
+        "chat_link": null
+    },
+    {
+        "name": "Compounding Power",
+        "id": 723,
+        "chat_link": null
+    },
+    {
+        "name": "Phantasmal Haste",
+        "id": 729,
+        "chat_link": null
+    },
+    {
+        "name": "Master of Misdirection",
+        "id": 731,
+        "chat_link": null
+    },
+    {
+        "name": "Phantasmal Force",
+        "id": 733,
+        "chat_link": null
+    },
+    {
+        "name": "Cry of Pain",
+        "id": 734,
+        "chat_link": null
+    },
+    {
+        "name": "Restorative Mantras",
+        "id": 738,
+        "chat_link": null
+    },
+    {
+        "name": "Restorative Illusions",
+        "id": 740,
+        "chat_link": null
+    },
+    {
+        "name": "Sympathetic Visage",
+        "id": 744,
+        "chat_link": null
+    },
+    {
+        "name": "Warden's Feedback",
+        "id": 751,
+        "chat_link": null
+    },
+    {
+        "name": "Blurred Inscriptions",
+        "id": 752,
+        "chat_link": null
+    },
+    {
+        "name": "Malicious Sorcery",
+        "id": 753,
+        "chat_link": null
+    },
+    {
+        "name": "Medic's Feedback",
+        "id": 756,
+        "chat_link": null
+    },
+    {
+        "name": "Mender's Purity",
+        "id": 757,
+        "chat_link": null
+    },
+    {
+        "name": "Transfusion",
+        "id": 778,
+        "chat_link": null
+    },
+    {
+        "name": "Ritual of Life",
+        "id": 780,
+        "chat_link": null
+    },
+    {
+        "name": "Blood Bank",
+        "id": 782,
+        "chat_link": null
+    },
+    {
+        "name": "Vampiric",
+        "id": 783,
+        "chat_link": null
+    },
+    {
+        "name": "Quickening Thirst",
+        "id": 788,
+        "chat_link": null
+    },
+    {
+        "name": "Life from Death",
+        "id": 789,
+        "chat_link": null
+    },
+    {
+        "name": "Mark of Evasion",
+        "id": 792,
+        "chat_link": null
+    },
+    {
+        "name": "Banshee's Wail",
+        "id": 799,
+        "chat_link": null
+    },
+    {
+        "name": "Lingering Curse",
+        "id": 801,
+        "chat_link": null
+    },
+    {
+        "name": "Barbed Precision",
+        "id": 802,
+        "chat_link": null
+    },
+    {
+        "name": "Furious Demise",
+        "id": 803,
+        "chat_link": null
+    },
+    {
+        "name": "Target the Weak",
+        "id": 810,
+        "chat_link": null
+    },
+    {
+        "name": "Terror",
+        "id": 812,
+        "chat_link": null
+    },
+    {
+        "name": "Weakening Shroud",
+        "id": 813,
+        "chat_link": null
+    },
+    {
+        "name": "Chilling Darkness",
+        "id": 815,
+        "chat_link": null
+    },
+    {
+        "name": "Master of Corruption",
+        "id": 816,
+        "chat_link": null
+    },
+    {
+        "name": "Flesh of the Master",
+        "id": 820,
+        "chat_link": null
+    },
+    {
+        "name": "Awaken the Pain",
+        "id": 829,
+        "chat_link": null
+    },
+    {
+        "name": "Soul Comprehension",
+        "id": 839,
+        "chat_link": null
+    },
+    {
+        "name": "Death Nova",
+        "id": 842,
+        "chat_link": null
+    },
+    {
+        "name": "Close to Death",
+        "id": 853,
+        "chat_link": null
+    },
+    {
+        "name": "Deadly Strength",
+        "id": 855,
+        "chat_link": null
+    },
+    {
+        "name": "Armored Shroud",
+        "id": 856,
+        "chat_link": null
+    },
+    {
+        "name": "Putrid Defense",
+        "id": 857,
+        "chat_link": null
+    },
+    {
+        "name": "Necromantic Corruption",
+        "id": 858,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Defiance",
+        "id": 860,
+        "chat_link": null
+    },
+    {
+        "name": "Vital Persistence",
+        "id": 861,
+        "chat_link": null
+    },
+    {
+        "name": "Soul Battery",
+        "id": 874,
+        "chat_link": null
+    },
+    {
+        "name": "Unyielding Blast",
+        "id": 875,
+        "chat_link": null
+    },
+    {
+        "name": "Gluttony",
+        "id": 887,
+        "chat_link": null
+    },
+    {
+        "name": "Speed of Shadows",
+        "id": 888,
+        "chat_link": null
+    },
+    {
+        "name": "Eternal Life",
+        "id": 889,
+        "chat_link": null
+    },
+    {
+        "name": "Sinister Shroud",
+        "id": 891,
+        "chat_link": null
+    },
+    {
+        "name": "Fear of Death",
+        "id": 892,
+        "chat_link": null
+    },
+    {
+        "name": "Death Perception",
+        "id": 893,
+        "chat_link": null
+    },
+    {
+        "name": "Soul Barbs",
+        "id": 894,
+        "chat_link": null
+    },
+    {
+        "name": "Soul Marks",
+        "id": 898,
+        "chat_link": null
+    },
+    {
+        "name": "Chill of Death",
+        "id": 899,
+        "chat_link": null
+    },
+    {
+        "name": "Spiteful Spirit",
+        "id": 903,
+        "chat_link": null
+    },
+    {
+        "name": "Dhuumfire",
+        "id": 905,
+        "chat_link": null
+    },
+    {
+        "name": "Signets of Suffering",
+        "id": 909,
+        "chat_link": null
+    },
+    {
+        "name": "Reaper's Might",
+        "id": 913,
+        "chat_link": null
+    },
+    {
+        "name": "Spiteful Talisman",
+        "id": 914,
+        "chat_link": null
+    },
+    {
+        "name": "Death's Embrace",
+        "id": 915,
+        "chat_link": null
+    },
+    {
+        "name": "Spiteful Renewal",
+        "id": 916,
+        "chat_link": null
+    },
+    {
+        "name": "Siphoned Power",
+        "id": 917,
+        "chat_link": null
+    },
+    {
+        "name": "Dread",
+        "id": 919,
+        "chat_link": null
+    },
+    {
+        "name": "Windborne Notes",
+        "id": 964,
+        "chat_link": null
+    },
+    {
+        "name": "Spirited Arrival",
+        "id": 965,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyr's Speed",
+        "id": 968,
+        "chat_link": null
+    },
+    {
+        "name": "Natural Healing",
+        "id": 970,
+        "chat_link": null
+    },
+    {
+        "name": "Loud Whistle",
+        "id": 974,
+        "chat_link": null
+    },
+    {
+        "name": "Wilting Strike",
+        "id": 975,
+        "chat_link": null
+    },
+    {
+        "name": "Instinctive Reaction",
+        "id": 978,
+        "chat_link": null
+    },
+    {
+        "name": "Clarion Bond",
+        "id": 986,
+        "chat_link": null
+    },
+    {
+        "name": "Predator's Onslaught",
+        "id": 996,
+        "chat_link": null
+    },
+    {
+        "name": "Farsighted",
+        "id": 1000,
+        "chat_link": null
+    },
+    {
+        "name": "Brutish Seals",
+        "id": 1001,
+        "chat_link": null
+    },
+    {
+        "name": "Alpha Focus",
+        "id": 1009,
+        "chat_link": null
+    },
+    {
+        "name": "Opening Strike",
+        "id": 1010,
+        "chat_link": null
+    },
+    {
+        "name": "Precise Strike",
+        "id": 1011,
+        "chat_link": null
+    },
+    {
+        "name": "Hunter's Gaze",
+        "id": 1014,
+        "chat_link": null
+    },
+    {
+        "name": "Remorseless",
+        "id": 1015,
+        "chat_link": null
+    },
+    {
+        "name": "Spotter",
+        "id": 1016,
+        "chat_link": null
+    },
+    {
+        "name": "Stoneform",
+        "id": 1021,
+        "chat_link": null
+    },
+    {
+        "name": "Nature's Vengeance",
+        "id": 1038,
+        "chat_link": null
+    },
+    {
+        "name": "Two-Handed Training",
+        "id": 1047,
+        "chat_link": null
+    },
+    {
+        "name": "Evasive Purity",
+        "id": 1054,
+        "chat_link": null
+    },
+    {
+        "name": "Rejuvenation",
+        "id": 1055,
+        "chat_link": null
+    },
+    {
+        "name": "Fortifying Bond",
+        "id": 1056,
+        "chat_link": null
+    },
+    {
+        "name": "Lingering Magic",
+        "id": 1059,
+        "chat_link": null
+    },
+    {
+        "name": "Allies' Aid",
+        "id": 1060,
+        "chat_link": null
+    },
+    {
+        "name": "Bountiful Hunter",
+        "id": 1062,
+        "chat_link": null
+    },
+    {
+        "name": "Quick Draw",
+        "id": 1064,
+        "chat_link": null
+    },
+    {
+        "name": "Pet's Prowess",
+        "id": 1065,
+        "chat_link": null
+    },
+    {
+        "name": "Honed Axes",
+        "id": 1066,
+        "chat_link": null
+    },
+    {
+        "name": "Primal Reflexes",
+        "id": 1067,
+        "chat_link": null
+    },
+    {
+        "name": "Hunter's Tactics",
+        "id": 1068,
+        "chat_link": null
+    },
+    {
+        "name": "Sharpened Edges",
+        "id": 1069,
+        "chat_link": null
+    },
+    {
+        "name": "Moment of Clarity",
+        "id": 1070,
+        "chat_link": null
+    },
+    {
+        "name": "Potent Ally",
+        "id": 1072,
+        "chat_link": null
+    },
+    {
+        "name": "Trapper's Expertise",
+        "id": 1075,
+        "chat_link": null
+    },
+    {
+        "name": "Tail Wind",
+        "id": 1080,
+        "chat_link": null
+    },
+    {
+        "name": "Furious Grip",
+        "id": 1083,
+        "chat_link": null
+    },
+    {
+        "name": "Oakheart Salve",
+        "id": 1086,
+        "chat_link": null
+    },
+    {
+        "name": "Rugged Growth",
+        "id": 1089,
+        "chat_link": null
+    },
+    {
+        "name": "Companion's Defense",
+        "id": 1090,
+        "chat_link": null
+    },
+    {
+        "name": "Empathic Bond",
+        "id": 1094,
+        "chat_link": null
+    },
+    {
+        "name": "Natural Vigor",
+        "id": 1096,
+        "chat_link": null
+    },
+    {
+        "name": "Child of Earth",
+        "id": 1098,
+        "chat_link": null
+    },
+    {
+        "name": "Taste for Danger",
+        "id": 1099,
+        "chat_link": null
+    },
+    {
+        "name": "Shared Anguish",
+        "id": 1100,
+        "chat_link": null
+    },
+    {
+        "name": "Ambidexterity",
+        "id": 1101,
+        "chat_link": null
+    },
+    {
+        "name": "Instant Reflexes",
+        "id": 1112,
+        "chat_link": null
+    },
+    {
+        "name": "Leeching Venoms",
+        "id": 1130,
+        "chat_link": null
+    },
+    {
+        "name": "Cover of Shadow",
+        "id": 1134,
+        "chat_link": null
+    },
+    {
+        "name": "Shadow's Rejuvenation",
+        "id": 1135,
+        "chat_link": null
+    },
+    {
+        "name": "Meld with Shadows",
+        "id": 1136,
+        "chat_link": null
+    },
+    {
+        "name": "Kleptomaniac",
+        "id": 1137,
+        "chat_link": null
+    },
+    {
+        "name": "Lead Attacks",
+        "id": 1157,
+        "chat_link": null
+    },
+    {
+        "name": "Sleight of Hand",
+        "id": 1158,
+        "chat_link": null
+    },
+    {
+        "name": "Uncatchable",
+        "id": 1159,
+        "chat_link": null
+    },
+    {
+        "name": "Shielding Restoration",
+        "id": 1160,
+        "chat_link": null
+    },
+    {
+        "name": "Rending Shade",
+        "id": 1162,
+        "chat_link": null
+    },
+    {
+        "name": "Thrill of the Crime",
+        "id": 1163,
+        "chat_link": null
+    },
+    {
+        "name": "Deadly Ambition",
+        "id": 1164,
+        "chat_link": null
+    },
+    {
+        "name": "Improvisation",
+        "id": 1167,
+        "chat_link": null
+    },
+    {
+        "name": "Even the Odds",
+        "id": 1169,
+        "chat_link": null
+    },
+    {
+        "name": "Sundering Shade",
+        "id": 1170,
+        "chat_link": null
+    },
+    {
+        "name": "Quick Pockets",
+        "id": 1187,
+        "chat_link": null
+    },
+    {
+        "name": "Pressure Striking",
+        "id": 1190,
+        "chat_link": null
+    },
+    {
+        "name": "Swindler's Equilibrium",
+        "id": 1192,
+        "chat_link": null
+    },
+    {
+        "name": "Assassin's Fury",
+        "id": 1209,
+        "chat_link": null
+    },
+    {
+        "name": "Unrelenting Strikes",
+        "id": 1210,
+        "chat_link": null
+    },
+    {
+        "name": "Hidden Killer",
+        "id": 1215,
+        "chat_link": null
+    },
+    {
+        "name": "Preparedness",
+        "id": 1232,
+        "chat_link": null
+    },
+    {
+        "name": "Feline Grace",
+        "id": 1234,
+        "chat_link": null
+    },
+    {
+        "name": "Pain Response",
+        "id": 1237,
+        "chat_link": null
+    },
+    {
+        "name": "Assassin's Reward",
+        "id": 1238,
+        "chat_link": null
+    },
+    {
+        "name": "Expeditious Dodger",
+        "id": 1240,
+        "chat_link": null
+    },
+    {
+        "name": "Guarded Initiation",
+        "id": 1241,
+        "chat_link": null
+    },
+    {
+        "name": "Endless Stamina",
+        "id": 1242,
+        "chat_link": null
+    },
+    {
+        "name": "Dagger Training",
+        "id": 1245,
+        "chat_link": null
+    },
+    {
+        "name": "Burst of Agility",
+        "id": 1252,
+        "chat_link": null
+    },
+    {
+        "name": "Exposed Weakness",
+        "id": 1257,
+        "chat_link": null
+    },
+    {
+        "name": "Signets of Power",
+        "id": 1267,
+        "chat_link": null
+    },
+    {
+        "name": "Twin Fangs",
+        "id": 1268,
+        "chat_link": null
+    },
+    {
+        "name": "Executioner",
+        "id": 1269,
+        "chat_link": null
+    },
+    {
+        "name": "Practiced Tolerance",
+        "id": 1272,
+        "chat_link": null
+    },
+    {
+        "name": "Mug",
+        "id": 1276,
+        "chat_link": null
+    },
+    {
+        "name": "Bountiful Theft",
+        "id": 1277,
+        "chat_link": null
+    },
+    {
+        "name": "Serpent's Touch",
+        "id": 1279,
+        "chat_link": null
+    },
+    {
+        "name": "Lotus Poison",
+        "id": 1280,
+        "chat_link": null
+    },
+    {
+        "name": "Keen Observer",
+        "id": 1281,
+        "chat_link": null
+    },
+    {
+        "name": "Ferocious Strikes",
+        "id": 1282,
+        "chat_link": null
+    },
+    {
+        "name": "Hidden Thief",
+        "id": 1284,
+        "chat_link": null
+    },
+    {
+        "name": "Trickster",
+        "id": 1286,
+        "chat_link": null
+    },
+    {
+        "name": "Vigorous Recovery",
+        "id": 1289,
+        "chat_link": null
+    },
+    {
+        "name": "Hard to Catch",
+        "id": 1290,
+        "chat_link": null
+    },
+    {
+        "name": "Potent Poison",
+        "id": 1291,
+        "chat_link": null
+    },
+    {
+        "name": "Panic Strike",
+        "id": 1292,
+        "chat_link": null
+    },
+    {
+        "name": "Shadow's Embrace",
+        "id": 1293,
+        "chat_link": null
+    },
+    {
+        "name": "Merciful Ambush",
+        "id": 1294,
+        "chat_link": null
+    },
+    {
+        "name": "Upper Hand",
+        "id": 1295,
+        "chat_link": null
+    },
+    {
+        "name": "Shadow Savior",
+        "id": 1297,
+        "chat_link": null
+    },
+    {
+        "name": "Deadly Aim",
+        "id": 1299,
+        "chat_link": null
+    },
+    {
+        "name": "Cloaked in Shadow",
+        "id": 1300,
+        "chat_link": null
+    },
+    {
+        "name": "Unsuspecting Foe",
+        "id": 1315,
+        "chat_link": null
+    },
+    {
+        "name": "Sundering Burst",
+        "id": 1316,
+        "chat_link": null
+    },
+    {
+        "name": "Heightened Focus",
+        "id": 1317,
+        "chat_link": null
+    },
+    {
+        "name": "Crack Shot",
+        "id": 1329,
+        "chat_link": null
+    },
+    {
+        "name": "Blademaster",
+        "id": 1333,
+        "chat_link": null
+    },
+    {
+        "name": "Opportunist",
+        "id": 1334,
+        "chat_link": null
+    },
+    {
+        "name": "Burst Precision",
+        "id": 1336,
+        "chat_link": null
+    },
+    {
+        "name": "Bloodlust",
+        "id": 1337,
+        "chat_link": null
+    },
+    {
+        "name": "Forceful Greatsword",
+        "id": 1338,
+        "chat_link": null
+    },
+    {
+        "name": "Furious Burst",
+        "id": 1342,
+        "chat_link": null
+    },
+    {
+        "name": "Deep Strikes",
+        "id": 1343,
+        "chat_link": null
+    },
+    {
+        "name": "Signet Mastery",
+        "id": 1344,
+        "chat_link": null
+    },
+    {
+        "name": "Furious",
+        "id": 1346,
+        "chat_link": null
+    },
+    {
+        "name": "Adrenal Health",
+        "id": 1348,
+        "chat_link": null
+    },
+    {
+        "name": "Thick Skin",
+        "id": 1350,
+        "chat_link": null
+    },
+    {
+        "name": "Merciless Hammer",
+        "id": 1367,
+        "chat_link": null
+    },
+    {
+        "name": "Defy Pain",
+        "id": 1368,
+        "chat_link": null
+    },
+    {
+        "name": "Axe Mastery",
+        "id": 1369,
+        "chat_link": null
+    },
+    {
+        "name": "Cull the Weak",
+        "id": 1372,
+        "chat_link": null
+    },
+    {
+        "name": "Last Stand",
+        "id": 1375,
+        "chat_link": null
+    },
+    {
+        "name": "Shield Master",
+        "id": 1376,
+        "chat_link": null
+    },
+    {
+        "name": "Resilient Roll",
+        "id": 1379,
+        "chat_link": null
+    },
+    {
+        "name": "Hardened Armor",
+        "id": 1380,
+        "chat_link": null
+    },
+    {
+        "name": "Vengeful Return",
+        "id": 1381,
+        "chat_link": null
+    },
+    {
+        "name": "Warrior's Sprint",
+        "id": 1413,
+        "chat_link": null
+    },
+    {
+        "name": "Versatile Rage",
+        "id": 1415,
+        "chat_link": null
+    },
+    {
+        "name": "Fast Hands",
+        "id": 1416,
+        "chat_link": null
+    },
+    {
+        "name": "Versatile Power",
+        "id": 1417,
+        "chat_link": null
+    },
+    {
+        "name": "Berserker's Power",
+        "id": 1437,
+        "chat_link": null
+    },
+    {
+        "name": "Aggressive Onslaught",
+        "id": 1440,
+        "chat_link": null
+    },
+    {
+        "name": "Peak Performance",
+        "id": 1444,
+        "chat_link": null
+    },
+    {
+        "name": "Reckless Dodge",
+        "id": 1446,
+        "chat_link": null
+    },
+    {
+        "name": "Brave Stride",
+        "id": 1447,
+        "chat_link": null
+    },
+    {
+        "name": "Building Momentum",
+        "id": 1448,
+        "chat_link": null
+    },
+    {
+        "name": "Great Fortitude",
+        "id": 1449,
+        "chat_link": null
+    },
+    {
+        "name": "Restorative Strength",
+        "id": 1451,
+        "chat_link": null
+    },
+    {
+        "name": "Pinnacle of Strength",
+        "id": 1453,
+        "chat_link": null
+    },
+    {
+        "name": "Might Makes Right",
+        "id": 1454,
+        "chat_link": null
+    },
+    {
+        "name": "Wounding Precision",
+        "id": 1455,
+        "chat_link": null
+    },
+    {
+        "name": "Leg Specialist",
+        "id": 1469,
+        "chat_link": null
+    },
+    {
+        "name": "Vigorous Shouts",
+        "id": 1470,
+        "chat_link": null
+    },
+    {
+        "name": "Roaring Reveille",
+        "id": 1471,
+        "chat_link": null
+    },
+    {
+        "name": "Soldier's Comfort",
+        "id": 1474,
+        "chat_link": null
+    },
+    {
+        "name": "Shrug It Off",
+        "id": 1479,
+        "chat_link": null
+    },
+    {
+        "name": "Marching Orders",
+        "id": 1480,
+        "chat_link": null
+    },
+    {
+        "name": "Mending Might",
+        "id": 1481,
+        "chat_link": null
+    },
+    {
+        "name": "Empower Allies",
+        "id": 1482,
+        "chat_link": null
+    },
+    {
+        "name": "Doubled Standards",
+        "id": 1484,
+        "chat_link": null
+    },
+    {
+        "name": "Empowered",
+        "id": 1485,
+        "chat_link": null
+    },
+    {
+        "name": "Warrior's Cunning",
+        "id": 1486,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Restoration",
+        "id": 1487,
+        "chat_link": null
+    },
+    {
+        "name": "Dogged March",
+        "id": 1488,
+        "chat_link": null
+    },
+    {
+        "name": "Destruction of the Empowered",
+        "id": 1489,
+        "chat_link": null
+    },
+    {
+        "name": "Stormsoul",
+        "id": 1502,
+        "chat_link": null
+    },
+    {
+        "name": "Fresh Air",
+        "id": 1503,
+        "chat_link": null
+    },
+    {
+        "name": "Serrated Stones",
+        "id": 1507,
+        "chat_link": null
+    },
+    {
+        "name": "Diamond Skin",
+        "id": 1508,
+        "chat_link": null
+    },
+    {
+        "name": "Persisting Flames",
+        "id": 1510,
+        "chat_link": null
+    },
+    {
+        "name": "Bountiful Power",
+        "id": 1511,
+        "chat_link": null
+    },
+    {
+        "name": "Flashbang",
+        "id": 1541,
+        "chat_link": null
+    },
+    {
+        "name": "Kindled Zeal",
+        "id": 1556,
+        "chat_link": null
+    },
+    {
+        "name": "Resounding Timbre",
+        "id": 1606,
+        "chat_link": null
+    },
+    {
+        "name": "Cleansing Ire",
+        "id": 1649,
+        "chat_link": null
+    },
+    {
+        "name": "Burst Mastery",
+        "id": 1657,
+        "chat_link": null
+    },
+    {
+        "name": "Martial Cadence",
+        "id": 1667,
+        "chat_link": null
+    },
+    {
+        "name": "Lightning Rod",
+        "id": 1672,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Lockdown",
+        "id": 1673,
+        "chat_link": null
+    },
+    {
+        "name": "Stone Heart",
+        "id": 1674,
+        "chat_link": null
+    },
+    {
+        "name": "Blinding Ashes",
+        "id": 1675,
+        "chat_link": null
+    },
+    {
+        "name": "Aquamancer's Training",
+        "id": 1676,
+        "chat_link": null
+    },
+    {
+        "name": "Experimental Turrets",
+        "id": 1678,
+        "chat_link": null
+    },
+    {
+        "name": "Gadgeteer",
+        "id": 1679,
+        "chat_link": null
+    },
+    {
+        "name": "Bunker Down",
+        "id": 1680,
+        "chat_link": null
+    },
+    {
+        "name": "Force of Will",
+        "id": 1682,
+        "chat_link": null
+    },
+    {
+        "name": "Righteous Instincts",
+        "id": 1683,
+        "chat_link": null
+    },
+    {
+        "name": "Communal Defenses",
+        "id": 1684,
+        "chat_link": null
+    },
+    {
+        "name": "Purity of Body",
+        "id": 1685,
+        "chat_link": null
+    },
+    {
+        "name": "Amplified Wrath",
+        "id": 1686,
+        "chat_link": null
+    },
+    {
+        "name": "Bountiful Disillusionment",
+        "id": 1687,
+        "chat_link": null
+    },
+    {
+        "name": "Power Block",
+        "id": 1688,
+        "chat_link": null
+    },
+    {
+        "name": "Maim the Disillusioned",
+        "id": 1690,
+        "chat_link": null
+    },
+    {
+        "name": "Unholy Martyr",
+        "id": 1692,
+        "chat_link": null
+    },
+    {
+        "name": "Path of Corruption",
+        "id": 1693,
+        "chat_link": null
+    },
+    {
+        "name": "Unholy Sanctuary",
+        "id": 1694,
+        "chat_link": null
+    },
+    {
+        "name": "Parasitic Contagion",
+        "id": 1696,
+        "chat_link": null
+    },
+    {
+        "name": "Invigorating Bond",
+        "id": 1697,
+        "chat_link": null
+    },
+    {
+        "name": "Lead the Wind",
+        "id": 1698,
+        "chat_link": null
+    },
+    {
+        "name": "Wilderness Knowledge",
+        "id": 1699,
+        "chat_link": null
+    },
+    {
+        "name": "Strider's Defense",
+        "id": 1700,
+        "chat_link": null
+    },
+    {
+        "name": "Poison Master",
+        "id": 1701,
+        "chat_link": null
+    },
+    {
+        "name": "Invigorating Precision",
+        "id": 1702,
+        "chat_link": null
+    },
+    {
+        "name": "Don't Stop",
+        "id": 1703,
+        "chat_link": null
+    },
+    {
+        "name": "Revealed Training",
+        "id": 1704,
+        "chat_link": null
+    },
+    {
+        "name": "Shadow Siphoning",
+        "id": 1705,
+        "chat_link": null
+    },
+    {
+        "name": "Deadly Ambush",
+        "id": 1706,
+        "chat_link": null
+    },
+    {
+        "name": "Dual Wielding",
+        "id": 1707,
+        "chat_link": null
+    },
+    {
+        "name": "Stalwart Strength",
+        "id": 1708,
+        "chat_link": null
+    },
+    {
+        "name": "Brawler's Recovery",
+        "id": 1709,
+        "chat_link": null
+    },
+    {
+        "name": "Phalanx Strength",
+        "id": 1711,
+        "chat_link": null
+    },
+    {
+        "name": "Determined Resolution",
+        "id": 1713,
+        "chat_link": null
+    },
+    {
+        "name": "Pact of Pain",
+        "id": 1714,
+        "chat_link": null
+    },
+    {
+        "name": "Brutality",
+        "id": 1715,
+        "chat_link": null
+    },
+    {
+        "name": "Rising Momentum",
+        "id": 1716,
+        "chat_link": null
+    },
+    {
+        "name": "Roiling Mists",
+        "id": 1719,
+        "chat_link": null
+    },
+    {
+        "name": "Fiendish Tenacity",
+        "id": 1720,
+        "chat_link": null
+    },
+    {
+        "name": "Permeating Pestilence",
+        "id": 1721,
+        "chat_link": null
+    },
+    {
+        "name": "Destructive Impulses",
+        "id": 1724,
+        "chat_link": null
+    },
+    {
+        "name": "Demonic Resistance",
+        "id": 1726,
+        "chat_link": null
+    },
+    {
+        "name": "Abyssal Chill",
+        "id": 1727,
+        "chat_link": null
+    },
+    {
+        "name": "Close Quarters",
+        "id": 1728,
+        "chat_link": null
+    },
+    {
+        "name": "Hardening Persistence",
+        "id": 1730,
+        "chat_link": null
+    },
+    {
+        "name": "Cleansing Channel",
+        "id": 1732,
+        "chat_link": null
+    },
+    {
+        "name": "Draconic Fortitude",
+        "id": 1737,
+        "chat_link": null
+    },
+    {
+        "name": "Shared Empowerment",
+        "id": 1738,
+        "chat_link": null
+    },
+    {
+        "name": "Dwarven Battle Training",
+        "id": 1740,
+        "chat_link": null
+    },
+    {
+        "name": "Replenishing Despair",
+        "id": 1741,
+        "chat_link": null
+    },
+    {
+        "name": "Shining Aspects",
+        "id": 1743,
+        "chat_link": null
+    },
+    {
+        "name": "Yearning Empowerment",
+        "id": 1744,
+        "chat_link": null
+    },
+    {
+        "name": "Elevated Compassion",
+        "id": 1746,
+        "chat_link": null
+    },
+    {
+        "name": "Song of the Mists",
+        "id": 1749,
+        "chat_link": null
+    },
+    {
+        "name": "Dance of Death",
+        "id": 1754,
+        "chat_link": null
+    },
+    {
+        "name": "Battle Scarred",
+        "id": 1755,
+        "chat_link": null
+    },
+    {
+        "name": "Unwavering Avoidance",
+        "id": 1757,
+        "chat_link": null
+    },
+    {
+        "name": "Ferocious Aggression",
+        "id": 1758,
+        "chat_link": null
+    },
+    {
+        "name": "Rapid Flow",
+        "id": 1760,
+        "chat_link": null
+    },
+    {
+        "name": "Rising Tide",
+        "id": 1761,
+        "chat_link": null
+    },
+    {
+        "name": "Notoriety",
+        "id": 1765,
+        "chat_link": null
+    },
+    {
+        "name": "Eye for an Eye",
+        "id": 1766,
+        "chat_link": null
+    },
+    {
+        "name": "Unsuspecting Strikes",
+        "id": 1767,
+        "chat_link": null
+    },
+    {
+        "name": "Contained Temper",
+        "id": 1769,
+        "chat_link": null
+    },
+    {
+        "name": "Versed in Stone",
+        "id": 1770,
+        "chat_link": null
+    },
+    {
+        "name": "Draconic Echo",
+        "id": 1772,
+        "chat_link": null
+    },
+    {
+        "name": "Spirit Boon",
+        "id": 1774,
+        "chat_link": null
+    },
+    {
+        "name": "Aggressive Agility",
+        "id": 1776,
+        "chat_link": null
+    },
+    {
+        "name": "Crystal Harbinger",
+        "id": 1777,
+        "chat_link": null
+    },
+    {
+        "name": "Invoker's Rage",
+        "id": 1778,
+        "chat_link": null
+    },
+    {
+        "name": "Vicious Reprisal",
+        "id": 1779,
+        "chat_link": null
+    },
+    {
+        "name": "Incensed Response",
+        "id": 1781,
+        "chat_link": null
+    },
+    {
+        "name": "Resolute Evasion",
+        "id": 1782,
+        "chat_link": null
+    },
+    {
+        "name": "Enduring Recovery",
+        "id": 1783,
+        "chat_link": null
+    },
+    {
+        "name": "Glaring Resolve",
+        "id": 1784,
+        "chat_link": null
+    },
+    {
+        "name": "Assassin's Presence",
+        "id": 1786,
+        "chat_link": null
+    },
+    {
+        "name": "Reinforced Potency",
+        "id": 1788,
+        "chat_link": null
+    },
+    {
+        "name": "Demonic Defiance",
+        "id": 1789,
+        "chat_link": null
+    },
+    {
+        "name": "Steadfast Rejuvenation",
+        "id": 1790,
+        "chat_link": null
+    },
+    {
+        "name": "Charged Mists",
+        "id": 1791,
+        "chat_link": null
+    },
+    {
+        "name": "Targeted Destruction",
+        "id": 1792,
+        "chat_link": null
+    },
+    {
+        "name": "Acolyte of Torment",
+        "id": 1793,
+        "chat_link": null
+    },
+    {
+        "name": "Diabolic Inferno",
+        "id": 1795,
+        "chat_link": null
+    },
+    {
+        "name": "Invoking Torment",
+        "id": 1799,
+        "chat_link": null
+    },
+    {
+        "name": "Swift Termination",
+        "id": 1800,
+        "chat_link": null
+    },
+    {
+        "name": "Seething Malice",
+        "id": 1801,
+        "chat_link": null
+    },
+    {
+        "name": "Thrill of Combat",
+        "id": 1802,
+        "chat_link": null
+    },
+    {
+        "name": "Forceful Persistence",
+        "id": 1803,
+        "chat_link": null
+    },
+    {
+        "name": "Core Value",
+        "id": 1806,
+        "chat_link": null
+    },
+    {
+        "name": "Expose Defenses",
+        "id": 1808,
+        "chat_link": null
+    },
+    {
+        "name": "Spiritual Reckoning",
+        "id": 1810,
+        "chat_link": null
+    },
+    {
+        "name": "Planar Protection",
+        "id": 1811,
+        "chat_link": null
+    },
+    {
+        "name": "Elder's Respite",
+        "id": 1813,
+        "chat_link": null
+    },
+    {
+        "name": "Serene Rejuvenation",
+        "id": 1814,
+        "chat_link": null
+    },
+    {
+        "name": "Generous Abundance",
+        "id": 1815,
+        "chat_link": null
+    },
+    {
+        "name": "Healer's Gift",
+        "id": 1816,
+        "chat_link": null
+    },
+    {
+        "name": "Resilient Spirit",
+        "id": 1817,
+        "chat_link": null
+    },
+    {
+        "name": "Fortified Blessing",
+        "id": 1818,
+        "chat_link": null
+    },
+    {
+        "name": "Words of Censure",
+        "id": 1819,
+        "chat_link": null
+    },
+    {
+        "name": "Invigorating Dismissal",
+        "id": 1820,
+        "chat_link": null
+    },
+    {
+        "name": "Life Attunement",
+        "id": 1821,
+        "chat_link": null
+    },
+    {
+        "name": "Eluding Nullification",
+        "id": 1822,
+        "chat_link": null
+    },
+    {
+        "name": "Invoking Harmony",
+        "id": 1823,
+        "chat_link": null
+    },
+    {
+        "name": "Blinding Truths",
+        "id": 1824,
+        "chat_link": null
+    },
+    {
+        "name": "Unyielding Devotion",
+        "id": 1825,
+        "chat_link": null
+    },
+    {
+        "name": "Longbow Proficiency",
+        "id": 1826,
+        "chat_link": null
+    },
+    {
+        "name": "Torch Proficiency",
+        "id": 1829,
+        "chat_link": null
+    },
+    {
+        "name": "Primal Rage",
+        "id": 1831,
+        "chat_link": null
+    },
+    {
+        "name": "Takedown Round",
+        "id": 1832,
+        "chat_link": null
+    },
+    {
+        "name": "Lotus Training",
+        "id": 1833,
+        "chat_link": null
+    },
+    {
+        "name": "Soothing Detonation",
+        "id": 1834,
+        "chat_link": null
+    },
+    {
+        "name": "Zealot's Aggression",
+        "id": 1835,
+        "chat_link": null
+    },
+    {
+        "name": "Endurance Thief",
+        "id": 1837,
+        "chat_link": null
+    },
+    {
+        "name": "Delayed Reactions",
+        "id": 1838,
+        "chat_link": null
+    },
+    {
+        "name": "Transcendent Tempest",
+        "id": 1839,
+        "chat_link": null
+    },
+    {
+        "name": "Vampiric Presence",
+        "id": 1844,
+        "chat_link": null
+    },
+    {
+        "name": "Hidden Barbs",
+        "id": 1846,
+        "chat_link": null
+    },
+    {
+        "name": "Virtuous Action",
+        "id": 1848,
+        "chat_link": null
+    },
+    {
+        "name": "Applied Force",
+        "id": 1849,
+        "chat_link": null
+    },
+    {
+        "name": "Inspiring Distortion",
+        "id": 1852,
+        "chat_link": null
+    },
+    {
+        "name": "Iron Blooded",
+        "id": 1854,
+        "chat_link": null
+    },
+    {
+        "name": "Kinetic Battery",
+        "id": 1856,
+        "chat_link": null
+    },
+    {
+        "name": "Time Marches On",
+        "id": 1859,
+        "chat_link": null
+    },
+    {
+        "name": "Object in Motion",
+        "id": 1860,
+        "chat_link": null
+    },
+    {
+        "name": "Go for the Eyes",
+        "id": 1861,
+        "chat_link": null
+    },
+    {
+        "name": "Live Vicariously",
+        "id": 1862,
+        "chat_link": null
+    },
+    {
+        "name": "Bitter Chill",
+        "id": 1863,
+        "chat_link": null
+    },
+    {
+        "name": "Chaotic Persistence",
+        "id": 1865,
+        "chat_link": null
+    },
+    {
+        "name": "Illusionary Inspiration",
+        "id": 1866,
+        "chat_link": null
+    },
+    {
+        "name": "Mass Momentum",
+        "id": 1867,
+        "chat_link": null
+    },
+    {
+        "name": "Druidic Clarity",
+        "id": 1868,
+        "chat_link": null
+    },
+    {
+        "name": "Persistence of Memory",
+        "id": 1869,
+        "chat_link": null
+    },
+    {
+        "name": "Purity of Purpose",
+        "id": 1871,
+        "chat_link": null
+    },
+    {
+        "name": "Mechanized Deployment",
+        "id": 1872,
+        "chat_link": null
+    },
+    {
+        "name": "Celestial Being",
+        "id": 1874,
+        "chat_link": null
+    },
+    {
+        "name": "Blood Bond",
+        "id": 1876,
+        "chat_link": null
+    },
+    {
+        "name": "Impact Savant",
+        "id": 1877,
+        "chat_link": null
+    },
+    {
+        "name": "Chemical Rounds",
+        "id": 1878,
+        "chat_link": null
+    },
+    {
+        "name": "Shivers of Dread",
+        "id": 1879,
+        "chat_link": null
+    },
+    {
+        "name": "Glass Cannon",
+        "id": 1882,
+        "chat_link": null
+    },
+    {
+        "name": "Insidious Disruption",
+        "id": 1883,
+        "chat_link": null
+    },
+    {
+        "name": "Staff Master",
+        "id": 1884,
+        "chat_link": null
+    },
+    {
+        "name": "Unstable Conduit",
+        "id": 1886,
+        "chat_link": null
+    },
+    {
+        "name": "Weakening Strikes",
+        "id": 1887,
+        "chat_link": null
+    },
+    {
+        "name": "Vicious Quarry",
+        "id": 1888,
+        "chat_link": null
+    },
+    {
+        "name": "Blinding Dissipation",
+        "id": 1889,
+        "chat_link": null
+    },
+    {
+        "name": "Chronophantasma",
+        "id": 1890,
+        "chat_link": null
+    },
+    {
+        "name": "Tempestuous Aria",
+        "id": 1891,
+        "chat_link": null
+    },
+    {
+        "name": "Explosive Temper",
+        "id": 1892,
+        "chat_link": null
+    },
+    {
+        "name": "Havoc Specialist",
+        "id": 1893,
+        "chat_link": null
+    },
+    {
+        "name": "Defender's Dogma",
+        "id": 1896,
+        "chat_link": null
+    },
+    {
+        "name": "Piercing Light",
+        "id": 1898,
+        "chat_link": null
+    },
+    {
+        "name": "Invigorated Bulwark",
+        "id": 1899,
+        "chat_link": null
+    },
+    {
+        "name": "Pack Alpha",
+        "id": 1900,
+        "chat_link": null
+    },
+    {
+        "name": "Automated Medical Response",
+        "id": 1901,
+        "chat_link": null
+    },
+    {
+        "name": "Harmonious Conduit",
+        "id": 1902,
+        "chat_link": null
+    },
+    {
+        "name": "No Quarter",
+        "id": 1904,
+        "chat_link": null
+    },
+    {
+        "name": "Shroud Knight",
+        "id": 1905,
+        "chat_link": null
+    },
+    {
+        "name": "Hunter's Fortification",
+        "id": 1908,
+        "chat_link": null
+    },
+    {
+        "name": "Shield Proficiency",
+        "id": 1910,
+        "chat_link": null
+    },
+    {
+        "name": "Soaring Devastation",
+        "id": 1911,
+        "chat_link": null
+    },
+    {
+        "name": "Light on your Feet",
+        "id": 1912,
+        "chat_link": null
+    },
+    {
+        "name": "Illusionary Reversion",
+        "id": 1913,
+        "chat_link": null
+    },
+    {
+        "name": "High Caliber",
+        "id": 1914,
+        "chat_link": null
+    },
+    {
+        "name": "Healing Prism",
+        "id": 1915,
+        "chat_link": null
+    },
+    {
+        "name": "Medical Dispersion Field",
+        "id": 1916,
+        "chat_link": null
+    },
+    {
+        "name": "Gyroscopic Acceleration",
+        "id": 1917,
+        "chat_link": null
+    },
+    {
+        "name": "Deathly Chill",
+        "id": 1919,
+        "chat_link": null
+    },
+    {
+        "name": "Shrouded Removal",
+        "id": 1922,
+        "chat_link": null
+    },
+    {
+        "name": "No Scope",
+        "id": 1923,
+        "chat_link": null
+    },
+    {
+        "name": "Zealous Scepter",
+        "id": 1925,
+        "chat_link": null
+    },
+    {
+        "name": "Pure of Sight",
+        "id": 1926,
+        "chat_link": null
+    },
+    {
+        "name": "Flow of Time",
+        "id": 1927,
+        "chat_link": null
+    },
+    {
+        "name": "Bloody Roar",
+        "id": 1928,
+        "chat_link": null
+    },
+    {
+        "name": "Beyond the Veil",
+        "id": 1929,
+        "chat_link": null
+    },
+    {
+        "name": "Sanguine Array",
+        "id": 1930,
+        "chat_link": null
+    },
+    {
+        "name": "Last Rites",
+        "id": 1931,
+        "chat_link": null
+    },
+    {
+        "name": "Blighter's Boon",
+        "id": 1932,
+        "chat_link": null
+    },
+    {
+        "name": "Marauder's Resilience",
+        "id": 1933,
+        "chat_link": null
+    },
+    {
+        "name": "Primal Echoes",
+        "id": 1935,
+        "chat_link": null
+    },
+    {
+        "name": "Excessive Energy",
+        "id": 1936,
+        "chat_link": null
+    },
+    {
+        "name": "Gathered Focus",
+        "id": 1938,
+        "chat_link": null
+    },
+    {
+        "name": "Corrupter's Fervor",
+        "id": 1940,
+        "chat_link": null
+    },
+    {
+        "name": "Fragility",
+        "id": 1941,
+        "chat_link": null
+    },
+    {
+        "name": "Stretched Time",
+        "id": 1942,
+        "chat_link": null
+    },
+    {
+        "name": "Bulwark",
+        "id": 1943,
+        "chat_link": null
+    },
+    {
+        "name": "Blast Shield",
+        "id": 1944,
+        "chat_link": null
+    },
+    {
+        "name": "Beastly Warden",
+        "id": 1945,
+        "chat_link": null
+    },
+    {
+        "name": "Lock On",
+        "id": 1946,
+        "chat_link": null
+    },
+    {
+        "name": "Big Boomer",
+        "id": 1947,
+        "chat_link": null
+    },
+    {
+        "name": "Hardy Conduit",
+        "id": 1948,
+        "chat_link": null
+    },
+    {
+        "name": "Brawler's Tenacity",
+        "id": 1949,
+        "chat_link": null
+    },
+    {
+        "name": "Ineptitude",
+        "id": 1950,
+        "chat_link": null
+    },
+    {
+        "name": "Hammer Proficiency",
+        "id": 1951,
+        "chat_link": null
+    },
+    {
+        "name": "Gale Song",
+        "id": 1952,
+        "chat_link": null
+    },
+    {
+        "name": "Damage Dampener",
+        "id": 1954,
+        "chat_link": null
+    },
+    {
+        "name": "Big Game Hunter",
+        "id": 1955,
+        "chat_link": null
+    },
+    {
+        "name": "Staff Proficiency",
+        "id": 1957,
+        "chat_link": null
+    },
+    {
+        "name": "Function Gyro",
+        "id": 1959,
+        "chat_link": null
+    },
+    {
+        "name": "Evasive Mirror",
+        "id": 1960,
+        "chat_link": null
+    },
+    {
+        "name": "Latent Stamina",
+        "id": 1962,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Light",
+        "id": 1963,
+        "chat_link": null
+    },
+    {
+        "name": "Unhindered Combatant",
+        "id": 1964,
+        "chat_link": null
+    },
+    {
+        "name": "Staff Proficiency",
+        "id": 1965,
+        "chat_link": null
+    },
+    {
+        "name": "Soul Eater",
+        "id": 1969,
+        "chat_link": null
+    },
+    {
+        "name": "System Shocker",
+        "id": 1971,
+        "chat_link": null
+    },
+    {
+        "name": "Augury of Death",
+        "id": 1974,
+        "chat_link": null
+    },
+    {
+        "name": "Impacting Disruption",
+        "id": 1975,
+        "chat_link": null
+    },
+    {
+        "name": "Savage Instinct",
+        "id": 1977,
+        "chat_link": null
+    },
+    {
+        "name": "Improved Alacrity",
+        "id": 1978,
+        "chat_link": null
+    },
+    {
+        "name": "Optimized Activation",
+        "id": 1979,
+        "chat_link": null
+    },
+    {
+        "name": "Protected Phantasms",
+        "id": 1980,
+        "chat_link": null
+    },
+    {
+        "name": "Adaptive Armor",
+        "id": 1981,
+        "chat_link": null
+    },
+    {
+        "name": "Dulled Senses",
+        "id": 1983,
+        "chat_link": null
+    },
+    {
+        "name": "Pinpoint Distribution",
+        "id": 1984,
+        "chat_link": null
+    },
+    {
+        "name": "Greatsword Proficiency",
+        "id": 1985,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Bastion",
+        "id": 1986,
+        "chat_link": null
+    },
+    {
+        "name": "All's Well That Ends Well",
+        "id": 1987,
+        "chat_link": null
+    },
+    {
+        "name": "Protective Ward",
+        "id": 1988,
+        "chat_link": null
+    },
+    {
+        "name": "Natural Mender",
+        "id": 1992,
+        "chat_link": null
+    },
+    {
+        "name": "Burst of Aggression",
+        "id": 1993,
+        "chat_link": null
+    },
+    {
+        "name": "Physical Supremacy",
+        "id": 1994,
+        "chat_link": null
+    },
+    {
+        "name": "Time Catches Up",
+        "id": 1995,
+        "chat_link": null
+    },
+    {
+        "name": "Reactive Lenses",
+        "id": 1997,
+        "chat_link": null
+    },
+    {
+        "name": "Expert Examination",
+        "id": 1999,
+        "chat_link": null
+    },
+    {
+        "name": "Body Blow",
+        "id": 2000,
+        "chat_link": null
+    },
+    {
+        "name": "Verdant Etching",
+        "id": 2001,
+        "chat_link": null
+    },
+    {
+        "name": "Dead or Alive",
+        "id": 2002,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Enchantment",
+        "id": 2004,
+        "chat_link": null
+    },
+    {
+        "name": "Mental Defense",
+        "id": 2005,
+        "chat_link": null
+    },
+    {
+        "name": "Thermal Vision",
+        "id": 2006,
+        "chat_link": null
+    },
+    {
+        "name": "Chilling Victory",
+        "id": 2008,
+        "chat_link": null
+    },
+    {
+        "name": "Danger Time",
+        "id": 2009,
+        "chat_link": null
+    },
+    {
+        "name": "Blood Reaction",
+        "id": 2011,
+        "chat_link": null
+    },
+    {
+        "name": "Plague Sending",
+        "id": 2013,
+        "chat_link": null
+    },
+    {
+        "name": "Speed of Synergy",
+        "id": 2014,
+        "chat_link": null
+    },
+    {
+        "name": "Invigorating Torrents",
+        "id": 2015,
+        "chat_link": null
+    },
+    {
+        "name": "Cultivated Synergy",
+        "id": 2016,
+        "chat_link": null
+    },
+    {
+        "name": "Symbolic Avenger",
+        "id": 2017,
+        "chat_link": null
+    },
+    {
+        "name": "Cold Shoulder",
+        "id": 2018,
+        "chat_link": null
+    },
+    {
+        "name": "Chilling Nova",
+        "id": 2020,
+        "chat_link": null
+    },
+    {
+        "name": "Reaper's Onslaught",
+        "id": 2021,
+        "chat_link": null
+    },
+    {
+        "name": "Seize the Moment",
+        "id": 2022,
+        "chat_link": null
+    },
+    {
+        "name": "Escapist's Fortitude",
+        "id": 2023,
+        "chat_link": null
+    },
+    {
+        "name": "Singularity",
+        "id": 2025,
+        "chat_link": null
+    },
+    {
+        "name": "Relentless Pursuit",
+        "id": 2026,
+        "chat_link": null
+    },
+    {
+        "name": "Soothing Power",
+        "id": 2028,
+        "chat_link": null
+    },
+    {
+        "name": "Time Splitter",
+        "id": 2030,
+        "chat_link": null
+    },
+    {
+        "name": "Decimate Defenses",
+        "id": 2031,
+        "chat_link": null
+    },
+    {
+        "name": "Refined Toxins",
+        "id": 2032,
+        "chat_link": null
+    },
+    {
+        "name": "Lucid Singularity",
+        "id": 2033,
+        "chat_link": null
+    },
+    {
+        "name": "Master of Fragmentation",
+        "id": 2035,
+        "chat_link": null
+    },
+    {
+        "name": "Warhorn Proficiency",
+        "id": 2036,
+        "chat_link": null
+    },
+    {
+        "name": "Hunter's Determination",
+        "id": 2037,
+        "chat_link": null
+    },
+    {
+        "name": "King of Fires",
+        "id": 2038,
+        "chat_link": null
+    },
+    {
+        "name": "Last Blaze",
+        "id": 2039,
+        "chat_link": null
+    },
+    {
+        "name": "Heat the Soul",
+        "id": 2042,
+        "chat_link": null
+    },
+    {
+        "name": "Eternal Champion",
+        "id": 2043,
+        "chat_link": null
+    },
+    {
+        "name": "Fatal Frenzy",
+        "id": 2046,
+        "chat_link": null
+    },
+    {
+        "name": "Bounding Dodger",
+        "id": 2047,
+        "chat_link": null
+    },
+    {
+        "name": "Smash Brawler",
+        "id": 2049,
+        "chat_link": null
+    },
+    {
+        "name": "Shield Proficiency",
+        "id": 2050,
+        "chat_link": null
+    },
+    {
+        "name": "Kinetic Accelerators",
+        "id": 2052,
+        "chat_link": null
+    },
+    {
+        "name": "Celestial Shadow",
+        "id": 2053,
+        "chat_link": null
+    },
+    {
+        "name": "Ancient Seeds",
+        "id": 2055,
+        "chat_link": null
+    },
+    {
+        "name": "Natural Stride",
+        "id": 2056,
+        "chat_link": null
+    },
+    {
+        "name": "Grace of the Land",
+        "id": 2057,
+        "chat_link": null
+    },
+    {
+        "name": "Lingering Light",
+        "id": 2058,
+        "chat_link": null
+    },
+    {
+        "name": "Desert Empowerment",
+        "id": 2059,
+        "chat_link": null
+    },
+    {
+        "name": "Magebane Tether",
+        "id": 2060,
+        "chat_link": null
+    },
+    {
+        "name": "Swift Revenge",
+        "id": 2061,
+        "chat_link": null
+    },
+    {
+        "name": "Swift Scholar",
+        "id": 2062,
+        "chat_link": null
+    },
+    {
+        "name": "Weighty Terms",
+        "id": 2063,
+        "chat_link": null
+    },
+    {
+        "name": "Photonic Blasting Module",
+        "id": 2064,
+        "chat_link": null
+    },
+    {
+        "name": "Thermal Release Valve",
+        "id": 2066,
+        "chat_link": null
+    },
+    {
+        "name": "Sadistic Searing",
+        "id": 2067,
+        "chat_link": null
+    },
+    {
+        "name": "Nomad's Endurance",
+        "id": 2069,
+        "chat_link": null
+    },
+    {
+        "name": "Infinite Horizon",
+        "id": 2070,
+        "chat_link": null
+    },
+    {
+        "name": "Live Fast",
+        "id": 2071,
+        "chat_link": null
+    },
+    {
+        "name": "Unstoppable Union",
+        "id": 2072,
+        "chat_link": null
+    },
+    {
+        "name": "Axe Proficiency",
+        "id": 2073,
+        "chat_link": null
+    },
+    {
+        "name": "Fell Beacon",
+        "id": 2074,
+        "chat_link": null
+    },
+    {
+        "name": "Unrelenting Criticism",
+        "id": 2075,
+        "chat_link": null
+    },
+    {
+        "name": "Stalwart Speed",
+        "id": 2076,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Refreshment",
+        "id": 2077,
+        "chat_link": null
+    },
+    {
+        "name": "Payback",
+        "id": 2078,
+        "chat_link": null
+    },
+    {
+        "name": "Blood Fury",
+        "id": 2079,
+        "chat_link": null
+    },
+    {
+        "name": "Feed from Corruption",
+        "id": 2080,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Polyphony",
+        "id": 2081,
+        "chat_link": null
+    },
+    {
+        "name": "Renewing Oasis",
+        "id": 2082,
+        "chat_link": null
+    },
+    {
+        "name": "Iron Sight",
+        "id": 2084,
+        "chat_link": null
+    },
+    {
+        "name": "Essence of Speed",
+        "id": 2085,
+        "chat_link": null
+    },
+    {
+        "name": "Archivist of Whispers",
+        "id": 2086,
+        "chat_link": null
+    },
+    {
+        "name": "Axe Proficiency",
+        "id": 2087,
+        "chat_link": null
+    },
+    {
+        "name": "Dagger Proficiency",
+        "id": 2088,
+        "chat_link": null
+    },
+    {
+        "name": "Purity of Word",
+        "id": 2089,
+        "chat_link": null
+    },
+    {
+        "name": "Woven Stride",
+        "id": 2090,
+        "chat_link": null
+    },
+    {
+        "name": "Crystal Configuration: Zephyr",
+        "id": 2091,
+        "chat_link": null
+    },
+    {
+        "name": "Heartpiercer",
+        "id": 2092,
+        "chat_link": null
+    },
+    {
+        "name": "Be Quick or Be Killed",
+        "id": 2093,
+        "chat_link": null
+    },
+    {
+        "name": "Vindication",
+        "id": 2094,
+        "chat_link": null
+    },
+    {
+        "name": "Sun and Moon Style",
+        "id": 2095,
+        "chat_link": null
+    },
+    {
+        "name": "Blood as Sand",
+        "id": 2096,
+        "chat_link": null
+    },
+    {
+        "name": "Slow Counter",
+        "id": 2097,
+        "chat_link": null
+    },
+    {
+        "name": "Mirrored Axes",
+        "id": 2098,
+        "chat_link": null
+    },
+    {
+        "name": "Short Bow Proficiency",
+        "id": 2099,
+        "chat_link": null
+    },
+    {
+        "name": "Lasting Legacy",
+        "id": 2100,
+        "chat_link": null
+    },
+    {
+        "name": "Liberator's Vow",
+        "id": 2101,
+        "chat_link": null
+    },
+    {
+        "name": "Nourishing Ashes",
+        "id": 2102,
+        "chat_link": null
+    },
+    {
+        "name": "Crystal Configuration: Storm",
+        "id": 2103,
+        "chat_link": null
+    },
+    {
+        "name": "Stoic Demeanor",
+        "id": 2105,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Focusing Lens",
+        "id": 2106,
+        "chat_link": null
+    },
+    {
+        "name": "Pure Strike",
+        "id": 2107,
+        "chat_link": null
+    },
+    {
+        "name": "All for One",
+        "id": 2108,
+        "chat_link": null
+    },
+    {
+        "name": "Weaver",
+        "id": 2109,
+        "chat_link": null
+    },
+    {
+        "name": "Riddle of Sand",
+        "id": 2110,
+        "chat_link": null
+    },
+    {
+        "name": "Maleficent Seven",
+        "id": 2111,
+        "chat_link": null
+    },
+    {
+        "name": "Sand Savant",
+        "id": 2112,
+        "chat_link": null
+    },
+    {
+        "name": "Elusive Mind",
+        "id": 2113,
+        "chat_link": null
+    },
+    {
+        "name": "Light Density Amplifier",
+        "id": 2114,
+        "chat_link": null
+    },
+    {
+        "name": "Master's Fortitude",
+        "id": 2115,
+        "chat_link": null
+    },
+    {
+        "name": "Legendary Lore",
+        "id": 2116,
+        "chat_link": null
+    },
+    {
+        "name": "Speed of Sand",
+        "id": 2117,
+        "chat_link": null
+    },
+    {
+        "name": "Silent Scope",
+        "id": 2118,
+        "chat_link": null
+    },
+    {
+        "name": "Second Skin",
+        "id": 2119,
+        "chat_link": null
+    },
+    {
+        "name": "Wrought-Iron Will",
+        "id": 2120,
+        "chat_link": null
+    },
+    {
+        "name": "Sand Sage",
+        "id": 2121,
+        "chat_link": null
+    },
+    {
+        "name": "Laser's Edge",
+        "id": 2122,
+        "chat_link": null
+    },
+    {
+        "name": "Herald of Sorrow",
+        "id": 2123,
+        "chat_link": null
+    },
+    {
+        "name": "Dagger Proficiency",
+        "id": 2124,
+        "chat_link": null
+    },
+    {
+        "name": "Sword Proficiency",
+        "id": 2125,
+        "chat_link": null
+    },
+    {
+        "name": "Loss Aversion",
+        "id": 2126,
+        "chat_link": null
+    },
+    {
+        "name": "Twice as Vicious",
+        "id": 2127,
+        "chat_link": null
+    },
+    {
+        "name": "Leader of the Pack",
+        "id": 2128,
+        "chat_link": null
+    },
+    {
+        "name": "Rifle Proficiency",
+        "id": 2129,
+        "chat_link": null
+    },
+    {
+        "name": "Attacker's Insight",
+        "id": 2130,
+        "chat_link": null
+    },
+    {
+        "name": "Elements of Rage",
+        "id": 2131,
+        "chat_link": null
+    },
+    {
+        "name": "Bold Reversal",
+        "id": 2133,
+        "chat_link": null
+    },
+    {
+        "name": "Fresh Reinforcement",
+        "id": 2134,
+        "chat_link": null
+    },
+    {
+        "name": "Heat Therapy",
+        "id": 2135,
+        "chat_link": null
+    },
+    {
+        "name": "One in the Chamber",
+        "id": 2136,
+        "chat_link": null
+    },
+    {
+        "name": "Enhanced Capacity Storage Unit",
+        "id": 2137,
+        "chat_link": null
+    },
+    {
+        "name": "Invigorating Strikes",
+        "id": 2138,
+        "chat_link": null
+    },
+    {
+        "name": "No Escape",
+        "id": 2140,
+        "chat_link": null
+    },
+    {
+        "name": "Self-Deception",
+        "id": 2141,
+        "chat_link": null
+    },
+    {
+        "name": "Brutal Momentum",
+        "id": 2142,
+        "chat_link": null
+    },
+    {
+        "name": "Oppressive Superiority",
+        "id": 2143,
+        "chat_link": null
+    },
+    {
+        "name": "Torch Proficiency",
+        "id": 2144,
+        "chat_link": null
+    },
+    {
+        "name": "Malicious Intent",
+        "id": 2145,
+        "chat_link": null
+    },
+    {
+        "name": "Fire for Effect",
+        "id": 2146,
+        "chat_link": null
+    },
+    {
+        "name": "Mantle of Sand",
+        "id": 2147,
+        "chat_link": null
+    },
+    {
+        "name": "Imbued Haste",
+        "id": 2148,
+        "chat_link": null
+    },
+    {
+        "name": "Sword Proficiency",
+        "id": 2149,
+        "chat_link": null
+    },
+    {
+        "name": "Mirage Cloak",
+        "id": 2150,
+        "chat_link": null
+    },
+    {
+        "name": "Elevated Bond",
+        "id": 2151,
+        "chat_link": null
+    },
+    {
+        "name": "Crystal Configuration: Eclipse",
+        "id": 2152,
+        "chat_link": null
+    },
+    {
+        "name": "Guard Counter",
+        "id": 2153,
+        "chat_link": null
+    },
+    {
+        "name": "Endless Enmity",
+        "id": 2154,
+        "chat_link": null
+    },
+    {
+        "name": "Eternal Bond",
+        "id": 2155,
+        "chat_link": null
+    },
+    {
+        "name": "Furious Strength",
+        "id": 2156,
+        "chat_link": null
+    },
+    {
+        "name": "Prismatic Converter",
+        "id": 2157,
+        "chat_link": null
+    },
+    {
+        "name": "Photon Projector",
+        "id": 2158,
+        "chat_link": null
+    },
+    {
+        "name": "Loremaster",
+        "id": 2159,
+        "chat_link": null
+    },
+    {
+        "name": "Premeditation",
+        "id": 2160,
+        "chat_link": null
+    },
+    {
+        "name": "Predator's Cunning",
+        "id": 2161,
+        "chat_link": null
+    },
+    {
+        "name": "Dispelling Force",
+        "id": 2162,
+        "chat_link": null
+    },
+    {
+        "name": "Enchantment Collapse",
+        "id": 2163,
+        "chat_link": null
+    },
+    {
+        "name": "Demonic Lore",
+        "id": 2164,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Pursuit",
+        "id": 2165,
+        "chat_link": null
+    },
+    {
+        "name": "Ashen Demeanor",
+        "id": 2166,
+        "chat_link": null
+    },
+    {
+        "name": "Abrasive Grit",
+        "id": 2167,
+        "chat_link": null
+    },
+    {
+        "name": "Revenge Counter",
+        "id": 2168,
+        "chat_link": null
+    },
+    {
+        "name": "Dune Cloak",
+        "id": 2169,
+        "chat_link": null
+    },
+    {
+        "name": "Bolstered Elements",
+        "id": 2170,
+        "chat_link": null
+    },
+    {
+        "name": "Deadeye's Gaze",
+        "id": 2171,
+        "chat_link": null
+    },
+    {
+        "name": "Renewing Gaze",
+        "id": 2172,
+        "chat_link": null
+    },
+    {
+        "name": "Collateral Damage",
+        "id": 2173,
+        "chat_link": null
+    },
+    {
+        "name": "Mirage Mantle",
+        "id": 2174,
+        "chat_link": null
+    },
+    {
+        "name": "Spellbreaker's Conviction",
+        "id": 2175,
+        "chat_link": null
+    },
+    {
+        "name": "Superior Elements",
+        "id": 2177,
+        "chat_link": null
+    },
+    {
+        "name": "Desert Distortion",
+        "id": 2178,
+        "chat_link": null
+    },
+    {
+        "name": "Quickfire",
+        "id": 2179,
+        "chat_link": null
+    },
+    {
+        "name": "Weaver's Prowess",
+        "id": 2180,
+        "chat_link": null
+    },
+    {
+        "name": "Ambush Commander",
+        "id": 2181,
+        "chat_link": null
+    },
+    {
+        "name": "Righteous Rebel",
+        "id": 2182,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Disciple",
+        "id": 2183,
+        "chat_link": null
+    },
+    {
+        "name": "Specter",
+        "id": 2184,
+        "chat_link": null
+    },
+    {
+        "name": "Septic Corruption",
+        "id": 2185,
+        "chat_link": null
+    },
+    {
+        "name": "Alchemic Vigor",
+        "id": 2186,
+        "chat_link": null
+    },
+    {
+        "name": "Conceited Curate",
+        "id": 2187,
+        "chat_link": null
+    },
+    {
+        "name": "Wicked Corruption",
+        "id": 2188,
+        "chat_link": null
+    },
+    {
+        "name": "Lethal Tempo",
+        "id": 2189,
+        "chat_link": null
+    },
+    {
+        "name": "Power for Power",
+        "id": 2190,
+        "chat_link": null
+    },
+    {
+        "name": "Searing Pact",
+        "id": 2191,
+        "chat_link": null
+    },
+    {
+        "name": "Implacable Foe",
+        "id": 2192,
+        "chat_link": null
+    },
+    {
+        "name": "Quiet Intensity",
+        "id": 2193,
+        "chat_link": null
+    },
+    {
+        "name": "Deathly Haste",
+        "id": 2194,
+        "chat_link": null
+    },
+    {
+        "name": "Phoenix Protocol",
+        "id": 2195,
+        "chat_link": null
+    },
+    {
+        "name": "Sword Proficiency",
+        "id": 2196,
+        "chat_link": null
+    },
+    {
+        "name": "Restorative Virtues",
+        "id": 2197,
+        "chat_link": null
+    },
+    {
+        "name": "Deathless Courage",
+        "id": 2198,
+        "chat_link": null
+    },
+    {
+        "name": "Vanguard Tactics",
+        "id": 2199,
+        "chat_link": null
+    },
+    {
+        "name": "Willbender Training",
+        "id": 2200,
+        "chat_link": null
+    },
+    {
+        "name": "Tyrant's Momentum",
+        "id": 2201,
+        "chat_link": null
+    },
+    {
+        "name": "Jagged Mind",
+        "id": 2202,
+        "chat_link": null
+    },
+    {
+        "name": "Doom Approaches",
+        "id": 2203,
+        "chat_link": null
+    },
+    {
+        "name": "Deadly Blades",
+        "id": 2204,
+        "chat_link": null
+    },
+    {
+        "name": "Phantasmal Blades",
+        "id": 2205,
+        "chat_link": null
+    },
+    {
+        "name": "Infinite Forge",
+        "id": 2206,
+        "chat_link": null
+    },
+    {
+        "name": "Sharpening Sorrow",
+        "id": 2207,
+        "chat_link": null
+    },
+    {
+        "name": "Mental Focus",
+        "id": 2208,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Gunslinger",
+        "id": 2209,
+        "chat_link": null
+    },
+    {
+        "name": "Holy Reckoning",
+        "id": 2210,
+        "chat_link": null
+    },
+    {
+        "name": "Psychic Riposte",
+        "id": 2211,
+        "chat_link": null
+    },
+    {
+        "name": "Bladeturn Refrain",
+        "id": 2212,
+        "chat_link": null
+    },
+    {
+        "name": "Pistol Proficiency",
+        "id": 2213,
+        "chat_link": null
+    },
+    {
+        "name": "Dagger Proficiency",
+        "id": 2214,
+        "chat_link": null
+    },
+    {
+        "name": "Duelist's Reversal",
+        "id": 2215,
+        "chat_link": null
+    },
+    {
+        "name": "Psychic Blades",
+        "id": 2216,
+        "chat_link": null
+    },
+    {
+        "name": "Corrupted Talent",
+        "id": 2217,
+        "chat_link": null
+    },
+    {
+        "name": "Cascading Corruption",
+        "id": 2218,
+        "chat_link": null
+    },
+    {
+        "name": "Vile Vials",
+        "id": 2219,
+        "chat_link": null
+    },
+    {
+        "name": "Twisted Medicine",
+        "id": 2220,
+        "chat_link": null
+    },
+    {
+        "name": "Righteous Sprint",
+        "id": 2222,
+        "chat_link": null
+    },
+    {
+        "name": "Bloodsong",
+        "id": 2223,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Elements",
+        "id": 2224,
+        "chat_link": null
+    },
+    {
+        "name": "Unseen Sword",
+        "id": 2225,
+        "chat_link": null
+    },
+    {
+        "name": "Gun X Sword",
+        "id": 2226,
+        "chat_link": null
+    },
+    {
+        "name": "Depth of Elements",
+        "id": 2227,
+        "chat_link": null
+    },
+    {
+        "name": "Redemptor's Sermon",
+        "id": 2228,
+        "chat_link": null
+    },
+    {
+        "name": "Empire Divided",
+        "id": 2229,
+        "chat_link": null
+    },
+    {
+        "name": "Hardened Auras",
+        "id": 2230,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Epitome",
+        "id": 2231,
+        "chat_link": null
+    },
+    {
+        "name": "Vassals of the Empire",
+        "id": 2232,
+        "chat_link": null
+    },
+    {
+        "name": "Staunch Auras",
+        "id": 2233,
+        "chat_link": null
+    },
+    {
+        "name": "Spectacular Sphere",
+        "id": 2234,
+        "chat_link": null
+    },
+    {
+        "name": "Greatsword Proficiency",
+        "id": 2235,
+        "chat_link": null
+    },
+    {
+        "name": "Guns and Glory",
+        "id": 2236,
+        "chat_link": null
+    },
+    {
+        "name": "River's Flow",
+        "id": 2237,
+        "chat_link": null
+    },
+    {
+        "name": "Saint of zu Heltzer",
+        "id": 2238,
+        "chat_link": null
+    },
+    {
+        "name": "Unyielding Dragon",
+        "id": 2239,
+        "chat_link": null
+    },
+    {
+        "name": "Empowered Empowerment",
+        "id": 2241,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonscale Defense",
+        "id": 2242,
+        "chat_link": null
+    },
+    {
+        "name": "Angsiyan's Trust",
+        "id": 2243,
+        "chat_link": null
+    },
+    {
+        "name": "Daring Dragon",
+        "id": 2245,
+        "chat_link": null
+    },
+    {
+        "name": "Hammer Proficiency",
+        "id": 2246,
+        "chat_link": null
+    },
+    {
+        "name": "Empowering Auras",
+        "id": 2247,
+        "chat_link": null
+    },
+    {
+        "name": "Amnesty of Shing Jea",
+        "id": 2248,
+        "chat_link": null
+    },
+    {
+        "name": "Evasive Empowerment",
+        "id": 2249,
+        "chat_link": null
+    },
+    {
+        "name": "Elemental Empowerment",
+        "id": 2250,
+        "chat_link": null
+    },
+    {
+        "name": "Sphere Specialist",
+        "id": 2251,
+        "chat_link": null
+    },
+    {
+        "name": "Vicious Empowerment",
+        "id": 2252,
+        "chat_link": null
+    },
+    {
+        "name": "Unshakable Mountain",
+        "id": 2253,
+        "chat_link": null
+    },
+    {
+        "name": "Balance in Discord",
+        "id": 2254,
+        "chat_link": null
+    },
+    {
+        "name": "Song of Arboreum",
+        "id": 2255,
+        "chat_link": null
+    },
+    {
+        "name": "Pistol Proficiency",
+        "id": 2256,
+        "chat_link": null
+    },
+    {
+        "name": "Forerunner of Death",
+        "id": 2257,
+        "chat_link": null
+    },
+    {
+        "name": "Leviathan Strength",
+        "id": 2258,
+        "chat_link": null
+    },
+    {
+        "name": "Reaver's Curse",
+        "id": 2259,
+        "chat_link": null
+    },
+    {
+        "name": "Swift as the Wind",
+        "id": 2260,
+        "chat_link": null
+    },
+    {
+        "name": "Immortal Dragon",
+        "id": 2261,
+        "chat_link": null
+    },
+    {
+        "name": "Tenacious Ruin",
+        "id": 2262,
+        "chat_link": null
+    },
+    {
+        "name": "Enhancing Impact",
+        "id": 2263,
+        "chat_link": null
+    },
+    {
+        "name": "Strength of Shadows",
+        "id": 2264,
+        "chat_link": null
+    },
+    {
+        "name": "Mace Proficiency",
+        "id": 2265,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Fighter",
+        "id": 2266,
+        "chat_link": null
+    },
+    {
+        "name": "Exigency Protocols",
+        "id": 2267,
+        "chat_link": null
+    },
+    {
+        "name": "Unleashed Power",
+        "id": 2268,
+        "chat_link": null
+    },
+    {
+        "name": "Vow of the Untamed",
+        "id": 2269,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Frame: Conductive Alloys",
+        "id": 2270,
+        "chat_link": null
+    },
+    {
+        "name": "Fervent Force",
+        "id": 2271,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sentry",
+        "id": 2272,
+        "chat_link": null
+    },
+    {
+        "name": "Hammer Proficiency",
+        "id": 2273,
+        "chat_link": null
+    },
+    {
+        "name": "Ferocious Symbiosis",
+        "id": 2274,
+        "chat_link": null
+    },
+    {
+        "name": "Consume Shadows",
+        "id": 2275,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Frame: Channeling Conduits",
+        "id": 2276,
+        "chat_link": null
+    },
+    {
+        "name": "Nature's Shield",
+        "id": 2277,
+        "chat_link": null
+    },
+    {
+        "name": "Corrupting Vines",
+        "id": 2278,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Arms: Jade Cannons",
+        "id": 2279,
+        "chat_link": null
+    },
+    {
+        "name": "Panaku's Ambition",
+        "id": 2280,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Core: Barrier Engine",
+        "id": 2281,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Arms: Single-Edge Cutters",
+        "id": 2282,
+        "chat_link": null
+    },
+    {
+        "name": "Restorative Strikes",
+        "id": 2283,
+        "chat_link": null
+    },
+    {
+        "name": "Second Opinion",
+        "id": 2284,
+        "chat_link": null
+    },
+    {
+        "name": "Traversing Dusk",
+        "id": 2285,
+        "chat_link": null
+    },
+    {
+        "name": "Natural Fortitude",
+        "id": 2286,
+        "chat_link": null
+    },
+    {
+        "name": "Cleansing Unleash",
+        "id": 2287,
+        "chat_link": null
+    },
+    {
+        "name": "Amplified Siphoning",
+        "id": 2288,
+        "chat_link": null
+    },
+    {
+        "name": "Shadestep",
+        "id": 2289,
+        "chat_link": null
+    },
+    {
+        "name": "Larcenous Torment",
+        "id": 2290,
+        "chat_link": null
+    },
+    {
+        "name": "Mechanical Genius",
+        "id": 2291,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Core: Jade Dynamo",
+        "id": 2292,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Frame: Variable Mass Distributor",
+        "id": 2294,
+        "chat_link": null
+    },
+    {
+        "name": "Scepter Proficiency",
+        "id": 2295,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Arms: High-Impact Drivers",
+        "id": 2296,
+        "chat_link": null
+    },
+    {
+        "name": "Debilitating Blows",
+        "id": 2297,
+        "chat_link": null
+    },
+    {
+        "name": "Mech Core: J-Drive",
+        "id": 2298,
+        "chat_link": null
+    },
+    {
+        "name": "Shallow Grave",
+        "id": 2299,
+        "chat_link": null
+    },
+    {
+        "name": "Hungering Darkness",
+        "id": 2300,
+        "chat_link": null
+    },
+    {
+        "name": "Blinding Outburst",
+        "id": 2301,
+        "chat_link": null
+    },
+    {
+        "name": "Fierce as Fire",
+        "id": 2302,
+        "chat_link": null
+    },
+    {
+        "name": "Lush Forest",
+        "id": 2303,
+        "chat_link": null
+    }
+]
