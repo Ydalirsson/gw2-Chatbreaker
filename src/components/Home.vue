@@ -126,7 +126,6 @@
     </div>
 
     <div class="ac-container">
-      <form>
         <input
           class="form-group"
           type="search"
@@ -167,7 +166,6 @@
           />
           <label class="form-check-label" for="cbxLangGer">ger</label>
         </div>
-      </form>
 
       <div class="ac-filtered-items" v-if="showItems">
         <div
@@ -754,7 +752,7 @@ select {
 .ac-container {
   position: relative;
   display: grid;
-  grid-template-columns: auto;
+  grid-template-columns: auto auto auto;
   justify-content: start;
 }
 .ac-filtered-items {
