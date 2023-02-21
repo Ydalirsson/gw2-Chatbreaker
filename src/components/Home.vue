@@ -255,16 +255,12 @@ const _itemsEN = require("../chatcodes/eng/items.json");
 const _poisEN = require("../chatcodes/eng/pois.json");
 const _recipesEN = require("../chatcodes/eng/recipes.json");
 const _skillsEN = require("../chatcodes/eng/skills.json");
-const _skinsEN = require("../chatcodes/eng/skins.json");
-const _traitsEN = require("../chatcodes/eng/traits.json");
 
 const _colorsDE = require("../chatcodes/deu/colors.json");
 const _itemsDE = require("../chatcodes/deu/items.json");
 const _poisDE = require("../chatcodes/deu/pois.json");
 const _recipesDE = require("../chatcodes/deu/recipes.json");
 const _skillsDE = require("../chatcodes/deu/skills.json");
-const _skinsDE = require("../chatcodes/deu/skins.json");
-const _traitsDE = require("../chatcodes/deu/traits.json");
 
 export default defineComponent({
   name: "home",
@@ -534,8 +530,6 @@ export default defineComponent({
         const pois = _poisEN as Item[];
         const recipes = _recipesEN as Item[];
         const skills = _skillsEN as Item[];
-        const skins = _skinsEN as Item[];
-        const traits = _traitsEN as Item[];
 
         let i = 0;
         for (i = 0; i < colors.length; i++) {
@@ -573,20 +567,6 @@ export default defineComponent({
             if (skills[i].name != null) {
               if (skills[i].name.toString().includes(searchInput)) {
                 this.searchResult.push(skills[i]);
-              }
-            }
-          }
-          for (i = 0; i < skins.length; i++) {
-            if (skins[i].name != null) {
-              if (skins[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skins[i]);
-              }
-            }
-          }
-          for (i = 0; i < traits.length; i++) {
-            if (traits[i].name != null) {
-              if (traits[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(traits[i]);
               }
             }
           }
@@ -600,8 +580,6 @@ export default defineComponent({
         const pois = _poisDE as Item[];
         const recipes = _recipesDE as Item[];
         const skills = _skillsDE as Item[];
-        const skins = _skinsDE as Item[];
-        const traits = _traitsDE as Item[];
 
         let i = 0;
         for (i = 0; i < colors.length; i++) {
@@ -639,20 +617,6 @@ export default defineComponent({
             if (skills[i].name != null) {
               if (skills[i].name.toString().includes(searchInput)) {
                 this.searchResult.push(skills[i]);
-              }
-            }
-          }
-          for (i = 0; i < skins.length; i++) {
-            if (skins[i].name != null) {
-              if (skins[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skins[i]);
-              }
-            }
-          }
-          for (i = 0; i < traits.length; i++) {
-            if (traits[i].name != null) {
-              if (traits[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(traits[i]);
               }
             }
           }
