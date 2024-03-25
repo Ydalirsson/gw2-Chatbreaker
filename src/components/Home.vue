@@ -64,6 +64,25 @@
             <option value="4">~</option>
           </select>
         </li>
+        
+        <li>
+          <input
+            type="number"
+            placeholder="Limit"
+            value="197"
+            min="3"
+            class="form-control form-control-sm"
+            style="margin-top: 4px; width: 110px; height: 38px"
+            data-toggle="tooltip"
+            data-placement="bottom"
+            title="This field determines the number of characters that can appear in a message. Can be set as required.
+            - GW2-Mode: 197
+            - Discord-Mode: 1997"
+            v-model="charLimitInput"
+            @change="update"
+          >  
+        </li>
+        
         <li>
           <ul
             id="emoteListID"
@@ -72,6 +91,7 @@
             v-if="listCollapsed"
           >
             <li class="list-group-item py-0">/beckon</li>
+            <li class="list-group-item py-0">/bless</li>
             <li class="list-group-item py-0">/bow</li>
             <li class="list-group-item py-0">/cheer</li>
             <li class="list-group-item py-0">/cower</li>
@@ -81,19 +101,31 @@
             <li class="list-group-item py-0">/facepalm</li>
             <li class="list-group-item py-0">/upset</li>
             <li class="list-group-item py-0">/geargrind</li>
+            <li class="list-group-item py-0">/heroic</li>
+            <li class="list-group-item py-0">/hiss</li>
             <li class="list-group-item py-0">/kneel</li>
             <li class="list-group-item py-0">/laugh</li>
+            <li class="list-group-item py-0">/magicjuggle</li>
             <li class="list-group-item py-0">/no</li>
+            <li class="list-group-item py-0">/paper</li>
             <li class="list-group-item py-0">/playdead</li>
             <li class="list-group-item py-0">/point</li>
             <li class="list-group-item py-0">/ponder</li>
+            <li class="list-group-item py-0">/possessed</li>
+            <li class="list-group-item py-0">/rank</li>
+            <li class="list-group-item py-0">/readbook</li>
+            <li class="list-group-item py-0">/rock</li>
             <li class="list-group-item py-0">/rockout</li>
             <li class="list-group-item py-0">/sad</li>
             <li class="list-group-item py-0">/salute</li>
+            <li class="list-group-item py-0">/scissors</li>
+            <li class="list-group-item py-0">/scis</li>
+            <li class="list-group-item py-0">/serve</li>
             <li class="list-group-item py-0">/shiver</li>
             <li class="list-group-item py-0">/shiverplus</li>
             <li class="list-group-item py-0">/shrug</li>
             <li class="list-group-item py-0">/shuffle</li>
+            <li class="list-group-item py-0">/sipcoffee</li>
             <li class="list-group-item py-0">/sit</li>
             <li class="list-group-item py-0">/sleep</li>
             <li class="list-group-item py-0">/step</li>
@@ -268,7 +300,7 @@ export default defineComponent({
     return {
       chatContent: "" as string,
       contentWordArray: [""] as Array<string>,
-      singleMessage: [] as Array<{ text: ""; copied: false }>,
+      singleMessage: [] as Array<{ text: string; copied: false }>,
       errorMessage: "" as string,
       totalCharacter: 0 as number,
       selected: "0" as string,
@@ -279,6 +311,7 @@ export default defineComponent({
       cursor: -1 as number,
       cbxLangEng: "true" as string,
       cbxLangGer: "false" as string,
+      charLimitInput: 197 as number
     };
   },
   watch: {
@@ -463,7 +496,7 @@ export default defineComponent({
       (this.$refs.chatEdit as HTMLElement).focus();
     },
     update(): void {
-      const MSG_CHAR_LIMIT = 197; // character limit per single chat message (in gw2 it's 199, but 197 needed to add ' >' automatically
+      const MSG_CHAR_LIMIT = this.charLimitInput; // character limit per single chat message (in gw2 it's 199, but 197 needed to add ' >' automatically
       let i = 0; // place of message
       let j = 0; // position of word
       let separatorChar = ">";
@@ -488,14 +521,59 @@ export default defineComponent({
         for (let k = 0; k < this.contentWordArray.length; k++) {
           if (this.contentWordArray[k].length > MSG_CHAR_LIMIT) {
             this.errorMessage =
-              "At least one word is longer then 197 characters. Try to split it with space.";
+              "At least one word is longer then "  + MSG_CHAR_LIMIT.toString() + "characters. Try to split it with space.";
             return;
           }
         }
 
         while (j < this.contentWordArray.length) {
-          // check if word fits in message
-          if (
+// check if word is an emote
+if (this.contentWordArray[j] === "/emote" || this.contentWordArray[j] === "/e" || this.contentWordArray[j] === "/em" || this.contentWordArray[j] === "/me") {
+      // If it's an emote, start a new message and append "/e" to it
+      if (this.singleMessage[i].text.length > 0) {
+        this.singleMessage[i].text += separatorChar; // finish current message
+        this.singleMessage.push({ text: "", copied: false }); // start a new message
+        i++;
+      }
+      this.singleMessage[i].text += "/e ";
+      j++;
+
+      // Process subsequent words until "##" is found
+      while (j < this.contentWordArray.length && this.contentWordArray[j] !== "##") {
+        // Check if adding the word exceeds the character limit
+        if (this.singleMessage[i].text.length + this.contentWordArray[j].length + 3 <= MSG_CHAR_LIMIT) { // +3 for "/e " before each word
+          this.singleMessage[i].text += this.contentWordArray[j].toString() + " ";
+        } else {
+          // If exceeds the limit, start a new message
+          this.singleMessage[i].text += separatorChar; // finish Message
+          this.singleMessage.push({ text: "", copied: false }); // init next message
+          i++;
+          this.singleMessage[i].text += "/e "; // Start a new message with "/e"
+        }
+        j++;
+      }
+    
+      if (this.contentWordArray[j] === "##") {
+      // If it's the stop signal, start a new message
+      this.singleMessage[i].text += separatorChar; // finish current message
+      this.singleMessage.push({ text: "", copied: false }); // start a new message
+      i++;
+      j++;
+    }
+    
+  }
+        else      // check if word is an emote
+          if (this.contentWordArray[j].startsWith("/")) {
+            if (this.singleMessage[i].text.length > 0) {
+                this.singleMessage[i].text += separatorChar; // finish current message
+                this.singleMessage.push({ text: "", copied: false }); // start a new message
+                i++;
+            }
+            this.singleMessage[i].text += this.contentWordArray[j] + " "; // add slash command to current message
+            this.singleMessage.push({ text: "", copied: false }); // start a new message
+            i++;
+          }
+         else if (
             this.singleMessage[i].text.length +
               this.contentWordArray[j].length <=
             MSG_CHAR_LIMIT
