@@ -2640,9 +2640,19 @@
         "chat_link": "[&BtwnAAA=]"
     },
     {
+        "name": "Kraftsperre",
+        "id": 10206,
+        "chat_link": "[&Bt4nAAA=]"
+    },
+    {
         "name": "Mantra der Entschlossenheit",
         "id": 10207,
         "chat_link": "[&Bt8nAAA=]"
+    },
+    {
+        "name": "Kraftl\u00e4uterung",
+        "id": 10209,
+        "chat_link": "[&BuEnAAA=]"
     },
     {
         "name": "Mantra der Schmerzen",
@@ -2650,9 +2660,19 @@
         "chat_link": "[&BuMnAAA=]"
     },
     {
+        "name": "Kraftausschlag",
+        "id": 10212,
+        "chat_link": "[&BuQnAAA=]"
+    },
+    {
         "name": "Mantra der Gesundung",
         "id": 10213,
         "chat_link": "[&BuUnAAA=]"
+    },
+    {
+        "name": "Kraftrevanche",
+        "id": 10214,
+        "chat_link": "[&BuYnAAA=]"
     },
     {
         "name": "Tr\u00fcgerischer Hexenmeister",
@@ -2708,6 +2728,11 @@
         "name": "Mantra der Konzentration",
         "id": 10237,
         "chat_link": "[&Bv0nAAA=]"
+    },
+    {
+        "name": "Kraftausbruch",
+        "id": 10238,
+        "chat_link": "[&Bv4nAAA=]"
     },
     {
         "name": "Illusion des Lebens",
@@ -3048,11 +3073,6 @@
         "name": "Siegel der Pest",
         "id": 10562,
         "chat_link": "[&BkIpAAA=]"
-    },
-    {
-        "name": "Leben abzapfen",
-        "id": 10563,
-        "chat_link": "[&BkMpAAA=]"
     },
     {
         "name": "Totenstarre",
@@ -3890,12 +3910,7 @@
         "chat_link": "[&BsAwAAA=]"
     },
     {
-        "name": "Hornissenstich",
-        "id": 12481,
-        "chat_link": "[&BsEwAAA=]"
-    },
-    {
-        "name": "Monarchensprung",
+        "name": "Schlangenschlag",
         "id": 12482,
         "chat_link": "[&BsIwAAA=]"
     },
@@ -4171,28 +4186,28 @@
     },
     {
         "name": "Sonnenflecken",
-        "id": 12592,
-        "chat_link": "[&BjAxAAA=]"
-    },
-    {
-        "name": "K\u00e4ltewelle",
-        "id": 12593,
-        "chat_link": "[&BjExAAA=]"
+        "id": 12597,
+        "chat_link": "[&BjUxAAA=]"
     },
     {
         "name": "Blitz rufen",
-        "id": 12594,
-        "chat_link": "[&BjIxAAA=]"
+        "id": 12598,
+        "chat_link": "[&BjYxAAA=]"
     },
     {
-        "name": "Treibsand",
-        "id": 12595,
-        "chat_link": "[&BjMxAAA=]"
+        "name": "Beben",
+        "id": 12599,
+        "chat_link": "[&BjcxAAA=]"
+    },
+    {
+        "name": "K\u00e4ltewelle",
+        "id": 12600,
+        "chat_link": "[&BjgxAAA=]"
     },
     {
         "name": "Erneuerung der Natur",
-        "id": 12596,
-        "chat_link": "[&BjQxAAA=]"
+        "id": 12601,
+        "chat_link": "[&BjkxAAA=]"
     },
     {
         "name": "Jagdruf",
@@ -4203,11 +4218,6 @@
         "name": "Ruf der Wildnis",
         "id": 12621,
         "chat_link": "[&Bk0xAAA=]"
-    },
-    {
-        "name": "Schlangenschlag",
-        "id": 12622,
-        "chat_link": "[&Bk4xAAA=]"
     },
     {
         "name": "Gegenwurf",
@@ -4440,7 +4450,7 @@
         "chat_link": "[&BrExAAA=]"
     },
     {
-        "name": "Zerfetzender Hieb",
+        "name": "Forscher Hieb",
         "id": 12722,
         "chat_link": "[&BrIxAAA=]"
     },
@@ -4465,7 +4475,7 @@
         "chat_link": "[&BrsxAAA=]"
     },
     {
-        "name": "W\u00fchlen",
+        "name": "Nach Schwert w\u00fchlen",
         "id": 12732,
         "chat_link": "[&BrwxAAA=]"
     },
@@ -4485,17 +4495,17 @@
         "chat_link": "[&Bs0xAAA=]"
     },
     {
-        "name": "W\u00fchlen",
+        "name": "Nach Stein w\u00fchlen",
         "id": 12754,
         "chat_link": "[&BtIxAAA=]"
     },
     {
-        "name": "W\u00fchlen",
+        "name": "Nach Schuppe w\u00fchlen",
         "id": 12755,
         "chat_link": "[&BtMxAAA=]"
     },
     {
-        "name": "W\u00fchlen",
+        "name": "Nach Federn w\u00fchlen",
         "id": 12756,
         "chat_link": "[&BtQxAAA=]"
     },
@@ -5203,11 +5213,6 @@
         "name": "Ruf der Tapferkeit",
         "id": 14394,
         "chat_link": "[&Bjo4AAA=]"
-    },
-    {
-        "name": "Brutaler Schuss",
-        "id": 14395,
-        "chat_link": "[&Bjs4AAA=]"
     },
     {
         "name": "Todesschuss",
@@ -6006,18 +6011,13 @@
     },
     {
         "name": "Aqua-Welle",
-        "id": 21775,
-        "chat_link": "[&Bg9VAAA=]"
+        "id": 21776,
+        "chat_link": "[&BhBVAAA=]"
     },
     {
         "name": "Skelk-Gift",
         "id": 21778,
         "chat_link": "[&BhJVAAA=]"
-    },
-    {
-        "name": "Frostiges Herz",
-        "id": 21795,
-        "chat_link": "[&BiNVAAA=]"
     },
     {
         "name": "Geringeres \"Schmerz ertragen\"",
@@ -6385,7 +6385,7 @@
         "chat_link": "[&BrVtAAA=]"
     },
     {
-        "name": "Den Hammer fallenlassen",
+        "name": "Den Hammer fallen lassen",
         "id": 28110,
         "chat_link": "[&Bs5tAAA=]"
     },
@@ -6680,11 +6680,6 @@
         "chat_link": "[&BiFzAAA=]"
     },
     {
-        "name": "Lockvogel",
-        "id": 29477,
-        "chat_link": "[&BiVzAAA=]"
-    },
-    {
         "name": "Wiederherstellungsfeld",
         "id": 29505,
         "chat_link": "[&BkFzAAA=]"
@@ -6708,6 +6703,11 @@
         "name": "Siegel der Demut",
         "id": 29519,
         "chat_link": "[&Bk9zAAA=]"
+    },
+    {
+        "name": "Ewiger Champion",
+        "id": 29521,
+        "chat_link": "[&BlFzAAA=]"
     },
     {
         "name": "Raketenschuhe",
@@ -7105,11 +7105,6 @@
         "chat_link": "[&Bu11AAA=]"
     },
     {
-        "name": "Geringerer tr\u00fcgerischer Verteidiger",
-        "id": 30192,
-        "chat_link": "[&BvB1AAA=]"
-    },
-    {
         "name": "Haken-Schlag",
         "id": 30210,
         "chat_link": "[&BgJ2AAA=]"
@@ -7418,11 +7413,6 @@
         "name": "Staubschlag",
         "id": 30775,
         "chat_link": "[&Bjd4AAA=]"
-    },
-    {
-        "name": "Schwingen der Entschlossenheit",
-        "id": 30783,
-        "chat_link": "[&Bj94AAA=]"
     },
     {
         "name": "Schleier des Schnitters",
@@ -8008,6 +7998,11 @@
         "name": "Plattform-Zerst\u00f6rung",
         "id": 34174,
         "chat_link": "[&Bn6FAAA=]"
+    },
+    {
+        "name": "Brutaler Schuss",
+        "id": 34296,
+        "chat_link": "[&BviFAAA=]"
     },
     {
         "name": "\"Suchen und Retten!\"",
@@ -9500,6 +9495,11 @@
         "chat_link": "[&BhqaAAA=]"
     },
     {
+        "name": "Murmelschuss",
+        "id": 39454,
+        "chat_link": "[&Bh6aAAA=]"
+    },
+    {
         "name": "Horizontalschlag",
         "id": 39458,
         "chat_link": "[&BiKaAAA=]"
@@ -10050,6 +10050,11 @@
         "chat_link": "[&Bq+cAAA=]"
     },
     {
+        "name": "Omen der Freiheit",
+        "id": 40114,
+        "chat_link": "[&BrKcAAA=]"
+    },
+    {
         "name": "Widerstand stehlen",
         "id": 40133,
         "chat_link": "[&BsWcAAA=]"
@@ -10178,11 +10183,6 @@
         "name": "Erdersch\u00fctterer",
         "id": 40601,
         "chat_link": "[&BpmeAAA=]"
-    },
-    {
-        "name": "Tr\u00fcgerische Wirbelaxt",
-        "id": 40614,
-        "chat_link": "[&BqaeAAA=]"
     },
     {
         "name": "Symbol der Rache",
@@ -10370,6 +10370,11 @@
         "chat_link": "[&BmyhAAA=]"
     },
     {
+        "name": "Ungehinderter Vortrag",
+        "id": 41328,
+        "chat_link": "[&BnChAAA=]"
+    },
+    {
         "name": "Heftiger Schuss",
         "id": 41330,
         "chat_link": "[&BnKhAAA=]"
@@ -10398,6 +10403,11 @@
         "name": "Verschlinger-R\u00fcckzug",
         "id": 41461,
         "chat_link": "[&BvWhAAA=]"
+    },
+    {
+        "name": "Wohltuende Atempause",
+        "id": 41475,
+        "chat_link": "[&BgOiAAA=]"
     },
     {
         "name": "Gefechtsschuss",
@@ -10530,6 +10540,11 @@
         "chat_link": "[&BtGjAAA=]"
     },
     {
+        "name": "\u00dcberw\u00e4ltigende Flinkheit",
+        "id": 41988,
+        "chat_link": "[&BgSkAAA=]"
+    },
+    {
         "name": "Erstklassiger Lichtstrahl",
         "id": 42009,
         "chat_link": "[&BhmkAAA=]"
@@ -10603,6 +10618,11 @@
         "name": "Schreckliche Bresche",
         "id": 42355,
         "chat_link": "[&BnOlAAA=]"
+    },
+    {
+        "name": "Echo der Wahrheit",
+        "id": 42360,
+        "chat_link": "[&BnilAAA=]"
     },
     {
         "name": "Foliant der Tapferkeit",
@@ -10700,6 +10720,11 @@
         "chat_link": "[&Bm+nAAA=]"
     },
     {
+        "name": "Anfangspassage",
+        "id": 42864,
+        "chat_link": "[&BnCnAAA=]"
+    },
+    {
         "name": "Scherende Klinge",
         "id": 42867,
         "chat_link": "[&BnOnAAA=]"
@@ -10723,6 +10748,11 @@
         "name": "Sandwoge",
         "id": 42917,
         "chat_link": "[&BqWnAAA=]"
+    },
+    {
+        "name": "Flammenwoge",
+        "id": 42924,
+        "chat_link": "[&BqynAAA=]"
     },
     {
         "name": "Austrocknen",
@@ -10750,6 +10780,11 @@
         "chat_link": "[&BsqnAAA=]"
     },
     {
+        "name": "Erfrischende Atempause",
+        "id": 42960,
+        "chat_link": "[&BtCnAAA=]"
+    },
+    {
         "name": "Savannenschlag",
         "id": 42963,
         "chat_link": "[&BtOnAAA=]"
@@ -10758,6 +10793,11 @@
         "name": "Holo-Sprung",
         "id": 42965,
         "chat_link": "[&BtWnAAA=]"
+    },
+    {
+        "name": "Wirkungsvolle Beschleunigung",
+        "id": 42983,
+        "chat_link": "[&BuenAAA=]"
     },
     {
         "name": "Bestienmodus verlassen",
@@ -11015,6 +11055,11 @@
         "chat_link": "[&BuSrAAA=]"
     },
     {
+        "name": "Stimme der Wahrheit",
+        "id": 44008,
+        "chat_link": "[&BuirAAA=]"
+    },
+    {
         "name": "Heldenhafter Befehl",
         "id": 44076,
         "chat_link": "[&BiysAAA=]"
@@ -11025,7 +11070,7 @@
         "chat_link": "[&BjCsAAA=]"
     },
     {
-        "name": "Urteil des Todes",
+        "name": "Boshaftes Urteil des Todes",
         "id": 44087,
         "chat_link": "[&BjesAAA=]"
     },
@@ -11058,6 +11103,11 @@
         "name": "Geteilte Welle",
         "id": 44241,
         "chat_link": "[&BtGsAAA=]"
+    },
+    {
+        "name": "Gekl\u00e4rte Schlussfolgerung",
+        "id": 44248,
+        "chat_link": "[&BtisAAA=]"
     },
     {
         "name": "Licht-Schlag \u2013 Sturm",
@@ -11305,6 +11355,11 @@
         "chat_link": "[&BvevAAA=]"
     },
     {
+        "name": "Flammenansturm",
+        "id": 45082,
+        "chat_link": "[&BhqwAAA=]"
+    },
+    {
         "name": "Boshafte Wiederherstellung",
         "id": 45088,
         "chat_link": "[&BiCwAAA=]"
@@ -11440,11 +11495,6 @@
         "chat_link": "[&Bo2yAAA=]"
     },
     {
-        "name": "Sandscherben",
-        "id": 45711,
-        "chat_link": "[&Bo+yAAA=]"
-    },
-    {
         "name": "Rudel aus einem Wolf",
         "id": 45717,
         "chat_link": "[&BpWyAAA=]"
@@ -11568,11 +11618,6 @@
         "name": "Hammer der Weisheit",
         "id": 46170,
         "chat_link": "[&Blq0AAA=]"
-    },
-    {
-        "name": "St\u00e4rkendes Gebr\u00fcll",
-        "id": 46183,
-        "chat_link": "[&Bme0AAA=]"
     },
     {
         "name": "Feurige Salve",
@@ -14288,11 +14333,6 @@
         "name": "Uraltes Echo",
         "id": 55029,
         "chat_link": "[&BvXWAAA=]"
-    },
-    {
-        "name": "Schwinger",
-        "id": 55031,
-        "chat_link": "[&BvfWAAA=]"
     },
     {
         "name": "Schild des R\u00e4chers",
@@ -17610,7 +17650,7 @@
         "chat_link": "[&Bnb2AAA=]"
     },
     {
-        "name": "\u00dcbertaktetes Siegel",
+        "name": "\u00dcbertaktungs-Siegel",
         "id": 63095,
         "chat_link": "[&Bnf2AAA=]"
     },
@@ -17620,7 +17660,7 @@
         "chat_link": "[&BoP2AAA=]"
     },
     {
-        "name": "Siegel umstellen",
+        "name": "Verschiebungs-Siegel",
         "id": 63111,
         "chat_link": "[&Bof2AAA=]"
     },
@@ -17715,7 +17755,7 @@
         "chat_link": "[&BsT2AAA=]"
     },
     {
-        "name": "Barriere-Entladung",
+        "name": "Streitkolben-Knall",
         "id": 63174,
         "chat_link": "[&Bsb2AAA=]"
     },
@@ -17950,7 +17990,7 @@
         "chat_link": "[&Bob3AAA=]"
     },
     {
-        "name": "Reihe entladen",
+        "name": "Entladungsfeld",
         "id": 63367,
         "chat_link": "[&Bof3AAA=]"
     },
@@ -18065,7 +18105,7 @@
         "chat_link": "[&BhD6AAA=]"
     },
     {
-        "name": "B\u00f6ser Biss",
+        "name": "Preschen",
         "id": 64038,
         "chat_link": "[&Bib6AAA=]"
     },
@@ -18195,7 +18235,7 @@
         "chat_link": "[&Bp38AAA=]"
     },
     {
-        "name": "Jade-Kanone",
+        "name": "Kracher",
         "id": 64699,
         "chat_link": "[&Brv8AAA=]"
     },
@@ -18495,7 +18535,7 @@
         "chat_link": "[&BtACAQA=]"
     },
     {
-        "name": "Schnappen",
+        "name": "Schwerer Schuss",
         "id": 66258,
         "chat_link": "[&BtICAQA=]"
     },
@@ -18568,11 +18608,6 @@
         "name": "Pulverisieren",
         "id": 66760,
         "chat_link": "[&BsgEAQA=]"
-    },
-    {
-        "name": "Vampirischer Biss",
-        "id": 66780,
-        "chat_link": "[&BtwEAQA=]"
     },
     {
         "name": "Mauer der Angst",
@@ -19138,5 +19173,1080 @@
         "name": "Foliant der Tapferkeit",
         "id": 68650,
         "chat_link": "[&BioMAQA=]"
+    },
+    {
+        "name": "Erneuerter Fokus",
+        "id": 68666,
+        "chat_link": "[&BjoMAQA=]"
+    },
+    {
+        "name": "\"Sp\u00fcrt meinen Zorn!\"",
+        "id": 68670,
+        "chat_link": "[&Bj4MAQA=]"
+    },
+    {
+        "name": "Siegel der Tapferkeit",
+        "id": 68676,
+        "chat_link": "[&BkQMAQA=]"
+    },
+    {
+        "name": "Drachenschlund",
+        "id": 68686,
+        "chat_link": "[&Bk4MAQA=]"
+    },
+    {
+        "name": "Hieb",
+        "id": 68714,
+        "chat_link": "[&BmoMAQA=]"
+    },
+    {
+        "name": "Energiestrom",
+        "id": 68756,
+        "chat_link": "[&BpQMAQA=]"
+    },
+    {
+        "name": "Verdorbener Abzapfer",
+        "id": 68807,
+        "chat_link": "[&BscMAQA=]"
+    },
+    {
+        "name": "Umschlie\u00dfende Dunkelheit",
+        "id": 68809,
+        "chat_link": "[&BskMAQA=]"
+    },
+    {
+        "name": "Umschlie\u00dfende Dunkelheit",
+        "id": 68865,
+        "chat_link": "[&BgENAQA=]"
+    },
+    {
+        "name": "Zeichen der Qual",
+        "id": 68874,
+        "chat_link": "[&BgoNAQA=]"
+    },
+    {
+        "name": "Licht-Lache",
+        "id": 68940,
+        "chat_link": "[&BkwNAQA=]"
+    },
+    {
+        "name": "Energiestrom",
+        "id": 68942,
+        "chat_link": "[&Bk4NAQA=]"
+    },
+    {
+        "name": "Umschlie\u00dfende Dunkelheit",
+        "id": 68948,
+        "chat_link": "[&BlQNAQA=]"
+    },
+    {
+        "name": "Dunst-Entladung",
+        "id": 68950,
+        "chat_link": "[&BlYNAQA=]"
+    },
+    {
+        "name": "\u00dcberfall",
+        "id": 68954,
+        "chat_link": "[&BloNAQA=]"
+    },
+    {
+        "name": "Umschlie\u00dfende Dunkelheit",
+        "id": 68958,
+        "chat_link": "[&Bl4NAQA=]"
+    },
+    {
+        "name": "Erdzerfetzer",
+        "id": 69001,
+        "chat_link": "[&BokNAQA=]"
+    },
+    {
+        "name": "Schatten-Furche",
+        "id": 69054,
+        "chat_link": "[&Br4NAQA=]"
+    },
+    {
+        "name": "Himmelszerfetzer",
+        "id": 69065,
+        "chat_link": "[&BskNAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69149,
+        "chat_link": "[&Bh0OAQA=]"
+    },
+    {
+        "name": "Doppel-Orbits: Feuer und Erde",
+        "id": 69164,
+        "chat_link": "[&BiwOAQA=]"
+    },
+    {
+        "name": "Wilder Schwung",
+        "id": 69167,
+        "chat_link": "[&Bi8OAQA=]"
+    },
+    {
+        "name": "Solarbrillanz",
+        "id": 69169,
+        "chat_link": "[&BjEOAQA=]"
+    },
+    {
+        "name": "Boshafter Schattenschwall",
+        "id": 69173,
+        "chat_link": "[&BjUOAQA=]"
+    },
+    {
+        "name": "Solarbrillanz",
+        "id": 69175,
+        "chat_link": "[&BjcOAQA=]"
+    },
+    {
+        "name": "Geringere \"Wache\"!",
+        "id": 69183,
+        "chat_link": "[&Bj8OAQA=]"
+    },
+    {
+        "name": "Doppel-Orbits: Feuer und Wasser",
+        "id": 69184,
+        "chat_link": "[&BkAOAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69185,
+        "chat_link": "[&BkEOAQA=]"
+    },
+    {
+        "name": "Anspringen",
+        "id": 69203,
+        "chat_link": "[&BlMOAQA=]"
+    },
+    {
+        "name": "Doppel-Orbits: Wasser und Luft",
+        "id": 69211,
+        "chat_link": "[&BlsOAQA=]"
+    },
+    {
+        "name": "Klopfen",
+        "id": 69212,
+        "chat_link": "[&BlwOAQA=]"
+    },
+    {
+        "name": "Nervengiftausbruch",
+        "id": 69223,
+        "chat_link": "[&BmcOAQA=]"
+    },
+    {
+        "name": "Furcht-Antlitz",
+        "id": 69240,
+        "chat_link": "[&BngOAQA=]"
+    },
+    {
+        "name": "Wassergeist",
+        "id": 69244,
+        "chat_link": "[&BnwOAQA=]"
+    },
+    {
+        "name": "Durchbrechender Schlag",
+        "id": 69245,
+        "chat_link": "[&Bn0OAQA=]"
+    },
+    {
+        "name": "Doppel-Orbits: Luft und Erde",
+        "id": 69246,
+        "chat_link": "[&Bn4OAQA=]"
+    },
+    {
+        "name": "Boshafter Haken-Schlag",
+        "id": 69250,
+        "chat_link": "[&BoIOAQA=]"
+    },
+    {
+        "name": "\u00dcberm\u00e4chtiger Schmetterschlag",
+        "id": 69262,
+        "chat_link": "[&Bo4OAQA=]"
+    },
+    {
+        "name": "Schlitzender Mahlstrom",
+        "id": 69290,
+        "chat_link": "[&BqoOAQA=]"
+    },
+    {
+        "name": "Durchbrechender Schlag",
+        "id": 69297,
+        "chat_link": "[&BrEOAQA=]"
+    },
+    {
+        "name": "Geist der Natur",
+        "id": 69300,
+        "chat_link": "[&BrQOAQA=]"
+    },
+    {
+        "name": "Leben abzapfen",
+        "id": 69302,
+        "chat_link": "[&BrYOAQA=]"
+    },
+    {
+        "name": "Klingenruf",
+        "id": 69311,
+        "chat_link": "[&Br8OAQA=]"
+    },
+    {
+        "name": "Urteil des Todes",
+        "id": 69316,
+        "chat_link": "[&BsQOAQA=]"
+    },
+    {
+        "name": "Wilde Sto\u00dfwelle",
+        "id": 69340,
+        "chat_link": "[&BtwOAQA=]"
+    },
+    {
+        "name": "Doppel-Orbits: Feuer und Luft",
+        "id": 69341,
+        "chat_link": "[&Bt0OAQA=]"
+    },
+    {
+        "name": "Furcht-Antlitz",
+        "id": 69343,
+        "chat_link": "[&Bt8OAQA=]"
+    },
+    {
+        "name": "Verweilende Gedanken",
+        "id": 69344,
+        "chat_link": "[&BuAOAQA=]"
+    },
+    {
+        "name": "Sonnengeist",
+        "id": 69349,
+        "chat_link": "[&BuUOAQA=]"
+    },
+    {
+        "name": "Sturmgeist",
+        "id": 69351,
+        "chat_link": "[&BucOAQA=]"
+    },
+    {
+        "name": "Be\u00e4ngstigende Geschwindigkeit",
+        "id": 69356,
+        "chat_link": "[&BuwOAQA=]"
+    },
+    {
+        "name": "Steingeist",
+        "id": 69378,
+        "chat_link": "[&BgIPAQA=]"
+    },
+    {
+        "name": "Frostgeist",
+        "id": 69379,
+        "chat_link": "[&BgMPAQA=]"
+    },
+    {
+        "name": "\u00c4xte der Symmetrie",
+        "id": 69385,
+        "chat_link": "[&BgkPAQA=]"
+    },
+    {
+        "name": "Phantom-Schnitter",
+        "id": 69389,
+        "chat_link": "[&Bg0PAQA=]"
+    },
+    {
+        "name": "Durchbrechender Schlag",
+        "id": 69392,
+        "chat_link": "[&BhAPAQA=]"
+    },
+    {
+        "name": "Doppel-Orbits: Wasser und Erde",
+        "id": 69413,
+        "chat_link": "[&BiUPAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69418,
+        "chat_link": "[&BioPAQA=]"
+    },
+    {
+        "name": "Weltenbeil",
+        "id": 69419,
+        "chat_link": "[&BisPAQA=]"
+    },
+    {
+        "name": "Durchbrechender Schlag",
+        "id": 69433,
+        "chat_link": "[&BjkPAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69475,
+        "chat_link": "[&BmMPAQA=]"
+    },
+    {
+        "name": "Einstimmungshaltung",
+        "id": 69555,
+        "chat_link": "[&BrMPAQA=]"
+    },
+    {
+        "name": "Sternschnuppen",
+        "id": 69560,
+        "chat_link": "[&BrgPAQA=]"
+    },
+    {
+        "name": "Geteilte Zerst\u00f6rung",
+        "id": 69564,
+        "chat_link": "[&BrwPAQA=]"
+    },
+    {
+        "name": "Strahlender Bogen",
+        "id": 69565,
+        "chat_link": "[&Br0PAQA=]"
+    },
+    {
+        "name": "Weltenbeil",
+        "id": 69663,
+        "chat_link": "[&Bh8QAQA=]"
+    },
+    {
+        "name": "Blendende Strahlung",
+        "id": 69723,
+        "chat_link": "[&BlsQAQA=]"
+    },
+    {
+        "name": "Kryptis-Dunst",
+        "id": 69835,
+        "chat_link": "[&BssQAQA=]"
+    },
+    {
+        "name": "Sonnen-Zerfetzer",
+        "id": 69906,
+        "chat_link": "[&BhIRAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69910,
+        "chat_link": "[&BhYRAQA=]"
+    },
+    {
+        "name": "Maler-Haltung",
+        "id": 69925,
+        "chat_link": "[&BiURAQA=]"
+    },
+    {
+        "name": "Angriffs-Konstellation",
+        "id": 69950,
+        "chat_link": "[&Bj4RAQA=]"
+    },
+    {
+        "name": "Blendende Strahlung",
+        "id": 69991,
+        "chat_link": "[&BmcRAQA=]"
+    },
+    {
+        "name": "Sturmfall",
+        "id": 70014,
+        "chat_link": "[&Bn4RAQA=]"
+    },
+    {
+        "name": "Verfehlter Strich",
+        "id": 70205,
+        "chat_link": "[&Bj0SAQA=]"
+    },
+    {
+        "name": "Zuschnappen",
+        "id": 70241,
+        "chat_link": "[&BmESAQA=]"
+    },
+    {
+        "name": "Geteilte Zerst\u00f6rung",
+        "id": 70317,
+        "chat_link": "[&Bq0SAQA=]"
+    },
+    {
+        "name": "Geteilte Zerst\u00f6rung",
+        "id": 70426,
+        "chat_link": "[&BhoTAQA=]"
+    },
+    {
+        "name": "Blendende Strahlung",
+        "id": 70497,
+        "chat_link": "[&BmETAQA=]"
+    },
+    {
+        "name": "Sonnen-Schneide",
+        "id": 70514,
+        "chat_link": "[&BnITAQA=]"
+    },
+    {
+        "name": "Seelenschmaus",
+        "id": 70567,
+        "chat_link": "[&BqcTAQA=]"
+    },
+    {
+        "name": "Angriffs-Konstellation",
+        "id": 70584,
+        "chat_link": "[&BrgTAQA=]"
+    },
+    {
+        "name": "Blendende Strahlung",
+        "id": 70740,
+        "chat_link": "[&BlQUAQA=]"
+    },
+    {
+        "name": "Leuchts\u00e4bel",
+        "id": 70771,
+        "chat_link": "[&BnMUAQA=]"
+    },
+    {
+        "name": "Relikt von Dwayna",
+        "id": 70785,
+        "chat_link": "[&BoEUAQA=]"
+    },
+    {
+        "name": "Ley-Linien-Vortex",
+        "id": 70889,
+        "chat_link": "[&BukUAQA=]"
+    },
+    {
+        "name": "Relikt von Dwayna",
+        "id": 70981,
+        "chat_link": "[&BkUVAQA=]"
+    },
+    {
+        "name": "Dimensionsbresche",
+        "id": 71002,
+        "chat_link": "[&BloVAQA=]"
+    },
+    {
+        "name": "Meteoriteneinschlag",
+        "id": 71042,
+        "chat_link": "[&BoIVAQA=]"
+    },
+    {
+        "name": "D\u00e4monisches Fieber",
+        "id": 71047,
+        "chat_link": "[&BocVAQA=]"
+    },
+    {
+        "name": "D\u00e4monische Entladung",
+        "id": 71082,
+        "chat_link": "[&BqoVAQA=]"
+    },
+    {
+        "name": "Weltenbeil",
+        "id": 71085,
+        "chat_link": "[&Bq0VAQA=]"
+    },
+    {
+        "name": "Brechungs-Klinge",
+        "id": 71121,
+        "chat_link": "[&BtEVAQA=]"
+    },
+    {
+        "name": "Einstimmung abbrechen",
+        "id": 71188,
+        "chat_link": "[&BhQWAQA=]"
+    },
+    {
+        "name": "Ausfall",
+        "id": 71282,
+        "chat_link": "[&BnIWAQA=]"
+    },
+    {
+        "name": "",
+        "id": 71306,
+        "chat_link": "[&BooWAQA=]"
+    },
+    {
+        "name": "Sturmfall",
+        "id": 71465,
+        "chat_link": "[&BikXAQA=]"
+    },
+    {
+        "name": "Scherende Winde",
+        "id": 71468,
+        "chat_link": "[&BiwXAQA=]"
+    },
+    {
+        "name": "Stromschlag",
+        "id": 71499,
+        "chat_link": "[&BksXAQA=]"
+    },
+    {
+        "name": "Globber spucken",
+        "id": 71546,
+        "chat_link": "[&BnoXAQA=]"
+    },
+    {
+        "name": "Verdorbener Grund",
+        "id": 71667,
+        "chat_link": "[&BvMXAQA=]"
+    },
+    {
+        "name": "Feuerodem",
+        "id": 71679,
+        "chat_link": "[&Bv8XAQA=]"
+    },
+    {
+        "name": "Ley-Energie-Puls",
+        "id": 71688,
+        "chat_link": "[&BggYAQA=]"
+    },
+    {
+        "name": "Sto\u00dfwelle",
+        "id": 71701,
+        "chat_link": "[&BhUYAQA=]"
+    },
+    {
+        "name": "Sturmfall",
+        "id": 71733,
+        "chat_link": "[&BjUYAQA=]"
+    },
+    {
+        "name": "Scherende Winde",
+        "id": 71738,
+        "chat_link": "[&BjoYAQA=]"
+    },
+    {
+        "name": "Risse in der Realit\u00e4t",
+        "id": 71742,
+        "chat_link": "[&Bj4YAQA=]"
+    },
+    {
+        "name": "Pfad der Uners\u00e4ttlichkeit",
+        "id": 71791,
+        "chat_link": "[&Bm8YAQA=]"
+    },
+    {
+        "name": "Dimensionale \u00d6ffnung",
+        "id": 71792,
+        "chat_link": "[&BnAYAQA=]"
+    },
+    {
+        "name": "Luft-Beweglichkeit",
+        "id": 71796,
+        "chat_link": "[&BnQYAQA=]"
+    },
+    {
+        "name": "Niedere Litanei des Zorns",
+        "id": 71798,
+        "chat_link": "[&BnYYAQA=]"
+    },
+    {
+        "name": "Pfad der Uners\u00e4ttlichkeit",
+        "id": 71799,
+        "chat_link": "[&BncYAQA=]"
+    },
+    {
+        "name": "Spritzigkeit",
+        "id": 71800,
+        "chat_link": "[&BngYAQA=]"
+    },
+    {
+        "name": "Helmbrecher",
+        "id": 71802,
+        "chat_link": "[&BnoYAQA=]"
+    },
+    {
+        "name": "Hungernder Mahlstrom",
+        "id": 71813,
+        "chat_link": "[&BoUYAQA=]"
+    },
+    {
+        "name": "Erbl\u00fchende Aura",
+        "id": 71816,
+        "chat_link": "[&BogYAQA=]"
+    },
+    {
+        "name": "Jurisdiktion",
+        "id": 71817,
+        "chat_link": "[&BokYAQA=]"
+    },
+    {
+        "name": "Au\u00dferweltliche Verlockung",
+        "id": 71827,
+        "chat_link": "[&BpMYAQA=]"
+    },
+    {
+        "name": "Wildes Abprallen",
+        "id": 71828,
+        "chat_link": "[&BpQYAQA=]"
+    },
+    {
+        "name": "Jurisdiktion abfeuern",
+        "id": 71832,
+        "chat_link": "[&BpgYAQA=]"
+    },
+    {
+        "name": "Boshafte listige Salve",
+        "id": 71835,
+        "chat_link": "[&BpsYAQA=]"
+    },
+    {
+        "name": "Wilde Schl\u00e4ge",
+        "id": 71841,
+        "chat_link": "[&BqEYAQA=]"
+    },
+    {
+        "name": "Felsbrocken-Entladung",
+        "id": 71842,
+        "chat_link": "[&BqIYAQA=]"
+    },
+    {
+        "name": "Luft-Beweglichkeit",
+        "id": 71847,
+        "chat_link": "[&BqcYAQA=]"
+    },
+    {
+        "name": "Entkr\u00e4ftungs-Echo",
+        "id": 71850,
+        "chat_link": "[&BqoYAQA=]"
+    },
+    {
+        "name": "Schlangensalve",
+        "id": 71852,
+        "chat_link": "[&BqwYAQA=]"
+    },
+    {
+        "name": "Wirbelnde Axt",
+        "id": 71854,
+        "chat_link": "[&Bq4YAQA=]"
+    },
+    {
+        "name": "Luft-Beweglichkeit",
+        "id": 71857,
+        "chat_link": "[&BrEYAQA=]"
+    },
+    {
+        "name": "Deaktiviert das Au\u00dferweltliche Band",
+        "id": 71858,
+        "chat_link": "[&BrIYAQA=]"
+    },
+    {
+        "name": "Linienbrecher",
+        "id": 71860,
+        "chat_link": "[&BrQYAQA=]"
+    },
+    {
+        "name": "Frostfeuer-Schauer",
+        "id": 71863,
+        "chat_link": "[&BrcYAQA=]"
+    },
+    {
+        "name": "Entsetzlicher Sturm",
+        "id": 71864,
+        "chat_link": "[&BrgYAQA=]"
+    },
+    {
+        "name": "Pfad der Uners\u00e4ttlichkeit",
+        "id": 71867,
+        "chat_link": "[&BrsYAQA=]"
+    },
+    {
+        "name": "Essenz des fl\u00fcssigen Zorns",
+        "id": 71870,
+        "chat_link": "[&Br4YAQA=]"
+    },
+    {
+        "name": "Vollfressen",
+        "id": 71871,
+        "chat_link": "[&Br8YAQA=]"
+    },
+    {
+        "name": "Bogendetonator",
+        "id": 71873,
+        "chat_link": "[&BsEYAQA=]"
+    },
+    {
+        "name": "Festungswall-Spalter",
+        "id": 71875,
+        "chat_link": "[&BsMYAQA=]"
+    },
+    {
+        "name": "Au\u00dferweltliche Verlockung",
+        "id": 71880,
+        "chat_link": "[&BsgYAQA=]"
+    },
+    {
+        "name": "Essenz der lebenden Schatten",
+        "id": 71882,
+        "chat_link": "[&BsoYAQA=]"
+    },
+    {
+        "name": "Raffgierige Welle",
+        "id": 71883,
+        "chat_link": "[&BssYAQA=]"
+    },
+    {
+        "name": "Kultivieren",
+        "id": 71885,
+        "chat_link": "[&Bs0YAQA=]"
+    },
+    {
+        "name": "Essenz der geborgten Zeit",
+        "id": 71888,
+        "chat_link": "[&BtAYAQA=]"
+    },
+    {
+        "name": "Trotziges Gebr\u00fcll",
+        "id": 71889,
+        "chat_link": "[&BtEYAQA=]"
+    },
+    {
+        "name": "Flammendes Entgegenkommen",
+        "id": 71892,
+        "chat_link": "[&BtQYAQA=]"
+    },
+    {
+        "name": "Durchbohrender Kiesel",
+        "id": 71893,
+        "chat_link": "[&BtUYAQA=]"
+    },
+    {
+        "name": "\u00c4xte zur\u00fcckrufen",
+        "id": 71895,
+        "chat_link": "[&BtcYAQA=]"
+    },
+    {
+        "name": "Reise",
+        "id": 71897,
+        "chat_link": "[&BtkYAQA=]"
+    },
+    {
+        "name": "Plasma der Erblindung",
+        "id": 71898,
+        "chat_link": "[&BtoYAQA=]"
+    },
+    {
+        "name": "Distelschutz",
+        "id": 71903,
+        "chat_link": "[&Bt8YAQA=]"
+    },
+    {
+        "name": "Elektrische Exponierung",
+        "id": 71904,
+        "chat_link": "[&BuAYAQA=]"
+    },
+    {
+        "name": "Elementarexplosion",
+        "id": 71907,
+        "chat_link": "[&BuMYAQA=]"
+    },
+    {
+        "name": "S\u00e4ttigen",
+        "id": 71914,
+        "chat_link": "[&BuoYAQA=]"
+    },
+    {
+        "name": "Hagel der Gerechtigkeit",
+        "id": 71918,
+        "chat_link": "[&Bu4YAQA=]"
+    },
+    {
+        "name": "Pfad zum Sieg",
+        "id": 71922,
+        "chat_link": "[&BvIYAQA=]"
+    },
+    {
+        "name": "Verzehren",
+        "id": 71926,
+        "chat_link": "[&BvYYAQA=]"
+    },
+    {
+        "name": "Versengender Schuss",
+        "id": 71929,
+        "chat_link": "[&BvkYAQA=]"
+    },
+    {
+        "name": "Bitterer Schnitt",
+        "id": 71930,
+        "chat_link": "[&BvoYAQA=]"
+    },
+    {
+        "name": "Pfad zum Sieg",
+        "id": 71932,
+        "chat_link": "[&BvwYAQA=]"
+    },
+    {
+        "name": "Gelassener Hieb",
+        "id": 71933,
+        "chat_link": "[&Bv0YAQA=]"
+    },
+    {
+        "name": "Gefrorenes Feuer",
+        "id": 71935,
+        "chat_link": "[&Bv8YAQA=]"
+    },
+    {
+        "name": "Sengende Salve",
+        "id": 71940,
+        "chat_link": "[&BgQZAQA=]"
+    },
+    {
+        "name": "Motivierender Wirbel",
+        "id": 71942,
+        "chat_link": "[&BgYZAQA=]"
+    },
+    {
+        "name": "Pfad zum Sieg",
+        "id": 71950,
+        "chat_link": "[&Bg4ZAQA=]"
+    },
+    {
+        "name": "Au\u00dferweltliches Band",
+        "id": 71952,
+        "chat_link": "[&BhAZAQA=]"
+    },
+    {
+        "name": "Flie\u00dfende Finesse",
+        "id": 71960,
+        "chat_link": "[&BhgZAQA=]"
+    },
+    {
+        "name": "Eichenkn\u00fcppel",
+        "id": 71963,
+        "chat_link": "[&BhsZAQA=]"
+    },
+    {
+        "name": "Koordinierter Angriff",
+        "id": 71965,
+        "chat_link": "[&Bh0ZAQA=]"
+    },
+    {
+        "name": "Tr\u00e4gheitsentladung",
+        "id": 71966,
+        "chat_link": "[&Bh4ZAQA=]"
+    },
+    {
+        "name": "Wirbelnde Axt",
+        "id": 71967,
+        "chat_link": "[&Bh8ZAQA=]"
+    },
+    {
+        "name": "Friedensw\u00e4chter",
+        "id": 71968,
+        "chat_link": "[&BiAZAQA=]"
+    },
+    {
+        "name": "Pfad der Uners\u00e4ttlichkeit",
+        "id": 71974,
+        "chat_link": "[&BiYZAQA=]"
+    },
+    {
+        "name": "Kugelf\u00e4nger",
+        "id": 71975,
+        "chat_link": "[&BicZAQA=]"
+    },
+    {
+        "name": "Entkr\u00e4ftungs-Klinge",
+        "id": 71986,
+        "chat_link": "[&BjIZAQA=]"
+    },
+    {
+        "name": "Symbol der Z\u00fcndung",
+        "id": 71987,
+        "chat_link": "[&BjMZAQA=]"
+    },
+    {
+        "name": "Detoniert Jurisdiktion",
+        "id": 71989,
+        "chat_link": "[&BjUZAQA=]"
+    },
+    {
+        "name": "Feuriger Meteor",
+        "id": 71993,
+        "chat_link": "[&BjkZAQA=]"
+    },
+    {
+        "name": "Verschlingendes Antlitz",
+        "id": 71998,
+        "chat_link": "[&Bj4ZAQA=]"
+    },
+    {
+        "name": "Erbl\u00fchen",
+        "id": 71999,
+        "chat_link": "[&Bj8ZAQA=]"
+    },
+    {
+        "name": "Umkehrschlag",
+        "id": 72001,
+        "chat_link": "[&BkEZAQA=]"
+    },
+    {
+        "name": "Wackerer Sprung",
+        "id": 72002,
+        "chat_link": "[&BkIZAQA=]"
+    },
+    {
+        "name": "Inspirierende Bildsprache",
+        "id": 72005,
+        "chat_link": "[&BkUZAQA=]"
+    },
+    {
+        "name": "Tr\u00fcgerischer Pr\u00e4zisionssch\u00fctze",
+        "id": 72007,
+        "chat_link": "[&BkcZAQA=]"
+    },
+    {
+        "name": "Singularit\u00e4tsschuss",
+        "id": 72008,
+        "chat_link": "[&BkgZAQA=]"
+    },
+    {
+        "name": "Entkr\u00e4ftende Erde",
+        "id": 72023,
+        "chat_link": "[&BlcZAQA=]"
+    },
+    {
+        "name": "Ausbalancierter Schlag",
+        "id": 72024,
+        "chat_link": "[&BlgZAQA=]"
+    },
+    {
+        "name": "Schnappzug",
+        "id": 72026,
+        "chat_link": "[&BloZAQA=]"
+    },
+    {
+        "name": "Frostiger Schauer",
+        "id": 72028,
+        "chat_link": "[&BlwZAQA=]"
+    },
+    {
+        "name": "Pfad zum Sieg",
+        "id": 72029,
+        "chat_link": "[&Bl0ZAQA=]"
+    },
+    {
+        "name": "Mitten durchs Herz",
+        "id": 72031,
+        "chat_link": "[&Bl8ZAQA=]"
+    },
+    {
+        "name": "Zerschmetternder Stein",
+        "id": 72032,
+        "chat_link": "[&BmAZAQA=]"
+    },
+    {
+        "name": "Lindernder Spritzer",
+        "id": 72033,
+        "chat_link": "[&BmEZAQA=]"
+    },
+    {
+        "name": "Listige Salve",
+        "id": 72034,
+        "chat_link": "[&BmIZAQA=]"
+    },
+    {
+        "name": "Entfaltung",
+        "id": 72044,
+        "chat_link": "[&BmwZAQA=]"
+    },
+    {
+        "name": "Inspirierender Wirbel",
+        "id": 72049,
+        "chat_link": "[&BnEZAQA=]"
+    },
+    {
+        "name": "T\u00f6dliche Entkr\u00e4ftung",
+        "id": 72051,
+        "chat_link": "[&BnMZAQA=]"
+    },
+    {
+        "name": "Essenz des belebten Sandes",
+        "id": 72052,
+        "chat_link": "[&BnQZAQA=]"
+    },
+    {
+        "name": "Energieverschmelzung",
+        "id": 72058,
+        "chat_link": "[&BnoZAQA=]"
+    },
+    {
+        "name": "Widerhallende Erosion",
+        "id": 72062,
+        "chat_link": "[&Bn4ZAQA=]"
+    },
+    {
+        "name": "Schlemmen",
+        "id": 72068,
+        "chat_link": "[&BoQZAQA=]"
+    },
+    {
+        "name": "Abstraktion",
+        "id": 72076,
+        "chat_link": "[&BowZAQA=]"
+    },
+    {
+        "name": "Ungez\u00fcgeltes Wachstum",
+        "id": 72079,
+        "chat_link": "[&Bo8ZAQA=]"
+    },
+    {
+        "name": "Keimung",
+        "id": 72088,
+        "chat_link": "[&BpgZAQA=]"
+    },
+    {
+        "name": "Pfad zum Sieg",
+        "id": 72089,
+        "chat_link": "[&BpkZAQA=]"
+    },
+    {
+        "name": "Funktions-Gyroskop",
+        "id": 72103,
+        "chat_link": "[&BqcZAQA=]"
+    },
+    {
+        "name": "Flamme des Eiferers",
+        "id": 72104,
+        "chat_link": "[&BqgZAQA=]"
+    },
+    {
+        "name": "Erbl\u00fchende Aura detonieren",
+        "id": 72109,
+        "chat_link": "[&Bq0ZAQA=]"
+    },
+    {
+        "name": "Funktions-Gyroskop",
+        "id": 72114,
+        "chat_link": "[&BrIZAQA=]"
+    },
+    {
+        "name": "Sturmfall",
+        "id": 72212,
+        "chat_link": "[&BhQaAQA=]"
+    },
+    {
+        "name": "Sturmfall",
+        "id": 72284,
+        "chat_link": "[&BlwaAQA=]"
+    },
+    {
+        "name": "Abgrund-Riss",
+        "id": 72314,
+        "chat_link": "[&BnoaAQA=]"
+    },
+    {
+        "name": "Eisklinges Ingrimm",
+        "id": 72359,
+        "chat_link": "[&BqcaAQA=]"
+    },
+    {
+        "name": "Klingenklaues Rage",
+        "id": 72363,
+        "chat_link": "[&BqsaAQA=]"
+    },
+    {
+        "name": "Finsterklinges Wagnis",
+        "id": 72366,
+        "chat_link": "[&Bq4aAQA=]"
+    },
+    {
+        "name": "Fleischfresser",
+        "id": 72369,
+        "chat_link": "[&BrEaAQA=]"
+    },
+    {
+        "name": "Bastion Bruchklinges",
+        "id": 72389,
+        "chat_link": "[&BsUaAQA=]"
     }
 ]

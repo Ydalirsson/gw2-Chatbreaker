@@ -60,7 +60,7 @@
         "chat_link": null
     },
     {
-        "name": "Elemental Surge",
+        "name": "Arcane Lightning",
         "id": 263,
         "chat_link": null
     },
@@ -520,7 +520,7 @@
         "chat_link": null
     },
     {
-        "name": "Strength in Numbers",
+        "name": "Redemption",
         "id": 584,
         "chat_link": null
     },
@@ -770,7 +770,7 @@
         "chat_link": null
     },
     {
-        "name": "Desperate Decoy",
+        "name": "Mental Gymnastics",
         "id": 705,
         "chat_link": null
     },
@@ -845,7 +845,7 @@
         "chat_link": null
     },
     {
-        "name": "Restorative Illusions",
+        "name": "Ego Restoration",
         "id": 740,
         "chat_link": null
     },
@@ -900,7 +900,7 @@
         "chat_link": null
     },
     {
-        "name": "Quickening Thirst",
+        "name": "Overflowing Thirst",
         "id": 788,
         "chat_link": null
     },
@@ -940,7 +940,7 @@
         "chat_link": null
     },
     {
-        "name": "Terror",
+        "name": "Parasitic Contagion",
         "id": 812,
         "chat_link": null
     },
@@ -1145,7 +1145,7 @@
         "chat_link": null
     },
     {
-        "name": "Instinctive Reaction",
+        "name": "Wellspring",
         "id": 978,
         "chat_link": null
     },
@@ -1315,7 +1315,7 @@
         "chat_link": null
     },
     {
-        "name": "Empathic Bond",
+        "name": "Carnivore",
         "id": 1094,
         "chat_link": null
     },
@@ -1335,7 +1335,7 @@
         "chat_link": null
     },
     {
-        "name": "Shared Anguish",
+        "name": "Empathic Bond",
         "id": 1100,
         "chat_link": null
     },
@@ -1485,7 +1485,7 @@
         "chat_link": null
     },
     {
-        "name": "Endless Stamina",
+        "name": "Fluid Strikes",
         "id": 1242,
         "chat_link": null
     },
@@ -1565,7 +1565,7 @@
         "chat_link": null
     },
     {
-        "name": "Vigorous Recovery",
+        "name": "Pumping Up",
         "id": 1289,
         "chat_link": null
     },
@@ -1730,7 +1730,7 @@
         "chat_link": null
     },
     {
-        "name": "Vengeful Return",
+        "name": "Stalwart Focus",
         "id": 1381,
         "chat_link": null
     },
@@ -2035,7 +2035,7 @@
         "chat_link": null
     },
     {
-        "name": "Parasitic Contagion",
+        "name": "Terror",
         "id": 1696,
         "chat_link": null
     },
@@ -2055,7 +2055,7 @@
         "chat_link": null
     },
     {
-        "name": "Strider's Defense",
+        "name": "Strider's Strength",
         "id": 1700,
         "chat_link": null
     },
@@ -2250,7 +2250,7 @@
         "chat_link": null
     },
     {
-        "name": "Eye for an Eye",
+        "name": "Set in Stone",
         "id": 1766,
         "chat_link": null
     },
@@ -2585,7 +2585,7 @@
         "chat_link": null
     },
     {
-        "name": "Illusionary Inspiration",
+        "name": "Restorative Illusions",
         "id": 1866,
         "chat_link": null
     },
@@ -2700,7 +2700,7 @@
         "chat_link": null
     },
     {
-        "name": "Piercing Light",
+        "name": "Hunter's Premonition",
         "id": 1898,
         "chat_link": null
     },
@@ -2765,7 +2765,7 @@
         "chat_link": null
     },
     {
-        "name": "Healing Prism",
+        "name": "Illusionary Inspiration",
         "id": 1915,
         "chat_link": null
     },
@@ -2840,7 +2840,7 @@
         "chat_link": null
     },
     {
-        "name": "Primal Echoes",
+        "name": "Blood Moon",
         "id": 1935,
         "chat_link": null
     },
@@ -2920,7 +2920,7 @@
         "chat_link": null
     },
     {
-        "name": "Damage Dampener",
+        "name": "Rapid Regeneration",
         "id": 1954,
         "chat_link": null
     },
@@ -3000,12 +3000,12 @@
         "chat_link": null
     },
     {
-        "name": "Protected Phantasms",
+        "name": "Temporal Enchanter",
         "id": 1980,
         "chat_link": null
     },
     {
-        "name": "Adaptive Armor",
+        "name": "Ex Machina",
         "id": 1981,
         "chat_link": null
     },
@@ -3190,7 +3190,7 @@
         "chat_link": null
     },
     {
-        "name": "Refined Toxins",
+        "name": "Survival Instincts",
         "id": 2032,
         "chat_link": null
     },
@@ -3230,11 +3230,6 @@
         "chat_link": null
     },
     {
-        "name": "Eternal Champion",
-        "id": 2043,
-        "chat_link": null
-    },
-    {
         "name": "Fatal Frenzy",
         "id": 2046,
         "chat_link": null
@@ -3265,12 +3260,12 @@
         "chat_link": null
     },
     {
-        "name": "Ancient Seeds",
+        "name": "Eclipse",
         "id": 2055,
         "chat_link": null
     },
     {
-        "name": "Natural Stride",
+        "name": "Natural Balance",
         "id": 2056,
         "chat_link": null
     },
@@ -3285,7 +3280,7 @@
         "chat_link": null
     },
     {
-        "name": "Desert Empowerment",
+        "name": "Feed from Corruption",
         "id": 2059,
         "chat_link": null
     },
@@ -3380,7 +3375,7 @@
         "chat_link": null
     },
     {
-        "name": "Feed from Corruption",
+        "name": "Desert Empowerment",
         "id": 2080,
         "chat_link": null
     },
@@ -4050,7 +4045,7 @@
         "chat_link": null
     },
     {
-        "name": "Vile Vials",
+        "name": "Bolstering Brew",
         "id": 2219,
         "chat_link": null
     },
@@ -4295,7 +4290,7 @@
         "chat_link": null
     },
     {
-        "name": "Fervent Force",
+        "name": "Let Loose",
         "id": 2271,
         "chat_link": null
     },
@@ -4452,6 +4447,11 @@
     {
         "name": "Lush Forest",
         "id": 2303,
+        "chat_link": null
+    },
+    {
+        "name": "Eternal Champion",
+        "id": 2307,
         "chat_link": null
     }
 ]

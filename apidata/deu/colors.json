@@ -3153,5 +3153,65 @@
         "name": "Sechsfache Koralle",
         "id": 1698,
         "chat_link": null
+    },
+    {
+        "name": "Qual",
+        "id": 1699,
+        "chat_link": null
+    },
+    {
+        "name": "Seelenpein",
+        "id": 1700,
+        "chat_link": null
+    },
+    {
+        "name": "Erbeutung",
+        "id": 1701,
+        "chat_link": null
+    },
+    {
+        "name": "Wild",
+        "id": 1702,
+        "chat_link": null
+    },
+    {
+        "name": "Welt-Beender",
+        "id": 1703,
+        "chat_link": null
+    },
+    {
+        "name": "D\u00fcsternis",
+        "id": 1704,
+        "chat_link": null
+    },
+    {
+        "name": "Senf",
+        "id": 1706,
+        "chat_link": null
+    },
+    {
+        "name": "Schiefer",
+        "id": 1707,
+        "chat_link": null
+    },
+    {
+        "name": "Pastell-Lavendel",
+        "id": 1708,
+        "chat_link": null
+    },
+    {
+        "name": "Tiefsee",
+        "id": 1709,
+        "chat_link": null
+    },
+    {
+        "name": "Nachmittagswein",
+        "id": 1710,
+        "chat_link": null
+    },
+    {
+        "name": "Helles Viridian",
+        "id": 1711,
+        "chat_link": null
     }
 ]

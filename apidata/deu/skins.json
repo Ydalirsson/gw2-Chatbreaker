@@ -1420,11 +1420,6 @@
         "chat_link": null
     },
     {
-        "name": "Elektromagnetischer Helm",
-        "id": 299,
-        "chat_link": null
-    },
-    {
         "name": "Denker-Beinkleid",
         "id": 300,
         "chat_link": null
@@ -2937,6 +2932,11 @@
     {
         "name": "Schmied-Kopfschutz",
         "id": 680,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 681,
         "chat_link": null
     },
     {
@@ -4591,6 +4591,11 @@
     },
     {
         "name": "",
+        "id": 1058,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1059,
         "chat_link": null
     },
@@ -4607,6 +4612,11 @@
     {
         "name": "Ph\u00f6nix-Hose",
         "id": 1062,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1063,
         "chat_link": null
     },
     {
@@ -4640,6 +4650,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1070,
+        "chat_link": null
+    },
+    {
         "name": "Kryta-Beinkleid",
         "id": 1071,
         "chat_link": null
@@ -4647,6 +4662,11 @@
     {
         "name": "\"Verdrehtes Uhrwerk\"-Schultern",
         "id": 1072,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1073,
         "chat_link": null
     },
     {
@@ -4660,8 +4680,18 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1076,
+        "chat_link": null
+    },
+    {
         "name": "\"Verdrehtes Uhrwerk\"-Schultern",
         "id": 1077,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1078,
         "chat_link": null
     },
     {
@@ -4680,6 +4710,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1083,
+        "chat_link": null
+    },
+    {
         "name": "Braham-Schulterschutz",
         "id": 1084,
         "chat_link": null
@@ -4692,6 +4727,16 @@
     {
         "name": "Magitech-Jacke",
         "id": 1087,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1088,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1089,
         "chat_link": null
     },
     {
@@ -4725,6 +4770,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1096,
+        "chat_link": null
+    },
+    {
         "name": "Kryta-Wams",
         "id": 1097,
         "chat_link": null
@@ -4755,6 +4805,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1104,
+        "chat_link": null
+    },
+    {
         "name": "Profane Schuhe",
         "id": 1105,
         "chat_link": null
@@ -4765,8 +4820,28 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1108,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1109,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1110,
+        "chat_link": null
+    },
+    {
         "name": "Kryta-Stiefel",
         "id": 1111,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1112,
         "chat_link": null
     },
     {
@@ -4775,8 +4850,28 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1114,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1115,
+        "chat_link": null
+    },
+    {
         "name": "T\u00f6dlicher Vogel-Schulterschutz",
         "id": 1116,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1117,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1118,
         "chat_link": null
     },
     {
@@ -4810,6 +4905,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1129,
+        "chat_link": null
+    },
+    {
         "name": "T\u00f6dliche Bullen-Schulterpolster",
         "id": 1131,
         "chat_link": null
@@ -4830,8 +4930,28 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1138,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1139,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1140,
+        "chat_link": null
+    },
+    {
         "name": "Leichte Insel-Schultern",
         "id": 1141,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1142,
         "chat_link": null
     },
     {
@@ -4841,7 +4961,27 @@
     },
     {
         "name": "",
+        "id": 1146,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1147,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1148,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1149,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1150,
         "chat_link": null
     },
     {
@@ -4886,6 +5026,21 @@
     },
     {
         "name": "",
+        "id": 1159,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1161,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1164,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1165,
         "chat_link": null
     },
@@ -4896,7 +5051,17 @@
     },
     {
         "name": "",
+        "id": 1167,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1168,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1170,
         "chat_link": null
     },
     {
@@ -4912,6 +5077,11 @@
     {
         "name": "",
         "id": 1174,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1175,
         "chat_link": null
     },
     {
@@ -4942,6 +5112,16 @@
     {
         "name": "Hasenohren",
         "id": 1181,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1182,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1183,
         "chat_link": null
     },
     {
@@ -4987,6 +5167,16 @@
     {
         "name": "Maske der Krone",
         "id": 1192,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1193,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1194,
         "chat_link": null
     },
     {
@@ -5071,6 +5261,16 @@
     },
     {
         "name": "",
+        "id": 1211,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1212,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1213,
         "chat_link": null
     },
@@ -5082,6 +5282,21 @@
     {
         "name": "",
         "id": 1215,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1216,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1217,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1218,
         "chat_link": null
     },
     {
@@ -5120,6 +5335,66 @@
         "chat_link": null
     },
     {
+        "name": "Papiert\u00fctenhelm (Err\u00f6tet)",
+        "id": 1235,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Err\u00f6tet)",
+        "id": 1236,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Err\u00f6tet)",
+        "id": 1237,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Ver\u00e4rgert)",
+        "id": 1238,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Ver\u00e4rgert)",
+        "id": 1239,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Ver\u00e4rgert)",
+        "id": 1240,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Froh)",
+        "id": 1241,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Froh)",
+        "id": 1242,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Froh)",
+        "id": 1243,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Traurig)",
+        "id": 1244,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Traurig)",
+        "id": 1245,
+        "chat_link": null
+    },
+    {
+        "name": "Papiert\u00fctenhelm (Traurig)",
+        "id": 1246,
+        "chat_link": null
+    },
+    {
         "name": "",
         "id": 1247,
         "chat_link": null
@@ -5127,6 +5402,11 @@
     {
         "name": "",
         "id": 1248,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1249,
         "chat_link": null
     },
     {
@@ -5920,6 +6200,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1447,
+        "chat_link": null
+    },
+    {
         "name": "Schweres Schuppen-Beinkleid",
         "id": 1483,
         "chat_link": null
@@ -5927,6 +6212,11 @@
     {
         "name": "Gilden-Verteidiger-Brustschutz",
         "id": 1484,
+        "chat_link": null
+    },
+    {
+        "name": "Schweres Schuppen-Beinkleid",
+        "id": 1499,
         "chat_link": null
     },
     {
@@ -5955,6 +6245,16 @@
         "chat_link": null
     },
     {
+        "name": "Schwere Schuppen-Schienbeinsch\u00fctzer",
+        "id": 1534,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Schuppen-Armschutz",
+        "id": 1542,
+        "chat_link": null
+    },
+    {
         "name": "Schwerer Schuppen-Helm",
         "id": 1560,
         "chat_link": null
@@ -5962,6 +6262,11 @@
     {
         "name": "Gilden-Verteidiger-Schulterplatten",
         "id": 1561,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Schuppen-Helm",
+        "id": 1579,
         "chat_link": null
     },
     {
@@ -6427,6 +6732,16 @@
     {
         "name": "Gezahnte Schreckbild-Maske",
         "id": 2060,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 2118,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 2119,
         "chat_link": null
     },
     {
@@ -7126,6 +7441,11 @@
     },
     {
         "name": "",
+        "id": 2689,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 2743,
         "chat_link": null
     },
@@ -7141,7 +7461,17 @@
     },
     {
         "name": "",
+        "id": 2788,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 2809,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 2829,
         "chat_link": null
     },
     {
@@ -7176,7 +7506,17 @@
     },
     {
         "name": "",
+        "id": 2930,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 3005,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3020,
         "chat_link": null
     },
     {
@@ -7191,12 +7531,52 @@
     },
     {
         "name": "",
+        "id": 3119,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3145,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 3150,
         "chat_link": null
     },
     {
         "name": "",
+        "id": 3185,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3186,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3187,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 3188,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3190,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3192,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3239,
         "chat_link": null
     },
     {
@@ -7216,12 +7596,37 @@
     },
     {
         "name": "",
+        "id": 3245,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 3264,
         "chat_link": null
     },
     {
         "name": "",
         "id": 3265,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3272,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3273,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3355,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3491,
         "chat_link": null
     },
     {
@@ -7235,12 +7640,12 @@
         "chat_link": null
     },
     {
-        "name": "Gepeinigtes Gewehr",
+        "name": "Qual-Gewehr",
         "id": 3661,
         "chat_link": null
     },
     {
-        "name": "Gepeinigte Pistole",
+        "name": "Qual-Pistole",
         "id": 3663,
         "chat_link": null
     },
@@ -7250,22 +7655,22 @@
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Hammer",
+        "name": "Qual-Hammer",
         "id": 3666,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Stab",
+        "name": "Qual-Stab",
         "id": 3667,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Dolch",
+        "name": "Qual-Dolch",
         "id": 3668,
         "chat_link": null
     },
     {
-        "name": "Gepeinigtes Schwert",
+        "name": "Qual-Schwert",
         "id": 3670,
         "chat_link": null
     },
@@ -7280,67 +7685,67 @@
         "chat_link": null
     },
     {
-        "name": "Gepeinigte Fackel",
+        "name": "Qual-Fackel",
         "id": 3674,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Speer",
+        "name": "Qual-Speer",
         "id": 3675,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Fokus",
+        "name": "Qual-Fokus",
         "id": 3676,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Streitkolben",
+        "name": "Qual-Streitkolben",
         "id": 3677,
         "chat_link": null
     },
     {
-        "name": "Gepeinigte Harpunenschleuder",
+        "name": "Qual-Harpunenschleuder",
         "id": 3678,
         "chat_link": null
     },
     {
-        "name": "Gepeinigtes Gro\u00dfschwert",
+        "name": "Qual-Gro\u00dfschwert",
         "id": 3679,
         "chat_link": null
     },
     {
-        "name": "Gepeinigte Axt",
+        "name": "Qual-Axt",
         "id": 3680,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Langbogen",
+        "name": "Qual-Langbogen",
         "id": 3681,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Kurzbogen",
+        "name": "Qual-Kurzbogen",
         "id": 3682,
         "chat_link": null
     },
     {
-        "name": "Gepeinigtes Zepter",
+        "name": "Qual-Zepter",
         "id": 3683,
         "chat_link": null
     },
     {
-        "name": "Gepeinigtes Kriegshorn",
+        "name": "Qual-Kriegshorn",
         "id": 3684,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Schild",
+        "name": "Qual-Schild",
         "id": 3685,
         "chat_link": null
     },
     {
-        "name": "Gepeinigter Dreizack",
+        "name": "Qual-Dreizack",
         "id": 3686,
         "chat_link": null
     },
@@ -12010,6 +12415,11 @@
         "chat_link": null
     },
     {
+        "name": "Piraten-Clairon",
+        "id": 4626,
+        "chat_link": null
+    },
+    {
         "name": "L\u00f6wengarden-Hammer",
         "id": 4627,
         "chat_link": null
@@ -13990,7 +14400,7 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizte Skeggox",
+        "name": "Ge\u00e4tzte Skeggox",
         "id": 5026,
         "chat_link": null
     },
@@ -14000,7 +14410,7 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizter Kn\u00fcppel",
+        "name": "Ge\u00e4tzter Kn\u00fcppel",
         "id": 5028,
         "chat_link": null
     },
@@ -14010,12 +14420,12 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizte Scherbe",
+        "name": "Ge\u00e4tzte Scherbe",
         "id": 5031,
         "chat_link": null
     },
     {
-        "name": "Gebeiztes Bollwerk",
+        "name": "Ge\u00e4tztes Bollwerk",
         "id": 5032,
         "chat_link": null
     },
@@ -14025,47 +14435,47 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizter R\u00e4cher",
+        "name": "Ge\u00e4tzter R\u00e4cher",
         "id": 5034,
         "chat_link": null
     },
     {
-        "name": "Gebeizte Kriegsfackel",
+        "name": "Ge\u00e4tzte Kriegsfackel",
         "id": 5035,
         "chat_link": null
     },
     {
-        "name": "Gebeizter Vorschlaghammer",
+        "name": "Ge\u00e4tzter Vorschlaghammer",
         "id": 5036,
         "chat_link": null
     },
     {
-        "name": "Gebeizte Klinge",
+        "name": "Ge\u00e4tzte Klinge",
         "id": 5037,
         "chat_link": null
     },
     {
-        "name": "Gebeiztes Artefakt",
+        "name": "Ge\u00e4tztes Artefakt",
         "id": 5038,
         "chat_link": null
     },
     {
-        "name": "Gebeiztes Zepter",
+        "name": "Ge\u00e4tztes Zepter",
         "id": 5039,
         "chat_link": null
     },
     {
-        "name": "Gebeizter Kurzbogen",
+        "name": "Ge\u00e4tzter Kurzbogen",
         "id": 5040,
         "chat_link": null
     },
     {
-        "name": "Gebeizter Dreizack",
+        "name": "Ge\u00e4tzter Dreizack",
         "id": 5041,
         "chat_link": null
     },
     {
-        "name": "Gebeizter Vorbote",
+        "name": "Ge\u00e4tzter Vorbote",
         "id": 5042,
         "chat_link": null
     },
@@ -14075,12 +14485,12 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizter Gro\u00dfbogen",
+        "name": "Ge\u00e4tzter Gro\u00dfbogen",
         "id": 5045,
         "chat_link": null
     },
     {
-        "name": "Gebeizter Revolver",
+        "name": "Ge\u00e4tzter Revolver",
         "id": 5046,
         "chat_link": null
     },
@@ -14165,12 +14575,12 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizter Zweig",
+        "name": "Ge\u00e4tzter Zweig",
         "id": 5063,
         "chat_link": null
     },
     {
-        "name": "Gebeizter Strahler",
+        "name": "Ge\u00e4tzter Strahler",
         "id": 5064,
         "chat_link": null
     },
@@ -14350,7 +14760,7 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizte Speerschleuder",
+        "name": "Ge\u00e4tzte Speerschleuder",
         "id": 5100,
         "chat_link": null
     },
@@ -14410,7 +14820,7 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizter Kurzbogen",
+        "name": "Ge\u00e4tzter Kurzbogen",
         "id": 5112,
         "chat_link": null
     },
@@ -15360,7 +15770,7 @@
         "chat_link": null
     },
     {
-        "name": "Gebeizte Harpune",
+        "name": "Ge\u00e4tzte Harpune",
         "id": 5303,
         "chat_link": null
     },
@@ -15607,6 +16017,11 @@
     {
         "name": "Mystisches Schwert",
         "id": 5352,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 5353,
         "chat_link": null
     },
     {
@@ -16670,6 +17085,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 5658,
+        "chat_link": null
+    },
+    {
         "name": "Gipfel-Gewehr",
         "id": 5660,
         "chat_link": null
@@ -17072,6 +17492,11 @@
     {
         "name": "Starrende Glint-Maske",
         "id": 5748,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 5749,
         "chat_link": null
     },
     {
@@ -17510,6 +17935,11 @@
         "chat_link": null
     },
     {
+        "name": "Schwarzfederfl\u00fcgel-Rucksack",
+        "id": 5878,
+        "chat_link": null
+    },
+    {
         "name": "Rapier des F\u00fcrsten Faren",
         "id": 5880,
         "chat_link": null
@@ -17557,6 +17987,11 @@
     {
         "name": "Zur\u00fcckeroberter Dolch",
         "id": 5897,
+        "chat_link": null
+    },
+    {
+        "name": "Nebelbrecher",
+        "id": 5898,
         "chat_link": null
     },
     {
@@ -17702,6 +18137,11 @@
     {
         "name": "Schatten-Gewehr",
         "id": 5947,
+        "chat_link": null
+    },
+    {
+        "name": "Nebelw\u00e4chter-Kopfbandage",
+        "id": 5948,
         "chat_link": null
     },
     {
@@ -18350,6 +18790,11 @@
         "chat_link": null
     },
     {
+        "name": "Ley-Stein-Schulterschutz",
+        "id": 6151,
+        "chat_link": null
+    },
+    {
         "name": "Nest",
         "id": 6152,
         "chat_link": null
@@ -18432,6 +18877,11 @@
     {
         "name": "Bearbeitete Axt",
         "id": 6169,
+        "chat_link": null
+    },
+    {
+        "name": "Tasche des Novizen",
+        "id": 6170,
         "chat_link": null
     },
     {
@@ -18577,11 +19027,6 @@
     {
         "name": "Improvisierter Schild",
         "id": 6203,
-        "chat_link": null
-    },
-    {
-        "name": "Klingen-Stiefel",
-        "id": 6205,
         "chat_link": null
     },
     {
@@ -23890,6 +24335,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 7487,
+        "chat_link": null
+    },
+    {
         "name": "Sonnenspeer-Horn",
         "id": 7490,
         "chat_link": null
@@ -24487,6 +24937,11 @@
     {
         "name": "Pestbringer-Fackel",
         "id": 7699,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 7700,
         "chat_link": null
     },
     {
@@ -28345,11 +28800,6 @@
         "chat_link": null
     },
     {
-        "name": "Flammenschale der Nachkommin",
-        "id": 8697,
-        "chat_link": null
-    },
-    {
         "name": "Nebelscherben-Wanderstiefel",
         "id": 8699,
         "chat_link": null
@@ -30105,11 +30555,6 @@
         "chat_link": null
     },
     {
-        "name": "Gl\u00e4nzender pr\u00e4chtiger Kriegshammer",
-        "id": 9102,
-        "chat_link": null
-    },
-    {
         "name": "Drakonischer Stab",
         "id": 9103,
         "chat_link": null
@@ -31220,7 +31665,7 @@
         "chat_link": null
     },
     {
-        "name": "\"Drakonische Schwingen\"-Rucksack",
+        "name": "\"Drakonische Fl\u00fcgel\"-Rucksack",
         "id": 9364,
         "chat_link": null
     },
@@ -31277,11 +31722,6 @@
     {
         "name": "Tengu-Echo-Axt",
         "id": 9377,
-        "chat_link": null
-    },
-    {
-        "name": "Eisspalter-Stab",
-        "id": 9378,
         "chat_link": null
     },
     {
@@ -33820,11 +34260,6 @@
         "chat_link": null
     },
     {
-        "name": "Feuriges Drachent\u00f6ter-Gewehr",
-        "id": 9941,
-        "chat_link": null
-    },
-    {
         "name": "Feuriger Drachent\u00f6ter-Schild",
         "id": 9942,
         "chat_link": null
@@ -34810,7 +35245,7 @@
         "chat_link": null
     },
     {
-        "name": "Skin f\u00fcr Schattenhaftes Zepter",
+        "name": "Schattenhaftes Zepter",
         "id": 10154,
         "chat_link": null
     },
@@ -35230,6 +35665,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Stimme",
+        "id": 10244,
+        "chat_link": null
+    },
+    {
         "name": "Klingengeschworenen-Pistole",
         "id": 10245,
         "chat_link": null
@@ -35292,6 +35732,11 @@
     {
         "name": "Jade-Tech-Fackel",
         "id": 10258,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Wons Blick",
+        "id": 10259,
         "chat_link": null
     },
     {
@@ -35475,6 +35920,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Biss",
+        "id": 10309,
+        "chat_link": null
+    },
+    {
         "name": "Primordus' Atem",
         "id": 10311,
         "chat_link": null
@@ -35527,6 +35977,11 @@
     {
         "name": "Lebendiges-Wasser-Gewehr",
         "id": 10323,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Wons Schuppe",
+        "id": 10324,
         "chat_link": null
     },
     {
@@ -36055,6 +36510,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Argument",
+        "id": 10448,
+        "chat_link": null
+    },
+    {
         "name": "Jormags Blick",
         "id": 10449,
         "chat_link": null
@@ -36225,6 +36685,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Weisheit",
+        "id": 10490,
+        "chat_link": null
+    },
+    {
         "name": "Primordus' Flug",
         "id": 10491,
         "chat_link": null
@@ -36247,6 +36712,11 @@
     {
         "name": "Lebendiges-Wasser-Pistole",
         "id": 10495,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Wons Schwanz",
+        "id": 10496,
         "chat_link": null
     },
     {
@@ -36310,6 +36780,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Fl\u00fcgel",
+        "id": 10511,
+        "chat_link": null
+    },
+    {
         "name": "Salzgischt-Kriegshorn",
         "id": 10512,
         "chat_link": null
@@ -36347,6 +36822,11 @@
     {
         "name": "Jade-Rabauken-Axt",
         "id": 10519,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Wons Einsicht",
+        "id": 10521,
         "chat_link": null
     },
     {
@@ -36460,6 +36940,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Klaue",
+        "id": 10550,
+        "chat_link": null
+    },
+    {
         "name": "Mordremoths Flug",
         "id": 10552,
         "chat_link": null
@@ -36510,6 +36995,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Flug",
+        "id": 10564,
+        "chat_link": null
+    },
+    {
         "name": "Kampfsportler-Stirnband",
         "id": 10565,
         "chat_link": null
@@ -36532,6 +37022,11 @@
     {
         "name": "Gold-Essenz-Stab",
         "id": 10569,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Wons \u00dcberzeugung",
+        "id": 10570,
         "chat_link": null
     },
     {
@@ -36645,6 +37140,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Fangzahn",
+        "id": 10596,
+        "chat_link": null
+    },
+    {
         "name": "Lebendiges-Wasser-Dolch",
         "id": 10597,
         "chat_link": null
@@ -36732,6 +37232,11 @@
     {
         "name": "Uralter Tahkayun-Armschutz",
         "id": 10622,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Wons Zerfetzen",
+        "id": 10623,
         "chat_link": null
     },
     {
@@ -37125,6 +37630,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Wons Gewicht",
+        "id": 10716,
+        "chat_link": null
+    },
+    {
         "name": "Lebendiges-Wasser-Zepter",
         "id": 10717,
         "chat_link": null
@@ -37137,6 +37647,11 @@
     {
         "name": "Jade-Tech-Fokus",
         "id": 10719,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Wons Atem",
+        "id": 10720,
         "chat_link": null
     },
     {
@@ -37415,7 +37930,7 @@
         "chat_link": null
     },
     {
-        "name": "Eleganter\u00a0Canthanischer\u00a0Stab",
+        "name": "Eleganter Canthanischer Stab",
         "id": 10789,
         "chat_link": null
     },
@@ -38375,6 +38890,11 @@
         "chat_link": null
     },
     {
+        "name": "\u00c4thergebundener Helm",
+        "id": 10987,
+        "chat_link": null
+    },
+    {
         "name": "Kriegsmaschinen-Streitkolben",
         "id": 10988,
         "chat_link": null
@@ -38420,6 +38940,11 @@
         "chat_link": null
     },
     {
+        "name": "\u00c4thergebundener Helm",
+        "id": 10997,
+        "chat_link": null
+    },
+    {
         "name": "Neu-Kaineng-Stab",
         "id": 10998,
         "chat_link": null
@@ -38427,6 +38952,11 @@
     {
         "name": "Kriegsmaschinen-Axt",
         "id": 10999,
+        "chat_link": null
+    },
+    {
+        "name": "\u00c4thergebundener Helm",
+        "id": 11000,
         "chat_link": null
     },
     {
@@ -38665,7 +39195,7 @@
         "chat_link": null
     },
     {
-        "name": "Krallende Schatten-Handschuhe",
+        "name": "\"Krallende Schatten\"-Handschuhe",
         "id": 11053,
         "chat_link": null
     },
@@ -38725,7 +39255,7 @@
         "chat_link": null
     },
     {
-        "name": "Krallende Schatten-Handschuhe",
+        "name": "\"Krallende Schatten\"-Handschuhe",
         "id": 11065,
         "chat_link": null
     },
@@ -38745,7 +39275,7 @@
         "chat_link": null
     },
     {
-        "name": "Krallende Schatten-Handschuhe",
+        "name": "\"Krallende Schatten\"-Handschuhe",
         "id": 11069,
         "chat_link": null
     },
@@ -38827,6 +39357,11 @@
     {
         "name": "Angekettete Pistole",
         "id": 11085,
+        "chat_link": null
+    },
+    {
+        "name": "Magmatische Fackel",
+        "id": 11086,
         "chat_link": null
     },
     {
@@ -39290,6 +39825,11 @@
         "chat_link": null
     },
     {
+        "name": "Aurenes kristalliner Schulterschutz",
+        "id": 11182,
+        "chat_link": null
+    },
+    {
         "name": "Schneewehen-Gewehr",
         "id": 11183,
         "chat_link": null
@@ -39315,6 +39855,11 @@
         "chat_link": null
     },
     {
+        "name": "Aurenes kristalliner Schulterschutz",
+        "id": 11188,
+        "chat_link": null
+    },
+    {
         "name": "Glocke des Stillen Waldes",
         "id": 11190,
         "chat_link": null
@@ -39322,6 +39867,11 @@
     {
         "name": "Schneewehen-Schild",
         "id": 11191,
+        "chat_link": null
+    },
+    {
+        "name": "Aurenes kristalliner Schulterschutz",
+        "id": 11192,
         "chat_link": null
     },
     {
@@ -39352,6 +39902,4046 @@
     {
         "name": "Schneewehen-Fokus",
         "id": 11198,
+        "chat_link": null
+    },
+    {
+        "name": "Eleganter Seidenschal",
+        "id": 11199,
+        "chat_link": null
+    },
+    {
+        "name": "Mondhasen-Stampfer",
+        "id": 11200,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Streitkolben",
+        "id": 11201,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Kurzbogen",
+        "id": 11202,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Langbogen",
+        "id": 11203,
+        "chat_link": null
+    },
+    {
+        "name": "Seelenfluss-Hund",
+        "id": 11204,
+        "chat_link": null
+    },
+    {
+        "name": "Versch\u00f6nerte Hasenweste",
+        "id": 11205,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fcckslaterne des Riesenhasen",
+        "id": 11206,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Kriegshorn",
+        "id": 11207,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Axt",
+        "id": 11208,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fcckslaterne des Hasen",
+        "id": 11209,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fccksbl\u00fcten-Angelrute",
+        "id": 11210,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Fokus",
+        "id": 11211,
+        "chat_link": null
+    },
+    {
+        "name": "Versch\u00f6nerte Hasenweste",
+        "id": 11212,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Gro\u00dfschwert",
+        "id": 11213,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Gewehr",
+        "id": 11214,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Schild",
+        "id": 11215,
+        "chat_link": null
+    },
+    {
+        "name": "Mondhasen-Helm",
+        "id": 11216,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Dolch",
+        "id": 11217,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Hammer",
+        "id": 11218,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Zepter",
+        "id": 11219,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Schwert",
+        "id": 11220,
+        "chat_link": null
+    },
+    {
+        "name": "Mondhasen-Helm",
+        "id": 11221,
+        "chat_link": null
+    },
+    {
+        "name": "Funke der ersten Nacht",
+        "id": 11222,
+        "chat_link": null
+    },
+    {
+        "name": "Eleganter Seidenschal",
+        "id": 11223,
+        "chat_link": null
+    },
+    {
+        "name": "Mondhasen-Stampfer",
+        "id": 11224,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Stab",
+        "id": 11225,
+        "chat_link": null
+    },
+    {
+        "name": "Versch\u00f6nerte Hasenweste",
+        "id": 11226,
+        "chat_link": null
+    },
+    {
+        "name": "Ratschlag des Mondhasen",
+        "id": 11227,
+        "chat_link": null
+    },
+    {
+        "name": "Mondhasen-Stampfer",
+        "id": 11228,
+        "chat_link": null
+    },
+    {
+        "name": "Eleganter Seidenschal",
+        "id": 11229,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Pistole",
+        "id": 11230,
+        "chat_link": null
+    },
+    {
+        "name": "Mondhasen-Helm",
+        "id": 11231,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerwerks-Fackel",
+        "id": 11232,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fcckskuvert",
+        "id": 11233,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Schild",
+        "id": 11234,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Hammer",
+        "id": 11235,
+        "chat_link": null
+    },
+    {
+        "name": "Sternrufer-Kriegshorn",
+        "id": 11236,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Zepter",
+        "id": 11237,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Streitkolben",
+        "id": 11238,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Kurzbogen",
+        "id": 11239,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Dolch",
+        "id": 11240,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Axt",
+        "id": 11241,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Stab",
+        "id": 11242,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Langbogen",
+        "id": 11243,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Fokus",
+        "id": 11244,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Schwert",
+        "id": 11245,
+        "chat_link": null
+    },
+    {
+        "name": "\"Canthanische Ph\u00f6nixschwingen\"-Rucksack",
+        "id": 11246,
+        "chat_link": null
+    },
+    {
+        "name": "Teufelzerfetzender Umhang",
+        "id": 11247,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Gro\u00dfschwert",
+        "id": 11248,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Fackel",
+        "id": 11249,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Pistole",
+        "id": 11250,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Kriegshorn",
+        "id": 11251,
+        "chat_link": null
+    },
+    {
+        "name": "\"Reflektierender Koi\"-Gewehr",
+        "id": 11252,
+        "chat_link": null
+    },
+    {
+        "name": "Equinox-Fl\u00fcgel-Rucksack",
+        "id": 11253,
+        "chat_link": null
+    },
+    {
+        "name": "Krakengriff-Angelrute",
+        "id": 11255,
+        "chat_link": null
+    },
+    {
+        "name": "Prahlerischer Umhang",
+        "id": 11257,
+        "chat_link": null
+    },
+    {
+        "name": "\"Animalische-Gezeiten\"-T\u00e4towierung f\u00fcr die Beine",
+        "id": 11258,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerbl\u00fcten-T\u00e4towierung f\u00fcr die Beine",
+        "id": 11259,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Sonderkommando-Stiefel",
+        "id": 11260,
+        "chat_link": null
+    },
+    {
+        "name": "Hut der Ministerin",
+        "id": 11261,
+        "chat_link": null
+    },
+    {
+        "name": "Jade-Tech-Visier",
+        "id": 11262,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Sonderkommando-Hose",
+        "id": 11263,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlerer Sonderkommando-Schulterschutz",
+        "id": 11264,
+        "chat_link": null
+    },
+    {
+        "name": "Der wachsende Terror",
+        "id": 11265,
+        "chat_link": null
+    },
+    {
+        "name": "Grinsende Tahkayun-Maske",
+        "id": 11266,
+        "chat_link": null
+    },
+    {
+        "name": "Schlangent\u00e4towierung f\u00fcr die Brust",
+        "id": 11267,
+        "chat_link": null
+    },
+    {
+        "name": "Schadensbegrenzungs-Paket",
+        "id": 11268,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Sonderkommando-Handschuhe",
+        "id": 11269,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerbl\u00fcten-T\u00e4towierung f\u00fcr die Brust",
+        "id": 11270,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Dolch",
+        "id": 11271,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Sonderkommando-Hose",
+        "id": 11272,
+        "chat_link": null
+    },
+    {
+        "name": "Produktionslinien-Kontrollhandschutz",
+        "id": 11275,
+        "chat_link": null
+    },
+    {
+        "name": "Hut der Ministerin",
+        "id": 11276,
+        "chat_link": null
+    },
+    {
+        "name": "Der erneuernde Hunger",
+        "id": 11277,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Schwert",
+        "id": 11278,
+        "chat_link": null
+    },
+    {
+        "name": "\"Animalische-Gezeiten\"-T\u00e4towierung f\u00fcr die Beine",
+        "id": 11279,
+        "chat_link": null
+    },
+    {
+        "name": "Die schw\u00e4rende Seelenpein",
+        "id": 11280,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Pistole",
+        "id": 11283,
+        "chat_link": null
+    },
+    {
+        "name": "Der andauernde Blutdurst",
+        "id": 11284,
+        "chat_link": null
+    },
+    {
+        "name": "Jade-Tech-Visier",
+        "id": 11285,
+        "chat_link": null
+    },
+    {
+        "name": "\"Animalische-Gezeiten\"-T\u00e4towierung f\u00fcr die Brust",
+        "id": 11286,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Sonderkommando-Schulterschutz",
+        "id": 11287,
+        "chat_link": null
+    },
+    {
+        "name": "Replikat von Oni-Armen",
+        "id": 11288,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Sonderkommando-Stiefel",
+        "id": 11289,
+        "chat_link": null
+    },
+    {
+        "name": "Grinsende Tahkayun-Maske",
+        "id": 11290,
+        "chat_link": null
+    },
+    {
+        "name": "Schlangent\u00e4towierung f\u00fcr die Beine",
+        "id": 11291,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Gro\u00dfschwert",
+        "id": 11292,
+        "chat_link": null
+    },
+    {
+        "name": "Replikat von Oni-Armen",
+        "id": 11293,
+        "chat_link": null
+    },
+    {
+        "name": "Sonderkommando-Hauptmannshelm",
+        "id": 11294,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Fackel",
+        "id": 11295,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Fokus",
+        "id": 11296,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Kurzbogen",
+        "id": 11298,
+        "chat_link": null
+    },
+    {
+        "name": "Umfunktionierte Nagelpistole",
+        "id": 11299,
+        "chat_link": null
+    },
+    {
+        "name": "\"Aufgel\u00f6stes Schicksal\"-Schwert",
+        "id": 11300,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerbl\u00fcten-T\u00e4towierung f\u00fcr die Beine",
+        "id": 11302,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Zepter",
+        "id": 11303,
+        "chat_link": null
+    },
+    {
+        "name": "\"Animalische-Gezeiten\"-T\u00e4towierung f\u00fcr die Brust",
+        "id": 11304,
+        "chat_link": null
+    },
+    {
+        "name": "Schlangent\u00e4towierung f\u00fcr die Beine",
+        "id": 11305,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Schild",
+        "id": 11306,
+        "chat_link": null
+    },
+    {
+        "name": "Schlangent\u00e4towierung f\u00fcr die Beine",
+        "id": 11307,
+        "chat_link": null
+    },
+    {
+        "name": "Schlangent\u00e4towierung f\u00fcr die Brust",
+        "id": 11308,
+        "chat_link": null
+    },
+    {
+        "name": "Replikat von Oni-Armen",
+        "id": 11309,
+        "chat_link": null
+    },
+    {
+        "name": "Die bleibende Wut",
+        "id": 11310,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Kriegshorn",
+        "id": 11311,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Stab",
+        "id": 11312,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Streitkolben",
+        "id": 11313,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerbl\u00fcten-T\u00e4towierung f\u00fcr die Brust",
+        "id": 11314,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlerer Sonderkommando-Sturmhelm",
+        "id": 11315,
+        "chat_link": null
+    },
+    {
+        "name": "Xunlai-\u00c4therdetektor",
+        "id": 11316,
+        "chat_link": null
+    },
+    {
+        "name": "Produktionslinien-Kontrollhandschutz",
+        "id": 11317,
+        "chat_link": null
+    },
+    {
+        "name": "Leichtes Sonderkommando-Gurtzeug",
+        "id": 11318,
+        "chat_link": null
+    },
+    {
+        "name": "Sonderkommando-Hauptmannshelm",
+        "id": 11319,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Axt",
+        "id": 11320,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Hammer",
+        "id": 11321,
+        "chat_link": null
+    },
+    {
+        "name": "Holo-Umhang-Projektor",
+        "id": 11322,
+        "chat_link": null
+    },
+    {
+        "name": "Grinsende Tahkayun-Maske",
+        "id": 11323,
+        "chat_link": null
+    },
+    {
+        "name": "Xunlai-Sicherheits-Bet\u00e4ubungskeule",
+        "id": 11324,
+        "chat_link": null
+    },
+    {
+        "name": "Tahkayuns Schneide",
+        "id": 11325,
+        "chat_link": null
+    },
+    {
+        "name": "Produktionslinien-Kontrollhandschutz",
+        "id": 11326,
+        "chat_link": null
+    },
+    {
+        "name": "Leichter Sonderkommando-Sturmhelm",
+        "id": 11327,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerbl\u00fcten-T\u00e4towierung f\u00fcr die Beine",
+        "id": 11328,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Sonderkommando-Handschuhe",
+        "id": 11329,
+        "chat_link": null
+    },
+    {
+        "name": "Jade-Tech-Visier",
+        "id": 11330,
+        "chat_link": null
+    },
+    {
+        "name": "Feuerbl\u00fcten-T\u00e4towierung f\u00fcr die Brust",
+        "id": 11331,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Sonderkommando-Handschuhe",
+        "id": 11332,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Langbogen",
+        "id": 11333,
+        "chat_link": null
+    },
+    {
+        "name": "Mittleres Sonderkommando-Gurtzeug",
+        "id": 11334,
+        "chat_link": null
+    },
+    {
+        "name": "Leichter Sonderkommando-Schulterschutz",
+        "id": 11335,
+        "chat_link": null
+    },
+    {
+        "name": "\"Animalische-Gezeiten\"-T\u00e4towierung f\u00fcr die Beine",
+        "id": 11336,
+        "chat_link": null
+    },
+    {
+        "name": "Schweres Sonderkommando-Gurtzeug",
+        "id": 11337,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Sonderkommando-Sturmhelm",
+        "id": 11338,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon-J\u00e4ger-Gewehr",
+        "id": 11339,
+        "chat_link": null
+    },
+    {
+        "name": "Tahkayuns R\u00fcckw\u00e4rtsgriff-Schneide",
+        "id": 11340,
+        "chat_link": null
+    },
+    {
+        "name": "Sonderkommando-Hauptmannshelm",
+        "id": 11342,
+        "chat_link": null
+    },
+    {
+        "name": "Hut der Ministerin",
+        "id": 11343,
+        "chat_link": null
+    },
+    {
+        "name": "Tahkayuns R\u00fcstungsdurchbohrer",
+        "id": 11344,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Sonderkommando-Stiefel",
+        "id": 11345,
+        "chat_link": null
+    },
+    {
+        "name": "\"Animalische-Gezeiten\"-T\u00e4towierung f\u00fcr die Brust",
+        "id": 11346,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Sonderkommando-Hose",
+        "id": 11348,
+        "chat_link": null
+    },
+    {
+        "name": "Schlangent\u00e4towierung f\u00fcr die Brust",
+        "id": 11349,
+        "chat_link": null
+    },
+    {
+        "name": "Kurze Rebellen-Stiefel",
+        "id": 11350,
+        "chat_link": null
+    },
+    {
+        "name": "Lange Rebellen-Stiefel",
+        "id": 11354,
+        "chat_link": null
+    },
+    {
+        "name": "Kurze Rebellen-Stiefel",
+        "id": 11355,
+        "chat_link": null
+    },
+    {
+        "name": "Lange Rebellen-Stiefel",
+        "id": 11357,
+        "chat_link": null
+    },
+    {
+        "name": "Ge\u00e4tztes Porzellan-Gro\u00dfschwert",
+        "id": 11359,
+        "chat_link": null
+    },
+    {
+        "name": "Kurze Rebellen-Stiefel",
+        "id": 11360,
+        "chat_link": null
+    },
+    {
+        "name": "Leereflammen-Assassinen-Dolch",
+        "id": 11361,
+        "chat_link": null
+    },
+    {
+        "name": "Lange Rebellen-Stiefel",
+        "id": 11363,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Pistole",
+        "id": 11364,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Langbogen",
+        "id": 11365,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Langbogen",
+        "id": 11366,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladene Handschuhe",
+        "id": 11367,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Schild",
+        "id": 11368,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Hammer",
+        "id": 11369,
+        "chat_link": null
+    },
+    {
+        "name": "Retro-geschmiedeter Streitkolben",
+        "id": 11370,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladener rechter Handschuh",
+        "id": 11371,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Schwert",
+        "id": 11372,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Stab",
+        "id": 11373,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladener rechter Handschuh",
+        "id": 11374,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Kurzbogen",
+        "id": 11375,
+        "chat_link": null
+    },
+    {
+        "name": "Retro-geschmiedeter Dolch",
+        "id": 11376,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Axt",
+        "id": 11377,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Streitkolben",
+        "id": 11378,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladener rechter Handschuh",
+        "id": 11379,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladener linker Handschuh",
+        "id": 11380,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Zepter",
+        "id": 11381,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladener linker Handschuh",
+        "id": 11382,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Gro\u00dfschwert",
+        "id": 11383,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Fackel",
+        "id": 11384,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Stab",
+        "id": 11385,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Hammer",
+        "id": 11386,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Gewehr",
+        "id": 11387,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Zepter",
+        "id": 11388,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladene Handschuhe",
+        "id": 11389,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Kurzbogen",
+        "id": 11390,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Gro\u00dfschwert",
+        "id": 11391,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Streitkolben",
+        "id": 11392,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Axt",
+        "id": 11393,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Fokus",
+        "id": 11394,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Schild",
+        "id": 11395,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Dolch",
+        "id": 11396,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Gewehr",
+        "id": 11397,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Fokus",
+        "id": 11398,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Kriegshorn",
+        "id": 11399,
+        "chat_link": null
+    },
+    {
+        "name": "\"Unsterbliche Sch\u00e4kel\"-Umhang",
+        "id": 11400,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Fackel",
+        "id": 11401,
+        "chat_link": null
+    },
+    {
+        "name": "\"Generation Eins\"-Kriegshorn",
+        "id": 11402,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Pistole",
+        "id": 11403,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladener linker Handschuh",
+        "id": 11404,
+        "chat_link": null
+    },
+    {
+        "name": "Retro-geschmiedetes Gewehr",
+        "id": 11405,
+        "chat_link": null
+    },
+    {
+        "name": "Energiegeladene Handschuhe",
+        "id": 11406,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Dolch",
+        "id": 11407,
+        "chat_link": null
+    },
+    {
+        "name": "Supernova-Schwert",
+        "id": 11408,
+        "chat_link": null
+    },
+    {
+        "name": "\"Wissen des Schreibers\"-Schultern",
+        "id": 11409,
+        "chat_link": null
+    },
+    {
+        "name": "\"Herold der Aurene\"-Erntewerkzeug",
+        "id": 11410,
+        "chat_link": null
+    },
+    {
+        "name": "\"Wissen des Schreibers\"-Schultern",
+        "id": 11411,
+        "chat_link": null
+    },
+    {
+        "name": "\"Herold der Aurene\"-Holzf\u00e4llerwerkzeug",
+        "id": 11412,
+        "chat_link": null
+    },
+    {
+        "name": "\"Wissen des Schreibers\"-Schultern",
+        "id": 11413,
+        "chat_link": null
+    },
+    {
+        "name": "\"Herold der Aurene\"-Bergbauwerkzeug",
+        "id": 11414,
+        "chat_link": null
+    },
+    {
+        "name": "Exo-Schwert",
+        "id": 11415,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Langbogen",
+        "id": 11416,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Pistole",
+        "id": 11417,
+        "chat_link": null
+    },
+    {
+        "name": "Kunsthandwerkerin Zharras Kapuze",
+        "id": 11418,
+        "chat_link": null
+    },
+    {
+        "name": "Kunsthandwerkerin Zharras Kapuze",
+        "id": 11419,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Kurzbogen",
+        "id": 11420,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Fokus",
+        "id": 11421,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Stab",
+        "id": 11422,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Fackel",
+        "id": 11423,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Gewehr",
+        "id": 11424,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Axt",
+        "id": 11425,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Streitkolben",
+        "id": 11426,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Hammer",
+        "id": 11427,
+        "chat_link": null
+    },
+    {
+        "name": "Kuschelk\u00e4tzchen-Rucksack",
+        "id": 11428,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Schild",
+        "id": 11430,
+        "chat_link": null
+    },
+    {
+        "name": "Kunsthandwerkerin Zharras Kapuze",
+        "id": 11431,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Kriegshorn",
+        "id": 11432,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Gro\u00dfschwert",
+        "id": 11433,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Dolch",
+        "id": 11434,
+        "chat_link": null
+    },
+    {
+        "name": "Kunsthandwerkerin Zharras Umhang",
+        "id": 11435,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Schwert",
+        "id": 11437,
+        "chat_link": null
+    },
+    {
+        "name": "\"Dekret des Paladins\"-Zepter",
+        "id": 11438,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierter Luxon-J\u00e4ger-Streitkolben",
+        "id": 11440,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierter Luxon-J\u00e4ger-Kurzbogen",
+        "id": 11441,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisiertes Luxon-J\u00e4ger-Gro\u00dfschwert",
+        "id": 11442,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierter Luxon-J\u00e4ger-Schild",
+        "id": 11443,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierter Luxon-J\u00e4ger-Langbogen",
+        "id": 11444,
+        "chat_link": null
+    },
+    {
+        "name": "Umfunktionierter Bohr-Nivellierer",
+        "id": 11448,
+        "chat_link": null
+    },
+    {
+        "name": "Ebonfalken-Armbrustgewehr",
+        "id": 11449,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisiertes Luxon-J\u00e4ger-Gewehr",
+        "id": 11450,
+        "chat_link": null
+    },
+    {
+        "name": "Xunlai Tiefenbergbau-Handbohrer",
+        "id": 11451,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierter Luxon-J\u00e4ger-Fokus",
+        "id": 11452,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierter Luxon-J\u00e4ger-Dolch",
+        "id": 11454,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierter Luxon-J\u00e4ger-Hammer",
+        "id": 11455,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierter Luxon-J\u00e4ger-Stab",
+        "id": 11456,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierte Luxon-J\u00e4ger-Axt",
+        "id": 11457,
+        "chat_link": null
+    },
+    {
+        "name": "Xunlai Nephrit-Zermalmer",
+        "id": 11458,
+        "chat_link": null
+    },
+    {
+        "name": "Lachszug-Angelrute",
+        "id": 11460,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisiertes Luxon-J\u00e4ger-Schwert",
+        "id": 11463,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierte Luxon-J\u00e4ger-Pistole",
+        "id": 11464,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisierte Luxon-J\u00e4ger-Fackel",
+        "id": 11466,
+        "chat_link": null
+    },
+    {
+        "name": "Energetisiertes Luxon-J\u00e4ger-Kriegshorn",
+        "id": 11468,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenpistole voller S\u00fc\u00dfigkeiten",
+        "id": 11469,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Fackel",
+        "id": 11470,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Streitkolben",
+        "id": 11471,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Hammer",
+        "id": 11472,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Schild",
+        "id": 11473,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Axt",
+        "id": 11474,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Fackel",
+        "id": 11475,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Gro\u00dfschwert",
+        "id": 11476,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Axt",
+        "id": 11478,
+        "chat_link": null
+    },
+    {
+        "name": "Seidenjacke des Raufbolds",
+        "id": 11479,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Kriegshorn",
+        "id": 11480,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenstreitkolben voller S\u00fc\u00dfigkeiten",
+        "id": 11481,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Streitkolben",
+        "id": 11482,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Kriegshorn",
+        "id": 11483,
+        "chat_link": null
+    },
+    {
+        "name": "Holografische Drachenplatten-R\u00fcstung",
+        "id": 11484,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Zepter",
+        "id": 11485,
+        "chat_link": null
+    },
+    {
+        "name": "Holografische Drachenplatten-R\u00fcstung",
+        "id": 11486,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Zepter",
+        "id": 11487,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Kurzbogen",
+        "id": 11488,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Fokus",
+        "id": 11489,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Dolch",
+        "id": 11491,
+        "chat_link": null
+    },
+    {
+        "name": "Exo-Gewehr",
+        "id": 11492,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Hammer",
+        "id": 11493,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Schwert",
+        "id": 11494,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Gewehr",
+        "id": 11495,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Dolch",
+        "id": 11496,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenschwert voller S\u00fc\u00dfigkeiten",
+        "id": 11497,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Donnerb\u00fcchse",
+        "id": 11498,
+        "chat_link": null
+    },
+    {
+        "name": "Seidenjacke des Raufbolds",
+        "id": 11499,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Stab",
+        "id": 11500,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Kurzbogen",
+        "id": 11501,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Langbogen",
+        "id": 11502,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Langbogen",
+        "id": 11503,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Schild",
+        "id": 11504,
+        "chat_link": null
+    },
+    {
+        "name": "Seidenjacke des Raufbolds",
+        "id": 11505,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Gro\u00dfschwert",
+        "id": 11506,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Fokus",
+        "id": 11507,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenmacher-Pistole",
+        "id": 11508,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Pistole",
+        "id": 11509,
+        "chat_link": null
+    },
+    {
+        "name": "Holografische Drachenplatten-R\u00fcstung",
+        "id": 11510,
+        "chat_link": null
+    },
+    {
+        "name": "Drachenzepter voller S\u00fc\u00dfigkeiten",
+        "id": 11511,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Stab",
+        "id": 11512,
+        "chat_link": null
+    },
+    {
+        "name": "Offiziersrelikt-Schwert",
+        "id": 11513,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Gewehr",
+        "id": 11515,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Hammer",
+        "id": 11516,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnenflecken-Gewehr",
+        "id": 11518,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Schild",
+        "id": 11520,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Pistole",
+        "id": 11521,
+        "chat_link": null
+    },
+    {
+        "name": "Lederriemen-Cingulum",
+        "id": 11522,
+        "chat_link": null
+    },
+    {
+        "name": "Lederriemen-Brustschutz",
+        "id": 11523,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Fackel",
+        "id": 11524,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Dolch",
+        "id": 11525,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Langbogen",
+        "id": 11526,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Stab",
+        "id": 11527,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Kurzbogen",
+        "id": 11528,
+        "chat_link": null
+    },
+    {
+        "name": "Lederriemen-Cingulum",
+        "id": 11529,
+        "chat_link": null
+    },
+    {
+        "name": "Lederriemen-Brustschutz",
+        "id": 11530,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Streitkolben",
+        "id": 11531,
+        "chat_link": null
+    },
+    {
+        "name": "Arkaner Zauberweber-Hut",
+        "id": 11532,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Axt",
+        "id": 11533,
+        "chat_link": null
+    },
+    {
+        "name": "Arkaner Zauberweber-Hut",
+        "id": 11534,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Gro\u00dfschwert",
+        "id": 11535,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Fokus",
+        "id": 11536,
+        "chat_link": null
+    },
+    {
+        "name": "Letzte Worte",
+        "id": 11537,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Kriegshorn",
+        "id": 11538,
+        "chat_link": null
+    },
+    {
+        "name": "Lederriemen-Brustschutz",
+        "id": 11539,
+        "chat_link": null
+    },
+    {
+        "name": "Arkaner Zauberweber-Hut",
+        "id": 11540,
+        "chat_link": null
+    },
+    {
+        "name": "Lederriemen-Cingulum",
+        "id": 11541,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Schwert",
+        "id": 11542,
+        "chat_link": null
+    },
+    {
+        "name": "Adlerauge-Zepter",
+        "id": 11543,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsenes Schwert",
+        "id": 11544,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsene Axt",
+        "id": 11545,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnenf\u00e4ngers Axt",
+        "id": 11546,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsenes Zepter",
+        "id": 11547,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsenes Gro\u00dfschwert",
+        "id": 11548,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsener Stab",
+        "id": 11549,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsener Fokus",
+        "id": 11550,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsener Streitkolben",
+        "id": 11551,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsener Langbogen",
+        "id": 11552,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsene Fackel",
+        "id": 11553,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnenf\u00e4ngers Dreizack",
+        "id": 11554,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsener Schild",
+        "id": 11556,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsenes Gewehr",
+        "id": 11557,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsener Kurzbogen",
+        "id": 11558,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyriten-Stirnband",
+        "id": 11559,
+        "chat_link": null
+    },
+    {
+        "name": "Infundierter Aurora-Brustschutz",
+        "id": 11560,
+        "chat_link": null
+    },
+    {
+        "name": "Infundierter Aurora-Brustschutz",
+        "id": 11561,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyriten-Stirnband",
+        "id": 11562,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsenes Kriegshorn",
+        "id": 11563,
+        "chat_link": null
+    },
+    {
+        "name": "Infundierter Aurora-Brustschutz",
+        "id": 11564,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsener Hammer",
+        "id": 11565,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnengewachsener Dolch",
+        "id": 11566,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyriten-Stirnband",
+        "id": 11567,
+        "chat_link": null
+    },
+    {
+        "name": "Sonnenf\u00e4ngers Fackel",
+        "id": 11568,
+        "chat_link": null
+    },
+    {
+        "name": "Antlitz des Nourys",
+        "id": 11569,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligtes Schwert",
+        "id": 11570,
+        "chat_link": null
+    },
+    {
+        "name": "\"Infernalischer Gesandter\"-Stab",
+        "id": 11571,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Rissj\u00e4ger-Handschuhe",
+        "id": 11572,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Axt",
+        "id": 11573,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Pistole",
+        "id": 11574,
+        "chat_link": null
+    },
+    {
+        "name": "Erinnerung des Bedauerns",
+        "id": 11575,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstenes Kriegshorn",
+        "id": 11576,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Schwert",
+        "id": 11577,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Beinkleider",
+        "id": 11578,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Astralwachen-Stiefel",
+        "id": 11580,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Kurzbogen",
+        "id": 11581,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Streitkolben",
+        "id": 11582,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Dolch",
+        "id": 11583,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Dolch",
+        "id": 11584,
+        "chat_link": null
+    },
+    {
+        "name": "Mittleres Astralwachen-Beinkleid",
+        "id": 11585,
+        "chat_link": null
+    },
+    {
+        "name": "Schweres Rissj\u00e4ger-Wams",
+        "id": 11586,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstener Kurzbogen",
+        "id": 11587,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedetes Schwert",
+        "id": 11588,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstener Fokus",
+        "id": 11589,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstener Langbogen",
+        "id": 11590,
+        "chat_link": null
+    },
+    {
+        "name": "Leichter Astralwachen-Helm",
+        "id": 11591,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstenes Schwert",
+        "id": 11592,
+        "chat_link": null
+    },
+    {
+        "name": "Mittleres Astralwachen-Wams",
+        "id": 11593,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedetes Zepter",
+        "id": 11594,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Schwert",
+        "id": 11595,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligtes Gro\u00dfschwert",
+        "id": 11596,
+        "chat_link": null
+    },
+    {
+        "name": "Vermillion-Holzf\u00e4llerwerkzeug",
+        "id": 11597,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Gro\u00dfschwert",
+        "id": 11599,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstener Hammer",
+        "id": 11600,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Kriegshorn",
+        "id": 11601,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Pistole",
+        "id": 11602,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Axt",
+        "id": 11603,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Fokus",
+        "id": 11604,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Rissj\u00e4ger-Stiefel",
+        "id": 11606,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedete Pistole",
+        "id": 11607,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedeter Stab",
+        "id": 11608,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Fokus",
+        "id": 11609,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Zepter",
+        "id": 11610,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligtes Wams",
+        "id": 11611,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstener Stab",
+        "id": 11612,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Fackel",
+        "id": 11613,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Kriegshorn",
+        "id": 11615,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Gro\u00dfschwert",
+        "id": 11616,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedeter Dolch",
+        "id": 11617,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Hammer",
+        "id": 11618,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligtes Kriegshorn",
+        "id": 11619,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Langbogen",
+        "id": 11620,
+        "chat_link": null
+    },
+    {
+        "name": "Biss des Neides",
+        "id": 11623,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Gro\u00dfschwert",
+        "id": 11624,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligtes Zepter",
+        "id": 11626,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Fokus",
+        "id": 11627,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Astralwachen-Schultern",
+        "id": 11628,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Helm",
+        "id": 11629,
+        "chat_link": null
+    },
+    {
+        "name": "Leichtes Rissj\u00e4ger-Wams",
+        "id": 11630,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedetes Gro\u00dfschwert",
+        "id": 11632,
+        "chat_link": null
+    },
+    {
+        "name": "Gef\u00fchlswelt der Bosheit",
+        "id": 11633,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Streitkolben",
+        "id": 11634,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Kriegshorn",
+        "id": 11635,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Axt",
+        "id": 11636,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Astralwachen-Schultern",
+        "id": 11637,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Rissj\u00e4ger-Schultern",
+        "id": 11638,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedetes Zepter",
+        "id": 11639,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedeter Dolch",
+        "id": 11640,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Hammer",
+        "id": 11641,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Dolch",
+        "id": 11642,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Handschuhe",
+        "id": 11643,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstene Axt",
+        "id": 11644,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Gewehr",
+        "id": 11645,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Kurzbogen",
+        "id": 11646,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Gro\u00dfschwert",
+        "id": 11647,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedeter Stab",
+        "id": 11648,
+        "chat_link": null
+    },
+    {
+        "name": "St\u00e4rke der Ungesehenen",
+        "id": 11651,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Rissj\u00e4ger-Helm",
+        "id": 11653,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Stiefel",
+        "id": 11654,
+        "chat_link": null
+    },
+    {
+        "name": "Mittleres Rissj\u00e4ger-Wams",
+        "id": 11657,
+        "chat_link": null
+    },
+    {
+        "name": "Antlitz des Nourys",
+        "id": 11658,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedeter Schild",
+        "id": 11660,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Stab",
+        "id": 11661,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Streitkolben",
+        "id": 11662,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Fackel",
+        "id": 11663,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Hammer",
+        "id": 11664,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Rissj\u00e4ger-Handschuhe",
+        "id": 11665,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Stab",
+        "id": 11666,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Schultern",
+        "id": 11667,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Schild",
+        "id": 11668,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Axt",
+        "id": 11670,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Kurzbogen",
+        "id": 11671,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Dolch",
+        "id": 11672,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Schwert",
+        "id": 11673,
+        "chat_link": null
+    },
+    {
+        "name": "Befehl der Habgier",
+        "id": 11674,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Kriegshorn",
+        "id": 11675,
+        "chat_link": null
+    },
+    {
+        "name": "Ewige Klinge",
+        "id": 11676,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstene Pistole",
+        "id": 11677,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Streitkolben",
+        "id": 11678,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligtes Gewehr",
+        "id": 11679,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstenes Zepter",
+        "id": 11680,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Rissj\u00e4ger-Schultern",
+        "id": 11681,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligtes Wams",
+        "id": 11682,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Hammer",
+        "id": 11683,
+        "chat_link": null
+    },
+    {
+        "name": "Leichtes Rissj\u00e4ger-Beinkleid",
+        "id": 11684,
+        "chat_link": null
+    },
+    {
+        "name": "Leichtes Astralwachen-Beinkleid",
+        "id": 11687,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlerer Astralwachen-Helm",
+        "id": 11688,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Beinkleider",
+        "id": 11689,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedete Pistole",
+        "id": 11690,
+        "chat_link": null
+    },
+    {
+        "name": "Faust der Wut",
+        "id": 11691,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Astralwachen-Stiefel",
+        "id": 11692,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstene Fackel",
+        "id": 11693,
+        "chat_link": null
+    },
+    {
+        "name": "Schweres Astralwachen-Beinkleid",
+        "id": 11694,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Streitkolben",
+        "id": 11695,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedetes Gewehr",
+        "id": 11697,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Schild",
+        "id": 11700,
+        "chat_link": null
+    },
+    {
+        "name": "Dragrimmars Waage",
+        "id": 11701,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Gewehr",
+        "id": 11704,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Fackel",
+        "id": 11705,
+        "chat_link": null
+    },
+    {
+        "name": "Servierteller der Uners\u00e4ttlichkeit",
+        "id": 11706,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedetes Gro\u00dfschwert",
+        "id": 11707,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Helm",
+        "id": 11709,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedeter Kurzbogen",
+        "id": 11711,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Astralwachen-Stiefel",
+        "id": 11712,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Stiefel",
+        "id": 11713,
+        "chat_link": null
+    },
+    {
+        "name": "Antlitz des Nourys",
+        "id": 11714,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedeter Streitkolben",
+        "id": 11715,
+        "chat_link": null
+    },
+    {
+        "name": "Hexerumhang",
+        "id": 11716,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Pistole",
+        "id": 11717,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedeter Hammer",
+        "id": 11718,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Pistole",
+        "id": 11719,
+        "chat_link": null
+    },
+    {
+        "name": "Vermillion-Bergbauwerkzeug",
+        "id": 11720,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedete Fackel",
+        "id": 11721,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Astralwachen-Handschuhe",
+        "id": 11722,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedeter Kurzbogen",
+        "id": 11723,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Zepter",
+        "id": 11724,
+        "chat_link": null
+    },
+    {
+        "name": "Infundierte Aurora-Handschuhe",
+        "id": 11725,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Schultern",
+        "id": 11727,
+        "chat_link": null
+    },
+    {
+        "name": "Infundierte Aurora-Handschuhe",
+        "id": 11728,
+        "chat_link": null
+    },
+    {
+        "name": "Turm der Vergessenen",
+        "id": 11729,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Dolch",
+        "id": 11730,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Schild",
+        "id": 11731,
+        "chat_link": null
+    },
+    {
+        "name": "Leichtes Astralwachen-Wams",
+        "id": 11732,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedeter Langbogen",
+        "id": 11733,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Stab",
+        "id": 11736,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Schwert",
+        "id": 11737,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedete Axt",
+        "id": 11739,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Rissj\u00e4ger-Stiefel",
+        "id": 11740,
+        "chat_link": null
+    },
+    {
+        "name": "Astralwachen-Umhang",
+        "id": 11741,
+        "chat_link": null
+    },
+    {
+        "name": "Schweres Astralwachen-Wams",
+        "id": 11742,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Hammer",
+        "id": 11745,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Stab",
+        "id": 11746,
+        "chat_link": null
+    },
+    {
+        "name": "Die Weglicht-Laterne",
+        "id": 11747,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Schultern",
+        "id": 11749,
+        "chat_link": null
+    },
+    {
+        "name": "Jotun-Himmelsdurchbohrer",
+        "id": 11750,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Astralwachen-Handschuhe",
+        "id": 11751,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Beinkleider",
+        "id": 11752,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedetes Kriegshorn",
+        "id": 11753,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedeter Hammer",
+        "id": 11754,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Astralwachen-Helm",
+        "id": 11755,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedeter Fokus",
+        "id": 11758,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Rissj\u00e4ger-Handschuhe",
+        "id": 11759,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Langbogen",
+        "id": 11762,
+        "chat_link": null
+    },
+    {
+        "name": "Leichter Rissj\u00e4ger-Helm",
+        "id": 11763,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Helm",
+        "id": 11764,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Fackel",
+        "id": 11765,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Handschuhe",
+        "id": 11767,
+        "chat_link": null
+    },
+    {
+        "name": "Infundierte Aurora-Handschuhe",
+        "id": 11768,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstenes Gewehr",
+        "id": 11769,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedeter Langbogen",
+        "id": 11770,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedeter Fokus",
+        "id": 11772,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedeter Streitkolben",
+        "id": 11773,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedete Fackel",
+        "id": 11774,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Astralwachen-Handschuhe",
+        "id": 11775,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstener Streitkolben",
+        "id": 11776,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Stiefel",
+        "id": 11777,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedeter Schild",
+        "id": 11778,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Axt",
+        "id": 11779,
+        "chat_link": null
+    },
+    {
+        "name": "\"Infernalischer Gesandter\"-Rucksack",
+        "id": 11780,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Langbogen",
+        "id": 11781,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Kurzbogen",
+        "id": 11782,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedetes Gewehr",
+        "id": 11783,
+        "chat_link": null
+    },
+    {
+        "name": "Wehklage der Verzweiflung",
+        "id": 11785,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Astralwachen-Schultern",
+        "id": 11786,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Fokus",
+        "id": 11787,
+        "chat_link": null
+    },
+    {
+        "name": "Mittleres Rissj\u00e4ger-Beinkleid",
+        "id": 11788,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Rissj\u00e4ger-Stiefel",
+        "id": 11789,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstener Schild",
+        "id": 11790,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Pistole",
+        "id": 11792,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligtes Wams",
+        "id": 11793,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedetes Schwert",
+        "id": 11794,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Zepter",
+        "id": 11795,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligte Handschuhe",
+        "id": 11796,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Schild",
+        "id": 11797,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstenes Gro\u00dfschwert",
+        "id": 11798,
+        "chat_link": null
+    },
+    {
+        "name": "Zerborstener Dolch",
+        "id": 11799,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Fokus",
+        "id": 11800,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsschuppen-Langbogen",
+        "id": 11801,
+        "chat_link": null
+    },
+    {
+        "name": "Vermillion-Erntewerkzeug",
+        "id": 11802,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmauge-Gewehr",
+        "id": 11803,
+        "chat_link": null
+    },
+    {
+        "name": "Astrale B\u00e4nder",
+        "id": 11804,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Gewehr",
+        "id": 11805,
+        "chat_link": null
+    },
+    {
+        "name": "Schweres Rissj\u00e4ger-Beinkleid",
+        "id": 11806,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Fackel",
+        "id": 11808,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-Zepter",
+        "id": 11809,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Kurzbogen",
+        "id": 11810,
+        "chat_link": null
+    },
+    {
+        "name": "Sturmgeschmiedetes Kriegshorn",
+        "id": 11811,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Rissj\u00e4ger-Schultern",
+        "id": 11812,
+        "chat_link": null
+    },
+    {
+        "name": "Abscheulichkeits-Stab",
+        "id": 11813,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsgeschmiedete Axt",
+        "id": 11814,
+        "chat_link": null
+    },
+    {
+        "name": "Wissen der \u00c4ltesten",
+        "id": 11815,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlerer Rissj\u00e4ger-Helm",
+        "id": 11816,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Schild",
+        "id": 11817,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Hammer",
+        "id": 11818,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Gro\u00dfschwert",
+        "id": 11819,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Axt",
+        "id": 11820,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Gewehr",
+        "id": 11821,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finsterer Tyrann\"-Axt",
+        "id": 11822,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finsterer Tyrann\"-Schwert",
+        "id": 11824,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Kurzbogen",
+        "id": 11825,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rekonfigurierbares Konstrukt\"-Gro\u00dfschwert",
+        "id": 11828,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Fackel",
+        "id": 11829,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Zepter",
+        "id": 11830,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Pistole",
+        "id": 11831,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Fokus",
+        "id": 11832,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Dolch",
+        "id": 11833,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Langbogen",
+        "id": 11834,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Stab",
+        "id": 11835,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Kriegshorn",
+        "id": 11836,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Schild",
+        "id": 11837,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Schwert",
+        "id": 11838,
+        "chat_link": null
+    },
+    {
+        "name": "\"Rankenf\u00fcrst Randbl\u00fcte\"-Streitkolben",
+        "id": 11839,
+        "chat_link": null
+    },
+    {
+        "name": "Expeditions-Umhang",
+        "id": 11840,
+        "chat_link": null
+    },
+    {
+        "name": "Stab des Reisenden",
+        "id": 11841,
+        "chat_link": null
+    },
+    {
+        "name": "Seitlich geschn\u00fcrte Hose",
+        "id": 11842,
+        "chat_link": null
+    },
+    {
+        "name": "Seitlich geschn\u00fcrte Hose",
+        "id": 11843,
+        "chat_link": null
+    },
+    {
+        "name": "Seitlich geschn\u00fcrte Hose",
+        "id": 11845,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Stab",
+        "id": 11847,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Gro\u00dfschwert",
+        "id": 11848,
+        "chat_link": null
+    },
+    {
+        "name": "Kryta-Halunken-Brustschutz",
+        "id": 11849,
+        "chat_link": null
+    },
+    {
+        "name": "Gepriesener Henker",
+        "id": 11850,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Dolch",
+        "id": 11851,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Hammer",
+        "id": 11852,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Axt",
+        "id": 11853,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Fokus",
+        "id": 11854,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Langbogen",
+        "id": 11855,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Streitkolben",
+        "id": 11856,
+        "chat_link": null
+    },
+    {
+        "name": "\"Krallende Schatten\"-Beinschienen",
+        "id": 11857,
+        "chat_link": null
+    },
+    {
+        "name": "Sanktionierter Henker",
+        "id": 11858,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Kriegshorn",
+        "id": 11859,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Gewehr",
+        "id": 11860,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Schwert",
+        "id": 11861,
+        "chat_link": null
+    },
+    {
+        "name": "Gelenkter Henker",
+        "id": 11862,
+        "chat_link": null
+    },
+    {
+        "name": "Kryta-Halunken-Brustschutz",
+        "id": 11863,
+        "chat_link": null
+    },
+    {
+        "name": "Kryta-Halunken-Brustschutz",
+        "id": 11864,
+        "chat_link": null
+    },
+    {
+        "name": "\"Krallende Schatten\"-Beinschienen",
+        "id": 11865,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Schild",
+        "id": 11866,
+        "chat_link": null
+    },
+    {
+        "name": "\"Krallende Schatten\"-Beinschienen",
+        "id": 11867,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Fackel",
+        "id": 11868,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Kurzbogen",
+        "id": 11869,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Zepter",
+        "id": 11870,
+        "chat_link": null
+    },
+    {
+        "name": "Seelenfeuer-Laternen-Fackel",
+        "id": 11871,
+        "chat_link": null
+    },
+    {
+        "name": "\"Finstere Maschine\"-Pistole",
+        "id": 11872,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkler Geheiligter Fokus",
+        "id": 11873,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Oneiros-gesponnene Handschuhe",
+        "id": 11874,
+        "chat_link": null
+    },
+    {
+        "name": "Leichtes Oneiros-gesponnenes Wams",
+        "id": 11875,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Oneiros-gesponnene Schultern",
+        "id": 11876,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Oneiros-gesponnene Schultern",
+        "id": 11877,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere verfluchte Handschuhe",
+        "id": 11878,
+        "chat_link": null
+    },
+    {
+        "name": "Zorn des Ignaxius",
+        "id": 11879,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihte Saryx-Axt",
+        "id": 11881,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihtes Saryx-Gewehr",
+        "id": 11882,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihter Saryx-Streitkolben",
+        "id": 11883,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihte Saryx-Pistole",
+        "id": 11884,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Oneiros-gesponnene Handschuhe",
+        "id": 11885,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihtes Saryx-Schwert",
+        "id": 11886,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere verfluchte Handschuhe",
+        "id": 11887,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Oneiros-gesponnene Stiefel",
+        "id": 11888,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkles Geheiligtes Schwert",
+        "id": 11889,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihter Saryx-Hammer",
+        "id": 11890,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihtes Saryx-Gro\u00dfschwert",
+        "id": 11891,
+        "chat_link": null
+    },
+    {
+        "name": "Mittleres Oneiros-gesponnenes Wams",
+        "id": 11892,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkler Geheiligter Schild",
+        "id": 11893,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihtes Saryx-Zepter",
+        "id": 11894,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkles Geheiligtes Kriegshorn",
+        "id": 11895,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkler Geheiligter Streitkolben",
+        "id": 11896,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlerer Oneiros-gesponnener Helm",
+        "id": 11897,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Oneiros-gesponnene Stiefel",
+        "id": 11898,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkler Geheiligter Hammer",
+        "id": 11899,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Oneiros-gesponnene Handschuhe",
+        "id": 11900,
+        "chat_link": null
+    },
+    {
+        "name": "Mittleres Oneiros-gesponnenes Beinkleid",
+        "id": 11901,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkler Geheiligter Kurzbogen",
+        "id": 11902,
+        "chat_link": null
+    },
+    {
+        "name": "Geheiligter Umhang",
+        "id": 11903,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-gesponnener Umhang",
+        "id": 11904,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Oneiros-gesponnener Helm",
+        "id": 11905,
+        "chat_link": null
+    },
+    {
+        "name": "Schweres Oneiros-gesponnenes Beinkleid",
+        "id": 11906,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkler Geheiligter Stab",
+        "id": 11907,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkle Geheiligte Axt",
+        "id": 11908,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte verfluchte Handschuhe",
+        "id": 11909,
+        "chat_link": null
+    },
+    {
+        "name": "Erhabenes Bergbauwerkzeug",
+        "id": 11910,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkles Geheiligtes Gewehr",
+        "id": 11912,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihtes Saryx-Kriegshorn",
+        "id": 11913,
+        "chat_link": null
+    },
+    {
+        "name": "Schweres Oneiros-gesponnenes Wams",
+        "id": 11914,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihter Saryx-Langbogen",
+        "id": 11915,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Oneiros-gesponnene Schultern",
+        "id": 11916,
+        "chat_link": null
+    },
+    {
+        "name": "Leichtes Oneiros-gesponnenes Beinkleid",
+        "id": 11917,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkle Geheiligte Pistole",
+        "id": 11918,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihter Saryx-Schild",
+        "id": 11919,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkles Geheiligtes Gro\u00dfschwert",
+        "id": 11920,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Oneiros-gesponnene Stiefel",
+        "id": 11921,
+        "chat_link": null
+    },
+    {
+        "name": "Leichter Oneiros-gesponnener Helm",
+        "id": 11922,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihter Saryx-Dolch",
+        "id": 11923,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihter Saryx-Fokus",
+        "id": 11924,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihter Saryx-Kurzbogen",
+        "id": 11925,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkles Geheiligtes Zepter",
+        "id": 11926,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkler Geheiligter Langbogen",
+        "id": 11927,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkle Geheiligte Fackel",
+        "id": 11928,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihte Saryx-Fackel",
+        "id": 11929,
+        "chat_link": null
+    },
+    {
+        "name": "Geweihter Saryx-Stab",
+        "id": 11930,
+        "chat_link": null
+    },
+    {
+        "name": "Dunkler Geheiligter Dolch",
+        "id": 11931,
+        "chat_link": null
+    },
+    {
+        "name": "Kolossales Gro\u00dfschwert",
+        "id": 11932,
+        "chat_link": null
+    },
+    {
+        "name": "Uhrwerksense",
+        "id": 11933,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Gro\u00dfschwert",
+        "id": 11935,
+        "chat_link": null
+    },
+    {
+        "name": "Ketzergelehrten-Kapuze",
+        "id": 11936,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliger Sonnenwend-Kurzbogen",
+        "id": 11937,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliger Sonnenwend-Schild",
+        "id": 11938,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Kriegshorn",
+        "id": 11939,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliger Sonnenwend-Hammer",
+        "id": 11940,
+        "chat_link": null
+    },
+    {
+        "name": "Riesen-Faltf\u00e4cher-Rucksack",
+        "id": 11941,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliges Sonnenwend-Schwert",
+        "id": 11942,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Dolch",
+        "id": 11943,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliges Sonnenwend-Gro\u00dfschwert",
+        "id": 11944,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliger Sonnenwend-Dolch",
+        "id": 11945,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Kurzbogen",
+        "id": 11946,
+        "chat_link": null
+    },
+    {
+        "name": "Verzierter Stab",
+        "id": 11947,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Schwert",
+        "id": 11948,
+        "chat_link": null
+    },
+    {
+        "name": "Verzierter Fokus",
+        "id": 11949,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Zepter",
+        "id": 11950,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Fackel",
+        "id": 11951,
+        "chat_link": null
+    },
+    {
+        "name": "Winterpelz-Schultern",
+        "id": 11952,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliges Sonnenwend-Gewehr",
+        "id": 11953,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliges Sonnenwend-Kriegshorn",
+        "id": 11954,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Hammer",
+        "id": 11955,
+        "chat_link": null
+    },
+    {
+        "name": "Ketzergelehrten-Kapuze",
+        "id": 11956,
+        "chat_link": null
+    },
+    {
+        "name": "Winterpelz-Schultern",
+        "id": 11957,
+        "chat_link": null
+    },
+    {
+        "name": "Heilige Sonnenwend-Axt",
+        "id": 11958,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Streitkolben",
+        "id": 11959,
+        "chat_link": null
+    },
+    {
+        "name": "Verzierter Schild",
+        "id": 11960,
+        "chat_link": null
+    },
+    {
+        "name": "Winterpelz-Schultern",
+        "id": 11961,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Stab",
+        "id": 11962,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Gewehr",
+        "id": 11963,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliger Sonnenwend-Streitkolben",
+        "id": 11964,
+        "chat_link": null
+    },
+    {
+        "name": "Heilige Sonnenwend-Pistole",
+        "id": 11965,
+        "chat_link": null
+    },
+    {
+        "name": "Ketzergelehrten-Umhang",
+        "id": 11966,
+        "chat_link": null
+    },
+    {
+        "name": "Heilige Sonnenwend-Fackel",
+        "id": 11967,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Langbogen",
+        "id": 11968,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliger Sonnenwend-Fokus",
+        "id": 11969,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Axt",
+        "id": 11970,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Pistole",
+        "id": 11971,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Schild",
+        "id": 11972,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliger Sonnenwend-Langbogen",
+        "id": 11973,
+        "chat_link": null
+    },
+    {
+        "name": "Donnerfels-Fokus",
+        "id": 11974,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliger Sonnenwend-Stab",
+        "id": 11975,
+        "chat_link": null
+    },
+    {
+        "name": "Heiliges Sonnenwend-Zepter",
+        "id": 11976,
+        "chat_link": null
+    },
+    {
+        "name": "Ketzergelehrten-Kapuze",
+        "id": 11977,
+        "chat_link": null
+    },
+    {
+        "name": "Ketzergelehrten-Schulterschutz",
+        "id": 11978,
+        "chat_link": null
+    },
+    {
+        "name": "Ketzergelehrten-Stab",
+        "id": 11979,
+        "chat_link": null
+    },
+    {
+        "name": "Ketzergelehrten-Schulterschutz",
+        "id": 11980,
+        "chat_link": null
+    },
+    {
+        "name": "Ketzergelehrten-Schulterschutz",
+        "id": 11981,
+        "chat_link": null
+    },
+    {
+        "name": "\"Arkanes Sigill\"-Rucksack",
+        "id": 11982,
+        "chat_link": null
+    },
+    {
+        "name": "Arkane Sch\u00fctzen-Pistole",
+        "id": 11983,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechender Langbogen",
+        "id": 11984,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechendes Kriegshorn",
+        "id": 11985,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechende Fackel",
+        "id": 11986,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechender Hammer",
+        "id": 11987,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechender Schild",
+        "id": 11989,
+        "chat_link": null
+    },
+    {
+        "name": "Helm des Drachen-Nachfahren",
+        "id": 11990,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fcckshammer des Drachen",
+        "id": 11991,
+        "chat_link": null
+    },
+    {
+        "name": "Helm des Drachen-Nachfahren",
+        "id": 11992,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fccks-Speerschleuder des Drachen",
+        "id": 11993,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fccks-Kurzbogen des Drachen",
+        "id": 11994,
+        "chat_link": null
+    },
+    {
+        "name": "Helm des Drachen-Nachfahren",
+        "id": 11995,
+        "chat_link": null
+    },
+    {
+        "name": "Eleganter Adligen-Rucksack",
+        "id": 11996,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechende Axt",
+        "id": 11997,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechender Stab",
+        "id": 11998,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechendes Gro\u00dfschwert",
+        "id": 11999,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechender Fokus",
+        "id": 12000,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechendes Zepter",
+        "id": 12001,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechender Kurzbogen",
+        "id": 12002,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fcckslaterne des Drachen",
+        "id": 12003,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechende Pistole",
+        "id": 12004,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechender Dolch",
+        "id": 12005,
+        "chat_link": null
+    },
+    {
+        "name": "Gl\u00fcckslaterne des Riesendrachen",
+        "id": 12007,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechendes Gewehr",
+        "id": 12008,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechendes Schwert",
+        "id": 12009,
+        "chat_link": null
+    },
+    {
+        "name": "Vielversprechender Streitkolben",
+        "id": 12010,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Schild",
+        "id": 12011,
+        "chat_link": null
+    },
+    {
+        "name": "Weite Cargo-Hose",
+        "id": 12012,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Brille",
+        "id": 12016,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Helm",
+        "id": 12017,
+        "chat_link": null
+    },
+    {
+        "name": "Knaebelags Fangzahn",
+        "id": 12019,
+        "chat_link": null
+    },
+    {
+        "name": "Modischer Kilt",
+        "id": 12020,
+        "chat_link": null
+    },
+    {
+        "name": "Cyberheuler-Gro\u00dfschwert",
+        "id": 12021,
+        "chat_link": null
+    },
+    {
+        "name": "Leichter Obsidian-\u00dcberwurf",
+        "id": 12022,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Fokus",
+        "id": 12023,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Kurzbogen",
+        "id": 12024,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Axt",
+        "id": 12025,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Gewehr",
+        "id": 12026,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Kriegshorn",
+        "id": 12027,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Gro\u00dfschwert",
+        "id": 12028,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Stiefel",
+        "id": 12029,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Obsidian-Sturmhelm",
+        "id": 12030,
+        "chat_link": null
+    },
+    {
+        "name": "Leichter Obsidian-Ornat",
+        "id": 12031,
+        "chat_link": null
+    },
+    {
+        "name": "Banner der Bastion des Nat\u00fcrlichen",
+        "id": 12032,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Stab",
+        "id": 12033,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Fackel",
+        "id": 12034,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Dolch",
+        "id": 12035,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Handschuhe",
+        "id": 12036,
+        "chat_link": null
+    },
+    {
+        "name": "Weite Cargo-Hose",
+        "id": 12037,
+        "chat_link": null
+    },
+    {
+        "name": "Banner der Bastion des Gleichgewichts",
+        "id": 12039,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Stab",
+        "id": 12040,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Schwert",
+        "id": 12041,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Kurzbogen",
+        "id": 12042,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Langbogen",
+        "id": 12043,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Streitkolben",
+        "id": 12045,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Axt",
+        "id": 12046,
+        "chat_link": null
+    },
+    {
+        "name": "Banner der Bastion des Obskuren",
+        "id": 12047,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Obsidian-Beinschienen",
+        "id": 12048,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Obsidian-Beinharnisch",
+        "id": 12049,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Schwert",
+        "id": 12051,
+        "chat_link": null
+    },
+    {
+        "name": "Modischer Kilt",
+        "id": 12052,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Fokus",
+        "id": 12053,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Stiefel",
+        "id": 12054,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Pistole",
+        "id": 12055,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Obsidian-Handschuhe",
+        "id": 12056,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Hammer",
+        "id": 12057,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Kriegshorn",
+        "id": 12058,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Zepter",
+        "id": 12059,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Obsidian-Brustplatte",
+        "id": 12060,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Zepter",
+        "id": 12061,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Helm",
+        "id": 12062,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Obsidian-Krone",
+        "id": 12063,
+        "chat_link": null
+    },
+    {
+        "name": "Schwerer Obsidian-Schulterschutz",
+        "id": 12064,
+        "chat_link": null
+    },
+    {
+        "name": "Banner der Bastion des Wissens",
+        "id": 12065,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Brille",
+        "id": 12066,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Obsidian-Hose",
+        "id": 12067,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Obsidian-Maske",
+        "id": 12068,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Fackel",
+        "id": 12069,
+        "chat_link": null
+    },
+    {
+        "name": "Banner der Bastion des Himmlischen",
+        "id": 12070,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Obsidian-Stiefel",
+        "id": 12071,
+        "chat_link": null
+    },
+    {
+        "name": "Weite Cargo-Hose",
+        "id": 12072,
+        "chat_link": null
+    },
+    {
+        "name": "Banner der Bastion der St\u00e4rke",
+        "id": 12073,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Handschuhe",
+        "id": 12076,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Hammer",
+        "id": 12077,
+        "chat_link": null
+    },
+    {
+        "name": "Mittleres Obsidian-Beinkleid",
+        "id": 12078,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Schild",
+        "id": 12080,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx-R\u00fcckenteil",
+        "id": 12081,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Obsidian-Schultern",
+        "id": 12082,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Gro\u00dfschwert",
+        "id": 12083,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Pistole",
+        "id": 12084,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Gewehr",
+        "id": 12085,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Obsidian-Jacke",
+        "id": 12086,
+        "chat_link": null
+    },
+    {
+        "name": "Modischer Kilt",
+        "id": 12087,
+        "chat_link": null
+    },
+    {
+        "name": "Solar-Astrolabium-Langbogen",
+        "id": 12089,
+        "chat_link": null
+    },
+    {
+        "name": "Schwere Obsidian-Stulpenhandschuhe",
+        "id": 12090,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Stiefel",
+        "id": 12091,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Brille",
+        "id": 12092,
+        "chat_link": null
+    },
+    {
+        "name": "Mittlere Obsidian-Handschuhe",
+        "id": 12093,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Handschuhe",
+        "id": 12094,
+        "chat_link": null
+    },
+    {
+        "name": "Himmelsweisen-Helm",
+        "id": 12095,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Dolch",
+        "id": 12096,
+        "chat_link": null
+    },
+    {
+        "name": "\"Nekrotische Essenz\"-Streitkolben",
+        "id": 12097,
+        "chat_link": null
+    },
+    {
+        "name": "Leichte Obsidian-Schuhe",
+        "id": 12098,
+        "chat_link": null
+    },
+    {
+        "name": "Fallensteller-Pelzumhang",
+        "id": 12099,
+        "chat_link": null
+    },
+    {
+        "name": "Synergetischer Energieschild",
+        "id": 12101,
+        "chat_link": null
+    },
+    {
+        "name": "\"Zerschmetterte Steinfl\u00fcgel\"-Rucksack",
+        "id": 12103,
         "chat_link": null
     }
 ]

@@ -3153,5 +3153,65 @@
         "name": "Six-Fold Coral",
         "id": 1698,
         "chat_link": null
+    },
+    {
+        "name": "Torment",
+        "id": 1699,
+        "chat_link": null
+    },
+    {
+        "name": "Anguish",
+        "id": 1700,
+        "chat_link": null
+    },
+    {
+        "name": "Predation",
+        "id": 1701,
+        "chat_link": null
+    },
+    {
+        "name": "Savage",
+        "id": 1702,
+        "chat_link": null
+    },
+    {
+        "name": "World Ender",
+        "id": 1703,
+        "chat_link": null
+    },
+    {
+        "name": "Gloom",
+        "id": 1704,
+        "chat_link": null
+    },
+    {
+        "name": "Mustard",
+        "id": 1706,
+        "chat_link": null
+    },
+    {
+        "name": "Slate",
+        "id": 1707,
+        "chat_link": null
+    },
+    {
+        "name": "Pastel Lavender",
+        "id": 1708,
+        "chat_link": null
+    },
+    {
+        "name": "Deep Sea",
+        "id": 1709,
+        "chat_link": null
+    },
+    {
+        "name": "Afternoon Wine",
+        "id": 1710,
+        "chat_link": null
+    },
+    {
+        "name": "Light Viridian",
+        "id": 1711,
+        "chat_link": null
     }
 ]

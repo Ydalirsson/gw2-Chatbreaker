@@ -2640,9 +2640,19 @@
         "chat_link": "[&BtwnAAA=]"
     },
     {
+        "name": "Power Lock",
+        "id": 10206,
+        "chat_link": "[&Bt4nAAA=]"
+    },
+    {
         "name": "Mantra of Resolve",
         "id": 10207,
         "chat_link": "[&Bt8nAAA=]"
+    },
+    {
+        "name": "Power Cleanse",
+        "id": 10209,
+        "chat_link": "[&BuEnAAA=]"
     },
     {
         "name": "Mantra of Pain",
@@ -2650,9 +2660,19 @@
         "chat_link": "[&BuMnAAA=]"
     },
     {
+        "name": "Power Spike",
+        "id": 10212,
+        "chat_link": "[&BuQnAAA=]"
+    },
+    {
         "name": "Mantra of Recovery",
         "id": 10213,
         "chat_link": "[&BuUnAAA=]"
+    },
+    {
+        "name": "Power Return",
+        "id": 10214,
+        "chat_link": "[&BuYnAAA=]"
     },
     {
         "name": "Phantasmal Warlock",
@@ -2708,6 +2728,11 @@
         "name": "Mantra of Concentration",
         "id": 10237,
         "chat_link": "[&Bv0nAAA=]"
+    },
+    {
+        "name": "Power Break",
+        "id": 10238,
+        "chat_link": "[&Bv4nAAA=]"
     },
     {
         "name": "Illusion of Life",
@@ -3048,11 +3073,6 @@
         "name": "Plague Signet",
         "id": 10562,
         "chat_link": "[&BkIpAAA=]"
-    },
-    {
-        "name": "Life Siphon",
-        "id": 10563,
-        "chat_link": "[&BkMpAAA=]"
     },
     {
         "name": "Rigor Mortis",
@@ -3890,12 +3910,7 @@
         "chat_link": "[&BsAwAAA=]"
     },
     {
-        "name": "Hornet Sting",
-        "id": 12481,
-        "chat_link": "[&BsEwAAA=]"
-    },
-    {
-        "name": "Monarch's Leap",
+        "name": "Serpent's Strike",
         "id": 12482,
         "chat_link": "[&BsIwAAA=]"
     },
@@ -4171,28 +4186,28 @@
     },
     {
         "name": "Solar Flare",
-        "id": 12592,
-        "chat_link": "[&BjAxAAA=]"
-    },
-    {
-        "name": "Cold Snap",
-        "id": 12593,
-        "chat_link": "[&BjExAAA=]"
+        "id": 12597,
+        "chat_link": "[&BjUxAAA=]"
     },
     {
         "name": "Call Lightning",
-        "id": 12594,
-        "chat_link": "[&BjIxAAA=]"
+        "id": 12598,
+        "chat_link": "[&BjYxAAA=]"
     },
     {
-        "name": "Quicksand",
-        "id": 12595,
-        "chat_link": "[&BjMxAAA=]"
+        "name": "Quake",
+        "id": 12599,
+        "chat_link": "[&BjcxAAA=]"
+    },
+    {
+        "name": "Cold Snap",
+        "id": 12600,
+        "chat_link": "[&BjgxAAA=]"
     },
     {
         "name": "Nature's Renewal",
-        "id": 12596,
-        "chat_link": "[&BjQxAAA=]"
+        "id": 12601,
+        "chat_link": "[&BjkxAAA=]"
     },
     {
         "name": "Hunter's Call",
@@ -4203,11 +4218,6 @@
         "name": "Call of the Wild",
         "id": 12621,
         "chat_link": "[&Bk0xAAA=]"
-    },
-    {
-        "name": "Serpent's Strike",
-        "id": 12622,
-        "chat_link": "[&Bk4xAAA=]"
     },
     {
         "name": "Counter Throw",
@@ -4440,7 +4450,7 @@
         "chat_link": "[&BrExAAA=]"
     },
     {
-        "name": "Lacerating Slash",
+        "name": "Brash Slash",
         "id": 12722,
         "chat_link": "[&BrIxAAA=]"
     },
@@ -4465,7 +4475,7 @@
         "chat_link": "[&BrsxAAA=]"
     },
     {
-        "name": "Forage",
+        "name": "Forage Sword",
         "id": 12732,
         "chat_link": "[&BrwxAAA=]"
     },
@@ -4485,17 +4495,17 @@
         "chat_link": "[&Bs0xAAA=]"
     },
     {
-        "name": "Forage",
+        "name": "Forage Rock",
         "id": 12754,
         "chat_link": "[&BtIxAAA=]"
     },
     {
-        "name": "Forage",
+        "name": "Forage Scale",
         "id": 12755,
         "chat_link": "[&BtMxAAA=]"
     },
     {
-        "name": "Forage",
+        "name": "Forage Feathers",
         "id": 12756,
         "chat_link": "[&BtQxAAA=]"
     },
@@ -5203,11 +5213,6 @@
         "name": "Call of Valor",
         "id": 14394,
         "chat_link": "[&Bjo4AAA=]"
-    },
-    {
-        "name": "Brutal Shot",
-        "id": 14395,
-        "chat_link": "[&Bjs4AAA=]"
     },
     {
         "name": "Kill Shot",
@@ -6006,18 +6011,13 @@
     },
     {
         "name": "Aqua Surge",
-        "id": 21775,
-        "chat_link": "[&Bg9VAAA=]"
+        "id": 21776,
+        "chat_link": "[&BhBVAAA=]"
     },
     {
         "name": "Skelk Venom",
         "id": 21778,
         "chat_link": "[&BhJVAAA=]"
-    },
-    {
-        "name": "Glacial Heart",
-        "id": 21795,
-        "chat_link": "[&BiNVAAA=]"
     },
     {
         "name": "Lesser Endure Pain",
@@ -6680,11 +6680,6 @@
         "chat_link": "[&BiFzAAA=]"
     },
     {
-        "name": "Decoy",
-        "id": 29477,
-        "chat_link": "[&BiVzAAA=]"
-    },
-    {
         "name": "Reconstruction Field",
         "id": 29505,
         "chat_link": "[&BkFzAAA=]"
@@ -6708,6 +6703,11 @@
         "name": "Signet of Humility",
         "id": 29519,
         "chat_link": "[&Bk9zAAA=]"
+    },
+    {
+        "name": "Eternal Champion",
+        "id": 29521,
+        "chat_link": "[&BlFzAAA=]"
     },
     {
         "name": "Rocket Boots",
@@ -7103,11 +7103,6 @@
         "name": "Blood Reckoning",
         "id": 30189,
         "chat_link": "[&Bu11AAA=]"
-    },
-    {
-        "name": "Lesser Phantasmal Defender",
-        "id": 30192,
-        "chat_link": "[&BvB1AAA=]"
     },
     {
         "name": "Hook Strike",
@@ -8008,6 +8003,11 @@
         "name": "Platform Crush",
         "id": 34174,
         "chat_link": "[&Bn6FAAA=]"
+    },
+    {
+        "name": "Brutal Shot",
+        "id": 34296,
+        "chat_link": "[&BviFAAA=]"
     },
     {
         "name": "\"Search and Rescue!\"",
@@ -9675,6 +9675,11 @@
         "chat_link": "[&BreaAAA=]"
     },
     {
+        "name": "Taw Shot",
+        "id": 39609,
+        "chat_link": "[&BrmaAAA=]"
+    },
+    {
         "name": "Combustion Rush",
         "id": 39615,
         "chat_link": "[&Br+aAAA=]"
@@ -10050,6 +10055,11 @@
         "chat_link": "[&Bq+cAAA=]"
     },
     {
+        "name": "Portent of Freedom",
+        "id": 40114,
+        "chat_link": "[&BrKcAAA=]"
+    },
+    {
         "name": "Steal Resistance",
         "id": 40133,
         "chat_link": "[&BsWcAAA=]"
@@ -10178,11 +10188,6 @@
         "name": "Earthshaker",
         "id": 40601,
         "chat_link": "[&BpmeAAA=]"
-    },
-    {
-        "name": "Phantasmal Spinning Axe",
-        "id": 40614,
-        "chat_link": "[&BqaeAAA=]"
     },
     {
         "name": "Symbol of Vengeance",
@@ -10370,6 +10375,11 @@
         "chat_link": "[&BmyhAAA=]"
     },
     {
+        "name": "Unhindered Delivery",
+        "id": 41328,
+        "chat_link": "[&BnChAAA=]"
+    },
+    {
         "name": "Forceful Shot",
         "id": 41330,
         "chat_link": "[&BnKhAAA=]"
@@ -10398,6 +10408,11 @@
         "name": "Devourer Retreat",
         "id": 41461,
         "chat_link": "[&BvWhAAA=]"
+    },
+    {
+        "name": "Restoring Reprieve",
+        "id": 41475,
+        "chat_link": "[&BgOiAAA=]"
     },
     {
         "name": "Skirmisher's Shot",
@@ -10530,6 +10545,11 @@
         "chat_link": "[&BtGjAAA=]"
     },
     {
+        "name": "Overwhelming Celerity",
+        "id": 41988,
+        "chat_link": "[&BgSkAAA=]"
+    },
+    {
         "name": "Prime Light Beam",
         "id": 42009,
         "chat_link": "[&BhmkAAA=]"
@@ -10603,6 +10623,11 @@
         "name": "Ghastly Breach",
         "id": 42355,
         "chat_link": "[&BnOlAAA=]"
+    },
+    {
+        "name": "Echo of Truth",
+        "id": 42360,
+        "chat_link": "[&BnilAAA=]"
     },
     {
         "name": "Tome of Courage",
@@ -10700,6 +10725,11 @@
         "chat_link": "[&Bm+nAAA=]"
     },
     {
+        "name": "Opening Passage",
+        "id": 42864,
+        "chat_link": "[&BnCnAAA=]"
+    },
+    {
         "name": "Shearing Edge",
         "id": 42867,
         "chat_link": "[&BnOnAAA=]"
@@ -10723,6 +10753,11 @@
         "name": "Sand Swell",
         "id": 42917,
         "chat_link": "[&BqWnAAA=]"
+    },
+    {
+        "name": "Flame Surge",
+        "id": 42924,
+        "chat_link": "[&BqynAAA=]"
     },
     {
         "name": "Desiccate",
@@ -10750,6 +10785,11 @@
         "chat_link": "[&BsqnAAA=]"
     },
     {
+        "name": "Rejuvenating Respite",
+        "id": 42960,
+        "chat_link": "[&BtCnAAA=]"
+    },
+    {
         "name": "Savannah Strike",
         "id": 42963,
         "chat_link": "[&BtOnAAA=]"
@@ -10758,6 +10798,11 @@
         "name": "Holo Leap",
         "id": 42965,
         "chat_link": "[&BtWnAAA=]"
+    },
+    {
+        "name": "Potent Haste",
+        "id": 42983,
+        "chat_link": "[&BuenAAA=]"
     },
     {
         "name": "Leave Beastmode",
@@ -11015,6 +11060,11 @@
         "chat_link": "[&BuSrAAA=]"
     },
     {
+        "name": "Voice of Truth",
+        "id": 44008,
+        "chat_link": "[&BuirAAA=]"
+    },
+    {
         "name": "Heroic Command",
         "id": 44076,
         "chat_link": "[&BiysAAA=]"
@@ -11025,7 +11075,7 @@
         "chat_link": "[&BjCsAAA=]"
     },
     {
-        "name": "Death's Judgment",
+        "name": "Malicious Death's Judgment",
         "id": 44087,
         "chat_link": "[&BjesAAA=]"
     },
@@ -11058,6 +11108,11 @@
         "name": "Split Surge",
         "id": 44241,
         "chat_link": "[&BtGsAAA=]"
+    },
+    {
+        "name": "Clarified Conclusion",
+        "id": 44248,
+        "chat_link": "[&BtisAAA=]"
     },
     {
         "name": "Light Strike\u2014Storm",
@@ -11305,6 +11360,11 @@
         "chat_link": "[&BvevAAA=]"
     },
     {
+        "name": "Flame Rush",
+        "id": 45082,
+        "chat_link": "[&BhqwAAA=]"
+    },
+    {
         "name": "Malicious Restoration",
         "id": 45088,
         "chat_link": "[&BiCwAAA=]"
@@ -11440,11 +11500,6 @@
         "chat_link": "[&Bo2yAAA=]"
     },
     {
-        "name": "Sand Shards",
-        "id": 45711,
-        "chat_link": "[&Bo+yAAA=]"
-    },
-    {
         "name": "One Wolf Pack",
         "id": 45717,
         "chat_link": "[&BpWyAAA=]"
@@ -11568,11 +11623,6 @@
         "name": "Hammer of Wisdom",
         "id": 46170,
         "chat_link": "[&Blq0AAA=]"
-    },
-    {
-        "name": "Empowering Roar",
-        "id": 46183,
-        "chat_link": "[&Bme0AAA=]"
     },
     {
         "name": "Molten Burst",
@@ -14288,11 +14338,6 @@
         "name": "Ancient Echo",
         "id": 55029,
         "chat_link": "[&BvXWAAA=]"
-    },
-    {
-        "name": "Swipe",
-        "id": 55031,
-        "chat_link": "[&BvfWAAA=]"
     },
     {
         "name": "Shield of the Avenger",
@@ -17715,7 +17760,7 @@
         "chat_link": "[&BsT2AAA=]"
     },
     {
-        "name": "Barrier Blast",
+        "name": "Mace Blast",
         "id": 63174,
         "chat_link": "[&Bsb2AAA=]"
     },
@@ -18065,7 +18110,7 @@
         "chat_link": "[&BhD6AAA=]"
     },
     {
-        "name": "Wicked Bite",
+        "name": "Dash",
         "id": 64038,
         "chat_link": "[&Bib6AAA=]"
     },
@@ -18195,7 +18240,7 @@
         "chat_link": "[&Bp38AAA=]"
     },
     {
-        "name": "Jade Cannon",
+        "name": "Slam",
         "id": 64699,
         "chat_link": "[&Brv8AAA=]"
     },
@@ -18495,7 +18540,7 @@
         "chat_link": "[&BtACAQA=]"
     },
     {
-        "name": "Snap",
+        "name": "Heavy Shot",
         "id": 66258,
         "chat_link": "[&BtICAQA=]"
     },
@@ -18568,11 +18613,6 @@
         "name": "Pulverize",
         "id": 66760,
         "chat_link": "[&BsgEAQA=]"
-    },
-    {
-        "name": "Vampiric Bite",
-        "id": 66780,
-        "chat_link": "[&BtwEAQA=]"
     },
     {
         "name": "Wall of Fear",
@@ -19113,5 +19153,1105 @@
         "name": "Sniper's Cover",
         "id": 68600,
         "chat_link": "[&BvgLAQA=]"
+    },
+    {
+        "name": "Tome of Courage",
+        "id": 68646,
+        "chat_link": "[&BiYMAQA=]"
+    },
+    {
+        "name": "Tome of Justice",
+        "id": 68647,
+        "chat_link": "[&BicMAQA=]"
+    },
+    {
+        "name": "Tome of Resolve",
+        "id": 68648,
+        "chat_link": "[&BigMAQA=]"
+    },
+    {
+        "name": "Tome of Resolve",
+        "id": 68649,
+        "chat_link": "[&BikMAQA=]"
+    },
+    {
+        "name": "Tome of Courage",
+        "id": 68650,
+        "chat_link": "[&BioMAQA=]"
+    },
+    {
+        "name": "Renewed Focus",
+        "id": 68666,
+        "chat_link": "[&BjoMAQA=]"
+    },
+    {
+        "name": "\"Feel My Wrath!\"",
+        "id": 68670,
+        "chat_link": "[&Bj4MAQA=]"
+    },
+    {
+        "name": "Signet of Courage",
+        "id": 68676,
+        "chat_link": "[&BkQMAQA=]"
+    },
+    {
+        "name": "Dragon's Maw",
+        "id": 68686,
+        "chat_link": "[&Bk4MAQA=]"
+    },
+    {
+        "name": "Slash",
+        "id": 68714,
+        "chat_link": "[&BmoMAQA=]"
+    },
+    {
+        "name": "Energy Torrent",
+        "id": 68756,
+        "chat_link": "[&BpQMAQA=]"
+    },
+    {
+        "name": "Corrupted Siphon",
+        "id": 68807,
+        "chat_link": "[&BscMAQA=]"
+    },
+    {
+        "name": "Engulfing Darkness",
+        "id": 68809,
+        "chat_link": "[&BskMAQA=]"
+    },
+    {
+        "name": "Engulfing Darkness",
+        "id": 68865,
+        "chat_link": "[&BgENAQA=]"
+    },
+    {
+        "name": "Mark of Anguish",
+        "id": 68874,
+        "chat_link": "[&BgoNAQA=]"
+    },
+    {
+        "name": "Light Pool",
+        "id": 68940,
+        "chat_link": "[&BkwNAQA=]"
+    },
+    {
+        "name": "Energy Torrent",
+        "id": 68942,
+        "chat_link": "[&Bk4NAQA=]"
+    },
+    {
+        "name": "Engulfing Darkness",
+        "id": 68948,
+        "chat_link": "[&BlQNAQA=]"
+    },
+    {
+        "name": "Haze Discharge",
+        "id": 68950,
+        "chat_link": "[&BlYNAQA=]"
+    },
+    {
+        "name": "Ambush",
+        "id": 68954,
+        "chat_link": "[&BloNAQA=]"
+    },
+    {
+        "name": "Engulfing Darkness",
+        "id": 68958,
+        "chat_link": "[&Bl4NAQA=]"
+    },
+    {
+        "name": "Earth Render",
+        "id": 69001,
+        "chat_link": "[&BokNAQA=]"
+    },
+    {
+        "name": "Shadow Gouge",
+        "id": 69054,
+        "chat_link": "[&Br4NAQA=]"
+    },
+    {
+        "name": "Sky Render",
+        "id": 69065,
+        "chat_link": "[&BskNAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69149,
+        "chat_link": "[&Bh0OAQA=]"
+    },
+    {
+        "name": "Dual Orbits: Fire and Earth",
+        "id": 69164,
+        "chat_link": "[&BiwOAQA=]"
+    },
+    {
+        "name": "Wild Swing",
+        "id": 69167,
+        "chat_link": "[&Bi8OAQA=]"
+    },
+    {
+        "name": "Solar Brilliance",
+        "id": 69169,
+        "chat_link": "[&BjEOAQA=]"
+    },
+    {
+        "name": "Malicious Shadowsquall",
+        "id": 69173,
+        "chat_link": "[&BjUOAQA=]"
+    },
+    {
+        "name": "Solar Brilliance",
+        "id": 69175,
+        "chat_link": "[&BjcOAQA=]"
+    },
+    {
+        "name": "Lesser \"Guard!\"",
+        "id": 69183,
+        "chat_link": "[&Bj8OAQA=]"
+    },
+    {
+        "name": "Dual Orbits: Fire and Water",
+        "id": 69184,
+        "chat_link": "[&BkAOAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69185,
+        "chat_link": "[&BkEOAQA=]"
+    },
+    {
+        "name": "Pounce",
+        "id": 69203,
+        "chat_link": "[&BlMOAQA=]"
+    },
+    {
+        "name": "Dual Orbits: Water and Air",
+        "id": 69211,
+        "chat_link": "[&BlsOAQA=]"
+    },
+    {
+        "name": "Thump",
+        "id": 69212,
+        "chat_link": "[&BlwOAQA=]"
+    },
+    {
+        "name": "Neurotoxin Burst",
+        "id": 69223,
+        "chat_link": "[&BmcOAQA=]"
+    },
+    {
+        "name": "Dread Visage",
+        "id": 69240,
+        "chat_link": "[&BngOAQA=]"
+    },
+    {
+        "name": "Water Spirit",
+        "id": 69244,
+        "chat_link": "[&BnwOAQA=]"
+    },
+    {
+        "name": "Breaching Strike",
+        "id": 69245,
+        "chat_link": "[&Bn0OAQA=]"
+    },
+    {
+        "name": "Dual Orbits: Air and Earth",
+        "id": 69246,
+        "chat_link": "[&Bn4OAQA=]"
+    },
+    {
+        "name": "Malicious Hook Strike",
+        "id": 69250,
+        "chat_link": "[&BoIOAQA=]"
+    },
+    {
+        "name": "Overbearing Smash",
+        "id": 69262,
+        "chat_link": "[&Bo4OAQA=]"
+    },
+    {
+        "name": "Slicing Maelstrom",
+        "id": 69290,
+        "chat_link": "[&BqoOAQA=]"
+    },
+    {
+        "name": "Breaching Strike",
+        "id": 69297,
+        "chat_link": "[&BrEOAQA=]"
+    },
+    {
+        "name": "Spirit of Nature",
+        "id": 69300,
+        "chat_link": "[&BrQOAQA=]"
+    },
+    {
+        "name": "Life Siphon",
+        "id": 69302,
+        "chat_link": "[&BrYOAQA=]"
+    },
+    {
+        "name": "Bladecall",
+        "id": 69311,
+        "chat_link": "[&Br8OAQA=]"
+    },
+    {
+        "name": "Death's Judgment",
+        "id": 69316,
+        "chat_link": "[&BsQOAQA=]"
+    },
+    {
+        "name": "Savage Shock Wave",
+        "id": 69340,
+        "chat_link": "[&BtwOAQA=]"
+    },
+    {
+        "name": "Dual Orbits: Fire and Air",
+        "id": 69341,
+        "chat_link": "[&Bt0OAQA=]"
+    },
+    {
+        "name": "Dread Visage",
+        "id": 69343,
+        "chat_link": "[&Bt8OAQA=]"
+    },
+    {
+        "name": "Lingering Thoughts",
+        "id": 69344,
+        "chat_link": "[&BuAOAQA=]"
+    },
+    {
+        "name": "Sun Spirit",
+        "id": 69349,
+        "chat_link": "[&BuUOAQA=]"
+    },
+    {
+        "name": "Storm Spirit",
+        "id": 69351,
+        "chat_link": "[&BucOAQA=]"
+    },
+    {
+        "name": "Frightening Speed",
+        "id": 69356,
+        "chat_link": "[&BuwOAQA=]"
+    },
+    {
+        "name": "Stone Spirit",
+        "id": 69378,
+        "chat_link": "[&BgIPAQA=]"
+    },
+    {
+        "name": "Frost Spirit",
+        "id": 69379,
+        "chat_link": "[&BgMPAQA=]"
+    },
+    {
+        "name": "Axes of Symmetry",
+        "id": 69385,
+        "chat_link": "[&BgkPAQA=]"
+    },
+    {
+        "name": "Phantom Razor",
+        "id": 69389,
+        "chat_link": "[&Bg0PAQA=]"
+    },
+    {
+        "name": "Breaching Strike",
+        "id": 69392,
+        "chat_link": "[&BhAPAQA=]"
+    },
+    {
+        "name": "Dual Orbits: Water and Earth",
+        "id": 69413,
+        "chat_link": "[&BiUPAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69418,
+        "chat_link": "[&BioPAQA=]"
+    },
+    {
+        "name": "World Cleaver",
+        "id": 69419,
+        "chat_link": "[&BisPAQA=]"
+    },
+    {
+        "name": "Breaching Strike",
+        "id": 69433,
+        "chat_link": "[&BjkPAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69475,
+        "chat_link": "[&BmMPAQA=]"
+    },
+    {
+        "name": "Attuning Stance",
+        "id": 69555,
+        "chat_link": "[&BrMPAQA=]"
+    },
+    {
+        "name": "Shooting Stars",
+        "id": 69560,
+        "chat_link": "[&BrgPAQA=]"
+    },
+    {
+        "name": "Shared Destruction",
+        "id": 69564,
+        "chat_link": "[&BrwPAQA=]"
+    },
+    {
+        "name": "Radiant Arc",
+        "id": 69565,
+        "chat_link": "[&Br0PAQA=]"
+    },
+    {
+        "name": "World Cleaver",
+        "id": 69663,
+        "chat_link": "[&Bh8QAQA=]"
+    },
+    {
+        "name": "Blinding Radiance",
+        "id": 69723,
+        "chat_link": "[&BlsQAQA=]"
+    },
+    {
+        "name": "Kryptis Haze",
+        "id": 69835,
+        "chat_link": "[&BssQAQA=]"
+    },
+    {
+        "name": "Sun Ripper",
+        "id": 69906,
+        "chat_link": "[&BhIRAQA=]"
+    },
+    {
+        "name": "",
+        "id": 69910,
+        "chat_link": "[&BhYRAQA=]"
+    },
+    {
+        "name": "Painterly Stance",
+        "id": 69925,
+        "chat_link": "[&BiURAQA=]"
+    },
+    {
+        "name": "Charging Constellation",
+        "id": 69950,
+        "chat_link": "[&Bj4RAQA=]"
+    },
+    {
+        "name": "Blinding Radiance",
+        "id": 69991,
+        "chat_link": "[&BmcRAQA=]"
+    },
+    {
+        "name": "Stormfall",
+        "id": 70014,
+        "chat_link": "[&Bn4RAQA=]"
+    },
+    {
+        "name": "Missed Stroke",
+        "id": 70205,
+        "chat_link": "[&Bj0SAQA=]"
+    },
+    {
+        "name": "Chomp",
+        "id": 70241,
+        "chat_link": "[&BmESAQA=]"
+    },
+    {
+        "name": "Shared Destruction",
+        "id": 70317,
+        "chat_link": "[&Bq0SAQA=]"
+    },
+    {
+        "name": "Shared Destruction",
+        "id": 70426,
+        "chat_link": "[&BhoTAQA=]"
+    },
+    {
+        "name": "Blinding Radiance",
+        "id": 70497,
+        "chat_link": "[&BmETAQA=]"
+    },
+    {
+        "name": "Sun Edge",
+        "id": 70514,
+        "chat_link": "[&BnITAQA=]"
+    },
+    {
+        "name": "Soul Feast",
+        "id": 70567,
+        "chat_link": "[&BqcTAQA=]"
+    },
+    {
+        "name": "Charging Constellation",
+        "id": 70584,
+        "chat_link": "[&BrgTAQA=]"
+    },
+    {
+        "name": "Blinding Radiance",
+        "id": 70740,
+        "chat_link": "[&BlQUAQA=]"
+    },
+    {
+        "name": "Gleam Saber",
+        "id": 70771,
+        "chat_link": "[&BnMUAQA=]"
+    },
+    {
+        "name": "Relic of Dwayna",
+        "id": 70785,
+        "chat_link": "[&BoEUAQA=]"
+    },
+    {
+        "name": "Ley-Line Vortex",
+        "id": 70889,
+        "chat_link": "[&BukUAQA=]"
+    },
+    {
+        "name": "Relic of Dwayna",
+        "id": 70981,
+        "chat_link": "[&BkUVAQA=]"
+    },
+    {
+        "name": "Dimension Breach",
+        "id": 71002,
+        "chat_link": "[&BloVAQA=]"
+    },
+    {
+        "name": "Meteor Crash",
+        "id": 71042,
+        "chat_link": "[&BoIVAQA=]"
+    },
+    {
+        "name": "Demonic Fever",
+        "id": 71047,
+        "chat_link": "[&BocVAQA=]"
+    },
+    {
+        "name": "Demonic Blast",
+        "id": 71082,
+        "chat_link": "[&BqoVAQA=]"
+    },
+    {
+        "name": "World Cleaver",
+        "id": 71085,
+        "chat_link": "[&Bq0VAQA=]"
+    },
+    {
+        "name": "Refraction Cutter",
+        "id": 71121,
+        "chat_link": "[&BtEVAQA=]"
+    },
+    {
+        "name": "Disrupt Attunement",
+        "id": 71188,
+        "chat_link": "[&BhQWAQA=]"
+    },
+    {
+        "name": "Lunge",
+        "id": 71282,
+        "chat_link": "[&BnIWAQA=]"
+    },
+    {
+        "name": "",
+        "id": 71306,
+        "chat_link": "[&BooWAQA=]"
+    },
+    {
+        "name": "Stormfall",
+        "id": 71465,
+        "chat_link": "[&BikXAQA=]"
+    },
+    {
+        "name": "Shearing Winds",
+        "id": 71468,
+        "chat_link": "[&BiwXAQA=]"
+    },
+    {
+        "name": "Electrocute",
+        "id": 71499,
+        "chat_link": "[&BksXAQA=]"
+    },
+    {
+        "name": "Spit Goop",
+        "id": 71546,
+        "chat_link": "[&BnoXAQA=]"
+    },
+    {
+        "name": "Corrupted Ground",
+        "id": 71667,
+        "chat_link": "[&BvMXAQA=]"
+    },
+    {
+        "name": "Fire Breath",
+        "id": 71679,
+        "chat_link": "[&Bv8XAQA=]"
+    },
+    {
+        "name": "Ley Energy Pulse",
+        "id": 71688,
+        "chat_link": "[&BggYAQA=]"
+    },
+    {
+        "name": "Shock Wave",
+        "id": 71701,
+        "chat_link": "[&BhUYAQA=]"
+    },
+    {
+        "name": "Stormfall",
+        "id": 71733,
+        "chat_link": "[&BjUYAQA=]"
+    },
+    {
+        "name": "Shearing Winds",
+        "id": 71738,
+        "chat_link": "[&BjoYAQA=]"
+    },
+    {
+        "name": "Cracks in Reality",
+        "id": 71742,
+        "chat_link": "[&Bj4YAQA=]"
+    },
+    {
+        "name": "Path of Gluttony",
+        "id": 71791,
+        "chat_link": "[&Bm8YAQA=]"
+    },
+    {
+        "name": "Dimensional Aperture",
+        "id": 71792,
+        "chat_link": "[&BnAYAQA=]"
+    },
+    {
+        "name": "Aerial Agility",
+        "id": 71796,
+        "chat_link": "[&BnQYAQA=]"
+    },
+    {
+        "name": "Lesser Litany of Wrath",
+        "id": 71798,
+        "chat_link": "[&BnYYAQA=]"
+    },
+    {
+        "name": "Path of Gluttony",
+        "id": 71799,
+        "chat_link": "[&BncYAQA=]"
+    },
+    {
+        "name": "Effervescence",
+        "id": 71800,
+        "chat_link": "[&BngYAQA=]"
+    },
+    {
+        "name": "Helmet Breaker",
+        "id": 71802,
+        "chat_link": "[&BnoYAQA=]"
+    },
+    {
+        "name": "Hungering Maelstrom",
+        "id": 71813,
+        "chat_link": "[&BoUYAQA=]"
+    },
+    {
+        "name": "Blossoming Aura",
+        "id": 71816,
+        "chat_link": "[&BogYAQA=]"
+    },
+    {
+        "name": "Jurisdiction",
+        "id": 71817,
+        "chat_link": "[&BokYAQA=]"
+    },
+    {
+        "name": "Otherworldly Attraction",
+        "id": 71827,
+        "chat_link": "[&BpMYAQA=]"
+    },
+    {
+        "name": "Raging Ricochet",
+        "id": 71828,
+        "chat_link": "[&BpQYAQA=]"
+    },
+    {
+        "name": "Fire Jurisdiction",
+        "id": 71832,
+        "chat_link": "[&BpgYAQA=]"
+    },
+    {
+        "name": "Malicious Cunning Salvo",
+        "id": 71835,
+        "chat_link": "[&BpsYAQA=]"
+    },
+    {
+        "name": "Wild Strikes",
+        "id": 71841,
+        "chat_link": "[&BqEYAQA=]"
+    },
+    {
+        "name": "Boulder Blast",
+        "id": 71842,
+        "chat_link": "[&BqIYAQA=]"
+    },
+    {
+        "name": "Aerial Agility",
+        "id": 71847,
+        "chat_link": "[&BqcYAQA=]"
+    },
+    {
+        "name": "Enervation Echo",
+        "id": 71850,
+        "chat_link": "[&BqoYAQA=]"
+    },
+    {
+        "name": "Venomous Volley",
+        "id": 71852,
+        "chat_link": "[&BqwYAQA=]"
+    },
+    {
+        "name": "Spinning Axe",
+        "id": 71854,
+        "chat_link": "[&Bq4YAQA=]"
+    },
+    {
+        "name": "Aerial Agility",
+        "id": 71857,
+        "chat_link": "[&BrEYAQA=]"
+    },
+    {
+        "name": "Deactivate Otherworldly Bond",
+        "id": 71858,
+        "chat_link": "[&BrIYAQA=]"
+    },
+    {
+        "name": "Line Breaker",
+        "id": 71860,
+        "chat_link": "[&BrQYAQA=]"
+    },
+    {
+        "name": "Frostfire Flurry",
+        "id": 71863,
+        "chat_link": "[&BrcYAQA=]"
+    },
+    {
+        "name": "Harrowing Storm",
+        "id": 71864,
+        "chat_link": "[&BrgYAQA=]"
+    },
+    {
+        "name": "Path of Gluttony",
+        "id": 71867,
+        "chat_link": "[&BrsYAQA=]"
+    },
+    {
+        "name": "Essence of Liquid Wrath",
+        "id": 71870,
+        "chat_link": "[&Br4YAQA=]"
+    },
+    {
+        "name": "Gorge",
+        "id": 71871,
+        "chat_link": "[&Br8YAQA=]"
+    },
+    {
+        "name": "Arc Detonator",
+        "id": 71873,
+        "chat_link": "[&BsEYAQA=]"
+    },
+    {
+        "name": "Rampart Splitter",
+        "id": 71875,
+        "chat_link": "[&BsMYAQA=]"
+    },
+    {
+        "name": "Otherworldly Attraction",
+        "id": 71880,
+        "chat_link": "[&BsgYAQA=]"
+    },
+    {
+        "name": "Essence of Living Shadows",
+        "id": 71882,
+        "chat_link": "[&BsoYAQA=]"
+    },
+    {
+        "name": "Ravenous Wave",
+        "id": 71883,
+        "chat_link": "[&BssYAQA=]"
+    },
+    {
+        "name": "Cultivate",
+        "id": 71885,
+        "chat_link": "[&Bs0YAQA=]"
+    },
+    {
+        "name": "Essence of Borrowed Time",
+        "id": 71888,
+        "chat_link": "[&BtAYAQA=]"
+    },
+    {
+        "name": "Defiant Roar",
+        "id": 71889,
+        "chat_link": "[&BtEYAQA=]"
+    },
+    {
+        "name": "Friendly Fire",
+        "id": 71892,
+        "chat_link": "[&BtQYAQA=]"
+    },
+    {
+        "name": "Piercing Pebble",
+        "id": 71893,
+        "chat_link": "[&BtUYAQA=]"
+    },
+    {
+        "name": "Recall Axes",
+        "id": 71895,
+        "chat_link": "[&BtcYAQA=]"
+    },
+    {
+        "name": "Journey",
+        "id": 71897,
+        "chat_link": "[&BtkYAQA=]"
+    },
+    {
+        "name": "Purblinding Plasma",
+        "id": 71898,
+        "chat_link": "[&BtoYAQA=]"
+    },
+    {
+        "name": "Thistleguard",
+        "id": 71903,
+        "chat_link": "[&Bt8YAQA=]"
+    },
+    {
+        "name": "Electric Exposure",
+        "id": 71904,
+        "chat_link": "[&BuAYAQA=]"
+    },
+    {
+        "name": "Elemental Explosion",
+        "id": 71907,
+        "chat_link": "[&BuMYAQA=]"
+    },
+    {
+        "name": "Satiate",
+        "id": 71914,
+        "chat_link": "[&BuoYAQA=]"
+    },
+    {
+        "name": "Hail of Justice",
+        "id": 71918,
+        "chat_link": "[&Bu4YAQA=]"
+    },
+    {
+        "name": "Path to Victory",
+        "id": 71922,
+        "chat_link": "[&BvIYAQA=]"
+    },
+    {
+        "name": "Consume",
+        "id": 71926,
+        "chat_link": "[&BvYYAQA=]"
+    },
+    {
+        "name": "Scorching Shot",
+        "id": 71929,
+        "chat_link": "[&BvkYAQA=]"
+    },
+    {
+        "name": "Acerbic Cut",
+        "id": 71930,
+        "chat_link": "[&BvoYAQA=]"
+    },
+    {
+        "name": "Path to Victory",
+        "id": 71932,
+        "chat_link": "[&BvwYAQA=]"
+    },
+    {
+        "name": "Serene Slash",
+        "id": 71933,
+        "chat_link": "[&Bv0YAQA=]"
+    },
+    {
+        "name": "Frozen Fusillade",
+        "id": 71935,
+        "chat_link": "[&Bv8YAQA=]"
+    },
+    {
+        "name": "Searing Salvo",
+        "id": 71940,
+        "chat_link": "[&BgQZAQA=]"
+    },
+    {
+        "name": "Motivating Whirl",
+        "id": 71942,
+        "chat_link": "[&BgYZAQA=]"
+    },
+    {
+        "name": "Path to Victory",
+        "id": 71950,
+        "chat_link": "[&Bg4ZAQA=]"
+    },
+    {
+        "name": "Otherworldly Bond",
+        "id": 71952,
+        "chat_link": "[&BhAZAQA=]"
+    },
+    {
+        "name": "Flowing Finesse",
+        "id": 71960,
+        "chat_link": "[&BhgZAQA=]"
+    },
+    {
+        "name": "Oaken Cudgel",
+        "id": 71963,
+        "chat_link": "[&BhsZAQA=]"
+    },
+    {
+        "name": "Orchestrated Assault",
+        "id": 71965,
+        "chat_link": "[&Bh0ZAQA=]"
+    },
+    {
+        "name": "Dazing Discharge",
+        "id": 71966,
+        "chat_link": "[&Bh4ZAQA=]"
+    },
+    {
+        "name": "Spinning Axe",
+        "id": 71967,
+        "chat_link": "[&Bh8ZAQA=]"
+    },
+    {
+        "name": "Peacekeeper",
+        "id": 71968,
+        "chat_link": "[&BiAZAQA=]"
+    },
+    {
+        "name": "Path of Gluttony",
+        "id": 71974,
+        "chat_link": "[&BiYZAQA=]"
+    },
+    {
+        "name": "Bullet Catcher",
+        "id": 71975,
+        "chat_link": "[&BicZAQA=]"
+    },
+    {
+        "name": "Enervation Blade",
+        "id": 71986,
+        "chat_link": "[&BjIZAQA=]"
+    },
+    {
+        "name": "Symbol of Ignition",
+        "id": 71987,
+        "chat_link": "[&BjMZAQA=]"
+    },
+    {
+        "name": "Detonate Jurisdiction",
+        "id": 71989,
+        "chat_link": "[&BjUZAQA=]"
+    },
+    {
+        "name": "Molten Meteor",
+        "id": 71993,
+        "chat_link": "[&BjkZAQA=]"
+    },
+    {
+        "name": "Devouring Visage",
+        "id": 71998,
+        "chat_link": "[&Bj4ZAQA=]"
+    },
+    {
+        "name": "Flourish",
+        "id": 71999,
+        "chat_link": "[&Bj8ZAQA=]"
+    },
+    {
+        "name": "Reverse Strike",
+        "id": 72001,
+        "chat_link": "[&BkEZAQA=]"
+    },
+    {
+        "name": "Valiant Leap",
+        "id": 72002,
+        "chat_link": "[&BkIZAQA=]"
+    },
+    {
+        "name": "Inspiring Imagery",
+        "id": 72005,
+        "chat_link": "[&BkUZAQA=]"
+    },
+    {
+        "name": "Phantasmal Sharpshooter",
+        "id": 72007,
+        "chat_link": "[&BkcZAQA=]"
+    },
+    {
+        "name": "Singularity Shot",
+        "id": 72008,
+        "chat_link": "[&BkgZAQA=]"
+    },
+    {
+        "name": "Enervating Earth",
+        "id": 72023,
+        "chat_link": "[&BlcZAQA=]"
+    },
+    {
+        "name": "Balanced Strike",
+        "id": 72024,
+        "chat_link": "[&BlgZAQA=]"
+    },
+    {
+        "name": "Snap Pull",
+        "id": 72026,
+        "chat_link": "[&BloZAQA=]"
+    },
+    {
+        "name": "Frigid Flurry",
+        "id": 72028,
+        "chat_link": "[&BlwZAQA=]"
+    },
+    {
+        "name": "Path to Victory",
+        "id": 72029,
+        "chat_link": "[&Bl0ZAQA=]"
+    },
+    {
+        "name": "Through the Heart",
+        "id": 72031,
+        "chat_link": "[&Bl8ZAQA=]"
+    },
+    {
+        "name": "Shattering Stone",
+        "id": 72032,
+        "chat_link": "[&BmAZAQA=]"
+    },
+    {
+        "name": "Soothing Splash",
+        "id": 72033,
+        "chat_link": "[&BmEZAQA=]"
+    },
+    {
+        "name": "Cunning Salvo",
+        "id": 72034,
+        "chat_link": "[&BmIZAQA=]"
+    },
+    {
+        "name": "Burgeon",
+        "id": 72044,
+        "chat_link": "[&BmwZAQA=]"
+    },
+    {
+        "name": "Inspiring Whirl",
+        "id": 72049,
+        "chat_link": "[&BnEZAQA=]"
+    },
+    {
+        "name": "Deathly Enervation",
+        "id": 72051,
+        "chat_link": "[&BnMZAQA=]"
+    },
+    {
+        "name": "Essence of Animated Sand",
+        "id": 72052,
+        "chat_link": "[&BnQZAQA=]"
+    },
+    {
+        "name": "Energy Meld",
+        "id": 72058,
+        "chat_link": "[&BnoZAQA=]"
+    },
+    {
+        "name": "Echoing Erosion",
+        "id": 72062,
+        "chat_link": "[&Bn4ZAQA=]"
+    },
+    {
+        "name": "Gormandize",
+        "id": 72068,
+        "chat_link": "[&BoQZAQA=]"
+    },
+    {
+        "name": "Abstraction",
+        "id": 72076,
+        "chat_link": "[&BowZAQA=]"
+    },
+    {
+        "name": "Rampant Growth",
+        "id": 72079,
+        "chat_link": "[&Bo8ZAQA=]"
+    },
+    {
+        "name": "Germinate",
+        "id": 72088,
+        "chat_link": "[&BpgZAQA=]"
+    },
+    {
+        "name": "Path to Victory",
+        "id": 72089,
+        "chat_link": "[&BpkZAQA=]"
+    },
+    {
+        "name": "Function Gyro",
+        "id": 72103,
+        "chat_link": "[&BqcZAQA=]"
+    },
+    {
+        "name": "Zealot's Flame",
+        "id": 72104,
+        "chat_link": "[&BqgZAQA=]"
+    },
+    {
+        "name": "Detonate Blossoming Aura",
+        "id": 72109,
+        "chat_link": "[&Bq0ZAQA=]"
+    },
+    {
+        "name": "Function Gyro",
+        "id": 72114,
+        "chat_link": "[&BrIZAQA=]"
+    },
+    {
+        "name": "Stormfall",
+        "id": 72212,
+        "chat_link": "[&BhQaAQA=]"
+    },
+    {
+        "name": "Stormfall",
+        "id": 72284,
+        "chat_link": "[&BlwaAQA=]"
+    },
+    {
+        "name": "Abyss Rift",
+        "id": 72314,
+        "chat_link": "[&BnoaAQA=]"
+    },
+    {
+        "name": "Icerazor's Ire",
+        "id": 72359,
+        "chat_link": "[&BqcaAQA=]"
+    },
+    {
+        "name": "Razorclaw's Rage",
+        "id": 72363,
+        "chat_link": "[&BqsaAQA=]"
+    },
+    {
+        "name": "Darkrazor's Daring",
+        "id": 72366,
+        "chat_link": "[&Bq4aAQA=]"
+    },
+    {
+        "name": "Carnivore",
+        "id": 72369,
+        "chat_link": "[&BrEaAQA=]"
+    },
+    {
+        "name": "Breakrazor's Bastion",
+        "id": 72389,
+        "chat_link": "[&BsUaAQA=]"
     }
 ]

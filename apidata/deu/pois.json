@@ -15080,6 +15080,1331 @@
         "chat_link": "[&BA4NAAA=]"
     },
     {
+        "name": "Teehaus \"Rote Ente\"",
+        "id": 3323,
+        "chat_link": "[&BPsMAAA=]"
+    },
+    {
+        "name": "Wegmarke Behemoth-Bresche",
+        "id": 3474,
+        "chat_link": "[&BJINAAA=]"
+    },
+    {
+        "name": "Schiffswrack-Ausgrabung",
+        "id": 3475,
+        "chat_link": "[&BJMNAAA=]"
+    },
+    {
+        "name": "Luxon-Endpunkt-Fort",
+        "id": 3476,
+        "chat_link": "[&BJQNAAA=]"
+    },
+    {
+        "name": "Absetzbecken",
+        "id": 3477,
+        "chat_link": "[&BJUNAAA=]"
+    },
+    {
+        "name": "Myzelkolonie",
+        "id": 3478,
+        "chat_link": "[&BJYNAAA=]"
+    },
+    {
+        "name": "Stalagmiten-Inselchen",
+        "id": 3479,
+        "chat_link": "[&BJcNAAA=]"
+    },
+    {
+        "name": "Muschelseiten-Ausgrabung",
+        "id": 3480,
+        "chat_link": "[&BJgNAAA=]"
+    },
+    {
+        "name": "Wegmarke Luxon-Endpunkt",
+        "id": 3481,
+        "chat_link": "[&BJkNAAA=]"
+    },
+    {
+        "name": "Park-Bergbaubetrieb",
+        "id": 3482,
+        "chat_link": "[&BJoNAAA=]"
+    },
+    {
+        "name": "Basis Behemoth-Bresche",
+        "id": 3483,
+        "chat_link": "[&BJsNAAA=]"
+    },
+    {
+        "name": "Anlegestelle des Prospektors",
+        "id": 3484,
+        "chat_link": "[&BJwNAAA=]"
+    },
+    {
+        "name": "Schmelzbecken",
+        "id": 3485,
+        "chat_link": "[&BJ0NAAA=]"
+    },
+    {
+        "name": "Basis Jades\u00e4ulen-Punkt",
+        "id": 3486,
+        "chat_link": "[&BJ4NAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3487,
+        "chat_link": "[&BJ8NAAA=]"
+    },
+    {
+        "name": "Fossiler Aussichtspunkt",
+        "id": 3488,
+        "chat_link": "[&BKANAAA=]"
+    },
+    {
+        "name": "Ley-Linien-Nexus",
+        "id": 3489,
+        "chat_link": "[&BKENAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3490,
+        "chat_link": "[&BKINAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3491,
+        "chat_link": "[&BKMNAAA=]"
+    },
+    {
+        "name": "Wegmarke Jades\u00e4ulen-Punkt",
+        "id": 3492,
+        "chat_link": "[&BKQNAAA=]"
+    },
+    {
+        "name": "Park-Steinbruch",
+        "id": 3493,
+        "chat_link": "[&BKUNAAA=]"
+    },
+    {
+        "name": "Ley-Linien-Inselchen",
+        "id": 3494,
+        "chat_link": "[&BKYNAAA=]"
+    },
+    {
+        "name": "Tr\u00fcbsinniger Graben",
+        "id": 3495,
+        "chat_link": "[&BKcNAAA=]"
+    },
+    {
+        "name": "Himmlisches Becken",
+        "id": 3496,
+        "chat_link": "[&BKgNAAA=]"
+    },
+    {
+        "name": "Behemoths Gef\u00e4lle",
+        "id": 3497,
+        "chat_link": "[&BKkNAAA=]"
+    },
+    {
+        "name": "Wegmarke Park-Bergbaubetrieb",
+        "id": 3498,
+        "chat_link": "[&BKoNAAA=]"
+    },
+    {
+        "name": "Litoral-H\u00f6hle",
+        "id": 3499,
+        "chat_link": "[&BKsNAAA=]"
+    },
+    {
+        "name": "Kristallh\u00f6hle",
+        "id": 3500,
+        "chat_link": "[&BKwNAAA=]"
+    },
+    {
+        "name": "Schildkr\u00f6tengehege",
+        "id": 3501,
+        "chat_link": "[&BK0NAAA=]"
+    },
+    {
+        "name": "Ausgrabungspunkt 7-G",
+        "id": 3502,
+        "chat_link": "[&BK4NAAA=]"
+    },
+    {
+        "name": "Torheit der Schlange",
+        "id": 3503,
+        "chat_link": "[&BK8NAAA=]"
+    },
+    {
+        "name": "Zusammenbruch des Gl\u00fccks",
+        "id": 3504,
+        "chat_link": "[&BLANAAA=]"
+    },
+    {
+        "name": "Zentralkraftwerk",
+        "id": 3377,
+        "chat_link": "[&BDENAAA=]"
+    },
+    {
+        "name": "Teehaus \"Rote Ente\"",
+        "id": 3323,
+        "chat_link": "[&BPsMAAA=]"
+    },
+    {
+        "name": "Himmelsschuppen-Stallungen",
+        "id": 3506,
+        "chat_link": "[&BLINAAA=]"
+    },
+    {
+        "name": "Der Zaubererhof",
+        "id": 3509,
+        "chat_link": "[&BLUNAAA=]"
+    },
+    {
+        "name": "Mabons Gem\u00e4cher",
+        "id": 3512,
+        "chat_link": "[&BLgNAAA=]"
+    },
+    {
+        "name": "Halle des Edelmuts",
+        "id": 3525,
+        "chat_link": "[&BMUNAAA=]"
+    },
+    {
+        "name": "L\u00f6wenstein-Konnektor",
+        "id": 3527,
+        "chat_link": "[&BMcNAAA=]"
+    },
+    {
+        "name": "Das Reliquiar",
+        "id": 3541,
+        "chat_link": "[&BNUNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3542,
+        "chat_link": "[&BNYNAAA=]"
+    },
+    {
+        "name": "Zauberers Ruh",
+        "id": 3543,
+        "chat_link": "[&BNcNAAA=]"
+    },
+    {
+        "name": "Trainingsplattform",
+        "id": 3550,
+        "chat_link": "[&BN4NAAA=]"
+    },
+    {
+        "name": "Gew\u00f6lbe des Zauberers",
+        "id": 3553,
+        "chat_link": "[&BOENAAA=]"
+    },
+    {
+        "name": "Dagdas Gem\u00e4cher",
+        "id": 3554,
+        "chat_link": "[&BOINAAA=]"
+    },
+    {
+        "name": "Amnytas-Konnektor",
+        "id": 3558,
+        "chat_link": "[&BOYNAAA=]"
+    },
+    {
+        "name": "Rissj\u00e4ger-Lounge",
+        "id": 3560,
+        "chat_link": "[&BOgNAAA=]"
+    },
+    {
+        "name": "Isgarrens Gem\u00e4cher",
+        "id": 3562,
+        "chat_link": "[&BOoNAAA=]"
+    },
+    {
+        "name": "Lichthimmel-Platz",
+        "id": 3564,
+        "chat_link": "[&BOwNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3568,
+        "chat_link": "[&BPANAAA=]"
+    },
+    {
+        "name": "Isgarrens verborgene Bibliothek",
+        "id": 3580,
+        "chat_link": "[&BPwNAAA=]"
+    },
+    {
+        "name": "Schmiede der Zeitlosigkeit",
+        "id": 3599,
+        "chat_link": "[&BA8OAAA=]"
+    },
+    {
+        "name": "Mystische Passage",
+        "id": 3609,
+        "chat_link": "[&BBkOAAA=]"
+    },
+    {
+        "name": "Wegmarke Turm-Innenhof",
+        "id": 3615,
+        "chat_link": "[&BB8OAAA=]"
+    },
+    {
+        "name": "Traum-Konnektor",
+        "id": 3617,
+        "chat_link": "[&BCEOAAA=]"
+    },
+    {
+        "name": "Lyhrs Gem\u00e4cher",
+        "id": 3630,
+        "chat_link": "[&BC4OAAA=]"
+    },
+    {
+        "name": "Fl\u00fcchtlingsklinik",
+        "id": 3631,
+        "chat_link": "[&BC8OAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3643,
+        "chat_link": "[&BDsOAAA=]"
+    },
+    {
+        "name": "Blick der Erinnerung",
+        "id": 3658,
+        "chat_link": "[&BEoOAAA=]"
+    },
+    {
+        "name": "Astralwachen-Kaserne",
+        "id": 3664,
+        "chat_link": "[&BFAOAAA=]"
+    },
+    {
+        "name": "Zaubererpr\u00fcfung",
+        "id": 3666,
+        "chat_link": "[&BFIOAAA=]"
+    },
+    {
+        "name": "Lagezentrum",
+        "id": 3668,
+        "chat_link": "[&BFQOAAA=]"
+    },
+    {
+        "name": "Chak-Brutst\u00e4tte",
+        "id": 3510,
+        "chat_link": "[&BLYNAAA=]"
+    },
+    {
+        "name": "Droknars Schmiede",
+        "id": 3511,
+        "chat_link": "[&BLcNAAA=]"
+    },
+    {
+        "name": "Thron des Urteils",
+        "id": 3514,
+        "chat_link": "[&BLoNAAA=]"
+    },
+    {
+        "name": "Tor-Forschungslabor",
+        "id": 3517,
+        "chat_link": "[&BL0NAAA=]"
+    },
+    {
+        "name": "Wegmarke Droknars Licht",
+        "id": 3518,
+        "chat_link": "[&BL4NAAA=]"
+    },
+    {
+        "name": "Witmans Eisschelf",
+        "id": 3520,
+        "chat_link": "[&BMANAAA=]"
+    },
+    {
+        "name": "Akeems Opfer",
+        "id": 3522,
+        "chat_link": "[&BMINAAA=]"
+    },
+    {
+        "name": "Mabons Entschlossenheit",
+        "id": 3523,
+        "chat_link": "[&BMMNAAA=]"
+    },
+    {
+        "name": "Turm des Zauberers: S\u00fcdtor",
+        "id": 3524,
+        "chat_link": "[&BMQNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3530,
+        "chat_link": "[&BMoNAAA=]"
+    },
+    {
+        "name": "Fl\u00fcchtlingslager Garrenhoff",
+        "id": 3531,
+        "chat_link": "[&BMsNAAA=]"
+    },
+    {
+        "name": "Briellas K\u00fcche",
+        "id": 3532,
+        "chat_link": "[&BMwNAAA=]"
+    },
+    {
+        "name": "Nest der Matriarchin",
+        "id": 3533,
+        "chat_link": "[&BM0NAAA=]"
+    },
+    {
+        "name": "Falkenschwur",
+        "id": 3537,
+        "chat_link": "[&BNENAAA=]"
+    },
+    {
+        "name": "Vass' Mitgef\u00fchl",
+        "id": 3538,
+        "chat_link": "[&BNINAAA=]"
+    },
+    {
+        "name": "Halle von Deldrimor",
+        "id": 3540,
+        "chat_link": "[&BNQNAAA=]"
+    },
+    {
+        "name": "\u00d6stlicher Bezirk",
+        "id": 3547,
+        "chat_link": "[&BNsNAAA=]"
+    },
+    {
+        "name": "Verfallene Ruinen",
+        "id": 3548,
+        "chat_link": "[&BNwNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3549,
+        "chat_link": "[&BN0NAAA=]"
+    },
+    {
+        "name": "Wegmarke Promenade von Rata Novus",
+        "id": 3552,
+        "chat_link": "[&BOANAAA=]"
+    },
+    {
+        "name": "Naga-Feldlager",
+        "id": 3556,
+        "chat_link": "[&BOQNAAA=]"
+    },
+    {
+        "name": "Der eingest\u00fcrzte Festungswall",
+        "id": 3557,
+        "chat_link": "[&BOUNAAA=]"
+    },
+    {
+        "name": "Kommandozentrale am Leuchtfeuer der Zeitalter",
+        "id": 3559,
+        "chat_link": "[&BOcNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3563,
+        "chat_link": "[&BOsNAAA=]"
+    },
+    {
+        "name": "Lyhrs Entwurf",
+        "id": 3566,
+        "chat_link": "[&BO4NAAA=]"
+    },
+    {
+        "name": "Aanisahs Windm\u00fchle",
+        "id": 3571,
+        "chat_link": "[&BPMNAAA=]"
+    },
+    {
+        "name": "Balkors Lager",
+        "id": 3573,
+        "chat_link": "[&BPUNAAA=]"
+    },
+    {
+        "name": "Fragmentierte Passage",
+        "id": 3575,
+        "chat_link": "[&BPcNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3576,
+        "chat_link": "[&BPgNAAA=]"
+    },
+    {
+        "name": "Wolkenblick-See",
+        "id": 3577,
+        "chat_link": "[&BPkNAAA=]"
+    },
+    {
+        "name": "Droknars Anlegestelle",
+        "id": 3578,
+        "chat_link": "[&BPoNAAA=]"
+    },
+    {
+        "name": "Dagdas Wahrnehmung",
+        "id": 3579,
+        "chat_link": "[&BPsNAAA=]"
+    },
+    {
+        "name": "Monument f\u00fcr K\u00f6nig Jalis Eisenhammer",
+        "id": 3583,
+        "chat_link": "[&BP8NAAA=]"
+    },
+    {
+        "name": "Der Fallende Sand",
+        "id": 3584,
+        "chat_link": "[&BAAOAAA=]"
+    },
+    {
+        "name": "Tempel von Glint",
+        "id": 3588,
+        "chat_link": "[&BAQOAAA=]"
+    },
+    {
+        "name": "Absturz der Sturmtochter",
+        "id": 3589,
+        "chat_link": "[&BAUOAAA=]"
+    },
+    {
+        "name": "Verlassenes Labor",
+        "id": 3591,
+        "chat_link": "[&BAcOAAA=]"
+    },
+    {
+        "name": "Westliche Forschungseinrichtungen",
+        "id": 3592,
+        "chat_link": "[&BAgOAAA=]"
+    },
+    {
+        "name": "Wegmarke Lager der Astralwache",
+        "id": 3598,
+        "chat_link": "[&BA4OAAA=]"
+    },
+    {
+        "name": "Erhabene Ruinen",
+        "id": 3602,
+        "chat_link": "[&BBIOAAA=]"
+    },
+    {
+        "name": "Wegmarke Fl\u00fcchtlingslager Garrenhoff",
+        "id": 3605,
+        "chat_link": "[&BBUOAAA=]"
+    },
+    {
+        "name": "Der Lichtkristall",
+        "id": 3606,
+        "chat_link": "[&BBYOAAA=]"
+    },
+    {
+        "name": "Br\u00fccke zwischen den Welten",
+        "id": 3608,
+        "chat_link": "[&BBgOAAA=]"
+    },
+    {
+        "name": "Himmelswacht-Beobachtungsposten",
+        "id": 3611,
+        "chat_link": "[&BBsOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3612,
+        "chat_link": "[&BBwOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3613,
+        "chat_link": "[&BB0OAAA=]"
+    },
+    {
+        "name": "N.-K. Sendeterminal Beta",
+        "id": 3616,
+        "chat_link": "[&BCAOAAA=]"
+    },
+    {
+        "name": "Trainingspavillon",
+        "id": 3619,
+        "chat_link": "[&BCMOAAA=]"
+    },
+    {
+        "name": "Wegmarke Leuchtfeuer der Zeitalter",
+        "id": 3627,
+        "chat_link": "[&BCsOAAA=]"
+    },
+    {
+        "name": "Die Brennende Festung",
+        "id": 3628,
+        "chat_link": "[&BCwOAAA=]"
+    },
+    {
+        "name": "MiSi-Serverraum",
+        "id": 3632,
+        "chat_link": "[&BDAOAAA=]"
+    },
+    {
+        "name": "Reserve-Arsenal",
+        "id": 3633,
+        "chat_link": "[&BDEOAAA=]"
+    },
+    {
+        "name": "Esmes Aussichtspunkt",
+        "id": 3634,
+        "chat_link": "[&BDIOAAA=]"
+    },
+    {
+        "name": "Ruinen von Rhawat",
+        "id": 3635,
+        "chat_link": "[&BDMOAAA=]"
+    },
+    {
+        "name": "Verborgener Wasserfall",
+        "id": 3637,
+        "chat_link": "[&BDUOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3638,
+        "chat_link": "[&BDYOAAA=]"
+    },
+    {
+        "name": "Farisan-Dorf",
+        "id": 3640,
+        "chat_link": "[&BDgOAAA=]"
+    },
+    {
+        "name": "Eroberter Platz",
+        "id": 3641,
+        "chat_link": "[&BDkOAAA=]"
+    },
+    {
+        "name": "Wegmarke Falkenschwur",
+        "id": 3647,
+        "chat_link": "[&BD8OAAA=]"
+    },
+    {
+        "name": "Speisesaal der Astralwache",
+        "id": 3649,
+        "chat_link": "[&BEEOAAA=]"
+    },
+    {
+        "name": "Wegmarke Beobachtungslager",
+        "id": 3654,
+        "chat_link": "[&BEYOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3665,
+        "chat_link": "[&BFEOAAA=]"
+    },
+    {
+        "name": "Monument f\u00fcr den Orden",
+        "id": 3667,
+        "chat_link": "[&BFMOAAA=]"
+    },
+    {
+        "name": "Der Zerbrochene Turm",
+        "id": 3669,
+        "chat_link": "[&BFUOAAA=]"
+    },
+    {
+        "name": "Seemanns Wehklage",
+        "id": 3670,
+        "chat_link": "[&BFYOAAA=]"
+    },
+    {
+        "name": "Erhabener Observierungsring",
+        "id": 3508,
+        "chat_link": "[&BLQNAAA=]"
+    },
+    {
+        "name": "Astronomischer Nexusring",
+        "id": 3535,
+        "chat_link": "[&BM8NAAA=]"
+    },
+    {
+        "name": "Himmlischer Kontrollring",
+        "id": 3590,
+        "chat_link": "[&BAYOAAA=]"
+    },
+    {
+        "name": "Herz des Turms",
+        "id": 3601,
+        "chat_link": "[&BBEOAAA=]"
+    },
+    {
+        "name": "Kosmischer Theaterring",
+        "id": 3663,
+        "chat_link": "[&BE8OAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3505,
+        "chat_link": "[&BLENAAA=]"
+    },
+    {
+        "name": "Harmonisches Gr\u00fcn",
+        "id": 3507,
+        "chat_link": "[&BLMNAAA=]"
+    },
+    {
+        "name": "Erhabener Observierungsring",
+        "id": 3508,
+        "chat_link": "[&BLQNAAA=]"
+    },
+    {
+        "name": "Zauberei-Werkstatt",
+        "id": 3515,
+        "chat_link": "[&BLsNAAA=]"
+    },
+    {
+        "name": "Kuriosit\u00e4tenmuseum: Hauptgalerie",
+        "id": 3516,
+        "chat_link": "[&BLwNAAA=]"
+    },
+    {
+        "name": "Mabons Turm",
+        "id": 3519,
+        "chat_link": "[&BL8NAAA=]"
+    },
+    {
+        "name": "Insel der D\u00e4mmerung",
+        "id": 3521,
+        "chat_link": "[&BMENAAA=]"
+    },
+    {
+        "name": "Kristallbecken",
+        "id": 3526,
+        "chat_link": "[&BMYNAAA=]"
+    },
+    {
+        "name": "Kryptis-Frontlinie",
+        "id": 3529,
+        "chat_link": "[&BMkNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3534,
+        "chat_link": "[&BM4NAAA=]"
+    },
+    {
+        "name": "Astronomischer Nexusring",
+        "id": 3535,
+        "chat_link": "[&BM8NAAA=]"
+    },
+    {
+        "name": "Wegmarke Bastion der St\u00e4rke",
+        "id": 3539,
+        "chat_link": "[&BNMNAAA=]"
+    },
+    {
+        "name": "Becken der Reflexion",
+        "id": 3544,
+        "chat_link": "[&BNgNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3545,
+        "chat_link": "[&BNkNAAA=]"
+    },
+    {
+        "name": "Natatorium Obscurus",
+        "id": 3546,
+        "chat_link": "[&BNoNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3555,
+        "chat_link": "[&BOMNAAA=]"
+    },
+    {
+        "name": "Kuriosit\u00e4tenmuseum: Halle der Riesen",
+        "id": 3565,
+        "chat_link": "[&BO0NAAA=]"
+    },
+    {
+        "name": "Grenzdickicht der Macht",
+        "id": 3567,
+        "chat_link": "[&BO8NAAA=]"
+    },
+    {
+        "name": "Isgarrens Turm",
+        "id": 3569,
+        "chat_link": "[&BPENAAA=]"
+    },
+    {
+        "name": "Lichtung des Gleichgewichts",
+        "id": 3570,
+        "chat_link": "[&BPINAAA=]"
+    },
+    {
+        "name": "Botanischer Himmelsgarten",
+        "id": 3572,
+        "chat_link": "[&BPQNAAA=]"
+    },
+    {
+        "name": "Gelehrsamkeits-Arkade",
+        "id": 3574,
+        "chat_link": "[&BPYNAAA=]"
+    },
+    {
+        "name": "Gedenkst\u00e4tte f\u00fcr Vass am Sanit\u00e4tsplatz",
+        "id": 3582,
+        "chat_link": "[&BP4NAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3585,
+        "chat_link": "[&BAEOAAA=]"
+    },
+    {
+        "name": "Prachtvolle Bibliothek von Amnytas",
+        "id": 3586,
+        "chat_link": "[&BAIOAAA=]"
+    },
+    {
+        "name": "Spirituelles Zentrum",
+        "id": 3587,
+        "chat_link": "[&BAMOAAA=]"
+    },
+    {
+        "name": "Himmlischer Kontrollring",
+        "id": 3590,
+        "chat_link": "[&BAYOAAA=]"
+    },
+    {
+        "name": "Gro\u00dfer Debattiersaal",
+        "id": 3593,
+        "chat_link": "[&BAkOAAA=]"
+    },
+    {
+        "name": "Wegmarke Bastion des Himmlischen",
+        "id": 3594,
+        "chat_link": "[&BAoOAAA=]"
+    },
+    {
+        "name": "Lyhrs Turm",
+        "id": 3595,
+        "chat_link": "[&BAsOAAA=]"
+    },
+    {
+        "name": "Das Risswerk",
+        "id": 3596,
+        "chat_link": "[&BAwOAAA=]"
+    },
+    {
+        "name": "Malheur",
+        "id": 3597,
+        "chat_link": "[&BA0OAAA=]"
+    },
+    {
+        "name": "Bastionsweiher",
+        "id": 3600,
+        "chat_link": "[&BBAOAAA=]"
+    },
+    {
+        "name": "Herz des Turms",
+        "id": 3601,
+        "chat_link": "[&BBEOAAA=]"
+    },
+    {
+        "name": "Meditationskreis \u00fcberm Wasser",
+        "id": 3603,
+        "chat_link": "[&BBMOAAA=]"
+    },
+    {
+        "name": "Einsame Spitze",
+        "id": 3604,
+        "chat_link": "[&BBQOAAA=]"
+    },
+    {
+        "name": "Astralwachen-Trainingsanlagen",
+        "id": 3610,
+        "chat_link": "[&BBoOAAA=]"
+    },
+    {
+        "name": "Thaumaturgie-Park",
+        "id": 3614,
+        "chat_link": "[&BB4OAAA=]"
+    },
+    {
+        "name": "Innenhof der wachsenden St\u00e4rke",
+        "id": 3618,
+        "chat_link": "[&BCIOAAA=]"
+    },
+    {
+        "name": "Kartografie-Kammer",
+        "id": 3620,
+        "chat_link": "[&BCQOAAA=]"
+    },
+    {
+        "name": "Die Veranda",
+        "id": 3621,
+        "chat_link": "[&BCUOAAA=]"
+    },
+    {
+        "name": "Die Krankenstation",
+        "id": 3622,
+        "chat_link": "[&BCYOAAA=]"
+    },
+    {
+        "name": "Keller der Arkana",
+        "id": 3623,
+        "chat_link": "[&BCcOAAA=]"
+    },
+    {
+        "name": "Zweifelhaftes Inselchen",
+        "id": 3624,
+        "chat_link": "[&BCgOAAA=]"
+    },
+    {
+        "name": "Kreis der Rituale",
+        "id": 3625,
+        "chat_link": "[&BCkOAAA=]"
+    },
+    {
+        "name": "Akeems Turm",
+        "id": 3626,
+        "chat_link": "[&BCoOAAA=]"
+    },
+    {
+        "name": "Meditationskreis am Naturgestade",
+        "id": 3629,
+        "chat_link": "[&BC0OAAA=]"
+    },
+    {
+        "name": "Wegmarke Bastion des Nat\u00fcrlichen",
+        "id": 3636,
+        "chat_link": "[&BDQOAAA=]"
+    },
+    {
+        "name": "Labor des Zusammenbrauers",
+        "id": 3639,
+        "chat_link": "[&BDcOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3642,
+        "chat_link": "[&BDoOAAA=]"
+    },
+    {
+        "name": "Insel der Erkenntnis",
+        "id": 3644,
+        "chat_link": "[&BDwOAAA=]"
+    },
+    {
+        "name": "Wegmarke Bastion des Gleichgewichts",
+        "id": 3645,
+        "chat_link": "[&BD0OAAA=]"
+    },
+    {
+        "name": "Relikt-Sammellager",
+        "id": 3646,
+        "chat_link": "[&BD4OAAA=]"
+    },
+    {
+        "name": "Turmschatten-Lagune",
+        "id": 3648,
+        "chat_link": "[&BEAOAAA=]"
+    },
+    {
+        "name": "Wegmarke Bastion des Wissens",
+        "id": 3650,
+        "chat_link": "[&BEIOAAA=]"
+    },
+    {
+        "name": "Vass' Turm",
+        "id": 3652,
+        "chat_link": "[&BEQOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3653,
+        "chat_link": "[&BEUOAAA=]"
+    },
+    {
+        "name": "Wegmarke Bastion des Obskuren",
+        "id": 3655,
+        "chat_link": "[&BEcOAAA=]"
+    },
+    {
+        "name": "Die Unterwege",
+        "id": 3656,
+        "chat_link": "[&BEgOAAA=]"
+    },
+    {
+        "name": "Lager der defensiven Operationen",
+        "id": 3657,
+        "chat_link": "[&BEkOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3659,
+        "chat_link": "[&BEsOAAA=]"
+    },
+    {
+        "name": "Kreaturen-Gehege",
+        "id": 3660,
+        "chat_link": "[&BEwOAAA=]"
+    },
+    {
+        "name": "Das Wolkenmeer",
+        "id": 3661,
+        "chat_link": "[&BE0OAAA=]"
+    },
+    {
+        "name": "Kosmischer Theaterring",
+        "id": 3663,
+        "chat_link": "[&BE8OAAA=]"
+    },
+    {
+        "name": "Wutentbrannte Umarmung",
+        "id": 3671,
+        "chat_link": "[&BFcOAAA=]"
+    },
+    {
+        "name": "Weiher der ewigen Nacht",
+        "id": 3672,
+        "chat_link": "[&BFgOAAA=]"
+    },
+    {
+        "name": "Baum der Trauer",
+        "id": 3673,
+        "chat_link": "[&BFkOAAA=]"
+    },
+    {
+        "name": "Die F\u00e4ulnis",
+        "id": 3674,
+        "chat_link": "[&BFoOAAA=]"
+    },
+    {
+        "name": "Baum der vielen Gesichter",
+        "id": 3675,
+        "chat_link": "[&BFsOAAA=]"
+    },
+    {
+        "name": "Heitors Schlund",
+        "id": 3676,
+        "chat_link": "[&BFwOAAA=]"
+    },
+    {
+        "name": "Der Jammernde Abgrund",
+        "id": 3677,
+        "chat_link": "[&BF0OAAA=]"
+    },
+    {
+        "name": "Heitors Tor",
+        "id": 3678,
+        "chat_link": "[&BF4OAAA=]"
+    },
+    {
+        "name": "Gr\u00e4mliche Felswand",
+        "id": 3682,
+        "chat_link": "[&BGIOAAA=]"
+    },
+    {
+        "name": "Senke der Begehrlichen",
+        "id": 3683,
+        "chat_link": "[&BGMOAAA=]"
+    },
+    {
+        "name": "Die S\u00e4ulen von Mosyn",
+        "id": 3684,
+        "chat_link": "[&BGQOAAA=]"
+    },
+    {
+        "name": "Astralwachen-Lager",
+        "id": 3685,
+        "chat_link": "[&BGUOAAA=]"
+    },
+    {
+        "name": "Verlorener Altar",
+        "id": 3687,
+        "chat_link": "[&BGcOAAA=]"
+    },
+    {
+        "name": "Der Aufsteigende Traum",
+        "id": 3688,
+        "chat_link": "[&BGgOAAA=]"
+    },
+    {
+        "name": "Der Spalt",
+        "id": 3689,
+        "chat_link": "[&BGkOAAA=]"
+    },
+    {
+        "name": "Der s\u00fcdliche Extraktor",
+        "id": 3690,
+        "chat_link": "[&BGoOAAA=]"
+    },
+    {
+        "name": "Der n\u00f6rdliche Extraktor",
+        "id": 3691,
+        "chat_link": "[&BGsOAAA=]"
+    },
+    {
+        "name": "Horst des Himmelsk\u00f6nigs",
+        "id": 3692,
+        "chat_link": "[&BGwOAAA=]"
+    },
+    {
+        "name": "Die Wasser des Bedauerns",
+        "id": 3693,
+        "chat_link": "[&BG0OAAA=]"
+    },
+    {
+        "name": "Das Becken des Gefl\u00fcsters",
+        "id": 3694,
+        "chat_link": "[&BG4OAAA=]"
+    },
+    {
+        "name": "Wutentbrannte Umarmung",
+        "id": 3671,
+        "chat_link": "[&BFcOAAA=]"
+    },
+    {
+        "name": "Weiher der ewigen Nacht",
+        "id": 3672,
+        "chat_link": "[&BFgOAAA=]"
+    },
+    {
+        "name": "Baum der Trauer",
+        "id": 3673,
+        "chat_link": "[&BFkOAAA=]"
+    },
+    {
+        "name": "Die F\u00e4ulnis",
+        "id": 3674,
+        "chat_link": "[&BFoOAAA=]"
+    },
+    {
+        "name": "Baum der vielen Gesichter",
+        "id": 3675,
+        "chat_link": "[&BFsOAAA=]"
+    },
+    {
+        "name": "Heitors Schlund",
+        "id": 3676,
+        "chat_link": "[&BFwOAAA=]"
+    },
+    {
+        "name": "Der Jammernde Abgrund",
+        "id": 3677,
+        "chat_link": "[&BF0OAAA=]"
+    },
+    {
+        "name": "Heitors Tor",
+        "id": 3678,
+        "chat_link": "[&BF4OAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3679,
+        "chat_link": "[&BF8OAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3680,
+        "chat_link": "[&BGAOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3681,
+        "chat_link": "[&BGEOAAA=]"
+    },
+    {
+        "name": "Gr\u00e4mliche Felswand",
+        "id": 3682,
+        "chat_link": "[&BGIOAAA=]"
+    },
+    {
+        "name": "Senke der Begehrlichen",
+        "id": 3683,
+        "chat_link": "[&BGMOAAA=]"
+    },
+    {
+        "name": "Die S\u00e4ulen von Mosyn",
+        "id": 3684,
+        "chat_link": "[&BGQOAAA=]"
+    },
+    {
+        "name": "Astralwachen-Lager",
+        "id": 3685,
+        "chat_link": "[&BGUOAAA=]"
+    },
+    {
+        "name": "Wegmarke Astralwachen-Lager",
+        "id": 3686,
+        "chat_link": "[&BGYOAAA=]"
+    },
+    {
+        "name": "Verlorener Altar",
+        "id": 3687,
+        "chat_link": "[&BGcOAAA=]"
+    },
+    {
+        "name": "Der Aufsteigende Traum",
+        "id": 3688,
+        "chat_link": "[&BGgOAAA=]"
+    },
+    {
+        "name": "Der Spalt",
+        "id": 3689,
+        "chat_link": "[&BGkOAAA=]"
+    },
+    {
+        "name": "Der s\u00fcdliche Extraktor",
+        "id": 3690,
+        "chat_link": "[&BGoOAAA=]"
+    },
+    {
+        "name": "Der n\u00f6rdliche Extraktor",
+        "id": 3691,
+        "chat_link": "[&BGsOAAA=]"
+    },
+    {
+        "name": "Horst des Himmelsk\u00f6nigs",
+        "id": 3692,
+        "chat_link": "[&BGwOAAA=]"
+    },
+    {
+        "name": "Die Wasser des Bedauerns",
+        "id": 3693,
+        "chat_link": "[&BG0OAAA=]"
+    },
+    {
+        "name": "Das Becken des Gefl\u00fcsters",
+        "id": 3694,
+        "chat_link": "[&BG4OAAA=]"
+    },
+    {
+        "name": "Seufzerbr\u00fccke",
+        "id": 3695,
+        "chat_link": "[&BG8OAAA=]"
+    },
+    {
+        "name": "Tempel der Charybda",
+        "id": 3696,
+        "chat_link": "[&BHAOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3697,
+        "chat_link": "[&BHEOAAA=]"
+    },
+    {
+        "name": "Wasser des Ersten Traums",
+        "id": 3698,
+        "chat_link": "[&BHIOAAA=]"
+    },
+    {
+        "name": "Mosyns Erholung",
+        "id": 3699,
+        "chat_link": "[&BHMOAAA=]"
+    },
+    {
+        "name": "Prozession der K\u00f6nigin",
+        "id": 3700,
+        "chat_link": "[&BHQOAAA=]"
+    },
+    {
+        "name": "Isoliertes Grasland",
+        "id": 3701,
+        "chat_link": "[&BHUOAAA=]"
+    },
+    {
+        "name": "Wegmarke Vorsto\u00df-Biwak",
+        "id": 3702,
+        "chat_link": "[&BHYOAAA=]"
+    },
+    {
+        "name": "Die Verderbte S\u00e4ule",
+        "id": 3703,
+        "chat_link": "[&BHcOAAA=]"
+    },
+    {
+        "name": "Flussversteck",
+        "id": 3704,
+        "chat_link": "[&BHgOAAA=]"
+    },
+    {
+        "name": "Die Baue",
+        "id": 3705,
+        "chat_link": "[&BHkOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3706,
+        "chat_link": "[&BHoOAAA=]"
+    },
+    {
+        "name": "Bogengang der Gefallenen Helden",
+        "id": 3707,
+        "chat_link": "[&BHsOAAA=]"
+    },
+    {
+        "name": "Weg der Uralten",
+        "id": 3708,
+        "chat_link": "[&BHwOAAA=]"
+    },
+    {
+        "name": "Gr\u00fcnderfeste",
+        "id": 3709,
+        "chat_link": "[&BH0OAAA=]"
+    },
+    {
+        "name": "Sekund\u00e4re Extraktoren",
+        "id": 3711,
+        "chat_link": "[&BH8OAAA=]"
+    },
+    {
+        "name": "Der Betrauerte Hof",
+        "id": 3712,
+        "chat_link": "[&BIAOAAA=]"
+    },
+    {
+        "name": "Abendrotmarsch",
+        "id": 3713,
+        "chat_link": "[&BIEOAAA=]"
+    },
+    {
+        "name": "Die Sammelgr\u00fcnde",
+        "id": 3714,
+        "chat_link": "[&BIIOAAA=]"
+    },
+    {
+        "name": "Brunnen der Seelenpein",
+        "id": 3715,
+        "chat_link": "[&BIMOAAA=]"
+    },
+    {
+        "name": "Kolosseum des Mitternachtsk\u00f6nigs",
+        "id": 3716,
+        "chat_link": "[&BIQOAAA=]"
+    },
+    {
+        "name": "Hain der Ersten Kryptis",
+        "id": 3717,
+        "chat_link": "[&BIUOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3718,
+        "chat_link": "[&BIYOAAA=]"
+    },
+    {
+        "name": "Becken der Verlorenen Tr\u00e4ume",
+        "id": 3719,
+        "chat_link": "[&BIcOAAA=]"
+    },
+    {
+        "name": "Entlegener Teich",
+        "id": 3721,
+        "chat_link": "[&BIkOAAA=]"
+    },
+    {
         "name": "Wegmarke PvP-Lobby",
         "id": 1046,
         "chat_link": "[&BBYEAAA=]"

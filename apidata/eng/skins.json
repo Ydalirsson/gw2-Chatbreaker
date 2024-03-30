@@ -2940,6 +2940,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 681,
+        "chat_link": null
+    },
+    {
         "name": "Forgeman Gloves",
         "id": 682,
         "chat_link": null
@@ -4225,7 +4230,7 @@
         "chat_link": null
     },
     {
-        "name": "Wide Rim Glasses",
+        "name": "Wide-Rim Glasses",
         "id": 982,
         "chat_link": null
     },
@@ -4245,12 +4250,12 @@
         "chat_link": null
     },
     {
-        "name": "Wide Rim Glasses",
+        "name": "Wide-Rim Glasses",
         "id": 986,
         "chat_link": null
     },
     {
-        "name": "Wide Rim Glasses",
+        "name": "Wide-Rim Glasses",
         "id": 987,
         "chat_link": null
     },
@@ -4591,6 +4596,11 @@
     },
     {
         "name": "",
+        "id": 1058,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1059,
         "chat_link": null
     },
@@ -4607,6 +4617,11 @@
     {
         "name": "Phoenix Pants",
         "id": 1062,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1063,
         "chat_link": null
     },
     {
@@ -4640,6 +4655,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1070,
+        "chat_link": null
+    },
+    {
         "name": "Krytan Leggings",
         "id": 1071,
         "chat_link": null
@@ -4647,6 +4667,11 @@
     {
         "name": "Twisted Watchwork Shoulders",
         "id": 1072,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1073,
         "chat_link": null
     },
     {
@@ -4660,8 +4685,18 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1076,
+        "chat_link": null
+    },
+    {
         "name": "Twisted Watchwork Shoulders",
         "id": 1077,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1078,
         "chat_link": null
     },
     {
@@ -4680,6 +4715,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1083,
+        "chat_link": null
+    },
+    {
         "name": "Braham's Pauldrons",
         "id": 1084,
         "chat_link": null
@@ -4692,6 +4732,16 @@
     {
         "name": "Magitech Jerkin",
         "id": 1087,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1088,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1089,
         "chat_link": null
     },
     {
@@ -4725,6 +4775,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1096,
+        "chat_link": null
+    },
+    {
         "name": "Krytan Jerkin",
         "id": 1097,
         "chat_link": null
@@ -4755,6 +4810,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1104,
+        "chat_link": null
+    },
+    {
         "name": "Profane Shoes",
         "id": 1105,
         "chat_link": null
@@ -4765,8 +4825,28 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1108,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1109,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1110,
+        "chat_link": null
+    },
+    {
         "name": "Krytan Boots",
         "id": 1111,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1112,
         "chat_link": null
     },
     {
@@ -4775,8 +4855,28 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1114,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1115,
+        "chat_link": null
+    },
+    {
         "name": "Deathly Avian Pauldrons",
         "id": 1116,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1117,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1118,
         "chat_link": null
     },
     {
@@ -4810,6 +4910,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1129,
+        "chat_link": null
+    },
+    {
         "name": "Deathly Bull's Shoulderpads",
         "id": 1131,
         "chat_link": null
@@ -4830,8 +4935,28 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1138,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1139,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1140,
+        "chat_link": null
+    },
+    {
         "name": "Light Island Shoulder",
         "id": 1141,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1142,
         "chat_link": null
     },
     {
@@ -4841,7 +4966,27 @@
     },
     {
         "name": "",
+        "id": 1146,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1147,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1148,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1149,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1150,
         "chat_link": null
     },
     {
@@ -4886,6 +5031,21 @@
     },
     {
         "name": "",
+        "id": 1159,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1161,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1164,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1165,
         "chat_link": null
     },
@@ -4896,7 +5056,17 @@
     },
     {
         "name": "",
+        "id": 1167,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1168,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1170,
         "chat_link": null
     },
     {
@@ -4912,6 +5082,11 @@
     {
         "name": "",
         "id": 1174,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1175,
         "chat_link": null
     },
     {
@@ -4942,6 +5117,16 @@
     {
         "name": "Bunny Ears",
         "id": 1181,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1182,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1183,
         "chat_link": null
     },
     {
@@ -4987,6 +5172,16 @@
     {
         "name": "Mask of the Crown",
         "id": 1192,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1193,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1194,
         "chat_link": null
     },
     {
@@ -5071,6 +5266,16 @@
     },
     {
         "name": "",
+        "id": 1211,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1212,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 1213,
         "chat_link": null
     },
@@ -5082,6 +5287,21 @@
     {
         "name": "",
         "id": 1215,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1216,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1217,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1218,
         "chat_link": null
     },
     {
@@ -5120,6 +5340,66 @@
         "chat_link": null
     },
     {
+        "name": "Paper Bag Helm (Blush)",
+        "id": 1235,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Blush)",
+        "id": 1236,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Blush)",
+        "id": 1237,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Angry)",
+        "id": 1238,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Angry)",
+        "id": 1239,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Angry)",
+        "id": 1240,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Happy)",
+        "id": 1241,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Happy)",
+        "id": 1242,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Happy)",
+        "id": 1243,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Sad)",
+        "id": 1244,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Sad)",
+        "id": 1245,
+        "chat_link": null
+    },
+    {
+        "name": "Paper Bag Helm (Sad)",
+        "id": 1246,
+        "chat_link": null
+    },
+    {
         "name": "",
         "id": 1247,
         "chat_link": null
@@ -5127,6 +5407,11 @@
     {
         "name": "",
         "id": 1248,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 1249,
         "chat_link": null
     },
     {
@@ -5920,6 +6205,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 1447,
+        "chat_link": null
+    },
+    {
         "name": "Heavy Scale Leggings",
         "id": 1483,
         "chat_link": null
@@ -5927,6 +6217,11 @@
     {
         "name": "Guild Defender Chestpiece",
         "id": 1484,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Scale Leggings",
+        "id": 1499,
         "chat_link": null
     },
     {
@@ -5955,6 +6250,16 @@
         "chat_link": null
     },
     {
+        "name": "Heavy Scale Shinguards",
+        "id": 1534,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Scale Armguards",
+        "id": 1542,
+        "chat_link": null
+    },
+    {
         "name": "Heavy Scale Helm",
         "id": 1560,
         "chat_link": null
@@ -5962,6 +6267,11 @@
     {
         "name": "Guild Defender Shoulderplate",
         "id": 1561,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Scale Helm",
+        "id": 1579,
         "chat_link": null
     },
     {
@@ -6427,6 +6737,16 @@
     {
         "name": "Fanged Dread Mask",
         "id": 2060,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 2118,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 2119,
         "chat_link": null
     },
     {
@@ -7126,6 +7446,11 @@
     },
     {
         "name": "",
+        "id": 2689,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 2743,
         "chat_link": null
     },
@@ -7141,7 +7466,17 @@
     },
     {
         "name": "",
+        "id": 2788,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 2809,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 2829,
         "chat_link": null
     },
     {
@@ -7176,7 +7511,17 @@
     },
     {
         "name": "",
+        "id": 2930,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 3005,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3020,
         "chat_link": null
     },
     {
@@ -7191,12 +7536,52 @@
     },
     {
         "name": "",
+        "id": 3119,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3145,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 3150,
         "chat_link": null
     },
     {
         "name": "",
+        "id": 3185,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3186,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3187,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 3188,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3190,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3192,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3239,
         "chat_link": null
     },
     {
@@ -7216,12 +7601,37 @@
     },
     {
         "name": "",
+        "id": 3245,
+        "chat_link": null
+    },
+    {
+        "name": "",
         "id": 3264,
         "chat_link": null
     },
     {
         "name": "",
         "id": 3265,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3272,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3273,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3355,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 3491,
         "chat_link": null
     },
     {
@@ -15615,6 +16025,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 5353,
+        "chat_link": null
+    },
+    {
         "name": "OooOoo Shooter",
         "id": 5362,
         "chat_link": null
@@ -16675,6 +17090,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 5658,
+        "chat_link": null
+    },
+    {
         "name": "Pinnacle Rifle",
         "id": 5660,
         "chat_link": null
@@ -17077,6 +17497,11 @@
     {
         "name": "Glint's Gaze Mask",
         "id": 5748,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 5749,
         "chat_link": null
     },
     {
@@ -17570,6 +17995,11 @@
         "chat_link": null
     },
     {
+        "name": "Mistbreaker",
+        "id": 5898,
+        "chat_link": null
+    },
+    {
         "name": "Shadow Short Bow",
         "id": 5899,
         "chat_link": null
@@ -17712,6 +18142,11 @@
     {
         "name": "Shadow Rifle",
         "id": 5947,
+        "chat_link": null
+    },
+    {
+        "name": "Mistward Headwrap",
+        "id": 5948,
         "chat_link": null
     },
     {
@@ -23910,6 +24345,11 @@
         "chat_link": null
     },
     {
+        "name": "",
+        "id": 7487,
+        "chat_link": null
+    },
+    {
         "name": "Sunspear Horn",
         "id": 7490,
         "chat_link": null
@@ -24507,6 +24947,11 @@
     {
         "name": "Scourge's Torch",
         "id": 7699,
+        "chat_link": null
+    },
+    {
+        "name": "",
+        "id": 7700,
         "chat_link": null
     },
     {
@@ -35250,6 +35695,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Voice",
+        "id": 10244,
+        "chat_link": null
+    },
+    {
         "name": "Bladesworn's Pistol",
         "id": 10245,
         "chat_link": null
@@ -35312,6 +35762,11 @@
     {
         "name": "Jade Tech Torch",
         "id": 10258,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Won's Gaze",
+        "id": 10259,
         "chat_link": null
     },
     {
@@ -35495,6 +35950,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Bite",
+        "id": 10309,
+        "chat_link": null
+    },
+    {
         "name": "Primordus's Breath",
         "id": 10311,
         "chat_link": null
@@ -35547,6 +36007,11 @@
     {
         "name": "Living Water Rifle",
         "id": 10323,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Won's Scale",
+        "id": 10324,
         "chat_link": null
     },
     {
@@ -36075,6 +36540,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Argument",
+        "id": 10448,
+        "chat_link": null
+    },
+    {
         "name": "Jormag's Gaze",
         "id": 10449,
         "chat_link": null
@@ -36245,6 +36715,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Wisdom",
+        "id": 10490,
+        "chat_link": null
+    },
+    {
         "name": "Primordus's Flight",
         "id": 10491,
         "chat_link": null
@@ -36267,6 +36742,11 @@
     {
         "name": "Living Water Pistol",
         "id": 10495,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Won's Tail",
+        "id": 10496,
         "chat_link": null
     },
     {
@@ -36330,6 +36810,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Wing",
+        "id": 10511,
+        "chat_link": null
+    },
+    {
         "name": "Saltspray Warhorn",
         "id": 10512,
         "chat_link": null
@@ -36367,6 +36852,11 @@
     {
         "name": "Jade Punk Axe",
         "id": 10519,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Won's Insight",
+        "id": 10521,
         "chat_link": null
     },
     {
@@ -36480,6 +36970,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Claw",
+        "id": 10550,
+        "chat_link": null
+    },
+    {
         "name": "Mordremoth's Flight",
         "id": 10552,
         "chat_link": null
@@ -36530,6 +37025,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Flight",
+        "id": 10564,
+        "chat_link": null
+    },
+    {
         "name": "Martial Artist's Headband",
         "id": 10565,
         "chat_link": null
@@ -36552,6 +37052,11 @@
     {
         "name": "Gold Essence Staff",
         "id": 10569,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Won's Persuasion",
+        "id": 10570,
         "chat_link": null
     },
     {
@@ -36665,6 +37170,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Fang",
+        "id": 10596,
+        "chat_link": null
+    },
+    {
         "name": "Living Water Dagger",
         "id": 10597,
         "chat_link": null
@@ -36752,6 +37262,11 @@
     {
         "name": "Ancient Tahkayun Vambraces",
         "id": 10622,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Won's Rending",
+        "id": 10623,
         "chat_link": null
     },
     {
@@ -37145,6 +37660,11 @@
         "chat_link": null
     },
     {
+        "name": "Soo-Won's Weight",
+        "id": 10716,
+        "chat_link": null
+    },
+    {
         "name": "Living Water Scepter",
         "id": 10717,
         "chat_link": null
@@ -37157,6 +37677,11 @@
     {
         "name": "Jade Tech Focus",
         "id": 10719,
+        "chat_link": null
+    },
+    {
+        "name": "Soo-Won's Breath",
+        "id": 10720,
         "chat_link": null
     },
     {
@@ -38395,6 +38920,11 @@
         "chat_link": null
     },
     {
+        "name": "Etherbound Helm",
+        "id": 10987,
+        "chat_link": null
+    },
+    {
         "name": "War Machine Mace",
         "id": 10988,
         "chat_link": null
@@ -38440,6 +38970,11 @@
         "chat_link": null
     },
     {
+        "name": "Etherbound Helm",
+        "id": 10997,
+        "chat_link": null
+    },
+    {
         "name": "New Kaineng Staff",
         "id": 10998,
         "chat_link": null
@@ -38447,6 +38982,11 @@
     {
         "name": "War Machine Axe",
         "id": 10999,
+        "chat_link": null
+    },
+    {
+        "name": "Etherbound Helm",
+        "id": 11000,
         "chat_link": null
     },
     {
@@ -38847,6 +39387,11 @@
     {
         "name": "Chained Pistol",
         "id": 11085,
+        "chat_link": null
+    },
+    {
+        "name": "Magmatic Torch",
+        "id": 11086,
         "chat_link": null
     },
     {
@@ -39257,6 +39802,4186 @@
     {
         "name": "Snow Garden Mace",
         "id": 11170,
+        "chat_link": null
+    },
+    {
+        "name": "Wintersday Snow Boots",
+        "id": 11171,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Staff",
+        "id": 11172,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Longbow",
+        "id": 11173,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Dagger",
+        "id": 11174,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Hammer",
+        "id": 11175,
+        "chat_link": null
+    },
+    {
+        "name": "Call of Cheer",
+        "id": 11177,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Warhorn",
+        "id": 11178,
+        "chat_link": null
+    },
+    {
+        "name": "Wintersday Snow Boots",
+        "id": 11179,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Sword",
+        "id": 11180,
+        "chat_link": null
+    },
+    {
+        "name": "Greatcracker's Legend",
+        "id": 11181,
+        "chat_link": null
+    },
+    {
+        "name": "Aurene's Crystalline Pauldrons",
+        "id": 11182,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Rifle",
+        "id": 11183,
+        "chat_link": null
+    },
+    {
+        "name": "Wintersday Snow Boots",
+        "id": 11184,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Scepter",
+        "id": 11185,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Short Bow",
+        "id": 11186,
+        "chat_link": null
+    },
+    {
+        "name": "Crescent Moon Scepter",
+        "id": 11187,
+        "chat_link": null
+    },
+    {
+        "name": "Aurene's Crystalline Pauldrons",
+        "id": 11188,
+        "chat_link": null
+    },
+    {
+        "name": "Silent Forest's Bell",
+        "id": 11190,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Shield",
+        "id": 11191,
+        "chat_link": null
+    },
+    {
+        "name": "Aurene's Crystalline Pauldrons",
+        "id": 11192,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Pistol",
+        "id": 11193,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Torch",
+        "id": 11194,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Axe",
+        "id": 11195,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Greatsword",
+        "id": 11196,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Mace",
+        "id": 11197,
+        "chat_link": null
+    },
+    {
+        "name": "Snowdrift Focus",
+        "id": 11198,
+        "chat_link": null
+    },
+    {
+        "name": "Elegant Silk Scarf",
+        "id": 11199,
+        "chat_link": null
+    },
+    {
+        "name": "Lunar Rabbit Stompers",
+        "id": 11200,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Mace",
+        "id": 11201,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Short Bow",
+        "id": 11202,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Longbow",
+        "id": 11203,
+        "chat_link": null
+    },
+    {
+        "name": "Soul River Hound",
+        "id": 11204,
+        "chat_link": null
+    },
+    {
+        "name": "Embellished Rabbit Vest",
+        "id": 11205,
+        "chat_link": null
+    },
+    {
+        "name": "Lucky Great Rabbit Lantern",
+        "id": 11206,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Warhorn",
+        "id": 11207,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Axe",
+        "id": 11208,
+        "chat_link": null
+    },
+    {
+        "name": "Lucky Rabbit Lantern",
+        "id": 11209,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Blossom Fishing Rod",
+        "id": 11210,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Focus",
+        "id": 11211,
+        "chat_link": null
+    },
+    {
+        "name": "Embellished Rabbit Vest",
+        "id": 11212,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Greatsword",
+        "id": 11213,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Rifle",
+        "id": 11214,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Shield",
+        "id": 11215,
+        "chat_link": null
+    },
+    {
+        "name": "Lunar Rabbit Helm",
+        "id": 11216,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Dagger",
+        "id": 11217,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Hammer",
+        "id": 11218,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Scepter",
+        "id": 11219,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Sword",
+        "id": 11220,
+        "chat_link": null
+    },
+    {
+        "name": "Lunar Rabbit Helm",
+        "id": 11221,
+        "chat_link": null
+    },
+    {
+        "name": "First Night's Spark",
+        "id": 11222,
+        "chat_link": null
+    },
+    {
+        "name": "Elegant Silk Scarf",
+        "id": 11223,
+        "chat_link": null
+    },
+    {
+        "name": "Lunar Rabbit Stompers",
+        "id": 11224,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Staff",
+        "id": 11225,
+        "chat_link": null
+    },
+    {
+        "name": "Embellished Rabbit Vest",
+        "id": 11226,
+        "chat_link": null
+    },
+    {
+        "name": "Moon Rabbit's Guidance",
+        "id": 11227,
+        "chat_link": null
+    },
+    {
+        "name": "Lunar Rabbit Stompers",
+        "id": 11228,
+        "chat_link": null
+    },
+    {
+        "name": "Elegant Silk Scarf",
+        "id": 11229,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Pistol",
+        "id": 11230,
+        "chat_link": null
+    },
+    {
+        "name": "Lunar Rabbit Helm",
+        "id": 11231,
+        "chat_link": null
+    },
+    {
+        "name": "Firework Torch",
+        "id": 11232,
+        "chat_link": null
+    },
+    {
+        "name": "Lucky Envelope",
+        "id": 11233,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Shield",
+        "id": 11234,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Hammer",
+        "id": 11235,
+        "chat_link": null
+    },
+    {
+        "name": "Star Caller Warhorn",
+        "id": 11236,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Scepter",
+        "id": 11237,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Mace",
+        "id": 11238,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Short Bow",
+        "id": 11239,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Dagger",
+        "id": 11240,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Axe",
+        "id": 11241,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Staff",
+        "id": 11242,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Longbow",
+        "id": 11243,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Focus",
+        "id": 11244,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Sword",
+        "id": 11245,
+        "chat_link": null
+    },
+    {
+        "name": "Canthan Phoenix Wings Backpack",
+        "id": 11246,
+        "chat_link": null
+    },
+    {
+        "name": "Devil-Rending Cape",
+        "id": 11247,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Greatsword",
+        "id": 11248,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Torch",
+        "id": 11249,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Pistol",
+        "id": 11250,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Warhorn",
+        "id": 11251,
+        "chat_link": null
+    },
+    {
+        "name": "Reflective Koi Rifle",
+        "id": 11252,
+        "chat_link": null
+    },
+    {
+        "name": "Equinox Wings Backpack",
+        "id": 11253,
+        "chat_link": null
+    },
+    {
+        "name": "Kraken's Grasp Fishing Rod",
+        "id": 11255,
+        "chat_link": null
+    },
+    {
+        "name": "Swaggering Cape",
+        "id": 11257,
+        "chat_link": null
+    },
+    {
+        "name": "Bestial Tides Tattoo Legs",
+        "id": 11258,
+        "chat_link": null
+    },
+    {
+        "name": "Fire Bloom Tattoo Legs",
+        "id": 11259,
+        "chat_link": null
+    },
+    {
+        "name": "Light Special Ops Boots",
+        "id": 11260,
+        "chat_link": null
+    },
+    {
+        "name": "Minister's Hat",
+        "id": 11261,
+        "chat_link": null
+    },
+    {
+        "name": "Jade Tech Visor",
+        "id": 11262,
+        "chat_link": null
+    },
+    {
+        "name": "Light Special Ops Pants",
+        "id": 11263,
+        "chat_link": null
+    },
+    {
+        "name": "Medium Special Ops Pauldrons",
+        "id": 11264,
+        "chat_link": null
+    },
+    {
+        "name": "The Terror That Grows",
+        "id": 11265,
+        "chat_link": null
+    },
+    {
+        "name": "Grinning Tahkayun Mask",
+        "id": 11266,
+        "chat_link": null
+    },
+    {
+        "name": "Serpentine Tattoo Chest",
+        "id": 11267,
+        "chat_link": null
+    },
+    {
+        "name": "Hazard Response Pack",
+        "id": 11268,
+        "chat_link": null
+    },
+    {
+        "name": "Light Special Ops Gloves",
+        "id": 11269,
+        "chat_link": null
+    },
+    {
+        "name": "Fire Bloom Tattoo Chest",
+        "id": 11270,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Dagger",
+        "id": 11271,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Special Ops Pants",
+        "id": 11272,
+        "chat_link": null
+    },
+    {
+        "name": "Processing Line Control Bracers",
+        "id": 11275,
+        "chat_link": null
+    },
+    {
+        "name": "Minister's Hat",
+        "id": 11276,
+        "chat_link": null
+    },
+    {
+        "name": "The Hunger That Renews",
+        "id": 11277,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Sword",
+        "id": 11278,
+        "chat_link": null
+    },
+    {
+        "name": "Bestial Tides Tattoo Legs",
+        "id": 11279,
+        "chat_link": null
+    },
+    {
+        "name": "The Anguish That Festers",
+        "id": 11280,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Pistol",
+        "id": 11283,
+        "chat_link": null
+    },
+    {
+        "name": "The Bloodthirst That Lingers",
+        "id": 11284,
+        "chat_link": null
+    },
+    {
+        "name": "Jade Tech Visor",
+        "id": 11285,
+        "chat_link": null
+    },
+    {
+        "name": "Bestial Tides Tattoo Chest",
+        "id": 11286,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Special Ops Pauldrons",
+        "id": 11287,
+        "chat_link": null
+    },
+    {
+        "name": "Replica Oni Arms",
+        "id": 11288,
+        "chat_link": null
+    },
+    {
+        "name": "Medium Special Ops Boots",
+        "id": 11289,
+        "chat_link": null
+    },
+    {
+        "name": "Grinning Tahkayun Mask",
+        "id": 11290,
+        "chat_link": null
+    },
+    {
+        "name": "Serpentine Tattoo Legs",
+        "id": 11291,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Greatsword",
+        "id": 11292,
+        "chat_link": null
+    },
+    {
+        "name": "Replica Oni Arms",
+        "id": 11293,
+        "chat_link": null
+    },
+    {
+        "name": "Special Ops Captain's Helmet",
+        "id": 11294,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Torch",
+        "id": 11295,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Focus",
+        "id": 11296,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Short Bow",
+        "id": 11298,
+        "chat_link": null
+    },
+    {
+        "name": "Repurposed Nail Gun",
+        "id": 11299,
+        "chat_link": null
+    },
+    {
+        "name": "Fate Unraveling Sword",
+        "id": 11300,
+        "chat_link": null
+    },
+    {
+        "name": "Fire Bloom Tattoo Legs",
+        "id": 11302,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Scepter",
+        "id": 11303,
+        "chat_link": null
+    },
+    {
+        "name": "Bestial Tides Tattoo Chest",
+        "id": 11304,
+        "chat_link": null
+    },
+    {
+        "name": "Serpentine Tattoo Legs",
+        "id": 11305,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Shield",
+        "id": 11306,
+        "chat_link": null
+    },
+    {
+        "name": "Serpentine Tattoo Legs",
+        "id": 11307,
+        "chat_link": null
+    },
+    {
+        "name": "Serpentine Tattoo Chest",
+        "id": 11308,
+        "chat_link": null
+    },
+    {
+        "name": "Replica Oni Arms",
+        "id": 11309,
+        "chat_link": null
+    },
+    {
+        "name": "The Fury That Remains",
+        "id": 11310,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Warhorn",
+        "id": 11311,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Staff",
+        "id": 11312,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Mace",
+        "id": 11313,
+        "chat_link": null
+    },
+    {
+        "name": "Fire Bloom Tattoo Chest",
+        "id": 11314,
+        "chat_link": null
+    },
+    {
+        "name": "Medium Special Ops Helmet",
+        "id": 11315,
+        "chat_link": null
+    },
+    {
+        "name": "Xunlai Aether Detector",
+        "id": 11316,
+        "chat_link": null
+    },
+    {
+        "name": "Processing Line Control Bracers",
+        "id": 11317,
+        "chat_link": null
+    },
+    {
+        "name": "Light Special Ops Harness",
+        "id": 11318,
+        "chat_link": null
+    },
+    {
+        "name": "Special Ops Captain's Helmet",
+        "id": 11319,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Axe",
+        "id": 11320,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Hammer",
+        "id": 11321,
+        "chat_link": null
+    },
+    {
+        "name": "Holo Cape Projector",
+        "id": 11322,
+        "chat_link": null
+    },
+    {
+        "name": "Grinning Tahkayun Mask",
+        "id": 11323,
+        "chat_link": null
+    },
+    {
+        "name": "Xunlai Security Stun Club",
+        "id": 11324,
+        "chat_link": null
+    },
+    {
+        "name": "Tahkayun's Edge",
+        "id": 11325,
+        "chat_link": null
+    },
+    {
+        "name": "Processing Line Control Bracers",
+        "id": 11326,
+        "chat_link": null
+    },
+    {
+        "name": "Light Special Ops Helmet",
+        "id": 11327,
+        "chat_link": null
+    },
+    {
+        "name": "Fire Bloom Tattoo Legs",
+        "id": 11328,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Special Ops Gloves",
+        "id": 11329,
+        "chat_link": null
+    },
+    {
+        "name": "Jade Tech Visor",
+        "id": 11330,
+        "chat_link": null
+    },
+    {
+        "name": "Fire Bloom Tattoo Chest",
+        "id": 11331,
+        "chat_link": null
+    },
+    {
+        "name": "Medium Special Ops Gloves",
+        "id": 11332,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Longbow",
+        "id": 11333,
+        "chat_link": null
+    },
+    {
+        "name": "Medium Special Ops Harness",
+        "id": 11334,
+        "chat_link": null
+    },
+    {
+        "name": "Light Special Ops Pauldrons",
+        "id": 11335,
+        "chat_link": null
+    },
+    {
+        "name": "Bestial Tides Tattoo Legs",
+        "id": 11336,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Special Ops Harness",
+        "id": 11337,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Special Ops Helmet",
+        "id": 11338,
+        "chat_link": null
+    },
+    {
+        "name": "Luxon Hunter's Rifle",
+        "id": 11339,
+        "chat_link": null
+    },
+    {
+        "name": "Tahkayun's Reverse-Grip Edge",
+        "id": 11340,
+        "chat_link": null
+    },
+    {
+        "name": "Special Ops Captain's Helmet",
+        "id": 11342,
+        "chat_link": null
+    },
+    {
+        "name": "Minister's Hat",
+        "id": 11343,
+        "chat_link": null
+    },
+    {
+        "name": "Tahkayun's Armor Piercer",
+        "id": 11344,
+        "chat_link": null
+    },
+    {
+        "name": "Heavy Special Ops Boots",
+        "id": 11345,
+        "chat_link": null
+    },
+    {
+        "name": "Bestial Tides Tattoo Chest",
+        "id": 11346,
+        "chat_link": null
+    },
+    {
+        "name": "Medium Special Ops Pants",
+        "id": 11348,
+        "chat_link": null
+    },
+    {
+        "name": "Serpentine Tattoo Chest",
+        "id": 11349,
+        "chat_link": null
+    },
+    {
+        "name": "Rebel Short Boots",
+        "id": 11350,
+        "chat_link": null
+    },
+    {
+        "name": "Rebel Long Boots",
+        "id": 11354,
+        "chat_link": null
+    },
+    {
+        "name": "Rebel Short Boots",
+        "id": 11355,
+        "chat_link": null
+    },
+    {
+        "name": "Rebel Long Boots",
+        "id": 11357,
+        "chat_link": null
+    },
+    {
+        "name": "Etched Porcelain Greatsword",
+        "id": 11359,
+        "chat_link": null
+    },
+    {
+        "name": "Rebel Short Boots",
+        "id": 11360,
+        "chat_link": null
+    },
+    {
+        "name": "Voidflame Assassin Dagger",
+        "id": 11361,
+        "chat_link": null
+    },
+    {
+        "name": "Rebel Long Boots",
+        "id": 11363,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Pistol",
+        "id": 11364,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Longbow",
+        "id": 11365,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Longbow",
+        "id": 11366,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Gloves",
+        "id": 11367,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Shield",
+        "id": 11368,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Hammer",
+        "id": 11369,
+        "chat_link": null
+    },
+    {
+        "name": "Retro-Forged Mace",
+        "id": 11370,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Right Glove",
+        "id": 11371,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Sword",
+        "id": 11372,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Staff",
+        "id": 11373,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Right Glove",
+        "id": 11374,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Short Bow",
+        "id": 11375,
+        "chat_link": null
+    },
+    {
+        "name": "Retro-Forged Dagger",
+        "id": 11376,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Axe",
+        "id": 11377,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Mace",
+        "id": 11378,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Right Glove",
+        "id": 11379,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Left Glove",
+        "id": 11380,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Scepter",
+        "id": 11381,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Left Glove",
+        "id": 11382,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Greatsword",
+        "id": 11383,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Torch",
+        "id": 11384,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Staff",
+        "id": 11385,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Hammer",
+        "id": 11386,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Rifle",
+        "id": 11387,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Scepter",
+        "id": 11388,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Gloves",
+        "id": 11389,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Short Bow",
+        "id": 11390,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Greatsword",
+        "id": 11391,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Mace",
+        "id": 11392,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Axe",
+        "id": 11393,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Focus",
+        "id": 11394,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Shield",
+        "id": 11395,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Dagger",
+        "id": 11396,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Rifle",
+        "id": 11397,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Focus",
+        "id": 11398,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Warhorn",
+        "id": 11399,
+        "chat_link": null
+    },
+    {
+        "name": "Undying Shackles Cape",
+        "id": 11400,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Torch",
+        "id": 11401,
+        "chat_link": null
+    },
+    {
+        "name": "Generation One Warhorn",
+        "id": 11402,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Pistol",
+        "id": 11403,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Left Glove",
+        "id": 11404,
+        "chat_link": null
+    },
+    {
+        "name": "Retro-Forged Rifle",
+        "id": 11405,
+        "chat_link": null
+    },
+    {
+        "name": "Powered Gloves",
+        "id": 11406,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Dagger",
+        "id": 11407,
+        "chat_link": null
+    },
+    {
+        "name": "Collapsing Star Sword",
+        "id": 11408,
+        "chat_link": null
+    },
+    {
+        "name": "Scrivener's Knowledge Shoulders",
+        "id": 11409,
+        "chat_link": null
+    },
+    {
+        "name": "Herald of Aurene Harvesting Tool",
+        "id": 11410,
+        "chat_link": null
+    },
+    {
+        "name": "Scrivener's Knowledge Shoulders",
+        "id": 11411,
+        "chat_link": null
+    },
+    {
+        "name": "Herald of Aurene Logging Tool",
+        "id": 11412,
+        "chat_link": null
+    },
+    {
+        "name": "Scrivener's Knowledge Shoulders",
+        "id": 11413,
+        "chat_link": null
+    },
+    {
+        "name": "Herald of Aurene Mining Tool",
+        "id": 11414,
+        "chat_link": null
+    },
+    {
+        "name": "Exo-Sword",
+        "id": 11415,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Longbow",
+        "id": 11416,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Pistol",
+        "id": 11417,
+        "chat_link": null
+    },
+    {
+        "name": "Artisan Zharra's Hood",
+        "id": 11418,
+        "chat_link": null
+    },
+    {
+        "name": "Artisan Zharra's Hood",
+        "id": 11419,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Short Bow",
+        "id": 11420,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Focus",
+        "id": 11421,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Staff",
+        "id": 11422,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Torch",
+        "id": 11423,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Rifle",
+        "id": 11424,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Axe",
+        "id": 11425,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Mace",
+        "id": 11426,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Hammer",
+        "id": 11427,
+        "chat_link": null
+    },
+    {
+        "name": "Cuddly Cat Backpack",
+        "id": 11428,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Shield",
+        "id": 11430,
+        "chat_link": null
+    },
+    {
+        "name": "Artisan Zharra's Hood",
+        "id": 11431,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Warhorn",
+        "id": 11432,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Greatsword",
+        "id": 11433,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Dagger",
+        "id": 11434,
+        "chat_link": null
+    },
+    {
+        "name": "Artisan Zharra's Cape",
+        "id": 11435,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Sword",
+        "id": 11437,
+        "chat_link": null
+    },
+    {
+        "name": "Paladin's Decree Scepter",
+        "id": 11438,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Mace",
+        "id": 11440,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Short Bow",
+        "id": 11441,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Greatsword",
+        "id": 11442,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Shield",
+        "id": 11443,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Longbow",
+        "id": 11444,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Scepter",
+        "id": 11446,
+        "chat_link": null
+    },
+    {
+        "name": "Repurposed Drill Leveler",
+        "id": 11448,
+        "chat_link": null
+    },
+    {
+        "name": "Ebonhawke Crossbow Rifle",
+        "id": 11449,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Rifle",
+        "id": 11450,
+        "chat_link": null
+    },
+    {
+        "name": "Xunlai Deep-Mining Hand Drill",
+        "id": 11451,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Focus",
+        "id": 11452,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Dagger",
+        "id": 11454,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Hammer",
+        "id": 11455,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Staff",
+        "id": 11456,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Axe",
+        "id": 11457,
+        "chat_link": null
+    },
+    {
+        "name": "Xunlai Nephrite Crusher",
+        "id": 11458,
+        "chat_link": null
+    },
+    {
+        "name": "Salmon Run Fishing Rod",
+        "id": 11460,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Sword",
+        "id": 11463,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Pistol",
+        "id": 11464,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Torch",
+        "id": 11466,
+        "chat_link": null
+    },
+    {
+        "name": "Energized Luxon Hunter's Warhorn",
+        "id": 11468,
+        "chat_link": null
+    },
+    {
+        "name": "Candy-Packed Dragon Pistol",
+        "id": 11469,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Torch",
+        "id": 11470,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Mace",
+        "id": 11471,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Hammer",
+        "id": 11472,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Shield",
+        "id": 11473,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Axe",
+        "id": 11474,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Torch",
+        "id": 11475,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Greatsword",
+        "id": 11476,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Axe",
+        "id": 11478,
+        "chat_link": null
+    },
+    {
+        "name": "Brawler's Silk Jacket",
+        "id": 11479,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Warhorn",
+        "id": 11480,
+        "chat_link": null
+    },
+    {
+        "name": "Candy-Packed Dragon Mace",
+        "id": 11481,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Mace",
+        "id": 11482,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Warhorn",
+        "id": 11483,
+        "chat_link": null
+    },
+    {
+        "name": "Holographic Dragon Plate",
+        "id": 11484,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Scepter",
+        "id": 11485,
+        "chat_link": null
+    },
+    {
+        "name": "Holographic Dragon Plate",
+        "id": 11486,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Scepter",
+        "id": 11487,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Short Bow",
+        "id": 11488,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Focus",
+        "id": 11489,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Dagger",
+        "id": 11491,
+        "chat_link": null
+    },
+    {
+        "name": "Exo-Rifle",
+        "id": 11492,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Hammer",
+        "id": 11493,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Sword",
+        "id": 11494,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Rifle",
+        "id": 11495,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Dagger",
+        "id": 11496,
+        "chat_link": null
+    },
+    {
+        "name": "Candy-Packed Dragon Sword",
+        "id": 11497,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Blunderbuss",
+        "id": 11498,
+        "chat_link": null
+    },
+    {
+        "name": "Brawler's Silk Jacket",
+        "id": 11499,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Staff",
+        "id": 11500,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Short Bow",
+        "id": 11501,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Longbow",
+        "id": 11502,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Longbow",
+        "id": 11503,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Shield",
+        "id": 11504,
+        "chat_link": null
+    },
+    {
+        "name": "Brawler's Silk Jacket",
+        "id": 11505,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Greatsword",
+        "id": 11506,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Focus",
+        "id": 11507,
+        "chat_link": null
+    },
+    {
+        "name": "Dragonrender Pistol",
+        "id": 11508,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Pistol",
+        "id": 11509,
+        "chat_link": null
+    },
+    {
+        "name": "Holographic Dragon Plate",
+        "id": 11510,
+        "chat_link": null
+    },
+    {
+        "name": "Candy-Packed Dragon Scepter",
+        "id": 11511,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Staff",
+        "id": 11512,
+        "chat_link": null
+    },
+    {
+        "name": "Officer's Remnant Sword",
+        "id": 11513,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Rifle",
+        "id": 11515,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Hammer",
+        "id": 11516,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Flare Rifle",
+        "id": 11518,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Shield",
+        "id": 11520,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Pistol",
+        "id": 11521,
+        "chat_link": null
+    },
+    {
+        "name": "Leather Straps Cingulum",
+        "id": 11522,
+        "chat_link": null
+    },
+    {
+        "name": "Leather Straps Chestpiece",
+        "id": 11523,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Torch",
+        "id": 11524,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Dagger",
+        "id": 11525,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Longbow",
+        "id": 11526,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Staff",
+        "id": 11527,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Short Bow",
+        "id": 11528,
+        "chat_link": null
+    },
+    {
+        "name": "Leather Straps Cingulum",
+        "id": 11529,
+        "chat_link": null
+    },
+    {
+        "name": "Leather Straps Chestpiece",
+        "id": 11530,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Mace",
+        "id": 11531,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Spellweaver's Hat",
+        "id": 11532,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Axe",
+        "id": 11533,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Spellweaver's Hat",
+        "id": 11534,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Greatsword",
+        "id": 11535,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Focus",
+        "id": 11536,
+        "chat_link": null
+    },
+    {
+        "name": "Last Words",
+        "id": 11537,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Warhorn",
+        "id": 11538,
+        "chat_link": null
+    },
+    {
+        "name": "Leather Straps Chestpiece",
+        "id": 11539,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Spellweaver's Hat",
+        "id": 11540,
+        "chat_link": null
+    },
+    {
+        "name": "Leather Straps Cingulum",
+        "id": 11541,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Sword",
+        "id": 11542,
+        "chat_link": null
+    },
+    {
+        "name": "Eagle Eye Scepter",
+        "id": 11543,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Sword",
+        "id": 11544,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Axe",
+        "id": 11545,
+        "chat_link": null
+    },
+    {
+        "name": "Suncatcher's Axe",
+        "id": 11546,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Scepter",
+        "id": 11547,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Greatsword",
+        "id": 11548,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Staff",
+        "id": 11549,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Focus",
+        "id": 11550,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Mace",
+        "id": 11551,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Longbow",
+        "id": 11552,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Torch",
+        "id": 11553,
+        "chat_link": null
+    },
+    {
+        "name": "Suncatcher's Trident",
+        "id": 11554,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Shield",
+        "id": 11556,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Rifle",
+        "id": 11557,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Short Bow",
+        "id": 11558,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyrite Headband",
+        "id": 11559,
+        "chat_link": null
+    },
+    {
+        "name": "Infused Aurora Chestguard",
+        "id": 11560,
+        "chat_link": null
+    },
+    {
+        "name": "Infused Aurora Chestguard",
+        "id": 11561,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyrite Headband",
+        "id": 11562,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Warhorn",
+        "id": 11563,
+        "chat_link": null
+    },
+    {
+        "name": "Infused Aurora Chestguard",
+        "id": 11564,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Hammer",
+        "id": 11565,
+        "chat_link": null
+    },
+    {
+        "name": "Sun-Grown Dagger",
+        "id": 11566,
+        "chat_link": null
+    },
+    {
+        "name": "Zephyrite Headband",
+        "id": 11567,
+        "chat_link": null
+    },
+    {
+        "name": "Suncatcher's Torch",
+        "id": 11568,
+        "chat_link": null
+    },
+    {
+        "name": "Visage of Nourys",
+        "id": 11569,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Sword",
+        "id": 11570,
+        "chat_link": null
+    },
+    {
+        "name": "Infernal Envoy Staff",
+        "id": 11571,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Light Gloves",
+        "id": 11572,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Axe",
+        "id": 11573,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Pistol",
+        "id": 11574,
+        "chat_link": null
+    },
+    {
+        "name": "Regret's Memory",
+        "id": 11575,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Warhorn",
+        "id": 11576,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Sword",
+        "id": 11577,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Leggings",
+        "id": 11578,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Longbow",
+        "id": 11579,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Medium Boots",
+        "id": 11580,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Short Bow",
+        "id": 11581,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Mace",
+        "id": 11582,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Dagger",
+        "id": 11583,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Dagger",
+        "id": 11584,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Medium Leggings",
+        "id": 11585,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Heavy Coat",
+        "id": 11586,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Short Bow",
+        "id": 11587,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Sword",
+        "id": 11588,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Focus",
+        "id": 11589,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Longbow",
+        "id": 11590,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Light Helm",
+        "id": 11591,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Sword",
+        "id": 11592,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Medium Coat",
+        "id": 11593,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Scepter",
+        "id": 11594,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Sword",
+        "id": 11595,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Greatsword",
+        "id": 11596,
+        "chat_link": null
+    },
+    {
+        "name": "Vermilion Logging Tool",
+        "id": 11597,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Greatsword",
+        "id": 11599,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Hammer",
+        "id": 11600,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Warhorn",
+        "id": 11601,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Pistol",
+        "id": 11602,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Axe",
+        "id": 11603,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Focus",
+        "id": 11604,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Medium Boots",
+        "id": 11606,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Pistol",
+        "id": 11607,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Staff",
+        "id": 11608,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Focus",
+        "id": 11609,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Scepter",
+        "id": 11610,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Coat",
+        "id": 11611,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Staff",
+        "id": 11612,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Torch",
+        "id": 11613,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Warhorn",
+        "id": 11615,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Greatsword",
+        "id": 11616,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Dagger",
+        "id": 11617,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Hammer",
+        "id": 11618,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Warhorn",
+        "id": 11619,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Longbow",
+        "id": 11620,
+        "chat_link": null
+    },
+    {
+        "name": "Envy's Bite",
+        "id": 11623,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Greatsword",
+        "id": 11624,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Scepter",
+        "id": 11626,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Focus",
+        "id": 11627,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Medium Shoulders",
+        "id": 11628,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Helm",
+        "id": 11629,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Light Coat",
+        "id": 11630,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Greatsword",
+        "id": 11632,
+        "chat_link": null
+    },
+    {
+        "name": "Malice's Heartstring",
+        "id": 11633,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Mace",
+        "id": 11634,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Warhorn",
+        "id": 11635,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Axe",
+        "id": 11636,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Heavy Shoulders",
+        "id": 11637,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Medium Shoulders",
+        "id": 11638,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Scepter",
+        "id": 11639,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Dagger",
+        "id": 11640,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Hammer",
+        "id": 11641,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Dagger",
+        "id": 11642,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Gloves",
+        "id": 11643,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Axe",
+        "id": 11644,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Rifle",
+        "id": 11645,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Short Bow",
+        "id": 11646,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Greatsword",
+        "id": 11647,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Staff",
+        "id": 11648,
+        "chat_link": null
+    },
+    {
+        "name": "Strength of the Unseen",
+        "id": 11651,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Heavy Helm",
+        "id": 11653,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Boots",
+        "id": 11654,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Medium Coat",
+        "id": 11657,
+        "chat_link": null
+    },
+    {
+        "name": "Visage of Nourys",
+        "id": 11658,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Shield",
+        "id": 11660,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Staff",
+        "id": 11661,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Mace",
+        "id": 11662,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Torch",
+        "id": 11663,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Hammer",
+        "id": 11664,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Medium Gloves",
+        "id": 11665,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Staff",
+        "id": 11666,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Shoulders",
+        "id": 11667,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Shield",
+        "id": 11668,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Axe",
+        "id": 11670,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Short Bow",
+        "id": 11671,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Dagger",
+        "id": 11672,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Sword",
+        "id": 11673,
+        "chat_link": null
+    },
+    {
+        "name": "Avarice's Command",
+        "id": 11674,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Warhorn",
+        "id": 11675,
+        "chat_link": null
+    },
+    {
+        "name": "Eternal Blade",
+        "id": 11676,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Pistol",
+        "id": 11677,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Mace",
+        "id": 11678,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Rifle",
+        "id": 11679,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Scepter",
+        "id": 11680,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Light Shoulders",
+        "id": 11681,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Coat",
+        "id": 11682,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Hammer",
+        "id": 11683,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Light Leggings",
+        "id": 11684,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Light Leggings",
+        "id": 11687,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Medium Helm",
+        "id": 11688,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Leggings",
+        "id": 11689,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Pistol",
+        "id": 11690,
+        "chat_link": null
+    },
+    {
+        "name": "Rage's Fist",
+        "id": 11691,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Heavy Boots",
+        "id": 11692,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Torch",
+        "id": 11693,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Heavy Leggings",
+        "id": 11694,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Mace",
+        "id": 11695,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Rifle",
+        "id": 11697,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Shield",
+        "id": 11700,
+        "chat_link": null
+    },
+    {
+        "name": "Scales of Dragrimmar",
+        "id": 11701,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Rifle",
+        "id": 11704,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Torch",
+        "id": 11705,
+        "chat_link": null
+    },
+    {
+        "name": "Gluttony's Platter",
+        "id": 11706,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Greatsword",
+        "id": 11707,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Helm",
+        "id": 11709,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Short Bow",
+        "id": 11711,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Light Boots",
+        "id": 11712,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Boots",
+        "id": 11713,
+        "chat_link": null
+    },
+    {
+        "name": "Visage of Nourys",
+        "id": 11714,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Mace",
+        "id": 11715,
+        "chat_link": null
+    },
+    {
+        "name": "Sorcerer's Cape",
+        "id": 11716,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Pistol",
+        "id": 11717,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Hammer",
+        "id": 11718,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Pistol",
+        "id": 11719,
+        "chat_link": null
+    },
+    {
+        "name": "Vermilion Mining Tool",
+        "id": 11720,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Torch",
+        "id": 11721,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Heavy Gloves",
+        "id": 11722,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Short Bow",
+        "id": 11723,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Scepter",
+        "id": 11724,
+        "chat_link": null
+    },
+    {
+        "name": "Infused Aurora Gloves",
+        "id": 11725,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Shoulders",
+        "id": 11727,
+        "chat_link": null
+    },
+    {
+        "name": "Infused Aurora Gloves",
+        "id": 11728,
+        "chat_link": null
+    },
+    {
+        "name": "Spire of the Forgotten",
+        "id": 11729,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Dagger",
+        "id": 11730,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Shield",
+        "id": 11731,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Light Coat",
+        "id": 11732,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Longbow",
+        "id": 11733,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Staff",
+        "id": 11736,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Sword",
+        "id": 11737,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Axe",
+        "id": 11739,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Light Boots",
+        "id": 11740,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Cloak",
+        "id": 11741,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Heavy Coat",
+        "id": 11742,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Hammer",
+        "id": 11745,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Staff",
+        "id": 11746,
+        "chat_link": null
+    },
+    {
+        "name": "The Waylit Lantern",
+        "id": 11747,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Shoulders",
+        "id": 11749,
+        "chat_link": null
+    },
+    {
+        "name": "Jotun Skypiercer",
+        "id": 11750,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Light Gloves",
+        "id": 11751,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Leggings",
+        "id": 11752,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Warhorn",
+        "id": 11753,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Hammer",
+        "id": 11754,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Heavy Helm",
+        "id": 11755,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Focus",
+        "id": 11758,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Heavy Gloves",
+        "id": 11759,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Longbow",
+        "id": 11762,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Light Helm",
+        "id": 11763,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Helm",
+        "id": 11764,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Torch",
+        "id": 11765,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Gloves",
+        "id": 11767,
+        "chat_link": null
+    },
+    {
+        "name": "Infused Aurora Gloves",
+        "id": 11768,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Rifle",
+        "id": 11769,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Longbow",
+        "id": 11770,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Focus",
+        "id": 11772,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Mace",
+        "id": 11773,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Torch",
+        "id": 11774,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Medium Gloves",
+        "id": 11775,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Mace",
+        "id": 11776,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Boots",
+        "id": 11777,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Shield",
+        "id": 11778,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Axe",
+        "id": 11779,
+        "chat_link": null
+    },
+    {
+        "name": "Infernal Envoy Backpack",
+        "id": 11780,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Longbow",
+        "id": 11781,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Short Bow",
+        "id": 11782,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Rifle",
+        "id": 11783,
+        "chat_link": null
+    },
+    {
+        "name": "Despair's Lament",
+        "id": 11785,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ward Light Shoulders",
+        "id": 11786,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Focus",
+        "id": 11787,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Medium Leggings",
+        "id": 11788,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Heavy Boots",
+        "id": 11789,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Shield",
+        "id": 11790,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Pistol",
+        "id": 11792,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Coat",
+        "id": 11793,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Sword",
+        "id": 11794,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Scepter",
+        "id": 11795,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Gloves",
+        "id": 11796,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Shield",
+        "id": 11797,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Greatsword",
+        "id": 11798,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Dagger",
+        "id": 11799,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Focus",
+        "id": 11800,
+        "chat_link": null
+    },
+    {
+        "name": "Skyscale Longbow",
+        "id": 11801,
+        "chat_link": null
+    },
+    {
+        "name": "Vermilion Harvesting Tool",
+        "id": 11802,
+        "chat_link": null
+    },
+    {
+        "name": "Storm's Eye Rifle",
+        "id": 11803,
+        "chat_link": null
+    },
+    {
+        "name": "Astral Ribbons",
+        "id": 11804,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Rifle",
+        "id": 11805,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Heavy Leggings",
+        "id": 11806,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Torch",
+        "id": 11808,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Scepter",
+        "id": 11809,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Short Bow",
+        "id": 11810,
+        "chat_link": null
+    },
+    {
+        "name": "Stormforged Warhorn",
+        "id": 11811,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Heavy Shoulders",
+        "id": 11812,
+        "chat_link": null
+    },
+    {
+        "name": "Abomination Staff",
+        "id": 11813,
+        "chat_link": null
+    },
+    {
+        "name": "Skyforged Axe",
+        "id": 11814,
+        "chat_link": null
+    },
+    {
+        "name": "Knowledge of the Elders",
+        "id": 11815,
+        "chat_link": null
+    },
+    {
+        "name": "Rift Hunter Medium Helm",
+        "id": 11816,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Shield",
+        "id": 11817,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Hammer",
+        "id": 11818,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Greatsword",
+        "id": 11819,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Axe",
+        "id": 11820,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Rifle",
+        "id": 11821,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Tyrant Axe",
+        "id": 11822,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Tyrant Sword",
+        "id": 11824,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Short Bow",
+        "id": 11825,
+        "chat_link": null
+    },
+    {
+        "name": "Reconfigurable Construct Greatsword",
+        "id": 11828,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Torch",
+        "id": 11829,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Scepter",
+        "id": 11830,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Pistol",
+        "id": 11831,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Focus",
+        "id": 11832,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Dagger",
+        "id": 11833,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Longbow",
+        "id": 11834,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Staff",
+        "id": 11835,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Warhorn",
+        "id": 11836,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Shield",
+        "id": 11837,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Sword",
+        "id": 11838,
+        "chat_link": null
+    },
+    {
+        "name": "Vinelord Edgebloom Mace",
+        "id": 11839,
+        "chat_link": null
+    },
+    {
+        "name": "Expedition Cape",
+        "id": 11840,
+        "chat_link": null
+    },
+    {
+        "name": "Traveler's Staff",
+        "id": 11841,
+        "chat_link": null
+    },
+    {
+        "name": "Side-Lace Pants",
+        "id": 11842,
+        "chat_link": null
+    },
+    {
+        "name": "Side-Lace Pants",
+        "id": 11843,
+        "chat_link": null
+    },
+    {
+        "name": "Side-Lace Pants",
+        "id": 11845,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Staff",
+        "id": 11847,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Greatsword",
+        "id": 11848,
+        "chat_link": null
+    },
+    {
+        "name": "Krytan Rogue Chestpiece",
+        "id": 11849,
+        "chat_link": null
+    },
+    {
+        "name": "Heralded Executioner",
+        "id": 11850,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Dagger",
+        "id": 11851,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Hammer",
+        "id": 11852,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Axe",
+        "id": 11853,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Focus",
+        "id": 11854,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Longbow",
+        "id": 11855,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Mace",
+        "id": 11856,
+        "chat_link": null
+    },
+    {
+        "name": "Clawing Shadow Greaves",
+        "id": 11857,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctioned Executioner",
+        "id": 11858,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Warhorn",
+        "id": 11859,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Rifle",
+        "id": 11860,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Sword",
+        "id": 11861,
+        "chat_link": null
+    },
+    {
+        "name": "Guided Executioner",
+        "id": 11862,
+        "chat_link": null
+    },
+    {
+        "name": "Krytan Rogue Chestpiece",
+        "id": 11863,
+        "chat_link": null
+    },
+    {
+        "name": "Krytan Rogue Chestpiece",
+        "id": 11864,
+        "chat_link": null
+    },
+    {
+        "name": "Clawing Shadow Greaves",
+        "id": 11865,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Shield",
+        "id": 11866,
+        "chat_link": null
+    },
+    {
+        "name": "Clawing Shadow Greaves",
+        "id": 11867,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Torch",
+        "id": 11868,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Short Bow",
+        "id": 11869,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Scepter",
+        "id": 11870,
+        "chat_link": null
+    },
+    {
+        "name": "Soulfire Lantern Torch",
+        "id": 11871,
+        "chat_link": null
+    },
+    {
+        "name": "Grim Machine Pistol",
+        "id": 11872,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Focus",
+        "id": 11873,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Medium Gloves",
+        "id": 11874,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Light Coat",
+        "id": 11875,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Light Shoulders",
+        "id": 11876,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Heavy Shoulders",
+        "id": 11877,
+        "chat_link": null
+    },
+    {
+        "name": "Cursed Medium Gloves",
+        "id": 11878,
+        "chat_link": null
+    },
+    {
+        "name": "Wrath of Ignaxious",
+        "id": 11879,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Axe",
+        "id": 11881,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Rifle",
+        "id": 11882,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Mace",
+        "id": 11883,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Pistol",
+        "id": 11884,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Heavy Gloves",
+        "id": 11885,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Sword",
+        "id": 11886,
+        "chat_link": null
+    },
+    {
+        "name": "Cursed Heavy Gloves",
+        "id": 11887,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Heavy Boots",
+        "id": 11888,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Sword",
+        "id": 11889,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Hammer",
+        "id": 11890,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Greatsword",
+        "id": 11891,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Medium Coat",
+        "id": 11892,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Shield",
+        "id": 11893,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Scepter",
+        "id": 11894,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Warhorn",
+        "id": 11895,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Mace",
+        "id": 11896,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Medium Helm",
+        "id": 11897,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Light Boots",
+        "id": 11898,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Hammer",
+        "id": 11899,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Light Gloves",
+        "id": 11900,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Medium Leggings",
+        "id": 11901,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Short Bow",
+        "id": 11902,
+        "chat_link": null
+    },
+    {
+        "name": "Sanctified Cape",
+        "id": 11903,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Cape",
+        "id": 11904,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Heavy Helm",
+        "id": 11905,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Heavy Leggings",
+        "id": 11906,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Staff",
+        "id": 11907,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Axe",
+        "id": 11908,
+        "chat_link": null
+    },
+    {
+        "name": "Cursed Light Gloves",
+        "id": 11909,
+        "chat_link": null
+    },
+    {
+        "name": "Exalted Mining Tool",
+        "id": 11910,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Rifle",
+        "id": 11912,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Warhorn",
+        "id": 11913,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Heavy Coat",
+        "id": 11914,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Longbow",
+        "id": 11915,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Medium Shoulders",
+        "id": 11916,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Light Leggings",
+        "id": 11917,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Pistol",
+        "id": 11918,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Shield",
+        "id": 11919,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Greatsword",
+        "id": 11920,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Medium Boots",
+        "id": 11921,
+        "chat_link": null
+    },
+    {
+        "name": "Oneiros-Spun Light Helm",
+        "id": 11922,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Dagger",
+        "id": 11923,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Focus",
+        "id": 11924,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Short Bow",
+        "id": 11925,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Scepter",
+        "id": 11926,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Longbow",
+        "id": 11927,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Torch",
+        "id": 11928,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Torch",
+        "id": 11929,
+        "chat_link": null
+    },
+    {
+        "name": "Consecrated Saryx Staff",
+        "id": 11930,
+        "chat_link": null
+    },
+    {
+        "name": "Dark Sanctified Dagger",
+        "id": 11931,
+        "chat_link": null
+    },
+    {
+        "name": "Colossal Greatsword",
+        "id": 11932,
+        "chat_link": null
+    },
+    {
+        "name": "Clockwork Scythe",
+        "id": 11933,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Greatsword",
+        "id": 11935,
+        "chat_link": null
+    },
+    {
+        "name": "Heretical Scholar's Hood",
+        "id": 11936,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Short Bow",
+        "id": 11937,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Shield",
+        "id": 11938,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Warhorn",
+        "id": 11939,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Hammer",
+        "id": 11940,
+        "chat_link": null
+    },
+    {
+        "name": "Giant Folding Fan Backpack",
+        "id": 11941,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Sword",
+        "id": 11942,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Dagger",
+        "id": 11943,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Greatsword",
+        "id": 11944,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Dagger",
+        "id": 11945,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Short Bow",
+        "id": 11946,
+        "chat_link": null
+    },
+    {
+        "name": "Ornamented Staff",
+        "id": 11947,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Sword",
+        "id": 11948,
+        "chat_link": null
+    },
+    {
+        "name": "Ornamented Focus",
+        "id": 11949,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Scepter",
+        "id": 11950,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Torch",
+        "id": 11951,
+        "chat_link": null
+    },
+    {
+        "name": "Winter Fur Shoulders",
+        "id": 11952,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Rifle",
+        "id": 11953,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Warhorn",
+        "id": 11954,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Hammer",
+        "id": 11955,
+        "chat_link": null
+    },
+    {
+        "name": "Heretical Scholar's Hood",
+        "id": 11956,
+        "chat_link": null
+    },
+    {
+        "name": "Winter Fur Shoulders",
+        "id": 11957,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Axe",
+        "id": 11958,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Mace",
+        "id": 11959,
+        "chat_link": null
+    },
+    {
+        "name": "Ornamented Shield",
+        "id": 11960,
+        "chat_link": null
+    },
+    {
+        "name": "Winter Fur Shoulders",
+        "id": 11961,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Staff",
+        "id": 11962,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Rifle",
+        "id": 11963,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Mace",
+        "id": 11964,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Pistol",
+        "id": 11965,
+        "chat_link": null
+    },
+    {
+        "name": "Heretical Scholar's Cape",
+        "id": 11966,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Torch",
+        "id": 11967,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Longbow",
+        "id": 11968,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Focus",
+        "id": 11969,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Axe",
+        "id": 11970,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Pistol",
+        "id": 11971,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Shield",
+        "id": 11972,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Longbow",
+        "id": 11973,
+        "chat_link": null
+    },
+    {
+        "name": "Thundercrag Focus",
+        "id": 11974,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Staff",
+        "id": 11975,
+        "chat_link": null
+    },
+    {
+        "name": "Sacred Solstice Scepter",
+        "id": 11976,
+        "chat_link": null
+    },
+    {
+        "name": "Heretical Scholar's Hood",
+        "id": 11977,
+        "chat_link": null
+    },
+    {
+        "name": "Heretical Scholar's Pauldrons",
+        "id": 11978,
+        "chat_link": null
+    },
+    {
+        "name": "Heretical Scholar's Staff",
+        "id": 11979,
+        "chat_link": null
+    },
+    {
+        "name": "Heretical Scholar's Pauldrons",
+        "id": 11980,
+        "chat_link": null
+    },
+    {
+        "name": "Heretical Scholar's Pauldrons",
+        "id": 11981,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Sigil Backpack",
+        "id": 11982,
+        "chat_link": null
+    },
+    {
+        "name": "Arcane Marksman Pistol",
+        "id": 11983,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Longbow",
+        "id": 11984,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Warhorn",
+        "id": 11985,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Torch",
+        "id": 11986,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Hammer",
+        "id": 11987,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Shield",
+        "id": 11989,
+        "chat_link": null
+    },
+    {
+        "name": "Dragon Descendant's Helm",
+        "id": 11990,
+        "chat_link": null
+    },
+    {
+        "name": "Lucky Dragon Hammer",
+        "id": 11991,
+        "chat_link": null
+    },
+    {
+        "name": "Dragon Descendant's Helm",
+        "id": 11992,
+        "chat_link": null
+    },
+    {
+        "name": "Lucky Dragon Speargun",
+        "id": 11993,
+        "chat_link": null
+    },
+    {
+        "name": "Lucky Dragon Short Bow",
+        "id": 11994,
+        "chat_link": null
+    },
+    {
+        "name": "Dragon Descendant's Helm",
+        "id": 11995,
+        "chat_link": null
+    },
+    {
+        "name": "Elegant Noble's Backpack",
+        "id": 11996,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Axe",
+        "id": 11997,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Staff",
+        "id": 11998,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Greatsword",
+        "id": 11999,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Focus",
+        "id": 12000,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Scepter",
+        "id": 12001,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Short Bow",
+        "id": 12002,
+        "chat_link": null
+    },
+    {
+        "name": "Lucky Dragon Lantern",
+        "id": 12003,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Pistol",
+        "id": 12004,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Dagger",
+        "id": 12005,
+        "chat_link": null
+    },
+    {
+        "name": "Lucky Great Dragon Lantern",
+        "id": 12007,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Rifle",
+        "id": 12008,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Sword",
+        "id": 12009,
+        "chat_link": null
+    },
+    {
+        "name": "Fortunate Mace",
+        "id": 12010,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Shield",
+        "id": 12011,
+        "chat_link": null
+    },
+    {
+        "name": "Baggy Cargo Pants",
+        "id": 12012,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Spectacles",
+        "id": 12016,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Helm",
+        "id": 12017,
+        "chat_link": null
+    },
+    {
+        "name": "Knaebelag's Fang",
+        "id": 12019,
+        "chat_link": null
+    },
+    {
+        "name": "Fashionable Kilt",
+        "id": 12020,
+        "chat_link": null
+    },
+    {
+        "name": "Cyberhowl Greatsword",
+        "id": 12021,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Light Mantle",
+        "id": 12022,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Focus",
+        "id": 12023,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Short Bow",
+        "id": 12024,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Axe",
+        "id": 12025,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Rifle",
+        "id": 12026,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Warhorn",
+        "id": 12027,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Greatsword",
+        "id": 12028,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Boots",
+        "id": 12029,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Heavy Helmet",
+        "id": 12030,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Light Regalia",
+        "id": 12031,
+        "chat_link": null
+    },
+    {
+        "name": "Banner of the Bastion of the Natural",
+        "id": 12032,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Staff",
+        "id": 12033,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Torch",
+        "id": 12034,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Dagger",
+        "id": 12035,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Gloves",
+        "id": 12036,
+        "chat_link": null
+    },
+    {
+        "name": "Baggy Cargo Pants",
+        "id": 12037,
+        "chat_link": null
+    },
+    {
+        "name": "Banner of the Bastion of Balance",
+        "id": 12039,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Staff",
+        "id": 12040,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Sword",
+        "id": 12041,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Short Bow",
+        "id": 12042,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Longbow",
+        "id": 12043,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Mace",
+        "id": 12045,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Axe",
+        "id": 12046,
+        "chat_link": null
+    },
+    {
+        "name": "Banner of the Bastion of the Obscure",
+        "id": 12047,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Heavy Greaves",
+        "id": 12048,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Heavy Cuisses",
+        "id": 12049,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Sword",
+        "id": 12051,
+        "chat_link": null
+    },
+    {
+        "name": "Fashionable Kilt",
+        "id": 12052,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Focus",
+        "id": 12053,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Boots",
+        "id": 12054,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Pistol",
+        "id": 12055,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Light Gloves",
+        "id": 12056,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Hammer",
+        "id": 12057,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Warhorn",
+        "id": 12058,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Scepter",
+        "id": 12059,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Heavy Breastplate",
+        "id": 12060,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Scepter",
+        "id": 12061,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Helm",
+        "id": 12062,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Light Crown",
+        "id": 12063,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Heavy Pauldrons",
+        "id": 12064,
+        "chat_link": null
+    },
+    {
+        "name": "Banner of the Bastion of Knowledge",
+        "id": 12065,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Spectacles",
+        "id": 12066,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Light Pants",
+        "id": 12067,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Medium Mask",
+        "id": 12068,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Torch",
+        "id": 12069,
+        "chat_link": null
+    },
+    {
+        "name": "Banner of the Bastion of the Celestial",
+        "id": 12070,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Medium Boots",
+        "id": 12071,
+        "chat_link": null
+    },
+    {
+        "name": "Baggy Cargo Pants",
+        "id": 12072,
+        "chat_link": null
+    },
+    {
+        "name": "Banner of the Bastion of Strength",
+        "id": 12073,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Gloves",
+        "id": 12076,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Hammer",
+        "id": 12077,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Medium Leggings",
+        "id": 12078,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Shield",
+        "id": 12080,
+        "chat_link": null
+    },
+    {
+        "name": "Saryx Backpiece",
+        "id": 12081,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Medium Shoulders",
+        "id": 12082,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Greatsword",
+        "id": 12083,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Pistol",
+        "id": 12084,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Rifle",
+        "id": 12085,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Medium Jacket",
+        "id": 12086,
+        "chat_link": null
+    },
+    {
+        "name": "Fashionable Kilt",
+        "id": 12087,
+        "chat_link": null
+    },
+    {
+        "name": "Solar Astrolabe Longbow",
+        "id": 12089,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Heavy Gauntlets",
+        "id": 12090,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Boots",
+        "id": 12091,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Spectacles",
+        "id": 12092,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Medium Gloves",
+        "id": 12093,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Gloves",
+        "id": 12094,
+        "chat_link": null
+    },
+    {
+        "name": "Skysage's Helm",
+        "id": 12095,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Dagger",
+        "id": 12096,
+        "chat_link": null
+    },
+    {
+        "name": "Necrotic Essence Mace",
+        "id": 12097,
+        "chat_link": null
+    },
+    {
+        "name": "Obsidian Light Shoes",
+        "id": 12098,
+        "chat_link": null
+    },
+    {
+        "name": "Trapper's Fur Cape",
+        "id": 12099,
+        "chat_link": null
+    },
+    {
+        "name": "Synergetics Energized Shield",
+        "id": 12101,
+        "chat_link": null
+    },
+    {
+        "name": "Shattered Stone Wings Backpack",
+        "id": 12103,
         "chat_link": null
     }
 ]

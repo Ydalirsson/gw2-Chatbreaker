@@ -15080,6 +15080,1331 @@
         "chat_link": "[&BA4NAAA=]"
     },
     {
+        "name": "Red Duck Tea House",
+        "id": 3323,
+        "chat_link": "[&BPsMAAA=]"
+    },
+    {
+        "name": "Behemoth's Gap Waypoint",
+        "id": 3474,
+        "chat_link": "[&BJINAAA=]"
+    },
+    {
+        "name": "Shipwreck Excavation",
+        "id": 3475,
+        "chat_link": "[&BJMNAAA=]"
+    },
+    {
+        "name": "Luxon Terminus Fort",
+        "id": 3476,
+        "chat_link": "[&BJQNAAA=]"
+    },
+    {
+        "name": "Tailings Pond",
+        "id": 3477,
+        "chat_link": "[&BJUNAAA=]"
+    },
+    {
+        "name": "Mycelium Colony",
+        "id": 3478,
+        "chat_link": "[&BJYNAAA=]"
+    },
+    {
+        "name": "Stalagmite Islet",
+        "id": 3479,
+        "chat_link": "[&BJcNAAA=]"
+    },
+    {
+        "name": "Shell-Side Excavation",
+        "id": 3480,
+        "chat_link": "[&BJgNAAA=]"
+    },
+    {
+        "name": "Luxon Terminus Waypoint",
+        "id": 3481,
+        "chat_link": "[&BJkNAAA=]"
+    },
+    {
+        "name": "Park Mining Ops",
+        "id": 3482,
+        "chat_link": "[&BJoNAAA=]"
+    },
+    {
+        "name": "Behemoth's Gap Base",
+        "id": 3483,
+        "chat_link": "[&BJsNAAA=]"
+    },
+    {
+        "name": "Prospector's Landing",
+        "id": 3484,
+        "chat_link": "[&BJwNAAA=]"
+    },
+    {
+        "name": "Melting Pools",
+        "id": 3485,
+        "chat_link": "[&BJ0NAAA=]"
+    },
+    {
+        "name": "Jadepillar Point Base",
+        "id": 3486,
+        "chat_link": "[&BJ4NAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3487,
+        "chat_link": "[&BJ8NAAA=]"
+    },
+    {
+        "name": "Fossilized Overlook",
+        "id": 3488,
+        "chat_link": "[&BKANAAA=]"
+    },
+    {
+        "name": "Ley-Line Nexus",
+        "id": 3489,
+        "chat_link": "[&BKENAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3490,
+        "chat_link": "[&BKINAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3491,
+        "chat_link": "[&BKMNAAA=]"
+    },
+    {
+        "name": "Jadepillar Point Waypoint",
+        "id": 3492,
+        "chat_link": "[&BKQNAAA=]"
+    },
+    {
+        "name": "Park Quarry",
+        "id": 3493,
+        "chat_link": "[&BKUNAAA=]"
+    },
+    {
+        "name": "Ley-Line Islet",
+        "id": 3494,
+        "chat_link": "[&BKYNAAA=]"
+    },
+    {
+        "name": "Crestfallen Trench",
+        "id": 3495,
+        "chat_link": "[&BKcNAAA=]"
+    },
+    {
+        "name": "Celestial Pool",
+        "id": 3496,
+        "chat_link": "[&BKgNAAA=]"
+    },
+    {
+        "name": "Behemoth's Drop",
+        "id": 3497,
+        "chat_link": "[&BKkNAAA=]"
+    },
+    {
+        "name": "Park Mining Ops Waypoint",
+        "id": 3498,
+        "chat_link": "[&BKoNAAA=]"
+    },
+    {
+        "name": "Littoral Cave",
+        "id": 3499,
+        "chat_link": "[&BKsNAAA=]"
+    },
+    {
+        "name": "Crystal Cavern",
+        "id": 3500,
+        "chat_link": "[&BKwNAAA=]"
+    },
+    {
+        "name": "Turtle Pen",
+        "id": 3501,
+        "chat_link": "[&BK0NAAA=]"
+    },
+    {
+        "name": "Excavation Point 7-G",
+        "id": 3502,
+        "chat_link": "[&BK4NAAA=]"
+    },
+    {
+        "name": "Serpent's Folly",
+        "id": 3503,
+        "chat_link": "[&BK8NAAA=]"
+    },
+    {
+        "name": "Fortune's Collapse",
+        "id": 3504,
+        "chat_link": "[&BLANAAA=]"
+    },
+    {
+        "name": "Central Power Station",
+        "id": 3377,
+        "chat_link": "[&BDENAAA=]"
+    },
+    {
+        "name": "Red Duck Tea House",
+        "id": 3323,
+        "chat_link": "[&BPsMAAA=]"
+    },
+    {
+        "name": "Skyscale Stables",
+        "id": 3506,
+        "chat_link": "[&BLINAAA=]"
+    },
+    {
+        "name": "The Wizard's Court",
+        "id": 3509,
+        "chat_link": "[&BLUNAAA=]"
+    },
+    {
+        "name": "Mabon's Quarters",
+        "id": 3512,
+        "chat_link": "[&BLgNAAA=]"
+    },
+    {
+        "name": "Hall of Gallantry",
+        "id": 3525,
+        "chat_link": "[&BMUNAAA=]"
+    },
+    {
+        "name": "Lion's Arch Connector",
+        "id": 3527,
+        "chat_link": "[&BMcNAAA=]"
+    },
+    {
+        "name": "The Reliquary",
+        "id": 3541,
+        "chat_link": "[&BNUNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3542,
+        "chat_link": "[&BNYNAAA=]"
+    },
+    {
+        "name": "Wizard's Respite",
+        "id": 3543,
+        "chat_link": "[&BNcNAAA=]"
+    },
+    {
+        "name": "Training Platform",
+        "id": 3550,
+        "chat_link": "[&BN4NAAA=]"
+    },
+    {
+        "name": "Wizard's Vault",
+        "id": 3553,
+        "chat_link": "[&BOENAAA=]"
+    },
+    {
+        "name": "Dagda's Quarters",
+        "id": 3554,
+        "chat_link": "[&BOINAAA=]"
+    },
+    {
+        "name": "Amnytas Connector",
+        "id": 3558,
+        "chat_link": "[&BOYNAAA=]"
+    },
+    {
+        "name": "Rift Hunter Lounge",
+        "id": 3560,
+        "chat_link": "[&BOgNAAA=]"
+    },
+    {
+        "name": "Isgarren's Quarters",
+        "id": 3562,
+        "chat_link": "[&BOoNAAA=]"
+    },
+    {
+        "name": "Empyrean Plaza",
+        "id": 3564,
+        "chat_link": "[&BOwNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3568,
+        "chat_link": "[&BPANAAA=]"
+    },
+    {
+        "name": "Isgarren's Hidden Library",
+        "id": 3580,
+        "chat_link": "[&BPwNAAA=]"
+    },
+    {
+        "name": "Forge of Timelessness",
+        "id": 3599,
+        "chat_link": "[&BA8OAAA=]"
+    },
+    {
+        "name": "Mystic Passage",
+        "id": 3609,
+        "chat_link": "[&BBkOAAA=]"
+    },
+    {
+        "name": "Tower Courtyard Waypoint",
+        "id": 3615,
+        "chat_link": "[&BB8OAAA=]"
+    },
+    {
+        "name": "Dream Connector",
+        "id": 3617,
+        "chat_link": "[&BCEOAAA=]"
+    },
+    {
+        "name": "Lyhr's Quarters",
+        "id": 3630,
+        "chat_link": "[&BC4OAAA=]"
+    },
+    {
+        "name": "Refugee Clinic",
+        "id": 3631,
+        "chat_link": "[&BC8OAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3643,
+        "chat_link": "[&BDsOAAA=]"
+    },
+    {
+        "name": "Memory's Gaze",
+        "id": 3658,
+        "chat_link": "[&BEoOAAA=]"
+    },
+    {
+        "name": "Astral Ward Barracks",
+        "id": 3664,
+        "chat_link": "[&BFAOAAA=]"
+    },
+    {
+        "name": "Wizard's Trial",
+        "id": 3666,
+        "chat_link": "[&BFIOAAA=]"
+    },
+    {
+        "name": "War Room",
+        "id": 3668,
+        "chat_link": "[&BFQOAAA=]"
+    },
+    {
+        "name": "Chak Hatchery",
+        "id": 3510,
+        "chat_link": "[&BLYNAAA=]"
+    },
+    {
+        "name": "Droknar's Forge",
+        "id": 3511,
+        "chat_link": "[&BLcNAAA=]"
+    },
+    {
+        "name": "Throne of Judgment",
+        "id": 3514,
+        "chat_link": "[&BLoNAAA=]"
+    },
+    {
+        "name": "Gate Research Lab",
+        "id": 3517,
+        "chat_link": "[&BL0NAAA=]"
+    },
+    {
+        "name": "Droknar's Light Waypoint",
+        "id": 3518,
+        "chat_link": "[&BL4NAAA=]"
+    },
+    {
+        "name": "Witman's Ice Shelf",
+        "id": 3520,
+        "chat_link": "[&BMANAAA=]"
+    },
+    {
+        "name": "Akeem's Sacrifice",
+        "id": 3522,
+        "chat_link": "[&BMINAAA=]"
+    },
+    {
+        "name": "Mabon's Resolve",
+        "id": 3523,
+        "chat_link": "[&BMMNAAA=]"
+    },
+    {
+        "name": "Wizard's Tower South Gate",
+        "id": 3524,
+        "chat_link": "[&BMQNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3530,
+        "chat_link": "[&BMoNAAA=]"
+    },
+    {
+        "name": "Garenhoff Refugee Camp",
+        "id": 3531,
+        "chat_link": "[&BMsNAAA=]"
+    },
+    {
+        "name": "Briella's Kitchen",
+        "id": 3532,
+        "chat_link": "[&BMwNAAA=]"
+    },
+    {
+        "name": "Matriarch's Nest",
+        "id": 3533,
+        "chat_link": "[&BM0NAAA=]"
+    },
+    {
+        "name": "Kestrel's Vow",
+        "id": 3537,
+        "chat_link": "[&BNENAAA=]"
+    },
+    {
+        "name": "Vass's Compassion",
+        "id": 3538,
+        "chat_link": "[&BNINAAA=]"
+    },
+    {
+        "name": "Hall of Deldrimor",
+        "id": 3540,
+        "chat_link": "[&BNQNAAA=]"
+    },
+    {
+        "name": "Eastern Ward",
+        "id": 3547,
+        "chat_link": "[&BNsNAAA=]"
+    },
+    {
+        "name": "Derelict Ruins",
+        "id": 3548,
+        "chat_link": "[&BNwNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3549,
+        "chat_link": "[&BN0NAAA=]"
+    },
+    {
+        "name": "Rata Novus Promenade Waypoint",
+        "id": 3552,
+        "chat_link": "[&BOANAAA=]"
+    },
+    {
+        "name": "Naga Encampment",
+        "id": 3556,
+        "chat_link": "[&BOQNAAA=]"
+    },
+    {
+        "name": "The Ruined Rampart",
+        "id": 3557,
+        "chat_link": "[&BOUNAAA=]"
+    },
+    {
+        "name": "Beacon of Ages Command Center",
+        "id": 3559,
+        "chat_link": "[&BOcNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3563,
+        "chat_link": "[&BOsNAAA=]"
+    },
+    {
+        "name": "Lyhr's Design",
+        "id": 3566,
+        "chat_link": "[&BO4NAAA=]"
+    },
+    {
+        "name": "Aanisah's Windmill",
+        "id": 3571,
+        "chat_link": "[&BPMNAAA=]"
+    },
+    {
+        "name": "Balkor's Camp",
+        "id": 3573,
+        "chat_link": "[&BPUNAAA=]"
+    },
+    {
+        "name": "Fragmented Passage",
+        "id": 3575,
+        "chat_link": "[&BPcNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3576,
+        "chat_link": "[&BPgNAAA=]"
+    },
+    {
+        "name": "Cloudview Lake",
+        "id": 3577,
+        "chat_link": "[&BPkNAAA=]"
+    },
+    {
+        "name": "Droknar's Landing",
+        "id": 3578,
+        "chat_link": "[&BPoNAAA=]"
+    },
+    {
+        "name": "Dagda's Perception",
+        "id": 3579,
+        "chat_link": "[&BPsNAAA=]"
+    },
+    {
+        "name": "Monument to King Jalis Ironhammer",
+        "id": 3583,
+        "chat_link": "[&BP8NAAA=]"
+    },
+    {
+        "name": "The Falling Sands",
+        "id": 3584,
+        "chat_link": "[&BAAOAAA=]"
+    },
+    {
+        "name": "Temple of Glint",
+        "id": 3588,
+        "chat_link": "[&BAQOAAA=]"
+    },
+    {
+        "name": "Crash of the Storm's Daughter",
+        "id": 3589,
+        "chat_link": "[&BAUOAAA=]"
+    },
+    {
+        "name": "Abandoned Lab",
+        "id": 3591,
+        "chat_link": "[&BAcOAAA=]"
+    },
+    {
+        "name": "Western Research Facilities",
+        "id": 3592,
+        "chat_link": "[&BAgOAAA=]"
+    },
+    {
+        "name": "Astral Ward Encampment Waypoint",
+        "id": 3598,
+        "chat_link": "[&BA4OAAA=]"
+    },
+    {
+        "name": "Exalted Ruins",
+        "id": 3602,
+        "chat_link": "[&BBIOAAA=]"
+    },
+    {
+        "name": "Garenhoff Refugee Camp Waypoint",
+        "id": 3605,
+        "chat_link": "[&BBUOAAA=]"
+    },
+    {
+        "name": "The Light Crystal",
+        "id": 3606,
+        "chat_link": "[&BBYOAAA=]"
+    },
+    {
+        "name": "Bridge between Worlds",
+        "id": 3608,
+        "chat_link": "[&BBgOAAA=]"
+    },
+    {
+        "name": "Skywatch Lookout",
+        "id": 3611,
+        "chat_link": "[&BBsOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3612,
+        "chat_link": "[&BBwOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3613,
+        "chat_link": "[&BB0OAAA=]"
+    },
+    {
+        "name": "N.K. Broadcast Terminal Beta",
+        "id": 3616,
+        "chat_link": "[&BCAOAAA=]"
+    },
+    {
+        "name": "Training Pavilion",
+        "id": 3619,
+        "chat_link": "[&BCMOAAA=]"
+    },
+    {
+        "name": "Beacon of Ages Waypoint",
+        "id": 3627,
+        "chat_link": "[&BCsOAAA=]"
+    },
+    {
+        "name": "The Burning Fortress",
+        "id": 3628,
+        "chat_link": "[&BCwOAAA=]"
+    },
+    {
+        "name": "MinSec Server Room",
+        "id": 3632,
+        "chat_link": "[&BDAOAAA=]"
+    },
+    {
+        "name": "Reserve Arsenal",
+        "id": 3633,
+        "chat_link": "[&BDEOAAA=]"
+    },
+    {
+        "name": "Esme's Overlook",
+        "id": 3634,
+        "chat_link": "[&BDIOAAA=]"
+    },
+    {
+        "name": "Ruins of Rhawat",
+        "id": 3635,
+        "chat_link": "[&BDMOAAA=]"
+    },
+    {
+        "name": "Hidden Falls",
+        "id": 3637,
+        "chat_link": "[&BDUOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3638,
+        "chat_link": "[&BDYOAAA=]"
+    },
+    {
+        "name": "Farisan Village",
+        "id": 3640,
+        "chat_link": "[&BDgOAAA=]"
+    },
+    {
+        "name": "Conquered Plaza",
+        "id": 3641,
+        "chat_link": "[&BDkOAAA=]"
+    },
+    {
+        "name": "Kestrel's Vow Waypoint",
+        "id": 3647,
+        "chat_link": "[&BD8OAAA=]"
+    },
+    {
+        "name": "Astral Ward Dining Hall",
+        "id": 3649,
+        "chat_link": "[&BEEOAAA=]"
+    },
+    {
+        "name": "Observation Camp Waypoint",
+        "id": 3654,
+        "chat_link": "[&BEYOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3665,
+        "chat_link": "[&BFEOAAA=]"
+    },
+    {
+        "name": "Monument to the Order",
+        "id": 3667,
+        "chat_link": "[&BFMOAAA=]"
+    },
+    {
+        "name": "The Fractured Tower",
+        "id": 3669,
+        "chat_link": "[&BFUOAAA=]"
+    },
+    {
+        "name": "Sailor's Lament",
+        "id": 3670,
+        "chat_link": "[&BFYOAAA=]"
+    },
+    {
+        "name": "Empyreal Observation Ring",
+        "id": 3508,
+        "chat_link": "[&BLQNAAA=]"
+    },
+    {
+        "name": "Astronomic Nexus Ring",
+        "id": 3535,
+        "chat_link": "[&BM8NAAA=]"
+    },
+    {
+        "name": "Celestial Control Ring",
+        "id": 3590,
+        "chat_link": "[&BAYOAAA=]"
+    },
+    {
+        "name": "Spire's Heart",
+        "id": 3601,
+        "chat_link": "[&BBEOAAA=]"
+    },
+    {
+        "name": "Cosmic Theater Ring",
+        "id": 3663,
+        "chat_link": "[&BE8OAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3505,
+        "chat_link": "[&BLENAAA=]"
+    },
+    {
+        "name": "Harmony Green",
+        "id": 3507,
+        "chat_link": "[&BLMNAAA=]"
+    },
+    {
+        "name": "Empyreal Observation Ring",
+        "id": 3508,
+        "chat_link": "[&BLQNAAA=]"
+    },
+    {
+        "name": "Spellcrafting Workshop",
+        "id": 3515,
+        "chat_link": "[&BLsNAAA=]"
+    },
+    {
+        "name": "Museum of Curiosities: Main Gallery",
+        "id": 3516,
+        "chat_link": "[&BLwNAAA=]"
+    },
+    {
+        "name": "Mabon's Tower",
+        "id": 3519,
+        "chat_link": "[&BL8NAAA=]"
+    },
+    {
+        "name": "Gloaming Isle",
+        "id": 3521,
+        "chat_link": "[&BMENAAA=]"
+    },
+    {
+        "name": "Crystalpool",
+        "id": 3526,
+        "chat_link": "[&BMYNAAA=]"
+    },
+    {
+        "name": "Kryptis Front Line",
+        "id": 3529,
+        "chat_link": "[&BMkNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3534,
+        "chat_link": "[&BM4NAAA=]"
+    },
+    {
+        "name": "Astronomic Nexus Ring",
+        "id": 3535,
+        "chat_link": "[&BM8NAAA=]"
+    },
+    {
+        "name": "Bastion of Strength Waypoint",
+        "id": 3539,
+        "chat_link": "[&BNMNAAA=]"
+    },
+    {
+        "name": "Pool of Reflection",
+        "id": 3544,
+        "chat_link": "[&BNgNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3545,
+        "chat_link": "[&BNkNAAA=]"
+    },
+    {
+        "name": "Natatorium Obscurus",
+        "id": 3546,
+        "chat_link": "[&BNoNAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3555,
+        "chat_link": "[&BOMNAAA=]"
+    },
+    {
+        "name": "Museum of Curiosities: Hall of Giants",
+        "id": 3565,
+        "chat_link": "[&BO0NAAA=]"
+    },
+    {
+        "name": "Might's Brink Thicket",
+        "id": 3567,
+        "chat_link": "[&BO8NAAA=]"
+    },
+    {
+        "name": "Isgarren's Tower",
+        "id": 3569,
+        "chat_link": "[&BPENAAA=]"
+    },
+    {
+        "name": "Equilibrium Glade",
+        "id": 3570,
+        "chat_link": "[&BPINAAA=]"
+    },
+    {
+        "name": "Botanical Skygarden",
+        "id": 3572,
+        "chat_link": "[&BPQNAAA=]"
+    },
+    {
+        "name": "Erudition Arcade",
+        "id": 3574,
+        "chat_link": "[&BPYNAAA=]"
+    },
+    {
+        "name": "Vass Memorial Medical Plaza",
+        "id": 3582,
+        "chat_link": "[&BP4NAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3585,
+        "chat_link": "[&BAEOAAA=]"
+    },
+    {
+        "name": "Grand Library of Amnytas",
+        "id": 3586,
+        "chat_link": "[&BAIOAAA=]"
+    },
+    {
+        "name": "Spiritual Center",
+        "id": 3587,
+        "chat_link": "[&BAMOAAA=]"
+    },
+    {
+        "name": "Celestial Control Ring",
+        "id": 3590,
+        "chat_link": "[&BAYOAAA=]"
+    },
+    {
+        "name": "Great Debate Hall",
+        "id": 3593,
+        "chat_link": "[&BAkOAAA=]"
+    },
+    {
+        "name": "Bastion of the Celestial Waypoint",
+        "id": 3594,
+        "chat_link": "[&BAoOAAA=]"
+    },
+    {
+        "name": "Lyhr's Tower",
+        "id": 3595,
+        "chat_link": "[&BAsOAAA=]"
+    },
+    {
+        "name": "The Riftworks",
+        "id": 3596,
+        "chat_link": "[&BAwOAAA=]"
+    },
+    {
+        "name": "Contretemps",
+        "id": 3597,
+        "chat_link": "[&BA0OAAA=]"
+    },
+    {
+        "name": "Bastionmere",
+        "id": 3600,
+        "chat_link": "[&BBAOAAA=]"
+    },
+    {
+        "name": "Spire's Heart",
+        "id": 3601,
+        "chat_link": "[&BBEOAAA=]"
+    },
+    {
+        "name": "Overmere Meditation Circle",
+        "id": 3603,
+        "chat_link": "[&BBMOAAA=]"
+    },
+    {
+        "name": "Lonesome Steeple",
+        "id": 3604,
+        "chat_link": "[&BBQOAAA=]"
+    },
+    {
+        "name": "Astral Ward Training Grounds",
+        "id": 3610,
+        "chat_link": "[&BBoOAAA=]"
+    },
+    {
+        "name": "Thaumaturgy Park",
+        "id": 3614,
+        "chat_link": "[&BB4OAAA=]"
+    },
+    {
+        "name": "Courtyard of Gathering Strength",
+        "id": 3618,
+        "chat_link": "[&BCIOAAA=]"
+    },
+    {
+        "name": "Cartography Chamber",
+        "id": 3620,
+        "chat_link": "[&BCQOAAA=]"
+    },
+    {
+        "name": "The Veranda",
+        "id": 3621,
+        "chat_link": "[&BCUOAAA=]"
+    },
+    {
+        "name": "The Infirmary",
+        "id": 3622,
+        "chat_link": "[&BCYOAAA=]"
+    },
+    {
+        "name": "Cellar of Arcana",
+        "id": 3623,
+        "chat_link": "[&BCcOAAA=]"
+    },
+    {
+        "name": "Dubious Islet",
+        "id": 3624,
+        "chat_link": "[&BCgOAAA=]"
+    },
+    {
+        "name": "Circle of Rituals",
+        "id": 3625,
+        "chat_link": "[&BCkOAAA=]"
+    },
+    {
+        "name": "Akeem's Tower",
+        "id": 3626,
+        "chat_link": "[&BCoOAAA=]"
+    },
+    {
+        "name": "Nature's Shore Meditation Circle",
+        "id": 3629,
+        "chat_link": "[&BC0OAAA=]"
+    },
+    {
+        "name": "Bastion of the Natural Waypoint",
+        "id": 3636,
+        "chat_link": "[&BDQOAAA=]"
+    },
+    {
+        "name": "Concocter's Lab",
+        "id": 3639,
+        "chat_link": "[&BDcOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3642,
+        "chat_link": "[&BDoOAAA=]"
+    },
+    {
+        "name": "Island of Cognizance",
+        "id": 3644,
+        "chat_link": "[&BDwOAAA=]"
+    },
+    {
+        "name": "Bastion of Balance Waypoint",
+        "id": 3645,
+        "chat_link": "[&BD0OAAA=]"
+    },
+    {
+        "name": "Relic Repository",
+        "id": 3646,
+        "chat_link": "[&BD4OAAA=]"
+    },
+    {
+        "name": "Spireshadow Lagoon",
+        "id": 3648,
+        "chat_link": "[&BEAOAAA=]"
+    },
+    {
+        "name": "Bastion of Knowledge Waypoint",
+        "id": 3650,
+        "chat_link": "[&BEIOAAA=]"
+    },
+    {
+        "name": "Vass's Tower",
+        "id": 3652,
+        "chat_link": "[&BEQOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3653,
+        "chat_link": "[&BEUOAAA=]"
+    },
+    {
+        "name": "Bastion of the Obscure Waypoint",
+        "id": 3655,
+        "chat_link": "[&BEcOAAA=]"
+    },
+    {
+        "name": "The Underways",
+        "id": 3656,
+        "chat_link": "[&BEgOAAA=]"
+    },
+    {
+        "name": "Defensive Operations Camp",
+        "id": 3657,
+        "chat_link": "[&BEkOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3659,
+        "chat_link": "[&BEsOAAA=]"
+    },
+    {
+        "name": "Creature Corral",
+        "id": 3660,
+        "chat_link": "[&BEwOAAA=]"
+    },
+    {
+        "name": "The Sea of Clouds",
+        "id": 3661,
+        "chat_link": "[&BE0OAAA=]"
+    },
+    {
+        "name": "Cosmic Theater Ring",
+        "id": 3663,
+        "chat_link": "[&BE8OAAA=]"
+    },
+    {
+        "name": "Seething Embrace",
+        "id": 3671,
+        "chat_link": "[&BFcOAAA=]"
+    },
+    {
+        "name": "Mere of Everlasting Night",
+        "id": 3672,
+        "chat_link": "[&BFgOAAA=]"
+    },
+    {
+        "name": "Tree of Mourning",
+        "id": 3673,
+        "chat_link": "[&BFkOAAA=]"
+    },
+    {
+        "name": "The Rot",
+        "id": 3674,
+        "chat_link": "[&BFoOAAA=]"
+    },
+    {
+        "name": "Tree of Many Faces",
+        "id": 3675,
+        "chat_link": "[&BFsOAAA=]"
+    },
+    {
+        "name": "Heitor's Maw",
+        "id": 3676,
+        "chat_link": "[&BFwOAAA=]"
+    },
+    {
+        "name": "The Wailing Chasm",
+        "id": 3677,
+        "chat_link": "[&BF0OAAA=]"
+    },
+    {
+        "name": "Heitor's Gate",
+        "id": 3678,
+        "chat_link": "[&BF4OAAA=]"
+    },
+    {
+        "name": "Sullen Cliffside",
+        "id": 3682,
+        "chat_link": "[&BGIOAAA=]"
+    },
+    {
+        "name": "Hollow of the Covetous",
+        "id": 3683,
+        "chat_link": "[&BGMOAAA=]"
+    },
+    {
+        "name": "The Pillars of Mosyn",
+        "id": 3684,
+        "chat_link": "[&BGQOAAA=]"
+    },
+    {
+        "name": "Astral Ward Camp",
+        "id": 3685,
+        "chat_link": "[&BGUOAAA=]"
+    },
+    {
+        "name": "Lost Altar",
+        "id": 3687,
+        "chat_link": "[&BGcOAAA=]"
+    },
+    {
+        "name": "The Ascending Dream",
+        "id": 3688,
+        "chat_link": "[&BGgOAAA=]"
+    },
+    {
+        "name": "The Divide",
+        "id": 3689,
+        "chat_link": "[&BGkOAAA=]"
+    },
+    {
+        "name": "The Southern Extractor",
+        "id": 3690,
+        "chat_link": "[&BGoOAAA=]"
+    },
+    {
+        "name": "The Northern Extractor",
+        "id": 3691,
+        "chat_link": "[&BGsOAAA=]"
+    },
+    {
+        "name": "Sky King's Aerie",
+        "id": 3692,
+        "chat_link": "[&BGwOAAA=]"
+    },
+    {
+        "name": "The Waters of Regret",
+        "id": 3693,
+        "chat_link": "[&BG0OAAA=]"
+    },
+    {
+        "name": "The Pool of Whispers",
+        "id": 3694,
+        "chat_link": "[&BG4OAAA=]"
+    },
+    {
+        "name": "Seething Embrace",
+        "id": 3671,
+        "chat_link": "[&BFcOAAA=]"
+    },
+    {
+        "name": "Mere of Everlasting Night",
+        "id": 3672,
+        "chat_link": "[&BFgOAAA=]"
+    },
+    {
+        "name": "Tree of Mourning",
+        "id": 3673,
+        "chat_link": "[&BFkOAAA=]"
+    },
+    {
+        "name": "The Rot",
+        "id": 3674,
+        "chat_link": "[&BFoOAAA=]"
+    },
+    {
+        "name": "Tree of Many Faces",
+        "id": 3675,
+        "chat_link": "[&BFsOAAA=]"
+    },
+    {
+        "name": "Heitor's Maw",
+        "id": 3676,
+        "chat_link": "[&BFwOAAA=]"
+    },
+    {
+        "name": "The Wailing Chasm",
+        "id": 3677,
+        "chat_link": "[&BF0OAAA=]"
+    },
+    {
+        "name": "Heitor's Gate",
+        "id": 3678,
+        "chat_link": "[&BF4OAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3679,
+        "chat_link": "[&BF8OAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3680,
+        "chat_link": "[&BGAOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3681,
+        "chat_link": "[&BGEOAAA=]"
+    },
+    {
+        "name": "Sullen Cliffside",
+        "id": 3682,
+        "chat_link": "[&BGIOAAA=]"
+    },
+    {
+        "name": "Hollow of the Covetous",
+        "id": 3683,
+        "chat_link": "[&BGMOAAA=]"
+    },
+    {
+        "name": "The Pillars of Mosyn",
+        "id": 3684,
+        "chat_link": "[&BGQOAAA=]"
+    },
+    {
+        "name": "Astral Ward Camp",
+        "id": 3685,
+        "chat_link": "[&BGUOAAA=]"
+    },
+    {
+        "name": "Astral Ward Camp Waypoint",
+        "id": 3686,
+        "chat_link": "[&BGYOAAA=]"
+    },
+    {
+        "name": "Lost Altar",
+        "id": 3687,
+        "chat_link": "[&BGcOAAA=]"
+    },
+    {
+        "name": "The Ascending Dream",
+        "id": 3688,
+        "chat_link": "[&BGgOAAA=]"
+    },
+    {
+        "name": "The Divide",
+        "id": 3689,
+        "chat_link": "[&BGkOAAA=]"
+    },
+    {
+        "name": "The Southern Extractor",
+        "id": 3690,
+        "chat_link": "[&BGoOAAA=]"
+    },
+    {
+        "name": "The Northern Extractor",
+        "id": 3691,
+        "chat_link": "[&BGsOAAA=]"
+    },
+    {
+        "name": "Sky King's Aerie",
+        "id": 3692,
+        "chat_link": "[&BGwOAAA=]"
+    },
+    {
+        "name": "The Waters of Regret",
+        "id": 3693,
+        "chat_link": "[&BG0OAAA=]"
+    },
+    {
+        "name": "The Pool of Whispers",
+        "id": 3694,
+        "chat_link": "[&BG4OAAA=]"
+    },
+    {
+        "name": "Bridge of Sighs",
+        "id": 3695,
+        "chat_link": "[&BG8OAAA=]"
+    },
+    {
+        "name": "Temple of Charybda",
+        "id": 3696,
+        "chat_link": "[&BHAOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3697,
+        "chat_link": "[&BHEOAAA=]"
+    },
+    {
+        "name": "Waters of the First Dream",
+        "id": 3698,
+        "chat_link": "[&BHIOAAA=]"
+    },
+    {
+        "name": "Mosyn's Repose",
+        "id": 3699,
+        "chat_link": "[&BHMOAAA=]"
+    },
+    {
+        "name": "The Queen's Procession",
+        "id": 3700,
+        "chat_link": "[&BHQOAAA=]"
+    },
+    {
+        "name": "Isolated Grasslands",
+        "id": 3701,
+        "chat_link": "[&BHUOAAA=]"
+    },
+    {
+        "name": "Forward Bivouac Waypoint",
+        "id": 3702,
+        "chat_link": "[&BHYOAAA=]"
+    },
+    {
+        "name": "The Blighted Pillar",
+        "id": 3703,
+        "chat_link": "[&BHcOAAA=]"
+    },
+    {
+        "name": "River Hideaway",
+        "id": 3704,
+        "chat_link": "[&BHgOAAA=]"
+    },
+    {
+        "name": "The Burrows",
+        "id": 3705,
+        "chat_link": "[&BHkOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3706,
+        "chat_link": "[&BHoOAAA=]"
+    },
+    {
+        "name": "Archway of the Fallen Heroes",
+        "id": 3707,
+        "chat_link": "[&BHsOAAA=]"
+    },
+    {
+        "name": "Path of the Ancients",
+        "id": 3708,
+        "chat_link": "[&BHwOAAA=]"
+    },
+    {
+        "name": "Fortress of the Founding",
+        "id": 3709,
+        "chat_link": "[&BH0OAAA=]"
+    },
+    {
+        "name": "Secondary Extractors",
+        "id": 3711,
+        "chat_link": "[&BH8OAAA=]"
+    },
+    {
+        "name": "The Lamented Courtyard",
+        "id": 3712,
+        "chat_link": "[&BIAOAAA=]"
+    },
+    {
+        "name": "Eventide's March",
+        "id": 3713,
+        "chat_link": "[&BIEOAAA=]"
+    },
+    {
+        "name": "The Gathering Grounds",
+        "id": 3714,
+        "chat_link": "[&BIIOAAA=]"
+    },
+    {
+        "name": "Well of Anguish",
+        "id": 3715,
+        "chat_link": "[&BIMOAAA=]"
+    },
+    {
+        "name": "Coliseum of the Midnight King",
+        "id": 3716,
+        "chat_link": "[&BIQOAAA=]"
+    },
+    {
+        "name": "Grove of the First Kryptis",
+        "id": 3717,
+        "chat_link": "[&BIUOAAA=]"
+    },
+    {
+        "name": null,
+        "id": 3718,
+        "chat_link": "[&BIYOAAA=]"
+    },
+    {
+        "name": "Pool of Lost Dreams",
+        "id": 3719,
+        "chat_link": "[&BIcOAAA=]"
+    },
+    {
+        "name": "Secluded Pond",
+        "id": 3721,
+        "chat_link": "[&BIkOAAA=]"
+    },
+    {
         "name": "PvP Lobby Waypoint",
         "id": 1046,
         "chat_link": "[&BBYEAAA=]"

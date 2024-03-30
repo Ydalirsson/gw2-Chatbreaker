@@ -60,7 +60,7 @@
         "chat_link": null
     },
     {
-        "name": "Elementarwoge",
+        "name": "Arkaner Blitzschlag",
         "id": 263,
         "chat_link": null
     },
@@ -520,7 +520,7 @@
         "chat_link": null
     },
     {
-        "name": "In der Menge liegt Kraft",
+        "name": "Erl\u00f6sung",
         "id": 584,
         "chat_link": null
     },
@@ -770,7 +770,7 @@
         "chat_link": null
     },
     {
-        "name": "Verzweifelter K\u00f6der",
+        "name": "Geistige Gymnastik",
         "id": 705,
         "chat_link": null
     },
@@ -845,7 +845,7 @@
         "chat_link": null
     },
     {
-        "name": "Wiederherstellende Illusionen",
+        "name": "Ego-Wiederherstellung",
         "id": 740,
         "chat_link": null
     },
@@ -900,7 +900,7 @@
         "chat_link": null
     },
     {
-        "name": "Befl\u00fcgelnder Durst",
+        "name": "\u00dcberflie\u00dfender Durst",
         "id": 788,
         "chat_link": null
     },
@@ -940,7 +940,7 @@
         "chat_link": null
     },
     {
-        "name": "Terror",
+        "name": "Parasit\u00e4re Ansteckung",
         "id": 812,
         "chat_link": null
     },
@@ -1145,7 +1145,7 @@
         "chat_link": null
     },
     {
-        "name": "Instinktive Reaktion",
+        "name": "Urquell",
         "id": 978,
         "chat_link": null
     },
@@ -1197,11 +1197,6 @@
     {
         "name": "Sp\u00e4her",
         "id": 1016,
-        "chat_link": null
-    },
-    {
-        "name": "Steinform",
-        "id": 1021,
         "chat_link": null
     },
     {
@@ -1315,7 +1310,7 @@
         "chat_link": null
     },
     {
-        "name": "Empathischer Bund",
+        "name": "Fleischfresser",
         "id": 1094,
         "chat_link": null
     },
@@ -1335,7 +1330,7 @@
         "chat_link": null
     },
     {
-        "name": "Geteilte Qual",
+        "name": "Empathischer Bund",
         "id": 1100,
         "chat_link": null
     },
@@ -1485,7 +1480,7 @@
         "chat_link": null
     },
     {
-        "name": "Endlose Ausdauer",
+        "name": "Fl\u00fcssige Schl\u00e4ge",
         "id": 1242,
         "chat_link": null
     },
@@ -1565,7 +1560,7 @@
         "chat_link": null
     },
     {
-        "name": "Energische Erholung",
+        "name": "Aufpumpen",
         "id": 1289,
         "chat_link": null
     },
@@ -1730,7 +1725,7 @@
         "chat_link": null
     },
     {
-        "name": "Rachs\u00fcchtige Revanche",
+        "name": "Unersch\u00fctterlicher Fokus",
         "id": 1381,
         "chat_link": null
     },
@@ -2035,7 +2030,7 @@
         "chat_link": null
     },
     {
-        "name": "Parasit\u00e4re Ansteckung",
+        "name": "Terror",
         "id": 1696,
         "chat_link": null
     },
@@ -2055,7 +2050,7 @@
         "chat_link": null
     },
     {
-        "name": "L\u00e4ufer-Verteidigung",
+        "name": "Schreiter-St\u00e4rke",
         "id": 1700,
         "chat_link": null
     },
@@ -2250,7 +2245,7 @@
         "chat_link": null
     },
     {
-        "name": "Auge um Auge",
+        "name": "In Stein gemei\u00dfelt",
         "id": 1766,
         "chat_link": null
     },
@@ -2585,7 +2580,7 @@
         "chat_link": null
     },
     {
-        "name": "Illusion\u00e4re Inspiration",
+        "name": "Wiederherstellende Illusionen",
         "id": 1866,
         "chat_link": null
     },
@@ -2700,7 +2695,7 @@
         "chat_link": null
     },
     {
-        "name": "Durchbohrendes Licht",
+        "name": "Vorahnung des J\u00e4gers",
         "id": 1898,
         "chat_link": null
     },
@@ -2765,7 +2760,7 @@
         "chat_link": null
     },
     {
-        "name": "Heilendes Prisma",
+        "name": "Illusion\u00e4re Inspiration",
         "id": 1915,
         "chat_link": null
     },
@@ -2840,7 +2835,7 @@
         "chat_link": null
     },
     {
-        "name": "Urzeit-Echos",
+        "name": "Blutmond",
         "id": 1935,
         "chat_link": null
     },
@@ -2920,7 +2915,7 @@
         "chat_link": null
     },
     {
-        "name": "Schadensd\u00e4mpfer",
+        "name": "Schnelle Regeneration",
         "id": 1954,
         "chat_link": null
     },
@@ -3000,12 +2995,12 @@
         "chat_link": null
     },
     {
-        "name": "Gesch\u00fctzte Trugbilder",
+        "name": "Temporaler Zauberkundiger",
         "id": 1980,
         "chat_link": null
     },
     {
-        "name": "Anpassungsf\u00e4hige R\u00fcstung",
+        "name": "Ex Machina",
         "id": 1981,
         "chat_link": null
     },
@@ -3190,7 +3185,7 @@
         "chat_link": null
     },
     {
-        "name": "Raffinierte Toxine",
+        "name": "\u00dcberlebensinstinkte",
         "id": 2032,
         "chat_link": null
     },
@@ -3230,11 +3225,6 @@
         "chat_link": null
     },
     {
-        "name": "Ewiger Champion",
-        "id": 2043,
-        "chat_link": null
-    },
-    {
         "name": "Fatale Raserei",
         "id": 2046,
         "chat_link": null
@@ -3265,12 +3255,12 @@
         "chat_link": null
     },
     {
-        "name": "Uralte Saat",
+        "name": "Verfinsterung",
         "id": 2055,
         "chat_link": null
     },
     {
-        "name": "Nat\u00fcrlicher Schritt",
+        "name": "Nat\u00fcrliches Gleichgewicht",
         "id": 2056,
         "chat_link": null
     },
@@ -3285,7 +3275,7 @@
         "chat_link": null
     },
     {
-        "name": "W\u00fcsten-Erm\u00e4chtigung",
+        "name": "Speisung aus der Verderbnis",
         "id": 2059,
         "chat_link": null
     },
@@ -3380,7 +3370,7 @@
         "chat_link": null
     },
     {
-        "name": "Speisung aus der Verderbnis",
+        "name": "W\u00fcsten-Erm\u00e4chtigung",
         "id": 2080,
         "chat_link": null
     },
@@ -4050,7 +4040,7 @@
         "chat_link": null
     },
     {
-        "name": "B\u00f6sartige Phiolen",
+        "name": "St\u00e4rkendes Gebr\u00e4u",
         "id": 2219,
         "chat_link": null
     },
@@ -4295,7 +4285,7 @@
         "chat_link": null
     },
     {
-        "name": "Innige Kraft",
+        "name": "Locker lassen",
         "id": 2271,
         "chat_link": null
     },
@@ -4452,6 +4442,11 @@
     {
         "name": "\u00dcppiger Wald",
         "id": 2303,
+        "chat_link": null
+    },
+    {
+        "name": "Ewiger Champion",
+        "id": 2307,
         "chat_link": null
     }
 ]
