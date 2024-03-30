@@ -45,67 +45,18 @@
             - GW2-Mode: 197
             - Discord-Mode: 1997" v-model="charLimitInput" @change="update">
         </li>
-        
+
         <li>
-          <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="insertTextAtCursor(' /e ')">Start emote</button>
-          <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="insertTextAtCursor(' ## ')">End emote</button>
+          <button type="button" class="btn btn-primary" style="margin-top: 4px"
+            @click="insertTextAtCursor(' /e ')">Start emote</button>
+          <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="insertTextAtCursor(' ## ')">End
+            emote</button>
         </li>
 
         <li>
           <ul id="emoteListID" class="list-group" @click="changeEmoteList" v-if="listCollapsed">
-            <li class="list-group-item py-0">/beckon</li>
-            <li class="list-group-item py-0">/bless</li>
-            <li class="list-group-item py-0">/bow</li>
-            <li class="list-group-item py-0">/cheer</li>
-            <li class="list-group-item py-0">/cower</li>
-            <li class="list-group-item py-0">/crossarms</li>
-            <li class="list-group-item py-0">/cry</li>
-            <li class="list-group-item py-0">/dance</li>
-            <li class="list-group-item py-0">/facepalm</li>
-            <li class="list-group-item py-0">/upset</li>
-            <li class="list-group-item py-0">/geargrind</li>
-            <li class="list-group-item py-0">/heroic</li>
-            <li class="list-group-item py-0">/hiss</li>
-            <li class="list-group-item py-0">/kneel</li>
-            <li class="list-group-item py-0">/laugh</li>
-            <li class="list-group-item py-0">/magicjuggle</li>
-            <li class="list-group-item py-0">/no</li>
-            <li class="list-group-item py-0">/paper</li>
-            <li class="list-group-item py-0">/playdead</li>
-            <li class="list-group-item py-0">/point</li>
-            <li class="list-group-item py-0">/ponder</li>
-            <li class="list-group-item py-0">/possessed</li>
-            <li class="list-group-item py-0">/rank</li>
-            <li class="list-group-item py-0">/readbook</li>
-            <li class="list-group-item py-0">/rock</li>
-            <li class="list-group-item py-0">/rockout</li>
-            <li class="list-group-item py-0">/sad</li>
-            <li class="list-group-item py-0">/salute</li>
-            <li class="list-group-item py-0">/scissors</li>
-            <li class="list-group-item py-0">/scis</li>
-            <li class="list-group-item py-0">/serve</li>
-            <li class="list-group-item py-0">/shiver</li>
-            <li class="list-group-item py-0">/shiverplus</li>
-            <li class="list-group-item py-0">/shrug</li>
-            <li class="list-group-item py-0">/shuffle</li>
-            <li class="list-group-item py-0">/sipcoffee</li>
-            <li class="list-group-item py-0">/sit</li>
-            <li class="list-group-item py-0">/sleep</li>
-            <li class="list-group-item py-0">/step</li>
-            <li class="list-group-item py-0">/stretch</li>
-            <li class="list-group-item py-0">/surprised</li>
-            <li class="list-group-item py-0">/talk</li>
-            <li class="list-group-item py-0">/thanks</li>
-            <li class="list-group-item py-0">/thank</li>
-            <li class="list-group-item py-0">/thx</li>
-            <li class="list-group-item py-0">/ty</li>
-            <li class="list-group-item py-0">/threaten</li>
-            <li class="list-group-item py-0">/wave</li>
-            <li class="list-group-item py-0">/yes</li>
-            <li class="list-group-item py-0">/e</li>
-            <li class="list-group-item py-0">/em</li>
-            <li class="list-group-item py-0">/emote</li>
-            <li class="list-group-item py-0">/me</li>
+            <li v-for="(emote, index) in emotes" :key="index" class="list-group-item py-0"
+              @click="insertTextAtCursor(' ' + emote + ' ')">{{ emote }}</li>
             <span class="tooltiptext">Click to collapse</span>
           </ul>
           <ul id="emoteID" class="list-group" @click="changeEmoteList" v-else>
@@ -220,7 +171,63 @@ export default defineComponent({
       cursor: -1 as number,
       cbxLangEng: "true" as string,
       cbxLangGer: "false" as string,
-      charLimitInput: 197 as number
+      charLimitInput: 197 as number,
+      emotes: [
+        "/beckon",
+        "/bless",
+        "/bow",
+        "/cheer",
+        "/cower",
+        "/crossarms",
+        "/cry",
+        "/dance",
+        "/facepalm",
+        "/upset",
+        "/geargrind",
+        "/heroic",
+        "/hiss",
+        "/kneel",
+        "/laugh",
+        "/magicjuggle",
+        "/no",
+        "/paper",
+        "/playdead",
+        "/point",
+        "/ponder",
+        "/possessed",
+        "/rank",
+        "/readbook",
+        "/rock",
+        "/rockout",
+        "/sad",
+        "/salute",
+        "/scissors",
+        "/scis",
+        "/serve",
+        "/shiver",
+        "/shiverplus",
+        "/shrug",
+        "/shuffle",
+        "/sipcoffee",
+        "/sit",
+        "/sleep",
+        "/step",
+        "/stretch",
+        "/surprised",
+        "/talk",
+        "/thanks",
+        "/thank",
+        "/thx",
+        "/ty",
+        "/threaten",
+        "/wave",
+        "/yes",
+        "/e",
+        "/em",
+        "/emote",
+        "/me"
+      ]
+
     };
   },
   watch: {
@@ -616,24 +623,21 @@ export default defineComponent({
     escape(): void {
       this.showItems = !this.showItems;
     },
-
     insertTextAtCursor(text: string): void {
-    const textarea = this.$refs.chatEdit as HTMLTextAreaElement;
-    const startPos = textarea.selectionStart;
-    const endPos = textarea.selectionEnd;
-    const textBefore = this.chatContent.substring(0, startPos);
-    const textAfter = this.chatContent.substring(endPos, this.chatContent.length);
-    this.chatContent = textBefore + text + textAfter;
-    // Setze den Cursor an die Position nach dem Einfügen des Textes
-    const newCursorPos = startPos + text.length;
-    textarea.selectionStart = newCursorPos;
-    textarea.selectionEnd = newCursorPos;
-    textarea.focus();
-    // Trigger das "update"-Event
-    this.update();
-  },
-
-
+      const textarea = this.$refs.chatEdit as HTMLTextAreaElement;
+      const startPos = textarea.selectionStart;
+      const endPos = textarea.selectionEnd;
+      const textBefore = this.chatContent.substring(0, startPos);
+      const textAfter = this.chatContent.substring(endPos, this.chatContent.length);
+      this.chatContent = textBefore + text + textAfter;
+      // Setze den Cursor an die Position nach dem Einfügen des Textes
+      const newCursorPos = startPos + text.length;
+      textarea.selectionStart = newCursorPos;
+      textarea.selectionEnd = newCursorPos;
+      textarea.focus();
+      // Trigger das "update"-Event
+      this.update();
+    },
   },
 });
 </script>
@@ -674,12 +678,16 @@ select {
   padding: 5px 0;
 
   /* Position the tooltip */
-  position: absolute;
+  position: realtive;
   z-index: 1;
+  top: 20px; /* Beispiel: Verschiebung um 20px nach unten */
+  left: 0; /* Beispiel: Tooltip linksbündig */
 }
 
 #emoteID:hover .tooltiptext,
-#emoteListID:hover .tooltiptext {
+#emoteListID:hover .tooltiptext,
+#emoteID.active .tooltiptext,
+#emoteListID.active .tooltiptext {
   visibility: visible;
 }
 
