@@ -8,16 +8,8 @@
     </div>
 
     <div>
-      <textarea
-        id="chatContent"
-        v-model="chatContent"
-        ref="chatEdit"
-        placeholder="Insert something in me OwO"
-        cols="50"
-        rows="10"
-        class="form-control"
-        @keyup="update"
-      ></textarea>
+      <textarea id="chatContent" v-model="chatContent" ref="chatEdit" placeholder="Insert something in me OwO" cols="50"
+        rows="10" class="form-control" @keyup="update"></textarea>
 
       <p v-if="errorMessage" class="alert alert-danger" role="alert">
         {{ errorMessage }}
@@ -25,38 +17,20 @@
 
       <ul class="controlBar">
         <li>
-          <button
-            type="button"
-            class="btn btn-outline-danger"
-            style="margin-top: 4px"
-            @click="deleteAreaInput"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
-              fill="currentColor"
-              class="bi bi-trash"
-              viewBox="0 0 16 16"
-            >
+          <button type="button" class="btn btn-outline-danger" style="margin-top: 4px" @click="deleteAreaInput">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash"
+              viewBox="0 0 16 16">
               <path
-                d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"
-              />
-              <path
-                fill-rule="evenodd"
-                d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z"
-              />
+                d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z" />
+              <path fill-rule="evenodd"
+                d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z" />
             </svg>
             Delete
           </button>
         </li>
         <li>
-          <select
-            class="form-select form-select-sm"
-            style="margin-top: 4px; width: 110px; height: 38px"
-            v-model="selected"
-            @change="update"
-          >
+          <select class="form-select form-select-sm" style="margin-top: 4px; width: 110px; height: 38px"
+            v-model="selected" @change="update">
             <option disabled value="0">Separator</option>
             <option value="1">> (default)</option>
             <option value="2">+</option>
@@ -64,32 +38,21 @@
             <option value="4">~</option>
           </select>
         </li>
-        
+
         <li>
-          <input
-            type="number"
-            placeholder="Limit"
-            value="197"
-            min="3"
-            class="form-control form-control-sm"
-            style="margin-top: 4px; width: 110px; height: 38px"
-            data-toggle="tooltip"
-            data-placement="bottom"
-            title="This field determines the number of characters that can appear in a message. Can be set as required.
+          <input type="number" placeholder="Limit" value="197" min="3" class="form-control form-control-sm"
+            style="margin-top: 4px; width: 110px; height: 38px" data-toggle="tooltip" data-placement="bottom" title="This field determines the number of characters that can appear in a message. Can be set as required.
             - GW2-Mode: 197
-            - Discord-Mode: 1997"
-            v-model="charLimitInput"
-            @change="update"
-          >  
+            - Discord-Mode: 1997" v-model="charLimitInput" @change="update">
         </li>
         
         <li>
-          <ul
-            id="emoteListID"
-            class="list-group"
-            @click="changeEmoteList"
-            v-if="listCollapsed"
-          >
+          <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="insertTextAtCursor(' /e ')">Start emote</button>
+          <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="insertTextAtCursor(' ## ')">End emote</button>
+        </li>
+
+        <li>
+          <ul id="emoteListID" class="list-group" @click="changeEmoteList" v-if="listCollapsed">
             <li class="list-group-item py-0">/beckon</li>
             <li class="list-group-item py-0">/bless</li>
             <li class="list-group-item py-0">/bow</li>
@@ -158,56 +121,24 @@
     </div>
 
     <div class="ac-container">
-        <input
-          class="form-group"
-          type="search"
-          placeholder="Search for chatlink"
-          v-model="searchInput"
-          @blur="blur"
-          @input="inputChanged"
-          @focus="focus"
-          @keyup.esc="escape"
-          @keyup.enter="enter"
-          @keydown.tab="enter"
-          @keydown.up="up"
-          @keydown.down="down"
-        />
+      <input class="form-group" type="search" placeholder="Search for chatlink" v-model="searchInput" @blur="blur"
+        @input="inputChanged" @focus="focus" @keyup.esc="escape" @keyup.enter="enter" @keydown.tab="enter"
+        @keydown.up="up" @keydown.down="down" />
 
-        <div class="form-check form-check-inline">
-          <input
-            class="form-check-input"
-            type="checkbox"
-            id="cbxLangEng"
-            v-model="cbxLangEng"
-            true-value="true"
-            false-value="false"
-            checked
-            @change="upateLanguage"
-          />
-          <label class="form-check-label" for="cbxLangEng">eng</label>
-        </div>
-        <div class="form-check form-check-inline">
-          <input
-            class="form-check-input"
-            type="checkbox"
-            id="cbxLangGer"
-            v-model="cbxLangGer"
-            true-value="true"
-            false-value="false"
-            @change="upateLanguage"
-          />
-          <label class="form-check-label" for="cbxLangGer">ger</label>
-        </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="cbxLangEng" v-model="cbxLangEng" true-value="true"
+          false-value="false" checked @change="upateLanguage" />
+        <label class="form-check-label" for="cbxLangEng">eng</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="cbxLangGer" v-model="cbxLangGer" true-value="true"
+          false-value="false" @change="upateLanguage" />
+        <label class="form-check-label" for="cbxLangGer">ger</label>
+      </div>
 
       <div class="ac-filtered-items" v-if="showItems">
-        <div
-          class="ac-filtered-item"
-          :class="{ 'ac-filtered-item__hovered': index === cursor }"
-          v-for="(item, index) in searchResult"
-          :key="index"
-          @click="selectItem(item)"
-          @mouseover="cursor = index"
-        >
+        <div class="ac-filtered-item" :class="{ 'ac-filtered-item__hovered': index === cursor }"
+          v-for="(item, index) in searchResult" :key="index" @click="selectItem(item)" @mouseover="cursor = index">
           <div>
             {{ item.name }},
             <span style="font-size: 8pt">{{ item.chat_link }}</span>
@@ -225,42 +156,24 @@
           <tr v-for="msg in singleMessage" v-bind:key="msg.text">
             <td>{{ msg.text }}</td>
             <td>
-              <button
-                type="button"
-                @click="onCopy(msg)"
-                v-if="msg.text"
-                class="btn btn-outline-info"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  fill="currentColor"
-                  class="bi bi-clipboard"
-                  viewBox="0 0 16 16"
-                >
+              <button type="button" @click="onCopy(msg)" v-if="msg.text" class="btn btn-outline-info">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                  class="bi bi-clipboard" viewBox="0 0 16 16">
                   <path
-                    d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z"
-                  ></path>
+                    d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z">
+                  </path>
                   <path
-                    d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z"
-                  ></path>
+                    d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z">
+                  </path>
                 </svg>
                 Copy
               </button>
             </td>
             <td v-if="msg.copied">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="32"
-                height="32"
-                fill="green"
-                class="bi bi-check"
-                viewBox="0 0 16 16"
-              >
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="green" class="bi bi-check"
+                viewBox="0 0 16 16">
                 <path
-                  d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
-                />
+                  d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
               </svg>
             </td>
           </tr>
@@ -282,16 +195,12 @@ export interface Item {
   };
 }
 
-const _colorsEN = require("../chatcodes/eng/colors.json");
 const _itemsEN = require("../chatcodes/eng/items.json");
 const _poisEN = require("../chatcodes/eng/pois.json");
-const _recipesEN = require("../chatcodes/eng/recipes.json");
 const _skillsEN = require("../chatcodes/eng/skills.json");
 
-const _colorsDE = require("../chatcodes/deu/colors.json");
 const _itemsDE = require("../chatcodes/deu/items.json");
 const _poisDE = require("../chatcodes/deu/pois.json");
-const _recipesDE = require("../chatcodes/deu/recipes.json");
 const _skillsDE = require("../chatcodes/deu/skills.json");
 
 export default defineComponent({
@@ -521,72 +430,72 @@ export default defineComponent({
         for (let k = 0; k < this.contentWordArray.length; k++) {
           if (this.contentWordArray[k].length > MSG_CHAR_LIMIT) {
             this.errorMessage =
-              "At least one word is longer then "  + MSG_CHAR_LIMIT.toString() + "characters. Try to split it with space.";
+              "At least one word is longer then " + MSG_CHAR_LIMIT.toString() + "characters. Try to split it with space.";
             return;
           }
         }
 
         while (j < this.contentWordArray.length) {
-// check if word is an emote
-if (this.contentWordArray[j] === "/emote" || this.contentWordArray[j] === "/e" || this.contentWordArray[j] === "/em" || this.contentWordArray[j] === "/me") {
-      // If it's an emote, start a new message and append "/e" to it
-      if (this.singleMessage[i].text.length > 0) {
-        this.singleMessage[i].text += separatorChar; // finish current message
-        this.singleMessage.push({ text: "", copied: false }); // start a new message
-        i++;
-      }
-      this.singleMessage[i].text += "/e ";
-      j++;
-
-      // Process subsequent words until "##" is found
-      while (j < this.contentWordArray.length && this.contentWordArray[j] !== "##") {
-        // Check if adding the word exceeds the character limit
-        if (this.singleMessage[i].text.length + this.contentWordArray[j].length + 3 <= MSG_CHAR_LIMIT) { // +3 for "/e " before each word
-          this.singleMessage[i].text += this.contentWordArray[j].toString() + " ";
-        } else {
-          // If exceeds the limit, start a new message
-          this.singleMessage[i].text += separatorChar; // finish Message
-          this.singleMessage.push({ text: "", copied: false }); // init next message
-          i++;
-          this.singleMessage[i].text += "/e "; // Start a new message with "/e"
-        }
-        j++;
-      }
-    
-      if (this.contentWordArray[j] === "##") {
-      // If it's the stop signal, start a new message
-      this.singleMessage[i].text += separatorChar; // finish current message
-      this.singleMessage.push({ text: "", copied: false }); // start a new message
-      i++;
-      j++;
-    }
-    
-  }
-        else      // check if word is an emote
-          if (this.contentWordArray[j].startsWith("/")) {
+          // check if word is an emote
+          if (this.contentWordArray[j] === "/emote" || this.contentWordArray[j] === "/e" || this.contentWordArray[j] === "/em" || this.contentWordArray[j] === "/me") {
+            // If it's an emote, start a new message and append "/e" to it
             if (this.singleMessage[i].text.length > 0) {
+              this.singleMessage[i].text += separatorChar; // finish current message
+              this.singleMessage.push({ text: "", copied: false }); // start a new message
+              i++;
+            }
+            this.singleMessage[i].text += "/e ";
+            j++;
+
+            // Process subsequent words until "##" is found
+            while (j < this.contentWordArray.length && this.contentWordArray[j] !== "##") {
+              // Check if adding the word exceeds the character limit
+              if (this.singleMessage[i].text.length + this.contentWordArray[j].length + 3 <= MSG_CHAR_LIMIT) { // +3 for "/e " before each word
+                this.singleMessage[i].text += this.contentWordArray[j].toString() + " ";
+              } else {
+                // If exceeds the limit, start a new message
+                this.singleMessage[i].text += separatorChar; // finish Message
+                this.singleMessage.push({ text: "", copied: false }); // init next message
+                i++;
+                this.singleMessage[i].text += "/e "; // Start a new message with "/e"
+              }
+              j++;
+            }
+
+            if (this.contentWordArray[j] === "##") {
+              // If it's the stop signal, start a new message
+              this.singleMessage[i].text += separatorChar; // finish current message
+              this.singleMessage.push({ text: "", copied: false }); // start a new message
+              i++;
+              j++;
+            }
+
+          }
+          else      // check if word is an emote
+            if (this.contentWordArray[j].startsWith("/")) {
+              if (this.singleMessage[i].text.length > 0) {
                 this.singleMessage[i].text += separatorChar; // finish current message
                 this.singleMessage.push({ text: "", copied: false }); // start a new message
                 i++;
+              }
+              this.singleMessage[i].text += this.contentWordArray[j] + " "; // add slash command to current message
+              this.singleMessage.push({ text: "", copied: false }); // start a new message
+              i++;
             }
-            this.singleMessage[i].text += this.contentWordArray[j] + " "; // add slash command to current message
-            this.singleMessage.push({ text: "", copied: false }); // start a new message
-            i++;
-          }
-         else if (
-            this.singleMessage[i].text.length +
+            else if (
+              this.singleMessage[i].text.length +
               this.contentWordArray[j].length <=
-            MSG_CHAR_LIMIT
-          ) {
-            this.singleMessage[i].text +=
-              this.contentWordArray[j].toString() + " ";
-            //console.log('Msg: ' + this.singleMessage[0])
-          } else {
-            this.singleMessage[i].text += separatorChar; // finish Message
-            this.singleMessage.push({ text: "", copied: false }); // init next message
-            i++;
-            j--; // hold current word to set in next message
-          }
+              MSG_CHAR_LIMIT
+            ) {
+              this.singleMessage[i].text +=
+                this.contentWordArray[j].toString() + " ";
+              //console.log('Msg: ' + this.singleMessage[0])
+            } else {
+              this.singleMessage[i].text += separatorChar; // finish Message
+              this.singleMessage.push({ text: "", copied: false }); // init next message
+              i++;
+              j--; // hold current word to set in next message
+            }
           j++;
         }
       }
@@ -603,49 +512,31 @@ if (this.contentWordArray[j] === "/emote" || this.contentWordArray[j] === "/e" |
 
       // searching for english results
       if (this.cbxLangEng == "true") {
-        const colors = _colorsEN as Item[];
         const items = _itemsEN as Item[];
         const pois = _poisEN as Item[];
-        const recipes = _recipesEN as Item[];
         const skills = _skillsEN as Item[];
 
         let i = 0;
-        for (i = 0; i < colors.length; i++) {
-          if (colors[i].name != null) {
-            if (colors[i].name.toString().includes(searchInput)) {
-              this.searchResult.push(colors[i]);
+        for (i = 0; i < items.length; i++) {
+          if (items[i].name != null) {
+            if (items[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(items[i]);
             }
           }
+        }
 
-          for (i = 0; i < items.length; i++) {
-            if (items[i].name != null) {
-              if (items[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(items[i]);
-              }
+        for (i = 0; i < pois.length; i++) {
+          if (pois[i].name != null) {
+            if (pois[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(pois[i]);
             }
           }
+        }
 
-          for (i = 0; i < pois.length; i++) {
-            if (pois[i].name != null) {
-              if (pois[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(pois[i]);
-              }
-            }
-          }
-
-          for (i = 0; i < recipes.length; i++) {
-            if (recipes[i].name != null) {
-              if (recipes[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(recipes[i]);
-              }
-            }
-          }
-
-          for (i = 0; i < skills.length; i++) {
-            if (skills[i].name != null) {
-              if (skills[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skills[i]);
-              }
+        for (i = 0; i < skills.length; i++) {
+          if (skills[i].name != null) {
+            if (skills[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(skills[i]);
             }
           }
         }
@@ -653,49 +544,31 @@ if (this.contentWordArray[j] === "/emote" || this.contentWordArray[j] === "/e" |
 
       // searching for german results
       if (this.cbxLangGer == "true") {
-        const colors = _colorsDE as Item[];
         const items = _itemsDE as Item[];
         const pois = _poisDE as Item[];
-        const recipes = _recipesDE as Item[];
         const skills = _skillsDE as Item[];
 
         let i = 0;
-        for (i = 0; i < colors.length; i++) {
-          if (colors[i].name != null) {
-            if (colors[i].name.toString().includes(searchInput)) {
-              this.searchResult.push(colors[i]);
+        for (i = 0; i < items.length; i++) {
+          if (items[i].name != null) {
+            if (items[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(items[i]);
             }
           }
+        }
 
-          for (i = 0; i < items.length; i++) {
-            if (items[i].name != null) {
-              if (items[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(items[i]);
-              }
+        for (i = 0; i < pois.length; i++) {
+          if (pois[i].name != null) {
+            if (pois[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(pois[i]);
             }
           }
+        }
 
-          for (i = 0; i < pois.length; i++) {
-            if (pois[i].name != null) {
-              if (pois[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(pois[i]);
-              }
-            }
-          }
-
-          for (i = 0; i < recipes.length; i++) {
-            if (recipes[i].name != null) {
-              if (recipes[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(recipes[i]);
-              }
-            }
-          }
-
-          for (i = 0; i < skills.length; i++) {
-            if (skills[i].name != null) {
-              if (skills[i].name.toString().includes(searchInput)) {
-                this.searchResult.push(skills[i]);
-              }
+        for (i = 0; i < skills.length; i++) {
+          if (skills[i].name != null) {
+            if (skills[i].name.toString().includes(searchInput)) {
+              this.searchResult.push(skills[i]);
             }
           }
         }
@@ -743,6 +616,24 @@ if (this.contentWordArray[j] === "/emote" || this.contentWordArray[j] === "/e" |
     escape(): void {
       this.showItems = !this.showItems;
     },
+
+    insertTextAtCursor(text: string): void {
+    const textarea = this.$refs.chatEdit as HTMLTextAreaElement;
+    const startPos = textarea.selectionStart;
+    const endPos = textarea.selectionEnd;
+    const textBefore = this.chatContent.substring(0, startPos);
+    const textAfter = this.chatContent.substring(endPos, this.chatContent.length);
+    this.chatContent = textBefore + text + textAfter;
+    // Setze den Cursor an die Position nach dem Einfügen des Textes
+    const newCursorPos = startPos + text.length;
+    textarea.selectionStart = newCursorPos;
+    textarea.selectionEnd = newCursorPos;
+    textarea.focus();
+    // Trigger das "update"-Event
+    this.update();
+  },
+
+
   },
 });
 </script>
@@ -753,21 +644,25 @@ textarea:focus {
   background-color: #23272a;
   color: #fff;
 }
+
 input[type="text"],
 textarea {
   background-color: #23272a;
   color: #fff;
 }
+
 select {
   background-color: #375a7f;
   color: #fff;
 }
+
 .controlBar {
   display: flex;
   justify-content: space-between;
   list-style: none;
   padding-left: 0;
 }
+
 #emoteID .tooltiptext,
 #emoteListID .tooltiptext {
   visibility: hidden;
@@ -782,10 +677,12 @@ select {
   position: absolute;
   z-index: 1;
 }
+
 #emoteID:hover .tooltiptext,
 #emoteListID:hover .tooltiptext {
   visibility: visible;
 }
+
 #emoteID,
 #emoteListID {
   font-size: 10pt;
@@ -797,6 +694,7 @@ select {
   grid-template-columns: auto auto auto;
   justify-content: start;
 }
+
 .ac-filtered-items {
   position: relative;
   top: 0;
@@ -814,9 +712,11 @@ select {
   z-index: 9999;
   font-size: 10pt;
 }
+
 .ac-container .ac-filtered-items .ac-filtered-item {
   cursor: pointer;
 }
+
 .ac-container .ac-filtered-items .ac-filtered-item:hover,
 .ac-container .ac-filtered-items .ac-filtered-item__hovered {
   background-color: #eee;
