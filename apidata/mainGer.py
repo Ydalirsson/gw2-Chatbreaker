@@ -7,9 +7,11 @@ import sys
 def getCategories(catType):
     res = requests.get("https://api.guildwars2.com/v2/" + catType + "?lang=de")
     data = []
-   # with open(catType + ".json", "a") as f:
-   #     f.write("[")
-    #    f.close()
+    """
+   with open(catType + ".json", "a") as f:
+        f.write("[")
+        f.close()
+    """
 
     print(len(res.json()))
     listofID = res.json()
@@ -43,7 +45,6 @@ def getCategories(catType):
     with open(catType + ".json", "a") as f:
         f.write("\b\b]")
         f.close()
-
 
     """
     with open('my.json') as json_file:
@@ -115,21 +116,22 @@ def getPois():
         print("Failed to resolve - InvalidErr")
         pass
 
- #   with open("pois" + ".json", "w") as f:
-  #      json.dump(data, f)
-
+    """
+    with open("pois" + ".json", "w") as f:
+        json.dump(data, f)
+    """
     pass
 
 
 
 def main():
-    #getCategories("items")
+    getCategories("items")
     #getCategories("skills")
     #getCategories("skins")
     #getCategories("colors")
     #getCategories("traits")
     #getCategories("recipes")
-    getPois()
+    #getPois()
 
 if __name__ == '__main__':
     main()
