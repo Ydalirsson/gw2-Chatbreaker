@@ -136,7 +136,6 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import { writeText } from "@tauri-apps/api/clipboard";
 
 export interface Item {
   [key: string]: {
@@ -510,7 +509,7 @@ export default defineComponent({
     },
     onCopy(msg: { text: ""; copied: boolean }): void {
       //console.log("CopyText" + msg);
-      writeText(msg.text);
+      navigator.clipboard.writeText(msg.text);
       msg.copied = true;
     },
     searchForLink(searchInput: string): void {
