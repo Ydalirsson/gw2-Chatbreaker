@@ -43,7 +43,7 @@
           <input type="number" placeholder="Limit" value="197" min="3" class="form-control form-control-sm"
             style="margin-top: 4px; width: 110px; height: 38px" data-toggle="tooltip" data-placement="bottom" title="This field determines the number of characters that can appear in a message. Can be set as required.
             - GW2-Mode: 197
-            - Discord-Mode: 1997" v-model="charLimitInput" @change="update">
+            - Discord-Mode: 1998" v-model="charLimitInput" @change="update">
         </li>
 
         <li>
@@ -55,9 +55,9 @@
 
         <li>
           <ul id="emoteListID" class="list-group" @click="changeEmoteList" v-if="listCollapsed">
+            <span class="tooltiptext">Click to collapse</span>
             <li v-for="(emote, index) in emotes" :key="index" class="list-group-item py-0"
               @click="insertTextAtCursor(' ' + emote + ' ')">{{ emote }}</li>
-            <span class="tooltiptext">Click to collapse</span>
           </ul>
           <ul id="emoteID" class="list-group" @click="changeEmoteList" v-else>
             <li class="list-group-item">List of emotes</li>
@@ -72,18 +72,18 @@
     </div>
 
     <div class="ac-container">
-      <input class="form-group" type="search" placeholder="Search for chatlink" v-model="searchInput" @blur="blur"
-        @input="inputChanged" @focus="focus" @keyup.esc="escape" @keyup.enter="enter" @keydown.tab="enter"
-        @keydown.up="up" @keydown.down="down" />
+      <input class="form-group" type="search" placeholder="Search for chatlink" title="Input is case sensitive!"
+        v-model="searchInput" @blur="blur" @input="inputChanged" @focus="focus" @keyup.esc="escape" @keyup.enter="enter"
+        @keydown.tab="enter" @keydown.up="up" @keydown.down="down" />
 
       <div class="form-check form-check-inline">
         <input class="form-check-input" type="checkbox" id="cbxLangEng" v-model="cbxLangEng" true-value="true"
-          false-value="false" checked @change="upateLanguage" />
+          false-value="false" checked @change="updateLanguage" />
         <label class="form-check-label" for="cbxLangEng">eng</label>
       </div>
       <div class="form-check form-check-inline">
         <input class="form-check-input" type="checkbox" id="cbxLangGer" v-model="cbxLangGer" true-value="true"
-          false-value="false" @change="upateLanguage" />
+          false-value="false" @change="updateLanguage" />
         <label class="form-check-label" for="cbxLangGer">ger</label>
       </div>
 
@@ -170,7 +170,7 @@ export default defineComponent({
       cursor: -1 as number,
       cbxLangEng: "true" as string,
       cbxLangGer: "false" as string,
-      charLimitInput: 197 as number,
+      charLimitInput: 197 as number, // actually limit is 199, but need 197 for the seperator
       emotes: [
         "/beckon",
         "/bless",
@@ -230,10 +230,10 @@ export default defineComponent({
     };
   },
   watch: {
-    searchInput(newInput) {
+    searchInput(newInput): void {
       this.searchForLink(newInput);
     },
-    upateLanguage() {
+    updateLanguage(): void {
       this.searchResult = [];
     },
   },
@@ -241,7 +241,7 @@ export default defineComponent({
     changeEmoteList(): void {
       this.listCollapsed = !this.listCollapsed;
     },
-    currentMouvDate() {
+    currentMouvDate(): string {
       const dateNow = new Date(Date.now());
       const currentYear = new Date(
         dateNow.getFullYear(),
@@ -284,7 +284,7 @@ export default defineComponent({
         " A.E."
       );
     },
-    currentElonDate() {
+    currentElonDate(): string {
       const dateNow = new Date(Date.now());
       const currentYear = new Date(
         dateNow.getFullYear(),
@@ -327,7 +327,7 @@ export default defineComponent({
         " D.Z."
       );
     },
-    currentCantDate() {
+    currentCantDate(): string {
       const dateNow = new Date(Date.now());
       const currentYear = new Date(
         dateNow.getFullYear(),
@@ -607,16 +607,19 @@ export default defineComponent({
       }
     },
     up(): void {
-      if (this.cursor > -1) {
+      if (this.cursor > 0) {
         this.cursor--;
         this.$el.getElementsByClassName("ac-filtered-item")[this.cursor];
+        const element = this.$el.getElementsByClassName("ac-filtered-item")[this.cursor];
+        element.scrollIntoView({ behavior: "smooth", block: "center", inline: "center" });
       }
     },
     down(): void {
       this.showItems = true;
-      if (this.cursor < this.searchResult.length) {
+      if (this.cursor < this.searchResult.length - 1) {
         this.cursor++;
-        this.$el.getElementsByClassName("ac-filtered-item")[this.cursor];
+        const element = this.$el.getElementsByClassName("ac-filtered-item")[this.cursor];
+        element.scrollIntoView({ behavior: "smooth", block: "center", inline: "center" });
       }
     },
     escape(): void {
@@ -628,6 +631,7 @@ export default defineComponent({
       const endPos = textarea.selectionEnd;
       const textBefore = this.chatContent.substring(0, startPos);
       const textAfter = this.chatContent.substring(endPos, this.chatContent.length);
+      if (startPos == 0) text = text.substring(1, text.length);
       this.chatContent = textBefore + text + textAfter;
       // Setze den Cursor an die Position nach dem Einfügen des Textes
       const newCursorPos = startPos + text.length;
@@ -677,10 +681,12 @@ select {
   padding: 5px 0;
 
   /* Position the tooltip */
-  position: realtive;
+  position: static;
   z-index: 1;
-  top: 20px; /* Beispiel: Verschiebung um 20px nach unten */
-  left: 0; /* Beispiel: Tooltip linksbündig */
+  top: 20px;
+  /* Beispiel: Verschiebung um 20px nach unten */
+  left: 0;
+  /* Beispiel: Tooltip linksbündig */
 }
 
 #emoteID:hover .tooltiptext,
@@ -693,6 +699,11 @@ select {
 #emoteID,
 #emoteListID {
   font-size: 10pt;
+}
+
+#emoteListID {
+  position: relative;
+  top: -25px;
 }
 
 .ac-container {
