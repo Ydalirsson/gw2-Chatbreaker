@@ -456,13 +456,14 @@ export default defineComponent({
             // Process subsequent words until "##" is found
             while (j < this.contentWordArray.length && this.contentWordArray[j] !== "##") {
               // Check if adding the word exceeds the character limit
-              if (this.singleMessage[i].text.length + this.contentWordArray[j].length + 3 <= MSG_CHAR_LIMIT) { // +3 for "/e " before each word
+              if (this.singleMessage[i].text.length + this.contentWordArray[j].length <= MSG_CHAR_LIMIT) {
                 this.singleMessage[i].text += this.contentWordArray[j].toString() + " ";
               } else {
                 // If exceeds the limit, start a new message
                 this.singleMessage[i].text += separatorChar; // finish Message
                 this.singleMessage.push({ text: "", copied: false }); // init next message
                 i++;
+                j--;
                 this.singleMessage[i].text += "/e "; // Start a new message with "/e"
               }
               j++;
@@ -473,7 +474,6 @@ export default defineComponent({
               this.singleMessage[i].text += separatorChar; // finish current message
               this.singleMessage.push({ text: "", copied: false }); // start a new message
               i++;
-              j++;
             }
 
           }
