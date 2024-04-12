@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "Chatbreaker",
-    "version": "1.2.1"
+    "version": "1.3.0"
   },
   "tauri": {
     "allowlist": {
@@ -16,8 +16,8 @@
     },
     "bundle": {
       "active": true,
-      "category": "DeveloperTool",
-      "copyright": "",
+      "category": "Utility",
+      "copyright": "Ydalirsson",
       "deb": {
         "depends": []
       },
@@ -30,7 +30,7 @@
         "icons/icon.ico"
       ],
       "identifier": "com.ydalirsson.prod",
-      "longDescription": "",
+      "longDescription": "Chatbreaker is an application for separating text into single chat messages. Specified for Guild Wars 2 chat messages.",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -38,13 +38,15 @@
         "providerShortName": null,
         "signingIdentity": null
       },
+      "publisher": "Ydalirsson",
       "resources": [],
-      "shortDescription": "",
+      "shortDescription": "Chat message separating tool for Guild Wars 2.",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
-        "timestampUrl": ""
+        "timestampUrl": "",
+        "allowDowngrades": false
       }
     },
     "security": {

@@ -2,6 +2,12 @@
   "name": "Chatbreaker",
   "version": "1.3.0",
   "private": true,
+  "author": "Ydalirsson",
+  "description": "Chatbreaker is an application for separating text into single chat messages. Specified for Guild Wars 2 chat messages.",
+  "keywords": ["text editing", "guild wars 2", "guild wars", "roleplay", "chat buddy"],
+  "homepage": "https://github.com/Ydalirsson/gw2-Chatbreaker#readme",
+  "url": "https://github.com/Ydalirsson/gw2-Chatbreaker",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
