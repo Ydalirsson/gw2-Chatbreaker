@@ -8,8 +8,11 @@
     </div>
 
     <div>
-      <textarea id="chatContent" v-model="chatContent" ref="chatEdit" placeholder="Insert something in me OwO" cols="50"
+      <textarea id="chatContent" v-model="chatContent" ref="chatEdit" placeholder="Insert text here" cols="50"
         rows="10" class="form-control" @keyup="update"></textarea>
+
+    <button class="btn btn-secondary btn-sm" @click="undo" :disabled="undoStack.length === 0" title="Undo (Ctrl+Z / Cmd+Z)">Undo</button>
+    <button class="btn btn-secondary btn-sm" @click="redo" :disabled="redoStack.length === 0" title="Redo (Ctrl+Y / Cmd+Shift+Z)">Redo</button>
 
       <p v-if="errorMessage" class="alert alert-danger" role="alert">
         {{ errorMessage }}
@@ -157,6 +160,8 @@ export default defineComponent({
   name: "home",
   data() {
     return {
+      undoStack: [] as string[],
+      redoStack: [] as string[],
       chatContent: "" as string,
       contentWordArray: [""] as Array<string>,
       singleMessage: [] as Array<{ text: string; copied: false }>,
@@ -406,6 +411,8 @@ export default defineComponent({
       this.singleMessage = [{ text: "", copied: false }];
       this.contentWordArray = [""];
       this.errorMessage = "";
+      this.redoStack = [""];
+      this.undoStack = [""];
 
       this.totalCharacter = this.chatContent.length;
       (this.$refs.chatEdit as HTMLElement).focus();
@@ -419,6 +426,10 @@ export default defineComponent({
       this.singleMessage = [{ text: "", copied: false }];
       this.contentWordArray = [""];
       this.errorMessage = "";
+      if (this.undoStack[this.undoStack.length - 1] !== this.chatContent) {
+        this.undoStack.push(this.chatContent);
+      }
+      this.redoStack = []; // Reset redo stack on new input
 
       // set select separation char
       if (this.selected == "1") separatorChar = ">";
@@ -641,7 +652,42 @@ export default defineComponent({
       // Trigger das "update"-Event
       this.update();
     },
+    undo(): void {
+      if (this.undoStack.length > 0) {
+        if (this.undoStack.length > 1) {
+        this.redoStack.push(this.undoStack.pop() ?? "");
+        this.chatContent = this.undoStack[this.undoStack.length - 1];
+      } else if (this.undoStack.length === 1) {
+        this.redoStack.push(this.chatContent);
+        this.chatContent = "";
+      }
+      }
+    },
+    redo(): void {
+      if (this.redoStack.length > 0) {
+        this.undoStack.push(this.chatContent);
+        this.chatContent = this.redoStack.pop() ?? "";
+      }
+    },
+    handleKeydown(event: KeyboardEvent) {
+      if (event.ctrlKey || event.metaKey) {
+        if (event.key === "z") {
+          event.preventDefault();
+          this.undo();
+        } else if (event.key === "y" || (event.shiftKey && event.key === "Z")) {
+          event.preventDefault();
+          this.redo();
+        }
+      }
+    },
+    mounted() {
+    window.addEventListener("keydown", this.handleKeydown);
   },
+  beforeUnmount() {
+    window.removeEventListener("keydown", this.handleKeydown);
+  },
+
+  }
 });
 </script>
 

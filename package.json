@@ -1,33 +1,33 @@
 {
   "name": "Chatbreaker",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "private": true,
   "author": "Ydalirsson",
   "description": "Chatbreaker is an application for separating text into single chat messages. Specified for Guild Wars 2 chat messages.",
-  "keywords": ["text editing", "guild wars 2", "guild wars", "roleplay", "chat buddy"],
+  "keywords": [
+    "text editing",
+    "guild wars 2",
+    "guild wars",
+    "roleplay",
+    "chat buddy"
+  ],
   "homepage": "https://github.com/Ydalirsson/gw2-Chatbreaker#readme",
   "url": "https://github.com/Ydalirsson/gw2-Chatbreaker",
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "tauri:build": "vue-cli-service tauri:build",
-    "tauri:serve": "vue-cli-service tauri:serve",
-    "tauri:dev": "vue-cli-service tauri:dev"
+    "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@tauri-apps/api": "^1.5.3",
     "bootstrap": "^5.3.3",
-    "core-js": "^3.36.1",
-    "vue": "^3.4.21",
+    "core-js": "^3.41.0",
+    "vue": "^3.5.13",
     "vue-class-component": "^8.0.0-0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~5.0.8",
-    "@vue/cli-plugin-typescript": "~5.0.8",
-    "@vue/cli-service": "~5.0.8",
-    "typescript": "~5.4.3",
-    "vue-cli-plugin-tauri": "~1.0.0",
-    "@tauri-apps/cli": "1.5.11"
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-typescript": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "typescript": "^5.8.2"
   }
 }
