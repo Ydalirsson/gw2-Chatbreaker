@@ -1,29 +1,34 @@
 <template>
   <div>
     <Greeting />
-    <TextEditor v-model="chatContent" />
-    <Toolbar/>
-    <EmoteControles/>
-    <ResultsTable :messages="singleMessage" />
+    <TextEditor v-model="chatContent" @keyup="update" />
+    <Toolbar v-model:selected="selected"
+    v-model:maxWordLength="charLimitInput"
+    :totalCharacter="chatContent.length"/>
+
+    <!-- <EmoteControles/>
+    <ResultsTable :messages="singleMessage" /> -->
   </div>
 </template>
 
 <script lang="ts">
+import { defineComponent } from 'vue';
 import Greeting from "./Greeting.vue";
 import TextEditor from "./TextEditor.vue";
 import Toolbar from "./Toolbar.vue";
-import EmoteControles from "./EmoteControles.vue";
+/*import EmoteControles from "./EmoteControles.vue";
 import SearchBar from "./SearchBar.vue"
 import ResultsTable from "./ResultsTable.vue";
-
-export default {
+*/
+export default defineComponent({
+  name: 'Main',
   components: {
     Greeting,
     TextEditor,
     Toolbar,
-    EmoteControles,
+    /*EmoteControles,
     SearchBar,
-    ResultsTable
+    ResultsTable */
   },
   data() {
     return {
@@ -31,28 +36,36 @@ export default {
       singleMessage: [] as Array<{ text: string; copied: false }>,
       contentWordArray: [""] as Array<string>,
       errorMessage: "" as string,
-      charLimitInput: 197 as number // actually limit is 199, but need 197 for the seperator
+      selected: 1 as number,
+      charLimitInput: 197 as number // actually limit is 199, but need 197 for the seperator    selected: "0" as string
     };
+  },
+  watch: {
+    selected(newVal) {
+      this.update();
+    },    
+    charLimitInput(newVal) {
+      console.log("Maximale Wortlänge geändert zu:", newVal);
+      this.update();
+    }
   },
   methods: {
     update(): void {
       const MSG_CHAR_LIMIT = this.charLimitInput; // character limit per single chat message (in gw2 it's 199, but 197 needed to add ' >' automatically
       let i = 0; // place of message
       let j = 0; // position of word
-      let separatorChar = ">";
       // reset
       this.singleMessage = [{ text: "", copied: false }];
       this.contentWordArray = [""];
       this.errorMessage = "";
 
       // set select separation char
-      if (this.selected == "1") separatorChar = ">";
-      else if (this.selected == "2") separatorChar = "+";
-      else if (this.selected == "3") separatorChar = "-";
-      else if (this.selected == "4") separatorChar = "~";
-      else separatorChar = ">";
+      let separatorChar = this.selected == 1 ? ">" :
+        this.selected == 2 ? "+" :
+          this.selected == 3 ? "-" :
+            this.selected == 4 ? "~" : ">";
 
-      this.totalCharacter = this.chatContent.length;
+
       // generate table if textarea is filled
       if (this.chatContent.length != 0) {
         this.contentWordArray = this.chatContent.split(" ");
@@ -133,5 +146,5 @@ export default {
       //console.log(this.singleMessage)
     }
   }
-};
+});
 </script>
