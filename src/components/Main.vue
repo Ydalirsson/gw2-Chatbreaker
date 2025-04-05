@@ -1,13 +1,10 @@
 <template>
   <div>
     <Greeting />
-    <TextEditor v-model="chatContent" @keyup="update" />
-    <Toolbar v-model:selected="selected"
-    v-model:maxWordLength="charLimitInput"
-    :totalCharacter="chatContent.length"/>
-
-    <!-- <EmoteControles/>
-    <ResultsTable :messages="singleMessage" /> -->
+    <TextEditor v-model="chatContent" ref="textEditorRef" @keyup="update" />
+    <Toolbar v-model:selected="selected" v-model:maxWordLength="charLimitInput" :totalCharacter="chatContent.length" />
+    <EmoteControls :insertTextAtCursor="insertTextAtCursor" />
+    <!-- <ResultsTable :messages="singleMessage" /> -->
   </div>
 </template>
 
@@ -16,8 +13,8 @@ import { defineComponent } from 'vue';
 import Greeting from "./Greeting.vue";
 import TextEditor from "./TextEditor.vue";
 import Toolbar from "./Toolbar.vue";
-/*import EmoteControles from "./EmoteControles.vue";
-import SearchBar from "./SearchBar.vue"
+import EmoteControls from "./EmoteControls.vue";
+/*import SearchBar from "./SearchBar.vue"
 import ResultsTable from "./ResultsTable.vue";
 */
 export default defineComponent({
@@ -26,9 +23,9 @@ export default defineComponent({
     Greeting,
     TextEditor,
     Toolbar,
-    /*EmoteControles,
-    SearchBar,
-    ResultsTable */
+    EmoteControls,
+    // SearchBar,
+    // ResultsTable
   },
   data() {
     return {
@@ -43,7 +40,7 @@ export default defineComponent({
   watch: {
     selected(newVal) {
       this.update();
-    },    
+    },
     charLimitInput(newVal) {
       console.log("Maximale Wortlänge geändert zu:", newVal);
       this.update();
@@ -60,10 +57,11 @@ export default defineComponent({
       this.errorMessage = "";
 
       // set select separation char
-      let separatorChar = this.selected == 1 ? ">" :
-        this.selected == 2 ? "+" :
-          this.selected == 3 ? "-" :
-            this.selected == 4 ? "~" : ">";
+      let separatorChar =
+        this.selected == 1 ? ">" :
+          this.selected == 2 ? "+" :
+            this.selected == 3 ? "-" :
+              this.selected == 4 ? "~" : ">";
 
 
       // generate table if textarea is filled
@@ -144,6 +142,23 @@ export default defineComponent({
         }
       }
       //console.log(this.singleMessage)
+    },
+    insertTextAtCursor(text: string): void {
+      const editorComponent = this.$refs.textEditorRef as any;
+      const textarea = editorComponent?.$refs?.editor as HTMLTextAreaElement;
+      const startPos = textarea.selectionStart;
+      const endPos = textarea.selectionEnd;
+      const textBefore = this.chatContent.substring(0, startPos);
+      const textAfter = this.chatContent.substring(endPos, this.chatContent.length);
+      if (startPos == 0) text = text.substring(1, text.length);
+      this.chatContent = textBefore + text + textAfter;
+      // Setze den Cursor an die Position nach dem Einfügen des Textes
+      const newCursorPos = startPos + text.length;
+      textarea.selectionStart = newCursorPos;
+      textarea.selectionEnd = newCursorPos;
+      textarea.focus();
+      // Trigger das "update"-Event
+      this.update();
     }
   }
 });

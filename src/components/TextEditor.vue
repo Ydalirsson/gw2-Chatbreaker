@@ -1,6 +1,6 @@
 <template>
     <div class="text-editor">
-        <textarea v-model="text" @input="updateText" placeholder="Insert text here" cols="50" rows="10"
+        <textarea v-model="text" ref="editor" @input="updateText" placeholder="Insert text here" cols="50" rows="10"
             class="form-control"></textarea>
         <div>
             <button class="btn btn-secondary btn-sm" style="margin-top: 4px" @click="undo"
