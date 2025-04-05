@@ -4,6 +4,9 @@
     <TextEditor v-model="chatContent" ref="textEditorRef" @keyup="update" />
     <Toolbar v-model:selected="selected" v-model:maxWordLength="charLimitInput" :totalCharacter="chatContent.length" />
     <EmoteControls :insertTextAtCursor="insertTextAtCursor" />
+    <SearchBar :insertTextAtCursor="insertTextAtCursor" />
+    <p></p>
+    <br />
     <!-- <ResultsTable :messages="singleMessage" /> -->
   </div>
 </template>
@@ -14,7 +17,8 @@ import Greeting from "./Greeting.vue";
 import TextEditor from "./TextEditor.vue";
 import Toolbar from "./Toolbar.vue";
 import EmoteControls from "./EmoteControls.vue";
-/*import SearchBar from "./SearchBar.vue"
+import SearchBar from "./SearchBar.vue"
+/*
 import ResultsTable from "./ResultsTable.vue";
 */
 export default defineComponent({
@@ -24,8 +28,8 @@ export default defineComponent({
     TextEditor,
     Toolbar,
     EmoteControls,
-    // SearchBar,
-    // ResultsTable
+    SearchBar,
+   // ResultsTable
   },
   data() {
     return {
