@@ -1,19 +1,24 @@
 <template>
-  <div>
-    <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="insertTextAtCursor(' /e ')">Start
-      emote</button>
-    <button type="button" class="btn btn-primary" style="margin-top: 4px" @click="insertTextAtCursor(' ## ')">End
-      emote</button>
-    <div id="emoteListID" class="list-group" @click="changeEmoteList" v-if="listCollapsed">
-      <span class="tooltiptext">Click to collapse</span>
-      <li v-for="(emote, index) in emoteList" :key="index" class="list-group-item py-0"
-        @click.stop="handleInsert(' ' + emote + ' ')">{{ emote }}</li>
-    </div>
-    <div id="emoteID" class="list-group" @click="changeEmoteList" v-else>
-      <li class="list-group-item">List of emotes</li>
-      <span class="tooltiptext">Click to expand</span>
-    </div>
-  </div>
+  <ul class="controlBar">
+    <li>
+      <button type="button" class="btn btn-primary btn-sm" style="margin-top: 4px" @click="handleInsert(' /e ')">Start
+        emote</button>
+      <button type="button" class="btn btn-primary btn-sm" style="margin-top: 4px" @click="handleInsert(' ## ')">End
+        emote</button>
+    </li>
+
+    <li>
+      <ul id="emoteListID" class="list-group" @click="changeEmoteList" v-if="listCollapsed">
+        <span class="tooltiptext">Click to collapse</span>
+        <li v-for="(emote, index) in emoteList" :key="index" class="list-group-item py-0"
+          @click.stop="handleInsert(' ' + emote + ' ')">{{ emote }}</li>
+      </ul>
+      <ul id="emoteID" class="list-group" @click="changeEmoteList" v-else>
+        <li class="list-group-item">List of emotes</li>
+        <span class="tooltiptext">Click to expand</span>
+      </ul>
+    </li>
+  </ul>
 </template>
 
 <script lang="ts">
@@ -98,8 +103,15 @@ export default defineComponent({
 });
 </script>
 
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped lang="css">
+.controlBar {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding-left: 0;
+}
 
-<style lang="css">
 #emoteID .tooltiptext,
 #emoteListID .tooltiptext {
   visibility: hidden;

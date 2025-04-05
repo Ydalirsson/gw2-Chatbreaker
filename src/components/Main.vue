@@ -2,8 +2,11 @@
   <div>
     <Greeting />
     <TextEditor v-model="chatContent" ref="textEditorRef" @keyup="update" />
-    <Toolbar v-model:selected="selected" v-model:maxWordLength="charLimitInput" :totalCharacter="chatContent.length" />
+    <p v-if="errorMessage" class="alert alert-danger" role="alert">
+      {{ errorMessage }}
+    </p>
     <EmoteControls :insertTextAtCursor="insertTextAtCursor" />
+    <Toolbar v-model:selected="selected" v-model:maxWordLength="charLimitInput" :totalCharacter="chatContent.length" />
     <SearchBar :insertTextAtCursor="insertTextAtCursor" />
     <p></p>
     <br />
@@ -37,7 +40,7 @@ export default defineComponent({
       contentWordArray: [""] as Array<string>,
       errorMessage: "" as string,
       selected: 1 as number,
-      charLimitInput: 197 as number // actually limit is 199, but need 197 for the seperator    selected: "0" as string
+      charLimitInput: 197 as number // actually limit is 199, but need 197 for the seperator
     };
   },
   watch: {
@@ -45,13 +48,12 @@ export default defineComponent({
       this.update();
     },
     charLimitInput(newVal) {
-      console.log("Maximale Wortlänge geändert zu:", newVal);
       this.update();
     }
   },
   methods: {
     update(): void {
-      const MSG_CHAR_LIMIT = this.charLimitInput; // character limit per single chat message (in gw2 it's 199, but 197 needed to add ' >' automatically
+      const MSG_CHAR_LIMIT = this.charLimitInput;
       let i = 0; // place of message
       let j = 0; // position of word
       // reset
@@ -75,7 +77,7 @@ export default defineComponent({
         for (let k = 0; k < this.contentWordArray.length; k++) {
           if (this.contentWordArray[k].length > MSG_CHAR_LIMIT) {
             this.errorMessage =
-              "At least one word is longer then " + MSG_CHAR_LIMIT.toString() + "characters. Try to split it with space.";
+              "At least one word is longer then " + MSG_CHAR_LIMIT.toString() + " characters. Try to split it with space.";
             return;
           }
         }
@@ -155,14 +157,16 @@ export default defineComponent({
       const textAfter = this.chatContent.substring(endPos, this.chatContent.length);
       if (startPos == 0) text = text.substring(1, text.length);
       this.chatContent = textBefore + text + textAfter;
-      // Setze den Cursor an die Position nach dem Einfügen des Textes
+      // set the cursor to the position after inserting the text
       const newCursorPos = startPos + text.length;
       textarea.selectionStart = newCursorPos;
       textarea.selectionEnd = newCursorPos;
       textarea.focus();
-      // Trigger das "update"-Event
       this.update();
     }
   }
 });
 </script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped lang="css"></style>

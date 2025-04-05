@@ -194,7 +194,8 @@ export default defineComponent({
 });
 </script>
 
-<style scoped>
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped lang="css">
 .ac-container {
   position: relative;
   display: grid;

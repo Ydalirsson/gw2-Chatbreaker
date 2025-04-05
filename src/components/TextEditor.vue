@@ -20,7 +20,7 @@
         </div>
     </div>
 </template>
-  
+
 <script lang="ts">
 import { defineComponent, PropType } from "vue";
 
@@ -91,7 +91,9 @@ export default defineComponent({
 });
 </script>
 
-<style scoped lang="css"> textarea:focus {
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped lang="css">
+ textarea:focus {
      background-color: #23272a;
      color: #fff;
  }
@@ -102,4 +104,3 @@ export default defineComponent({
      color: #fff;
  }
 </style>
-  
