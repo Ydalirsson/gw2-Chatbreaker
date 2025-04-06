@@ -30,29 +30,27 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineComponent, PropType } from "vue";
 
 export interface Item {
-    [key: string]: {
-        name: string;
-        id: number;
-        chat_link: string;
-    };
+    name: string;
+    id: number;
+    chat_link: string;
 }
 
-const _itemsEN = require("../chatcodes/eng/items.json");
-const _poisEN = require("../chatcodes/eng/pois.json");
-const _skillsEN = require("../chatcodes/eng/skills.json");
+import itemsEN from "../chatcodes/eng/items.json";
+import poisEN from "../chatcodes/eng/pois.json";
+import skillsEN from "../chatcodes/eng/skills.json";
 
-const _itemsDE = require("../chatcodes/deu/items.json");
-const _poisDE = require("../chatcodes/deu/pois.json");
-const _skillsDE = require("../chatcodes/deu/skills.json");
+import itemsDE from "../chatcodes/deu/items.json";
+import poisDE from "../chatcodes/deu/pois.json";
+import skillsDE from "../chatcodes/deu/skills.json";
 
 export default defineComponent({
-    name: "Toolbar",
+    name: "SearchBar",
     props: {
         insertTextAtCursor: {
-            type: Function,
+            type: Function as PropType<(text: string) => void>,
             required: true,
         }
     },
@@ -84,9 +82,9 @@ export default defineComponent({
 
             // searching for english results
             if (this.cbxLangEng == "true") {
-                const items = _itemsEN as Item[];
-                const pois = _poisEN as Item[];
-                const skills = _skillsEN as Item[];
+                const items = itemsEN as Item[];
+                const pois = poisEN as Item[];
+                const skills = skillsEN as Item[];
 
                 let i = 0;
                 for (i = 0; i < items.length; i++) {
@@ -116,9 +114,9 @@ export default defineComponent({
 
             // searching for german results
             if (this.cbxLangGer == "true") {
-                const items = _itemsDE as Item[];
-                const pois = _poisDE as Item[];
-                const skills = _skillsDE as Item[];
+                const items = itemsDE as Item[];
+                const pois = poisDE as Item[];
+                const skills = skillsDE as Item[];
 
                 let i = 0;
                 for (i = 0; i < items.length; i++) {
@@ -197,37 +195,37 @@ export default defineComponent({
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="css">
 .ac-container {
-  position: relative;
-  display: grid;
-  grid-template-columns: auto auto auto;
-  justify-content: start;
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: start;
 }
 
 .ac-filtered-items {
-  position: relative;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: auto;
-  grid-row: 2;
-  padding: 2px;
-  text-align: left;
-  border: 2px solid #ececec;
-  border-top: none;
-  border-radius: 2px;
-  max-height: 400px;
-  overflow-y: auto;
-  z-index: 9999;
-  font-size: 10pt;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    grid-row: 2;
+    padding: 2px;
+    text-align: left;
+    border: 2px solid #ececec;
+    border-top: none;
+    border-radius: 2px;
+    max-height: 400px;
+    overflow-y: auto;
+    z-index: 9999;
+    font-size: 10pt;
 }
 
 .ac-container .ac-filtered-items .ac-filtered-item {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .ac-container .ac-filtered-items .ac-filtered-item:hover,
 .ac-container .ac-filtered-items .ac-filtered-item__hovered {
-  background-color: #eee;
-  color: #101010;
+    background-color: #eee;
+    color: #101010;
 }
 </style>

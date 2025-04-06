@@ -42,10 +42,6 @@ export default defineComponent({
             required: true,
         }
     },
-    data() {
-        return {
-        }
-    },
     methods: {
         onCopy(msg: { text: string, copied: boolean }): void {
             //console.log("CopyText" + msg);
@@ -53,9 +49,7 @@ export default defineComponent({
             msg.copied = true;
         }
     }
-
 });
-
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

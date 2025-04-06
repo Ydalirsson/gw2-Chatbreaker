@@ -9,8 +9,6 @@
   
   <script lang="ts">
   export default {
-    data() {
-    },
     methods: {
       currentMouvDate(): string {
       const dateNow = new Date(Date.now());

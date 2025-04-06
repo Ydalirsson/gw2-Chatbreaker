@@ -122,13 +122,10 @@ export default defineComponent({
   border-radius: 6px;
   padding: 5px 0;
 
-  /* Position the tooltip */
   position: static;
   z-index: 1;
   top: 20px;
-  /* Beispiel: Verschiebung um 20px nach unten */
   left: 0;
-  /* Beispiel: Tooltip linksbündig */
 }
 
 #emoteID:hover .tooltiptext,

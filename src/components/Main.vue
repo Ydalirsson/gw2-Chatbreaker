@@ -1,12 +1,13 @@
 <template>
   <div>
     <Greeting />
-    <TextEditor v-model="chatContent" ref="textEditorRef" @keyup="update" />
+    <TextEditor v-model="chatContent" ref="textEditorRef" @stack-changed="handleStackChange" @keyup="update" />
     <p v-if="errorMessage" class="alert alert-danger" role="alert">
       {{ errorMessage }}
     </p>
-    <EmoteControls :insertTextAtCursor="insertTextAtCursor" />
-    <Toolbar v-model:selected="selected" v-model:maxWordLength="charLimitInput" :totalCharacter="chatContent.length" />
+    <ToolBar v-model:selected="selected" v-model:maxWordLength="charLimitInput" :totalCharacter="chatContent.length"
+      :on-undo="handleUndo" :on-redo="handleRedo" :on-clear="handleClear" :undo-disabled="currentUndoLength === 0"
+      :redo-disabled="currentRedoLength === 0" :insertTextAtCursor="insertTextAtCursor" />
     <SearchBar :insertTextAtCursor="insertTextAtCursor" />
     <p></p>
     <br />
@@ -18,8 +19,7 @@
 import { defineComponent } from 'vue';
 import Greeting from "./Greeting.vue";
 import TextEditor from "./TextEditor.vue";
-import Toolbar from "./Toolbar.vue";
-import EmoteControls from "./EmoteControls.vue";
+import ToolBar from "./ToolBar.vue";
 import SearchBar from "./SearchBar.vue"
 import ResultsTable from "./ResultsTable.vue";
 
@@ -28,8 +28,7 @@ export default defineComponent({
   components: {
     Greeting,
     TextEditor,
-    Toolbar,
-    EmoteControls,
+    ToolBar,
     SearchBar,
     ResultsTable
   },
@@ -40,7 +39,9 @@ export default defineComponent({
       contentWordArray: [""] as Array<string>,
       errorMessage: "" as string,
       selected: 1 as number,
-      charLimitInput: 197 as number // actually limit is 199, but need 197 for the seperator
+      charLimitInput: 197 as number, // actually limit is 199, but need 197 for the seperator
+      currentUndoLength: 0 as number,
+      currentRedoLength: 0 as number
     };
   },
   watch: {
@@ -163,6 +164,25 @@ export default defineComponent({
       textarea.selectionEnd = newCursorPos;
       textarea.focus();
       this.update();
+    },
+    handleUndo() {
+      const editorComponent = this.$refs.textEditorRef as any;
+      editorComponent.undo();
+      this.update();
+    },
+    handleRedo() {
+      const editorComponent = this.$refs.textEditorRef as any;
+      editorComponent.redo();
+      this.update();
+    },
+    handleClear() {
+      const editorComponent = this.$refs.textEditorRef as any;
+      editorComponent.clearText();
+      this.update();
+    },
+    handleStackChange({ undoLength, redoLength }: { undoLength: number; redoLength: number }) {
+      this.currentUndoLength = undoLength;
+      this.currentRedoLength = redoLength;
     }
   }
 });
