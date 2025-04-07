@@ -5700,11 +5700,6 @@
         "chat_link": "[&Bto4AAA=]"
     },
     {
-        "name": "Adrenaline Rush",
-        "id": 14555,
-        "chat_link": "[&Bts4AAA=]"
-    },
-    {
         "name": "Throw Boulder",
         "id": 14556,
         "chat_link": "[&Btw4AAA=]"
@@ -6945,7 +6940,7 @@
         "chat_link": "[&BtF0AAA=]"
     },
     {
-        "name": "Weakening Charge",
+        "name": "Weakening Whirl",
         "id": 29911,
         "chat_link": "[&Btd0AAA=]"
     },
@@ -13955,11 +13950,6 @@
         "chat_link": "[&BijRAAA=]"
     },
     {
-        "name": "Elixir E",
-        "id": 53548,
-        "chat_link": "[&BizRAAA=]"
-    },
-    {
         "name": "Aurora Beam",
         "id": 53549,
         "chat_link": "[&Bi3RAAA=]"
@@ -20220,7 +20210,7 @@
         "chat_link": "[&BhQaAQA=]"
     },
     {
-        "name": "Stormfall",
+        "name": "Enraging Stomp",
         "id": 72284,
         "chat_link": "[&BlwaAQA=]"
     },
@@ -20253,5 +20243,1915 @@
         "name": "Breakrazor's Bastion",
         "id": 72389,
         "chat_link": "[&BsUaAQA=]"
+    },
+    {
+        "name": "Frightening Speed",
+        "id": 72432,
+        "chat_link": "[&BvAaAQA=]"
+    },
+    {
+        "name": "Dread Visage",
+        "id": 72438,
+        "chat_link": "[&BvYaAQA=]"
+    },
+    {
+        "name": "",
+        "id": 72441,
+        "chat_link": "[&BvkaAQA=]"
+    },
+    {
+        "name": "Rage Fissure",
+        "id": 72468,
+        "chat_link": "[&BhQbAQA=]"
+    },
+    {
+        "name": "Tormenting Visions",
+        "id": 72636,
+        "chat_link": "[&BrwbAQA=]"
+    },
+    {
+        "name": "Rage Fissure",
+        "id": 72643,
+        "chat_link": "[&BsMbAQA=]"
+    },
+    {
+        "name": "Vialgos's Toxin Pool",
+        "id": 72665,
+        "chat_link": "[&BtkbAQA=]"
+    },
+    {
+        "name": "Annihilate",
+        "id": 72709,
+        "chat_link": "[&BgUcAQA=]"
+    },
+    {
+        "name": "Dread Visage",
+        "id": 72717,
+        "chat_link": "[&Bg0cAQA=]"
+    },
+    {
+        "name": "Rapid Decay",
+        "id": 72779,
+        "chat_link": "[&BkscAQA=]"
+    },
+    {
+        "name": "Panopticon",
+        "id": 72843,
+        "chat_link": "[&BoscAQA=]"
+    },
+    {
+        "name": "Staring Void",
+        "id": 72851,
+        "chat_link": "[&BpMcAQA=]"
+    },
+    {
+        "name": "Entangling Asp",
+        "id": 72896,
+        "chat_link": "[&BsAcAQA=]"
+    },
+    {
+        "name": "Maiming Spear",
+        "id": 72897,
+        "chat_link": "[&BsEcAQA=]"
+    },
+    {
+        "name": "Etching: Haboob",
+        "id": 72900,
+        "chat_link": "[&BsQcAQA=]"
+    },
+    {
+        "name": "Shattering Assault",
+        "id": 72904,
+        "chat_link": "[&BsgcAQA=]"
+    },
+    {
+        "name": "Earthen Spear",
+        "id": 72905,
+        "chat_link": "[&BskcAQA=]"
+    },
+    {
+        "name": "Shale Storm",
+        "id": 72906,
+        "chat_link": "[&BsocAQA=]"
+    },
+    {
+        "name": "Stone Strike",
+        "id": 72910,
+        "chat_link": "[&Bs4cAQA=]"
+    },
+    {
+        "name": "Harrier's Toss",
+        "id": 72911,
+        "chat_link": "[&Bs8cAQA=]"
+    },
+    {
+        "name": "Owl's Flight",
+        "id": 72913,
+        "chat_link": "[&BtEcAQA=]"
+    },
+    {
+        "name": "Fiery Impact",
+        "id": 72914,
+        "chat_link": "[&BtIcAQA=]"
+    },
+    {
+        "name": "Etching: Derecho",
+        "id": 72915,
+        "chat_link": "[&BtMcAQA=]"
+    },
+    {
+        "name": "Frostfire Ward",
+        "id": 72916,
+        "chat_link": "[&BtQcAQA=]"
+    },
+    {
+        "name": "Bee's Sting",
+        "id": 72920,
+        "chat_link": "[&BtgcAQA=]"
+    },
+    {
+        "name": "Drake's Swipe",
+        "id": 72922,
+        "chat_link": "[&BtocAQA=]"
+    },
+    {
+        "name": "Malicious Ashen Assault",
+        "id": 72924,
+        "chat_link": "[&BtwcAQA=]"
+    },
+    {
+        "name": "Distracting Throw",
+        "id": 72927,
+        "chat_link": "[&Bt8cAQA=]"
+    },
+    {
+        "name": "Falcon's Stoop",
+        "id": 72928,
+        "chat_link": "[&BuAcAQA=]"
+    },
+    {
+        "name": "Abyssal Fire",
+        "id": 72931,
+        "chat_link": "[&BuMcAQA=]"
+    },
+    {
+        "name": "Ravager's Abandon",
+        "id": 72932,
+        "chat_link": "[&BuQcAQA=]"
+    },
+    {
+        "name": "Lesser Haboob",
+        "id": 72935,
+        "chat_link": "[&BuccAQA=]"
+    },
+    {
+        "name": "Abyssal Blitz",
+        "id": 72938,
+        "chat_link": "[&BuocAQA=]"
+    },
+    {
+        "name": "Helio Rush",
+        "id": 72940,
+        "chat_link": "[&BuwcAQA=]"
+    },
+    {
+        "name": "Puncturing Jab",
+        "id": 72944,
+        "chat_link": "[&BvAcAQA=]"
+    },
+    {
+        "name": "Phantasmal Lancer",
+        "id": 72946,
+        "chat_link": "[&BvIcAQA=]"
+    },
+    {
+        "name": "Abyssal Blot",
+        "id": 72954,
+        "chat_link": "[&BvocAQA=]"
+    },
+    {
+        "name": "Mental Collapse",
+        "id": 72957,
+        "chat_link": "[&Bv0cAQA=]"
+    },
+    {
+        "name": "Mighty Throw",
+        "id": 72958,
+        "chat_link": "[&Bv4cAQA=]"
+    },
+    {
+        "name": "Disrupting Throw",
+        "id": 72959,
+        "chat_link": "[&Bv8cAQA=]"
+    },
+    {
+        "name": "Restorative Spear",
+        "id": 72966,
+        "chat_link": "[&BgYdAQA=]"
+    },
+    {
+        "name": "Ripple",
+        "id": 72967,
+        "chat_link": "[&BgcdAQA=]"
+    },
+    {
+        "name": "Abyssal Force",
+        "id": 72972,
+        "chat_link": "[&BgwdAQA=]"
+    },
+    {
+        "name": "Devastator",
+        "id": 72974,
+        "chat_link": "[&Bg4dAQA=]"
+    },
+    {
+        "name": "Roiling Skies",
+        "id": 72977,
+        "chat_link": "[&BhEdAQA=]"
+    },
+    {
+        "name": "Gleaming Disc",
+        "id": 72978,
+        "chat_link": "[&BhIdAQA=]"
+    },
+    {
+        "name": "Etching: J\u00f6kulhlaup",
+        "id": 72982,
+        "chat_link": "[&BhYdAQA=]"
+    },
+    {
+        "name": "Unsuspecting Strike",
+        "id": 72986,
+        "chat_link": "[&BhodAQA=]"
+    },
+    {
+        "name": "Meteor",
+        "id": 72988,
+        "chat_link": "[&BhwdAQA=]"
+    },
+    {
+        "name": "Shadow Veil",
+        "id": 72991,
+        "chat_link": "[&Bh8dAQA=]"
+    },
+    {
+        "name": "Spearmarshal's Support",
+        "id": 72992,
+        "chat_link": "[&BiAdAQA=]"
+    },
+    {
+        "name": "Spider's Web",
+        "id": 72993,
+        "chat_link": "[&BiEdAQA=]"
+    },
+    {
+        "name": "Lesser Volcano",
+        "id": 72995,
+        "chat_link": "[&BiMdAQA=]"
+    },
+    {
+        "name": "Twister",
+        "id": 72998,
+        "chat_link": "[&BiYdAQA=]"
+    },
+    {
+        "name": "Amplifying Slice",
+        "id": 73001,
+        "chat_link": "[&BikdAQA=]"
+    },
+    {
+        "name": "Lightning Rod",
+        "id": 73002,
+        "chat_link": "[&BiodAQA=]"
+    },
+    {
+        "name": "Ashen Assault",
+        "id": 73005,
+        "chat_link": "[&Bi0dAQA=]"
+    },
+    {
+        "name": "Harrier's Toss",
+        "id": 73006,
+        "chat_link": "[&Bi4dAQA=]"
+    },
+    {
+        "name": "Extirpate",
+        "id": 73007,
+        "chat_link": "[&Bi8dAQA=]"
+    },
+    {
+        "name": "Panther's Prowl",
+        "id": 73008,
+        "chat_link": "[&BjAdAQA=]"
+    },
+    {
+        "name": "Spear Swipe",
+        "id": 73009,
+        "chat_link": "[&BjEdAQA=]"
+    },
+    {
+        "name": "Fissure",
+        "id": 73010,
+        "chat_link": "[&BjIdAQA=]"
+    },
+    {
+        "name": "Dark Slash",
+        "id": 73012,
+        "chat_link": "[&BjQdAQA=]"
+    },
+    {
+        "name": "Addle",
+        "id": 73013,
+        "chat_link": "[&BjUdAQA=]"
+    },
+    {
+        "name": "Harrier's Toss",
+        "id": 73014,
+        "chat_link": "[&BjYdAQA=]"
+    },
+    {
+        "name": "Abyssal Strike",
+        "id": 73015,
+        "chat_link": "[&BjcdAQA=]"
+    },
+    {
+        "name": "Haboob",
+        "id": 73017,
+        "chat_link": "[&BjkdAQA=]"
+    },
+    {
+        "name": "Harden",
+        "id": 73019,
+        "chat_link": "[&BjsdAQA=]"
+    },
+    {
+        "name": "Warclaw's Engage",
+        "id": 73020,
+        "chat_link": "[&BjwdAQA=]"
+    },
+    {
+        "name": "Harrier's Toss",
+        "id": 73024,
+        "chat_link": "[&BkAdAQA=]"
+    },
+    {
+        "name": "Wolf's Onslaught",
+        "id": 73030,
+        "chat_link": "[&BkYdAQA=]"
+    },
+    {
+        "name": "Energize",
+        "id": 73037,
+        "chat_link": "[&Bk0dAQA=]"
+    },
+    {
+        "name": "Deadly Slice",
+        "id": 73040,
+        "chat_link": "[&BlAdAQA=]"
+    },
+    {
+        "name": "Mantis Sting",
+        "id": 73041,
+        "chat_link": "[&BlEdAQA=]"
+    },
+    {
+        "name": "Harrier's Toss",
+        "id": 73042,
+        "chat_link": "[&BlIdAQA=]"
+    },
+    {
+        "name": "Volcano",
+        "id": 73044,
+        "chat_link": "[&BlQdAQA=]"
+    },
+    {
+        "name": "Sinister Stab",
+        "id": 73047,
+        "chat_link": "[&BlcdAQA=]"
+    },
+    {
+        "name": "Elutriate",
+        "id": 73052,
+        "chat_link": "[&BlwdAQA=]"
+    },
+    {
+        "name": "Etching: Volcano",
+        "id": 73054,
+        "chat_link": "[&Bl4dAQA=]"
+    },
+    {
+        "name": "Daybreaking Slash",
+        "id": 73055,
+        "chat_link": "[&Bl8dAQA=]"
+    },
+    {
+        "name": "Abyssal Raze",
+        "id": 73059,
+        "chat_link": "[&BmMdAQA=]"
+    },
+    {
+        "name": "Lesser Derecho",
+        "id": 73060,
+        "chat_link": "[&BmQdAQA=]"
+    },
+    {
+        "name": "Ice Beam",
+        "id": 73061,
+        "chat_link": "[&BmUdAQA=]"
+    },
+    {
+        "name": "Soothing Burst",
+        "id": 73062,
+        "chat_link": "[&BmYdAQA=]"
+    },
+    {
+        "name": "Vampiric Slash",
+        "id": 73063,
+        "chat_link": "[&BmcdAQA=]"
+    },
+    {
+        "name": "Focused Devastation",
+        "id": 73064,
+        "chat_link": "[&BmgdAQA=]"
+    },
+    {
+        "name": "Psystrike",
+        "id": 73066,
+        "chat_link": "[&BmodAQA=]"
+    },
+    {
+        "name": "Fractured Glass",
+        "id": 73067,
+        "chat_link": "[&BmsdAQA=]"
+    },
+    {
+        "name": "Perforate",
+        "id": 73068,
+        "chat_link": "[&BmwdAQA=]"
+    },
+    {
+        "name": "Falling Spider",
+        "id": 73076,
+        "chat_link": "[&BnQdAQA=]"
+    },
+    {
+        "name": "Blazing Barrage",
+        "id": 73080,
+        "chat_link": "[&BngdAQA=]"
+    },
+    {
+        "name": "Cheetah's Strike",
+        "id": 73087,
+        "chat_link": "[&Bn8dAQA=]"
+    },
+    {
+        "name": "Flame Spear",
+        "id": 73088,
+        "chat_link": "[&BoAdAQA=]"
+    },
+    {
+        "name": "Fulgor",
+        "id": 73091,
+        "chat_link": "[&BoMdAQA=]"
+    },
+    {
+        "name": "Derecho",
+        "id": 73092,
+        "chat_link": "[&BoQdAQA=]"
+    },
+    {
+        "name": "Mind the Gap",
+        "id": 73093,
+        "chat_link": "[&BoUdAQA=]"
+    },
+    {
+        "name": "Solar Storm",
+        "id": 73094,
+        "chat_link": "[&BoYdAQA=]"
+    },
+    {
+        "name": "Mind Pierce",
+        "id": 73095,
+        "chat_link": "[&BocdAQA=]"
+    },
+    {
+        "name": "Wild Throw",
+        "id": 73103,
+        "chat_link": "[&Bo8dAQA=]"
+    },
+    {
+        "name": "Galvanize",
+        "id": 73104,
+        "chat_link": "[&BpAdAQA=]"
+    },
+    {
+        "name": "Lesser J\u00f6kulhlaup",
+        "id": 73105,
+        "chat_link": "[&BpEdAQA=]"
+    },
+    {
+        "name": "Isolate",
+        "id": 73107,
+        "chat_link": "[&BpMdAQA=]"
+    },
+    {
+        "name": "Soul Shards",
+        "id": 73108,
+        "chat_link": "[&BpQdAQA=]"
+    },
+    {
+        "name": "Rending Strike",
+        "id": 73109,
+        "chat_link": "[&BpUdAQA=]"
+    },
+    {
+        "name": "Mongoose's Frenzy",
+        "id": 73110,
+        "chat_link": "[&BpYdAQA=]"
+    },
+    {
+        "name": "Wyvern's Lash",
+        "id": 73112,
+        "chat_link": "[&BpgdAQA=]"
+    },
+    {
+        "name": "Distress",
+        "id": 73116,
+        "chat_link": "[&BpwdAQA=]"
+    },
+    {
+        "name": "Conduit Surge",
+        "id": 73122,
+        "chat_link": "[&BqIdAQA=]"
+    },
+    {
+        "name": "Lightning Javelin",
+        "id": 73124,
+        "chat_link": "[&BqQdAQA=]"
+    },
+    {
+        "name": "Symbol of Luminance",
+        "id": 73132,
+        "chat_link": "[&BqwdAQA=]"
+    },
+    {
+        "name": "Seethe",
+        "id": 73137,
+        "chat_link": "[&BrEdAQA=]"
+    },
+    {
+        "name": "J\u00f6kulhlaup",
+        "id": 73140,
+        "chat_link": "[&BrQdAQA=]"
+    },
+    {
+        "name": "Electric Artillery",
+        "id": 73143,
+        "chat_link": "[&BrcdAQA=]"
+    },
+    {
+        "name": "Barbed Spear",
+        "id": 73145,
+        "chat_link": "[&BrkdAQA=]"
+    },
+    {
+        "name": "Undertow",
+        "id": 73148,
+        "chat_link": "[&BrwdAQA=]"
+    },
+    {
+        "name": "Blitz Mines",
+        "id": 73149,
+        "chat_link": "[&Br0dAQA=]"
+    },
+    {
+        "name": "Predator's Ambush",
+        "id": 73150,
+        "chat_link": "[&Br4dAQA=]"
+    },
+    {
+        "name": "Imaginary Inversion",
+        "id": 73152,
+        "chat_link": "[&BsAdAQA=]"
+    },
+    {
+        "name": "Psycut",
+        "id": 73154,
+        "chat_link": "[&BsIdAQA=]"
+    },
+    {
+        "name": "Missed Stroke",
+        "id": 73225,
+        "chat_link": "[&BgkeAQA=]"
+    },
+    {
+        "name": "Overcharged Conduit Blast",
+        "id": 73270,
+        "chat_link": "[&BjYeAQA=]"
+    },
+    {
+        "name": "Ghastly Rampage",
+        "id": 73348,
+        "chat_link": "[&BoQeAQA=]"
+    },
+    {
+        "name": "Battle Maul",
+        "id": 73733,
+        "chat_link": "[&BgUgAQA=]"
+    },
+    {
+        "name": "Haunting Aura",
+        "id": 73755,
+        "chat_link": "[&BhsgAQA=]"
+    },
+    {
+        "name": "Ghastly Prison",
+        "id": 73765,
+        "chat_link": "[&BiUgAQA=]"
+    },
+    {
+        "name": "Painterly Stance",
+        "id": 73912,
+        "chat_link": "[&BrggAQA=]"
+    },
+    {
+        "name": "Bop",
+        "id": 73938,
+        "chat_link": "[&BtIgAQA=]"
+    },
+    {
+        "name": "Ghastly Rampage",
+        "id": 74035,
+        "chat_link": "[&BjMhAQA=]"
+    },
+    {
+        "name": "Stone Sweep",
+        "id": 74064,
+        "chat_link": "[&BlAhAQA=]"
+    },
+    {
+        "name": "Wicked Swipe",
+        "id": 74131,
+        "chat_link": "[&BpMhAQA=]"
+    },
+    {
+        "name": "Ghastly Rampage",
+        "id": 74132,
+        "chat_link": "[&BpQhAQA=]"
+    },
+    {
+        "name": "Ghastly Rampage",
+        "id": 74208,
+        "chat_link": "[&BuAhAQA=]"
+    },
+    {
+        "name": "Ghastly Rampage",
+        "id": 74214,
+        "chat_link": "[&BuYhAQA=]"
+    },
+    {
+        "name": "Stone Sweep",
+        "id": 74269,
+        "chat_link": "[&Bh0iAQA=]"
+    },
+    {
+        "name": "Rallying Roar",
+        "id": 74314,
+        "chat_link": "[&BkoiAQA=]"
+    },
+    {
+        "name": "Bloodstone Paradox",
+        "id": 74432,
+        "chat_link": "[&BsAiAQA=]"
+    },
+    {
+        "name": "Spectral Impact",
+        "id": 74578,
+        "chat_link": "[&BlIjAQA=]"
+    },
+    {
+        "name": "Chorus of Thunder",
+        "id": 74641,
+        "chat_link": "[&BpEjAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 74653,
+        "chat_link": "[&Bp0jAQA=]"
+    },
+    {
+        "name": "Fluxlance Fusillade",
+        "id": 74660,
+        "chat_link": "[&BqQjAQA=]"
+    },
+    {
+        "name": "Propel",
+        "id": 74669,
+        "chat_link": "[&Bq0jAQA=]"
+    },
+    {
+        "name": "Rain of Spores",
+        "id": 74679,
+        "chat_link": "[&BrcjAQA=]"
+    },
+    {
+        "name": "Fulgent Aura",
+        "id": 74686,
+        "chat_link": "[&Br4jAQA=]"
+    },
+    {
+        "name": "Focused Fluxlance",
+        "id": 74689,
+        "chat_link": "[&BsEjAQA=]"
+    },
+    {
+        "name": "Fulgent Fence",
+        "id": 74697,
+        "chat_link": "[&BskjAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 74702,
+        "chat_link": "[&Bs4jAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 74705,
+        "chat_link": "[&BtEjAQA=]"
+    },
+    {
+        "name": "Chorus of Thunder",
+        "id": 74706,
+        "chat_link": "[&BtIjAQA=]"
+    },
+    {
+        "name": "Stomp the Growth",
+        "id": 74710,
+        "chat_link": "[&BtYjAQA=]"
+    },
+    {
+        "name": "Steam Prison",
+        "id": 74711,
+        "chat_link": "[&BtcjAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 74725,
+        "chat_link": "[&BuUjAQA=]"
+    },
+    {
+        "name": "Focused Fluxlance",
+        "id": 74737,
+        "chat_link": "[&BvEjAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 74742,
+        "chat_link": "[&BvYjAQA=]"
+    },
+    {
+        "name": "Discordant Thunder",
+        "id": 74750,
+        "chat_link": "[&Bv4jAQA=]"
+    },
+    {
+        "name": "Pressure Blast",
+        "id": 74754,
+        "chat_link": "[&BgIkAQA=]"
+    },
+    {
+        "name": "Mainshock",
+        "id": 74771,
+        "chat_link": "[&BhMkAQA=]"
+    },
+    {
+        "name": "Cage of Decay",
+        "id": 74773,
+        "chat_link": "[&BhUkAQA=]"
+    },
+    {
+        "name": "Flux Nova",
+        "id": 74790,
+        "chat_link": "[&BiYkAQA=]"
+    },
+    {
+        "name": "Seeds of Decay",
+        "id": 74792,
+        "chat_link": "[&BigkAQA=]"
+    },
+    {
+        "name": "Harmonic Sensitivity",
+        "id": 74794,
+        "chat_link": "[&BiokAQA=]"
+    },
+    {
+        "name": "Fulminate",
+        "id": 74800,
+        "chat_link": "[&BjAkAQA=]"
+    },
+    {
+        "name": "Foreshock",
+        "id": 74801,
+        "chat_link": "[&BjEkAQA=]"
+    },
+    {
+        "name": "Sweep the Mold",
+        "id": 74804,
+        "chat_link": "[&BjQkAQA=]"
+    },
+    {
+        "name": "Sparking Aura",
+        "id": 74827,
+        "chat_link": "[&BkskAQA=]"
+    },
+    {
+        "name": "Noxious Blight",
+        "id": 74829,
+        "chat_link": "[&Bk0kAQA=]"
+    },
+    {
+        "name": "Foreshock",
+        "id": 74842,
+        "chat_link": "[&BlokAQA=]"
+    },
+    {
+        "name": "Noxious Blight",
+        "id": 74843,
+        "chat_link": "[&BlskAQA=]"
+    },
+    {
+        "name": "Enfeebling Miasma",
+        "id": 74851,
+        "chat_link": "[&BmMkAQA=]"
+    },
+    {
+        "name": "Propel",
+        "id": 74857,
+        "chat_link": "[&BmkkAQA=]"
+    },
+    {
+        "name": "Decimation",
+        "id": 74864,
+        "chat_link": "[&BnAkAQA=]"
+    },
+    {
+        "name": "Wave of Corruption",
+        "id": 74867,
+        "chat_link": "[&BnMkAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 74870,
+        "chat_link": "[&BnYkAQA=]"
+    },
+    {
+        "name": "Thrumming Presence",
+        "id": 74872,
+        "chat_link": "[&BngkAQA=]"
+    },
+    {
+        "name": "Flux Nova",
+        "id": 74878,
+        "chat_link": "[&Bn4kAQA=]"
+    },
+    {
+        "name": "Blob of Blight",
+        "id": 74881,
+        "chat_link": "[&BoEkAQA=]"
+    },
+    {
+        "name": "Plague Rot",
+        "id": 74883,
+        "chat_link": "[&BoMkAQA=]"
+    },
+    {
+        "name": "Foreshock",
+        "id": 74887,
+        "chat_link": "[&BockAQA=]"
+    },
+    {
+        "name": "",
+        "id": 74888,
+        "chat_link": "[&BogkAQA=]"
+    },
+    {
+        "name": "Harmonious Thunder",
+        "id": 74894,
+        "chat_link": "[&Bo4kAQA=]"
+    },
+    {
+        "name": "Sparking Aura",
+        "id": 74898,
+        "chat_link": "[&BpIkAQA=]"
+    },
+    {
+        "name": "Infectious Rot",
+        "id": 74900,
+        "chat_link": "[&BpQkAQA=]"
+    },
+    {
+        "name": "Fracture Armor",
+        "id": 74903,
+        "chat_link": "[&BpckAQA=]"
+    },
+    {
+        "name": "Decimation",
+        "id": 74909,
+        "chat_link": "[&Bp0kAQA=]"
+    },
+    {
+        "name": "Flux Nova",
+        "id": 74911,
+        "chat_link": "[&Bp8kAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 74916,
+        "chat_link": "[&BqQkAQA=]"
+    },
+    {
+        "name": "Cage of Decay",
+        "id": 74917,
+        "chat_link": "[&BqUkAQA=]"
+    },
+    {
+        "name": "Earthrend",
+        "id": 74920,
+        "chat_link": "[&BqgkAQA=]"
+    },
+    {
+        "name": "Fluxlance",
+        "id": 74924,
+        "chat_link": "[&BqwkAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 74927,
+        "chat_link": "[&Bq8kAQA=]"
+    },
+    {
+        "name": "Sulfuric Froth",
+        "id": 74931,
+        "chat_link": "[&BrMkAQA=]"
+    },
+    {
+        "name": "Earthrend",
+        "id": 74946,
+        "chat_link": "[&BsIkAQA=]"
+    },
+    {
+        "name": "Sulfuric Froth",
+        "id": 74947,
+        "chat_link": "[&BsMkAQA=]"
+    },
+    {
+        "name": "Flux Nova",
+        "id": 74953,
+        "chat_link": "[&BskkAQA=]"
+    },
+    {
+        "name": "Return",
+        "id": 74961,
+        "chat_link": "[&BtEkAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 74964,
+        "chat_link": "[&BtQkAQA=]"
+    },
+    {
+        "name": "Galvanic Sensitivity",
+        "id": 74970,
+        "chat_link": "[&BtokAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 74973,
+        "chat_link": "[&Bt0kAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 74976,
+        "chat_link": "[&BuAkAQA=]"
+    },
+    {
+        "name": "Fulminate",
+        "id": 74978,
+        "chat_link": "[&BuIkAQA=]"
+    },
+    {
+        "name": "Cage of Decay",
+        "id": 75025,
+        "chat_link": "[&BhElAQA=]"
+    },
+    {
+        "name": "Noxious Blight",
+        "id": 75026,
+        "chat_link": "[&BhIlAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75030,
+        "chat_link": "[&BhYlAQA=]"
+    },
+    {
+        "name": "Rake the Rot",
+        "id": 75036,
+        "chat_link": "[&BhwlAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 75037,
+        "chat_link": "[&Bh0lAQA=]"
+    },
+    {
+        "name": "Invulnerable Barrier",
+        "id": 75042,
+        "chat_link": "[&BiIlAQA=]"
+    },
+    {
+        "name": "Empowering Blast",
+        "id": 75046,
+        "chat_link": "[&BiYlAQA=]"
+    },
+    {
+        "name": "Fulminate",
+        "id": 75050,
+        "chat_link": "[&BiolAQA=]"
+    },
+    {
+        "name": "Bloodstone Saturation",
+        "id": 75056,
+        "chat_link": "[&BjAlAQA=]"
+    },
+    {
+        "name": "Stomp the Growth",
+        "id": 75069,
+        "chat_link": "[&Bj0lAQA=]"
+    },
+    {
+        "name": "Sweep the Mold",
+        "id": 75070,
+        "chat_link": "[&Bj4lAQA=]"
+    },
+    {
+        "name": "Toxic Geyser",
+        "id": 75076,
+        "chat_link": "[&BkQlAQA=]"
+    },
+    {
+        "name": "Seeds of Decay",
+        "id": 75082,
+        "chat_link": "[&BkolAQA=]"
+    },
+    {
+        "name": "Blob of Blight",
+        "id": 75089,
+        "chat_link": "[&BlElAQA=]"
+    },
+    {
+        "name": "Fluxlance Fusillade",
+        "id": 75097,
+        "chat_link": "[&BlklAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 75098,
+        "chat_link": "[&BlolAQA=]"
+    },
+    {
+        "name": "Noxious Blight",
+        "id": 75103,
+        "chat_link": "[&Bl8lAQA=]"
+    },
+    {
+        "name": "Fulgent Aura",
+        "id": 75114,
+        "chat_link": "[&BmolAQA=]"
+    },
+    {
+        "name": "Ripples of Rot",
+        "id": 75123,
+        "chat_link": "[&BnMlAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 75141,
+        "chat_link": "[&BoUlAQA=]"
+    },
+    {
+        "name": "Toxic Geyser",
+        "id": 75149,
+        "chat_link": "[&Bo0lAQA=]"
+    },
+    {
+        "name": "Empowering Blast",
+        "id": 75154,
+        "chat_link": "[&BpIlAQA=]"
+    },
+    {
+        "name": "Fluxlance",
+        "id": 75155,
+        "chat_link": "[&BpMlAQA=]"
+    },
+    {
+        "name": "Earthrend",
+        "id": 75168,
+        "chat_link": "[&BqAlAQA=]"
+    },
+    {
+        "name": "Mainshock",
+        "id": 75179,
+        "chat_link": "[&BqslAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 75182,
+        "chat_link": "[&Bq4lAQA=]"
+    },
+    {
+        "name": "Mainshock",
+        "id": 75185,
+        "chat_link": "[&BrElAQA=]"
+    },
+    {
+        "name": "Thrumming Presence",
+        "id": 75191,
+        "chat_link": "[&BrclAQA=]"
+    },
+    {
+        "name": "Rake the Rot",
+        "id": 75195,
+        "chat_link": "[&BrslAQA=]"
+    },
+    {
+        "name": "Earthrend",
+        "id": 75197,
+        "chat_link": "[&Br0lAQA=]"
+    },
+    {
+        "name": "Eruption Vent",
+        "id": 75200,
+        "chat_link": "[&BsAlAQA=]"
+    },
+    {
+        "name": "Fulminate",
+        "id": 75205,
+        "chat_link": "[&BsUlAQA=]"
+    },
+    {
+        "name": "Sweep the Mold",
+        "id": 75210,
+        "chat_link": "[&BsolAQA=]"
+    },
+    {
+        "name": "Fulgent Aura",
+        "id": 75221,
+        "chat_link": "[&BtUlAQA=]"
+    },
+    {
+        "name": "Foreshock",
+        "id": 75231,
+        "chat_link": "[&Bt8lAQA=]"
+    },
+    {
+        "name": "Acid Spray",
+        "id": 75236,
+        "chat_link": "[&BuQlAQA=]"
+    },
+    {
+        "name": "Breaking Ground",
+        "id": 75237,
+        "chat_link": "[&BuUlAQA=]"
+    },
+    {
+        "name": "Stomp the Growth",
+        "id": 75248,
+        "chat_link": "[&BvAlAQA=]"
+    },
+    {
+        "name": "Discordant Thunder",
+        "id": 75249,
+        "chat_link": "[&BvElAQA=]"
+    },
+    {
+        "name": "Rot Eruption",
+        "id": 75251,
+        "chat_link": "[&BvMlAQA=]"
+    },
+    {
+        "name": "Pressure Blast",
+        "id": 75258,
+        "chat_link": "[&BvolAQA=]"
+    },
+    {
+        "name": "Scattering Sporeblast",
+        "id": 75262,
+        "chat_link": "[&Bv4lAQA=]"
+    },
+    {
+        "name": "Sparking Aura",
+        "id": 75270,
+        "chat_link": "[&BgYmAQA=]"
+    },
+    {
+        "name": "Earthrend",
+        "id": 75277,
+        "chat_link": "[&Bg0mAQA=]"
+    },
+    {
+        "name": "Rake the Rot",
+        "id": 75286,
+        "chat_link": "[&BhYmAQA=]"
+    },
+    {
+        "name": "Rot the World",
+        "id": 75287,
+        "chat_link": "[&BhcmAQA=]"
+    },
+    {
+        "name": "Enfeebling Miasma",
+        "id": 75288,
+        "chat_link": "[&BhgmAQA=]"
+    },
+    {
+        "name": "Rain of Spores",
+        "id": 75289,
+        "chat_link": "[&BhkmAQA=]"
+    },
+    {
+        "name": "Fulgent Fence",
+        "id": 75291,
+        "chat_link": "[&BhsmAQA=]"
+    },
+    {
+        "name": "Blob of Blight",
+        "id": 75294,
+        "chat_link": "[&Bh4mAQA=]"
+    },
+    {
+        "name": "Mainshock",
+        "id": 75318,
+        "chat_link": "[&BjYmAQA=]"
+    },
+    {
+        "name": "Scattering Sporeblast",
+        "id": 75330,
+        "chat_link": "[&BkImAQA=]"
+    },
+    {
+        "name": "Ripples of Rot",
+        "id": 75332,
+        "chat_link": "[&BkQmAQA=]"
+    },
+    {
+        "name": "Seeds of Decay",
+        "id": 75343,
+        "chat_link": "[&Bk8mAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75346,
+        "chat_link": "[&BlImAQA=]"
+    },
+    {
+        "name": "",
+        "id": 75347,
+        "chat_link": "[&BlMmAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 75348,
+        "chat_link": "[&BlQmAQA=]"
+    },
+    {
+        "name": "Deploy Jade Sphere",
+        "id": 75391,
+        "chat_link": "[&Bn8mAQA=]"
+    },
+    {
+        "name": "Deploy Jade Sphere",
+        "id": 75392,
+        "chat_link": "[&BoAmAQA=]"
+    },
+    {
+        "name": "Deploy Jade Sphere",
+        "id": 75394,
+        "chat_link": "[&BoImAQA=]"
+    },
+    {
+        "name": "Deploy Jade Sphere",
+        "id": 75395,
+        "chat_link": "[&BoMmAQA=]"
+    },
+    {
+        "name": "Deploy Jade Sphere",
+        "id": 75399,
+        "chat_link": "[&BocmAQA=]"
+    },
+    {
+        "name": "Deploy Jade Sphere",
+        "id": 75405,
+        "chat_link": "[&Bo0mAQA=]"
+    },
+    {
+        "name": "Deploy Jade Sphere",
+        "id": 75406,
+        "chat_link": "[&Bo4mAQA=]"
+    },
+    {
+        "name": "Deploy Jade Sphere",
+        "id": 75407,
+        "chat_link": "[&Bo8mAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 75414,
+        "chat_link": "[&BpYmAQA=]"
+    },
+    {
+        "name": "Seeds of Decay",
+        "id": 75416,
+        "chat_link": "[&BpgmAQA=]"
+    },
+    {
+        "name": "Wave of Corruption",
+        "id": 75417,
+        "chat_link": "[&BpkmAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75422,
+        "chat_link": "[&Bp4mAQA=]"
+    },
+    {
+        "name": "Rot the World",
+        "id": 75425,
+        "chat_link": "[&BqEmAQA=]"
+    },
+    {
+        "name": "Galvanic Sensitivity",
+        "id": 75428,
+        "chat_link": "[&BqQmAQA=]"
+    },
+    {
+        "name": "Seismic Reposition",
+        "id": 75430,
+        "chat_link": "[&BqYmAQA=]"
+    },
+    {
+        "name": "Rot Eruption",
+        "id": 75434,
+        "chat_link": "[&BqomAQA=]"
+    },
+    {
+        "name": "Scattering Sporeblast",
+        "id": 75443,
+        "chat_link": "[&BrMmAQA=]"
+    },
+    {
+        "name": "Fluxlance",
+        "id": 75450,
+        "chat_link": "[&BromAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75454,
+        "chat_link": "[&Br4mAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 75455,
+        "chat_link": "[&Br8mAQA=]"
+    },
+    {
+        "name": "Ripples of Rot",
+        "id": 75456,
+        "chat_link": "[&BsAmAQA=]"
+    },
+    {
+        "name": "Scattering Sporeblast",
+        "id": 75477,
+        "chat_link": "[&BtUmAQA=]"
+    },
+    {
+        "name": "Noxious Blight",
+        "id": 75481,
+        "chat_link": "[&BtkmAQA=]"
+    },
+    {
+        "name": "Sparkwave",
+        "id": 75484,
+        "chat_link": "[&BtwmAQA=]"
+    },
+    {
+        "name": "Fulgent Aura",
+        "id": 75486,
+        "chat_link": "[&Bt4mAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 75491,
+        "chat_link": "[&BuMmAQA=]"
+    },
+    {
+        "name": "Rot the World",
+        "id": 75499,
+        "chat_link": "[&BusmAQA=]"
+    },
+    {
+        "name": "Infectious Rot",
+        "id": 75506,
+        "chat_link": "[&BvImAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75515,
+        "chat_link": "[&BvsmAQA=]"
+    },
+    {
+        "name": "Empowering Blast",
+        "id": 75516,
+        "chat_link": "[&BvwmAQA=]"
+    },
+    {
+        "name": "Harmonious Thunder",
+        "id": 75518,
+        "chat_link": "[&Bv4mAQA=]"
+    },
+    {
+        "name": "Ripples of Rot",
+        "id": 75519,
+        "chat_link": "[&Bv8mAQA=]"
+    },
+    {
+        "name": "Chorus of Thunder",
+        "id": 75523,
+        "chat_link": "[&BgMnAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 75524,
+        "chat_link": "[&BgQnAQA=]"
+    },
+    {
+        "name": "Flux Nova",
+        "id": 75526,
+        "chat_link": "[&BgYnAQA=]"
+    },
+    {
+        "name": "Seismoelectricity",
+        "id": 75531,
+        "chat_link": "[&BgsnAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 75532,
+        "chat_link": "[&BgwnAQA=]"
+    },
+    {
+        "name": "Seeds of Decay",
+        "id": 75534,
+        "chat_link": "[&Bg4nAQA=]"
+    },
+    {
+        "name": "Thrumming Presence",
+        "id": 75536,
+        "chat_link": "[&BhAnAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 75541,
+        "chat_link": "[&BhUnAQA=]"
+    },
+    {
+        "name": "Empowering Blast",
+        "id": 75542,
+        "chat_link": "[&BhYnAQA=]"
+    },
+    {
+        "name": "Ripples of Rot",
+        "id": 75543,
+        "chat_link": "[&BhcnAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75546,
+        "chat_link": "[&BhonAQA=]"
+    },
+    {
+        "name": "Fulminate",
+        "id": 75548,
+        "chat_link": "[&BhwnAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75549,
+        "chat_link": "[&Bh0nAQA=]"
+    },
+    {
+        "name": "Blob of Blight",
+        "id": 75551,
+        "chat_link": "[&Bh8nAQA=]"
+    },
+    {
+        "name": "Cage of Decay",
+        "id": 75554,
+        "chat_link": "[&BiInAQA=]"
+    },
+    {
+        "name": "Noxious Blight",
+        "id": 75559,
+        "chat_link": "[&BicnAQA=]"
+    },
+    {
+        "name": "Discordant Thunder",
+        "id": 75561,
+        "chat_link": "[&BiknAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 75569,
+        "chat_link": "[&BjEnAQA=]"
+    },
+    {
+        "name": "Stomp the Growth",
+        "id": 75575,
+        "chat_link": "[&BjcnAQA=]"
+    },
+    {
+        "name": "",
+        "id": 75585,
+        "chat_link": "[&BkEnAQA=]"
+    },
+    {
+        "name": "Blob of Blight",
+        "id": 75591,
+        "chat_link": "[&BkcnAQA=]"
+    },
+    {
+        "name": "Sweep the Mold",
+        "id": 75598,
+        "chat_link": "[&Bk4nAQA=]"
+    },
+    {
+        "name": "Eruption of Rot",
+        "id": 75607,
+        "chat_link": "[&BlcnAQA=]"
+    },
+    {
+        "name": "Mainshock",
+        "id": 75613,
+        "chat_link": "[&Bl0nAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 75637,
+        "chat_link": "[&BnUnAQA=]"
+    },
+    {
+        "name": "Focused Fluxlance",
+        "id": 75644,
+        "chat_link": "[&BnwnAQA=]"
+    },
+    {
+        "name": "Fulminate",
+        "id": 75645,
+        "chat_link": "[&Bn0nAQA=]"
+    },
+    {
+        "name": "Seismic Reposition",
+        "id": 75647,
+        "chat_link": "[&Bn8nAQA=]"
+    },
+    {
+        "name": "Sparking Reverberation",
+        "id": 75651,
+        "chat_link": "[&BoMnAQA=]"
+    },
+    {
+        "name": "Fracture Armor",
+        "id": 75657,
+        "chat_link": "[&BoknAQA=]"
+    },
+    {
+        "name": "Mainshock",
+        "id": 75659,
+        "chat_link": "[&BosnAQA=]"
+    },
+    {
+        "name": "The World Ends in Decay",
+        "id": 75665,
+        "chat_link": "[&BpEnAQA=]"
+    },
+    {
+        "name": "Flux Nova",
+        "id": 75666,
+        "chat_link": "[&BpInAQA=]"
+    },
+    {
+        "name": "Rake the Rot",
+        "id": 75681,
+        "chat_link": "[&BqEnAQA=]"
+    },
+    {
+        "name": "Cage of Decay",
+        "id": 75682,
+        "chat_link": "[&BqInAQA=]"
+    },
+    {
+        "name": "Foreshock",
+        "id": 75683,
+        "chat_link": "[&BqMnAQA=]"
+    },
+    {
+        "name": "Cage of Decay",
+        "id": 75685,
+        "chat_link": "[&BqUnAQA=]"
+    },
+    {
+        "name": "Ripples of Rot",
+        "id": 75688,
+        "chat_link": "[&BqgnAQA=]"
+    },
+    {
+        "name": "Rake the Rot",
+        "id": 75696,
+        "chat_link": "[&BrAnAQA=]"
+    },
+    {
+        "name": "Enfeebling Miasma",
+        "id": 75702,
+        "chat_link": "[&BrYnAQA=]"
+    },
+    {
+        "name": "Seeds of Decay",
+        "id": 75707,
+        "chat_link": "[&BrsnAQA=]"
+    },
+    {
+        "name": "Foreshock",
+        "id": 75729,
+        "chat_link": "[&BtEnAQA=]"
+    },
+    {
+        "name": "Enfeebling Miasma",
+        "id": 75749,
+        "chat_link": "[&BuUnAQA=]"
+    },
+    {
+        "name": "Cage of Decay",
+        "id": 75750,
+        "chat_link": "[&BuYnAQA=]"
+    },
+    {
+        "name": "Harmonic Sensitivity",
+        "id": 75751,
+        "chat_link": "[&BucnAQA=]"
+    },
+    {
+        "name": "Seismic Reposition",
+        "id": 75764,
+        "chat_link": "[&BvQnAQA=]"
+    },
+    {
+        "name": "Bumble",
+        "id": 75771,
+        "chat_link": "[&BvsnAQA=]"
+    },
+    {
+        "name": "Noxious Blight",
+        "id": 75774,
+        "chat_link": "[&Bv4nAQA=]"
+    },
+    {
+        "name": "Stomp the Growth",
+        "id": 75782,
+        "chat_link": "[&BgYoAQA=]"
+    },
+    {
+        "name": "Honey Toss",
+        "id": 75783,
+        "chat_link": "[&BgcoAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75793,
+        "chat_link": "[&BhEoAQA=]"
+    },
+    {
+        "name": "Seismic Reposition",
+        "id": 75795,
+        "chat_link": "[&BhMoAQA=]"
+    },
+    {
+        "name": "Fulgent Aura",
+        "id": 75812,
+        "chat_link": "[&BiQoAQA=]"
+    },
+    {
+        "name": "Stinging Sorrow",
+        "id": 75814,
+        "chat_link": "[&BiYoAQA=]"
+    },
+    {
+        "name": "Foreshock",
+        "id": 75821,
+        "chat_link": "[&Bi0oAQA=]"
+    },
+    {
+        "name": "Earthrend",
+        "id": 75823,
+        "chat_link": "[&Bi8oAQA=]"
+    },
+    {
+        "name": "Mainshock",
+        "id": 75826,
+        "chat_link": "[&BjIoAQA=]"
+    },
+    {
+        "name": "Stomp the Growth",
+        "id": 75827,
+        "chat_link": "[&BjMoAQA=]"
+    },
+    {
+        "name": "Fulgent Fence",
+        "id": 75850,
+        "chat_link": "[&BkooAQA=]"
+    },
+    {
+        "name": "Brutal Mauling",
+        "id": 75858,
+        "chat_link": "[&BlIoAQA=]"
+    },
+    {
+        "name": "Earthfall",
+        "id": 75861,
+        "chat_link": "[&BlUoAQA=]"
+    },
+    {
+        "name": "Sparking Aura",
+        "id": 75865,
+        "chat_link": "[&BlkoAQA=]"
+    },
+    {
+        "name": "Rot Eruption",
+        "id": 75866,
+        "chat_link": "[&BlooAQA=]"
+    },
+    {
+        "name": "Rake the Rot",
+        "id": 75868,
+        "chat_link": "[&BlwoAQA=]"
+    },
+    {
+        "name": "Flux Nova",
+        "id": 75869,
+        "chat_link": "[&Bl0oAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 75870,
+        "chat_link": "[&Bl4oAQA=]"
+    },
+    {
+        "name": "Cage of Decay",
+        "id": 75873,
+        "chat_link": "[&BmEoAQA=]"
+    },
+    {
+        "name": "Charged Ground",
+        "id": 75899,
+        "chat_link": "[&BnsoAQA=]"
+    },
+    {
+        "name": "Enfeebling Miasma",
+        "id": 75919,
+        "chat_link": "[&Bo8oAQA=]"
+    },
+    {
+        "name": "Toxic Geyser",
+        "id": 75923,
+        "chat_link": "[&BpMoAQA=]"
+    },
+    {
+        "name": "Sweep the Mold",
+        "id": 75927,
+        "chat_link": "[&BpcoAQA=]"
+    },
+    {
+        "name": "",
+        "id": 75931,
+        "chat_link": "[&BpsoAQA=]"
+    },
+    {
+        "name": "Rain of Spores",
+        "id": 75938,
+        "chat_link": "[&BqIoAQA=]"
+    },
+    {
+        "name": "Fluxlance Fusillade",
+        "id": 75954,
+        "chat_link": "[&BrIoAQA=]"
+    },
+    {
+        "name": "Focused Fluxlance",
+        "id": 75957,
+        "chat_link": "[&BrUoAQA=]"
+    },
+    {
+        "name": "Earthrend",
+        "id": 75961,
+        "chat_link": "[&BrkoAQA=]"
+    },
+    {
+        "name": "Seismic Crash",
+        "id": 75965,
+        "chat_link": "[&Br0oAQA=]"
+    },
+    {
+        "name": "Noxious Blight",
+        "id": 75966,
+        "chat_link": "[&Br4oAQA=]"
+    },
+    {
+        "name": "",
+        "id": 75967,
+        "chat_link": "[&Br8oAQA=]"
+    },
+    {
+        "name": "Sweep the Mold",
+        "id": 75968,
+        "chat_link": "[&BsAoAQA=]"
+    },
+    {
+        "name": "Decimation",
+        "id": 75973,
+        "chat_link": "[&BsUoAQA=]"
+    },
+    {
+        "name": "Infectious Rot",
+        "id": 75979,
+        "chat_link": "[&BssoAQA=]"
+    },
+    {
+        "name": "Invulnerable Barrier",
+        "id": 75982,
+        "chat_link": "[&Bs4oAQA=]"
+    },
+    {
+        "name": "Seismic Reposition",
+        "id": 75984,
+        "chat_link": "[&BtAoAQA=]"
+    },
+    {
+        "name": "Fulminate",
+        "id": 75988,
+        "chat_link": "[&BtQoAQA=]"
+    },
+    {
+        "name": "Enfeebling Miasma",
+        "id": 75994,
+        "chat_link": "[&BtooAQA=]"
+    },
+    {
+        "name": "Sparking Aura",
+        "id": 75999,
+        "chat_link": "[&Bt8oAQA=]"
+    },
+    {
+        "name": "Rain of Spores",
+        "id": 76001,
+        "chat_link": "[&BuEoAQA=]"
+    },
+    {
+        "name": "Fluxlance Salvo",
+        "id": 76015,
+        "chat_link": "[&Bu8oAQA=]"
+    },
+    {
+        "name": "Fulgent Aura",
+        "id": 76019,
+        "chat_link": "[&BvMoAQA=]"
+    },
+    {
+        "name": "Flux Nova",
+        "id": 76026,
+        "chat_link": "[&BvooAQA=]"
+    },
+    {
+        "name": "Blob of Blight",
+        "id": 76031,
+        "chat_link": "[&Bv8oAQA=]"
+    },
+    {
+        "name": "Sparking Aura",
+        "id": 76034,
+        "chat_link": "[&BgIpAQA=]"
+    },
+    {
+        "name": "Foreshock",
+        "id": 76048,
+        "chat_link": "[&BhApAQA=]"
     }
 ]
