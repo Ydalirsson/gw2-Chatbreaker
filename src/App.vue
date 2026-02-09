@@ -1,7 +1,8 @@
 <template>
   <div>
     <Greeting />
-    <TextEditor v-model="chatContent" ref="textEditorRef" @stack-changed="handleStackChange" @keyup="update" />
+    <TextEditor v-model="chatContent" ref="textEditorRef" @stack-changed="handleStackChange"
+      @keyup="scheduleUpdate" />
     <p v-if="errorMessage" class="alert alert-danger" role="alert">
       {{ errorMessage }}
     </p>
@@ -41,18 +42,27 @@ export default defineComponent({
       selected: 1 as number,
       charLimitInput: 197 as number, // actually limit is 199, but need 197 for the seperator
       currentUndoLength: 0 as number,
-      currentRedoLength: 0 as number
+      currentRedoLength: 0 as number,
+      updateTimer: null as number | null
     };
   },
   watch: {
     selected(newVal) {
-      this.update();
+      this.scheduleUpdate();
     },
     charLimitInput(newVal) {
-      this.update();
+      this.scheduleUpdate();
     }
   },
   methods: {
+    scheduleUpdate(): void {
+      if (this.updateTimer) {
+        window.clearTimeout(this.updateTimer);
+      }
+      this.updateTimer = window.setTimeout(() => {
+        this.update();
+      }, 120);
+    },
     update(): void {
       const MSG_CHAR_LIMIT = this.charLimitInput;
       let i = 0; // place of message

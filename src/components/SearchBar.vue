@@ -38,6 +38,10 @@ export interface Item {
     chat_link: string;
 }
 
+interface SearchItem extends Item {
+    nameLower: string;
+}
+
 import itemsEN from "../chatcodes/eng/items.json";
 import poisEN from "../chatcodes/eng/pois.json";
 import skillsEN from "../chatcodes/eng/skills.json";
@@ -62,17 +66,65 @@ export default defineComponent({
             cursor: -1 as number,
             cbxLangEng: "true" as string,
             cbxLangGer: "false" as string,
+            maxResults: 50 as number,
+            searchTimer: null as number | null,
+            engItems: [] as Array<SearchItem>,
+            deuItems: [] as Array<SearchItem>,
+            engIndex: new Map<string, Array<SearchItem>>(),
+            deuIndex: new Map<string, Array<SearchItem>>()
         };
     },
     watch: {
         searchInput(newInput): void {
-            this.searchForLink(newInput);
+            this.scheduleSearch(newInput);
         },
-        updateLanguage(): void {
+        cbxLangEng(): void {
             this.searchResult = [];
-        }
+        },
+        cbxLangGer(): void {
+            this.searchResult = [];
+        },
+    },
+    created() {
+        this.engItems = this.buildSearchItems([itemsEN, poisEN, skillsEN]);
+        this.deuItems = this.buildSearchItems([itemsDE, poisDE, skillsDE]);
+        this.engIndex = this.buildIndex(this.engItems);
+        this.deuIndex = this.buildIndex(this.deuItems);
     },
     methods: {
+        buildSearchItems(sources: Array<Item[] | unknown>): Array<SearchItem> {
+            const flattened: Array<SearchItem> = [];
+            for (const source of sources) {
+                const items = source as Item[];
+                for (let i = 0; i < items.length; i++) {
+                    const name = items[i].name ?? "";
+                    flattened.push({
+                        ...items[i],
+                        nameLower: name.toString().toLowerCase()
+                    });
+                }
+            }
+            return flattened;
+        },
+        buildIndex(items: Array<SearchItem>): Map<string, Array<SearchItem>> {
+            const index = new Map<string, Array<SearchItem>>();
+            for (let i = 0; i < items.length; i++) {
+                const key = items[i].nameLower.slice(0, 3);
+                if (!index.has(key)) {
+                    index.set(key, []);
+                }
+                index.get(key)?.push(items[i]);
+            }
+            return index;
+        },
+        scheduleSearch(searchInput: string): void {
+            if (this.searchTimer) {
+                window.clearTimeout(this.searchTimer);
+            }
+            this.searchTimer = window.setTimeout(() => {
+                this.searchForLink(searchInput);
+            }, 180);
+        },
         handleInsert(text: string): void {
             this.insertTextAtCursor(text);
         },
@@ -80,66 +132,29 @@ export default defineComponent({
             this.searchResult = [];
             if (searchInput.length < 3) return;
 
+            const queryLower = searchInput.toLowerCase();
+            let remaining = this.maxResults;
+
             // searching for english results
             if (this.cbxLangEng == "true") {
-                const items = itemsEN as Item[];
-                const pois = poisEN as Item[];
-                const skills = skillsEN as Item[];
-
-                let i = 0;
-                for (i = 0; i < items.length; i++) {
-                    if (items[i].name != null) {
-                        if (items[i].name.toString().includes(searchInput)) {
-                            this.searchResult.push(items[i]);
-                        }
-                    }
-                }
-
-                for (i = 0; i < pois.length; i++) {
-                    if (pois[i].name != null) {
-                        if (pois[i].name.toString().includes(searchInput)) {
-                            this.searchResult.push(pois[i]);
-                        }
-                    }
-                }
-
-                for (i = 0; i < skills.length; i++) {
-                    if (skills[i].name != null) {
-                        if (skills[i].name.toString().includes(searchInput)) {
-                            this.searchResult.push(skills[i]);
-                        }
+                const key = queryLower.slice(0, 3);
+                const candidates = this.engIndex.get(key) ?? this.engItems;
+                for (let i = 0; i < candidates.length && remaining > 0; i++) {
+                    if (candidates[i].nameLower.includes(queryLower)) {
+                        this.searchResult.push(candidates[i]);
+                        remaining--;
                     }
                 }
             }
 
             // searching for german results
-            if (this.cbxLangGer == "true") {
-                const items = itemsDE as Item[];
-                const pois = poisDE as Item[];
-                const skills = skillsDE as Item[];
-
-                let i = 0;
-                for (i = 0; i < items.length; i++) {
-                    if (items[i].name != null) {
-                        if (items[i].name.toString().includes(searchInput)) {
-                            this.searchResult.push(items[i]);
-                        }
-                    }
-                }
-
-                for (i = 0; i < pois.length; i++) {
-                    if (pois[i].name != null) {
-                        if (pois[i].name.toString().includes(searchInput)) {
-                            this.searchResult.push(pois[i]);
-                        }
-                    }
-                }
-
-                for (i = 0; i < skills.length; i++) {
-                    if (skills[i].name != null) {
-                        if (skills[i].name.toString().includes(searchInput)) {
-                            this.searchResult.push(skills[i]);
-                        }
+            if (this.cbxLangGer == "true" && remaining > 0) {
+                const key = queryLower.slice(0, 3);
+                const candidates = this.deuIndex.get(key) ?? this.deuItems;
+                for (let i = 0; i < candidates.length && remaining > 0; i++) {
+                    if (candidates[i].nameLower.includes(queryLower)) {
+                        this.searchResult.push(candidates[i]);
+                        remaining--;
                     }
                 }
             }
