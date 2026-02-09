@@ -1,57 +1,38 @@
 <template>
-  <ul class="controlBar">
-    <EmoteControls :insertTextAtCursor="insertTextAtCursor" />
-    <li>
-      <select v-model.number="localSelected" class="form-select form-select-sm"
-        style="margin-top: 4px; width: 110px; height: 38px">
+  <div class="toolbar">
+    <div class="toolbar__group">
+      <label class="toolbar__label">Separator</label>
+      <select v-model.number="localSelected" class="toolbar__select">
         <option disabled value="0">Separator</option>
-        <option value="1" selected>> (default)</option>
+        <option value="1" selected>&gt; (default)</option>
         <option value="2">+</option>
         <option value="3">-</option>
         <option value="4">~</option>
       </select>
-    </li>
-
-    <li>
-      <input type="number" placeholder="Limit" value="197" min="3" class="form-control form-control-sm"
-        style="margin-top: 4px; width: 110px; height: 38px" data-toggle="tooltip" data-placement="bottom" title="This field determines the number of characters that can appear in a message. Can be set as required.
-            - GW2-Mode: 197
-            - Discord-Mode: 1998" v-model.number="localMaxWordLength">
-    </li>
-
-    <li>
-      <span class="badge bg-secondary">total characters: {{ totalCharacter }}</span>
-    </li>
-
-    <div>
-      <button class="btn btn-secondary btn-sm" style="margin-top: 4px" @click="onUndo" :disabled="undoDisabled"
-        title="Undo (Ctrl+Z / Cmd+Z)">Undo</button>
-      <button class="btn btn-secondary btn-sm" style="margin-top: 4px" @click="onRedo" :disabled="redoDisabled"
-        title="Redo (Ctrl+Y / Cmd+Shift+Z)">Redo</button>
-      <button type="button" class="btn btn-outline-danger btn-sm" style="margin-top: 4px" @click="onClear">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash"
-          viewBox="0 0 16 16">
-          <path
-            d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z" />
-          <path fill-rule="evenodd"
-            d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z" />
-        </svg>
-        Delete
-      </button>
     </div>
 
-  </ul>
+    <div class="toolbar__group">
+      <label class="toolbar__label">Limit</label>
+      <input type="number" min="3" class="toolbar__input" v-model.number="localMaxWordLength"
+        title="This field determines the number of characters that can appear in a message. Can be set as required.\n- GW2-Mode: 197\n- Discord-Mode: 1998" />
+    </div>
+
+    <div class="toolbar__meta">
+      <span>Total characters: {{ totalCharacter }}</span>
+    </div>
+
+    <div class="toolbar__actions">
+      <button class="btn pill" @click="onUndo" :disabled="undoDisabled" title="Undo (Ctrl+Z / Cmd+Z)">Undo</button>
+      <button class="btn pill" @click="onRedo" :disabled="redoDisabled" title="Redo (Ctrl+Y / Cmd+Shift+Z)">Redo</button>
+      <button type="button" class="btn pill danger" @click="onClear">Delete</button>
+    </div>
+  </div>
 </template>
 
 <script lang="ts">
 import { defineComponent, PropType } from "vue";
-import EmoteControls from "./EmoteControls.vue";
-
 export default defineComponent({
   name: "ToolBar",
-  components: {
-    EmoteControls
-  },
   props: {
     selected: {type: Number, default: 1},
     maxWordLength: {type: Number, default: 197},
@@ -60,8 +41,7 @@ export default defineComponent({
     onRedo: {type: Function as PropType<(event: MouseEvent) => void>, required: true},
     onClear: {type: Function as PropType<(event: MouseEvent) => void>, required: true },
     undoDisabled: {type: Boolean, required: true},
-    redoDisabled: {type: Boolean, required: true},
-    insertTextAtCursor: {type: Function as PropType<(text: string) => void>, required: true}
+    redoDisabled: {type: Boolean, required: true}
   },
   data() {
     return {
@@ -88,15 +68,86 @@ export default defineComponent({
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="css">
-.controlBar {
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
-  padding-left: 0;
+.toolbar {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) auto;
+  gap: 12px 16px;
+  align-items: center;
 }
 
-select {
-  background-color: #375a7f;
-  color: #fff;
+.toolbar__group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.toolbar__label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #9aa3aa;
+}
+
+.toolbar__select,
+.toolbar__input {
+  height: 38px;
+  border-radius: 999px;
+  border: 1px solid #1f262d;
+  background: #0b0f14;
+  color: #f5f5f5;
+  padding: 0 14px;
+  font-family: "Georgia", serif;
+}
+
+.toolbar__meta {
+  font-size: 0.9rem;
+  color: #9aa3aa;
+  font-family: "Georgia", serif;
+}
+
+.toolbar__actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.btn {
+  border: none;
+  background: #0f2dd9;
+  color: #f5f5f5;
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-family: "Georgia", serif;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 10px 20px rgba(8, 12, 20, 0.4);
+}
+
+.btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.btn:hover:not(:disabled) {
+  transform: translateY(-1px);
+}
+
+.btn.danger {
+  background: transparent;
+  border: 1px solid #e04b4b;
+  color: #e04b4b;
+}
+
+@media (max-width: 1100px) {
+  .toolbar {
+    grid-template-columns: 1fr;
+  }
+
+  .toolbar__actions {
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
 }
 </style>

@@ -1,8 +1,8 @@
 <template>
-    <div class="text-editor">
-        <textarea v-model="text" ref="editor" @input="updateText" placeholder="Insert text here" cols="50" rows="10"
-            class="form-control"></textarea>
-    </div>
+  <div class="text-editor">
+    <textarea v-model="text" ref="editor" @input="updateText" placeholder="Lorem ipsum ..." rows="12"
+      class="text-editor__input"></textarea>
+  </div>
 </template>
 
 <script lang="ts">
@@ -93,14 +93,23 @@ export default defineComponent({
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="css">
-textarea:focus {
-    background-color: #23272a;
-    color: #fff;
+.text-editor__input {
+  width: 100%;
+  min-height: 280px;
+  padding: 16px;
+  border-radius: 16px;
+  border: 1px solid #1f262d;
+  background: #0b0f14;
+  color: #f5f5f5;
+  font-size: 1rem;
+  font-family: "Georgia", serif;
+  resize: vertical;
+  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.35);
 }
 
-input[type="text"],
-textarea {
-    background-color: #23272a;
-    color: #fff;
+.text-editor__input:focus {
+  outline: none;
+  border-color: #0f2dd9;
+  box-shadow: 0 0 0 3px rgba(15, 45, 217, 0.18);
 }
 </style>

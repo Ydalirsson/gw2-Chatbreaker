@@ -1,33 +1,10 @@
 <template>
-    <div class="table-responsive">
-        <table class="table table-dark table-striped">
-            <tbody>
-                <tr v-for="msg in singleMessages" v-bind:key="msg.text">
-                    <td>{{ msg.text }}</td>
-                    <td>
-                        <button type="button" @click="onCopy(msg)" v-if="msg.text" class="btn btn-outline-info">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                                class="bi bi-clipboard" viewBox="0 0 16 16">
-                                <path
-                                    d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z">
-                                </path>
-                                <path
-                                    d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z">
-                                </path>
-                            </svg>
-                            Copy
-                        </button>
-                    </td>
-                    <td v-if="msg.copied">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="green" class="bi bi-check"
-                            viewBox="0 0 16 16">
-                            <path
-                                d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
-                        </svg>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
+    <div class="results">
+        <div class="results__row" v-for="msg in singleMessages" :key="msg.text">
+            <span class="results__text">{{ msg.text }}</span>
+            <button type="button" @click="onCopy(msg)" v-if="msg.text" class="results__copy">Copy</button>
+            <span class="results__check" v-if="msg.copied">✓</span>
+        </div>
     </div>
 </template>
 
@@ -54,4 +31,41 @@ export default defineComponent({
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="css">
+.results {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.results__row {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 12px;
+    border-radius: 12px;
+    background: #151b20;
+    border: 1px solid #1f262d;
+}
+
+.results__text {
+    color: #e4e9ee;
+    font-size: 0.95rem;
+    font-family: "Georgia", serif;
+}
+
+.results__copy {
+    border: 1px solid #0f2dd9;
+    color: #e4e9ee;
+    background: transparent;
+    border-radius: 999px;
+    padding: 6px 14px;
+    font-family: "Georgia", serif;
+    cursor: pointer;
+}
+
+.results__check {
+    color: #67dd8c;
+    font-size: 1.2rem;
+}
 </style>

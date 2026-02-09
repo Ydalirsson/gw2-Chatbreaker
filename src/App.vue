@@ -1,18 +1,63 @@
 <template>
-  <div>
-    <Greeting />
-    <TextEditor v-model="chatContent" ref="textEditorRef" @stack-changed="handleStackChange"
-      @keyup="scheduleUpdate" />
-    <p v-if="errorMessage" class="alert alert-danger" role="alert">
-      {{ errorMessage }}
-    </p>
-    <ToolBar v-model:selected="selected" v-model:maxWordLength="charLimitInput" :totalCharacter="chatContent.length"
-      :on-undo="handleUndo" :on-redo="handleRedo" :on-clear="handleClear" :undo-disabled="currentUndoLength === 0"
-      :redo-disabled="currentRedoLength === 0" :insertTextAtCursor="insertTextAtCursor" />
-    <SearchBar :insertTextAtCursor="insertTextAtCursor" />
-    <p></p>
-    <br />
-    <ResultsTable :singleMessages="singleMessages" />
+  <div class="app-shell">
+    <header class="hero">
+      <div class="hero__title">
+        <h1>Chatbreaker</h1>
+        <Greeting class="hero__greeting" />
+      </div>
+      <div class="hero__meta">
+        <span>Zeichen: {{ chatContent.length }}</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="column column--left">
+        <div class="panel">
+          <div class="panel__header">
+            <h2>Typing your text</h2>
+          </div>
+          <TextEditor v-model="chatContent" ref="textEditorRef" @stack-changed="handleStackChange"
+            @keyup="scheduleUpdate" />
+          <p v-if="errorMessage" class="alert" role="alert">
+            {{ errorMessage }}
+          </p>
+        </div>
+
+        <div class="panel panel--toolbar">
+          <ToolBar v-model:selected="selected" v-model:maxWordLength="charLimitInput"
+            :totalCharacter="chatContent.length" :on-undo="handleUndo" :on-redo="handleRedo"
+            :on-clear="handleClear" :undo-disabled="currentUndoLength === 0"
+            :redo-disabled="currentRedoLength === 0" />
+        </div>
+
+        <div class="panel">
+          <div class="panel__header">
+            <h2>Your split text</h2>
+          </div>
+          <ResultsTable :singleMessages="singleMessages" />
+        </div>
+      </section>
+
+      <section class="column column--right">
+        <div class="panel">
+          <div class="panel__header">
+            <h2>Adding emotes</h2>
+          </div>
+          <EmoteControls :insertTextAtCursor="insertTextAtCursor" />
+        </div>
+
+        <div class="panel">
+          <div class="panel__header panel__header--inline">
+            <h2>Adding chatlinks</h2>
+            <div class="tag-group">
+              <span class="tag">ger</span>
+              <span class="tag">eng</span>
+            </div>
+          </div>
+          <SearchBar :insertTextAtCursor="insertTextAtCursor" />
+        </div>
+      </section>
+    </main>
   </div>
 </template>
 
@@ -23,6 +68,7 @@ import TextEditor from "./components/TextEditor.vue";
 import ToolBar from "./components/ToolBar.vue";
 import SearchBar from "./components/SearchBar.vue"
 import ResultsTable from "./components/ResultsTable.vue";
+import EmoteControls from "./components/EmoteControls.vue";
 
 export default defineComponent({
   name: 'App',
@@ -31,7 +77,8 @@ export default defineComponent({
     TextEditor,
     ToolBar,
     SearchBar,
-    ResultsTable
+    ResultsTable,
+    EmoteControls
   },
   data() {
     return {
@@ -200,12 +247,147 @@ export default defineComponent({
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="css">
+:root {
+  --bg: #08090b;
+  --surface: #0f1216;
+  --surface-soft: #13181d;
+  --border: #1f262d;
+  --text: #f5f5f5;
+  --muted: #9aa3aa;
+  --accent: #0f2dd9;
+  --accent-strong: #0a1fb0;
+  --danger: #e04b4b;
+  --shadow: 0 16px 40px rgba(0, 0, 0, 0.35);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Cinzel Decorative", "Goudy Old Style", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #fff;
-  background-color: #222;
-  margin: 8px 8px 8px 8px;
+  color: var(--text);
+  background: radial-gradient(circle at top left, #11161d 0%, #07080a 52%, #050607 100%);
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+}
+
+.app-shell {
+  padding: 28px 32px 48px;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+
+.hero__title h1 {
+  margin: 0;
+  font-size: clamp(2.2rem, 3vw, 3.6rem);
+  letter-spacing: 0.08em;
+}
+
+.hero__title p {
+  margin: 4px 0 0;
+  font-size: 1rem;
+  color: var(--muted);
+  font-family: "Georgia", serif;
+}
+
+.hero__meta {
+  font-size: 1rem;
+  color: var(--muted);
+  font-family: "Georgia", serif;
+}
+
+.hero__greeting {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-family: "Georgia", serif;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1.25fr 0.75fr;
+  gap: 28px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: var(--shadow);
+}
+
+.panel--toolbar {
+  padding: 12px 16px;
+}
+
+.panel__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.panel__header--inline {
+  align-items: center;
+  gap: 16px;
+}
+
+.panel__header h2 {
+  font-size: 1.1rem;
+  margin: 0;
+  color: var(--text);
+  font-family: "Georgia", serif;
+}
+
+.tag-group {
+  display: inline-flex;
+  gap: 8px;
+}
+
+.tag {
+  background: #94a0a8;
+  color: #0d1013;
+  border-radius: 999px;
+  padding: 4px 12px;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  font-family: "Georgia", serif;
+}
+
+.alert {
+  margin-top: 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: rgba(224, 75, 75, 0.14);
+  color: #ffb3b3;
+  border: 1px solid rgba(224, 75, 75, 0.4);
+  font-family: "Georgia", serif;
+}
+
+@media (max-width: 1100px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
 }
 </style>

@@ -1,24 +1,19 @@
 <template>
-  <ul class="controlBar">
-    <li>
-      <button type="button" class="btn btn-primary btn-sm" style="margin-top: 4px" @click="handleInsert(' /e ')">Start
-        emote</button>
-      <button type="button" class="btn btn-primary btn-sm" style="margin-top: 4px" @click="handleInsert(' ## ')">End
-        emote</button>
-    </li>
+  <div class="emotes">
+    <div class="emotes__actions">
+      <button type="button" class="pill" @click="handleInsert(' /e ')">Start emote</button>
+      <button type="button" class="pill" @click="handleInsert(' ## ')">End emote</button>
+    </div>
 
-    <li>
-      <ul id="emoteListID" class="list-group" @click="changeEmoteList" v-if="listCollapsed">
-        <span class="tooltiptext">Click to collapse</span>
-        <li v-for="(emote, index) in emoteList" :key="index" class="list-group-item py-0"
-          @click.stop="handleInsert(' ' + emote + ' ')">{{ emote }}</li>
-      </ul>
-      <ul id="emoteID" class="list-group" @click="changeEmoteList" v-else>
-        <li class="list-group-item">List of emotes</li>
-        <span class="tooltiptext">Click to expand</span>
-      </ul>
-    </li>
-  </ul>
+    <input class="emotes__search" type="search" placeholder="Search for emote ..." v-model="emoteFilter" />
+
+    <div class="emotes__grid">
+      <button v-for="(emote, index) in filteredEmotes" :key="index" class="emotes__item"
+        @click="handleInsert(' ' + emote + ' ')">
+        {{ emote }}
+      </button>
+    </div>
+  </div>
 </template>
 
 <script lang="ts">
@@ -34,7 +29,7 @@ export default defineComponent({
   },
   data() {
     return {
-      listCollapsed: false as boolean,
+      emoteFilter: "" as string,
       emoteList: [
         "/beckon",
         "/bless",
@@ -101,10 +96,14 @@ export default defineComponent({
       ]
     };
   },
+  computed: {
+    filteredEmotes(): string[] {
+      const query = this.emoteFilter.toLowerCase().trim();
+      if (!query) return this.emoteList;
+      return this.emoteList.filter((emote) => emote.toLowerCase().includes(query));
+    }
+  },
   methods: {
-    changeEmoteList(): void {
-      this.listCollapsed = !this.listCollapsed;
-    },
     handleInsert(text: string): void {
       this.insertTextAtCursor(text);
     },
@@ -114,43 +113,60 @@ export default defineComponent({
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="css">
-.controlBar {
+.emotes {
   display: flex;
-  justify-content: space-between;
-  list-style: none;
-  padding-left: 0;
+  flex-direction: column;
+  gap: 14px;
 }
 
-#emoteID .tooltiptext,
-#emoteListID .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-
-  position: static;
-  z-index: 1;
-  top: 20px;
-  left: 0;
+.emotes__actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
 }
 
-#emoteID:hover .tooltiptext,
-#emoteListID:hover .tooltiptext,
-#emoteID.active .tooltiptext,
-#emoteListID.active .tooltiptext {
-  visibility: visible;
+.pill {
+  border: none;
+  background: #0f2dd9;
+  color: #f5f5f5;
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-family: "Georgia", serif;
+  cursor: pointer;
+  box-shadow: 0 10px 20px rgba(8, 12, 20, 0.4);
 }
 
-#emoteID,
-#emoteListID {
-  font-size: 10pt;
+.emotes__search {
+  height: 40px;
+  border-radius: 999px;
+  border: 1px solid #1f262d;
+  background: #0b0f14;
+  color: #f5f5f5;
+  padding: 0 16px;
+  font-family: "Georgia", serif;
 }
 
-#emoteListID {
-  position: relative;
-  top: -25px;
+.emotes__grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.emotes__item {
+  border: 1px solid #1f262d;
+  border-radius: 10px;
+  background: #273038;
+  color: #e6e6e6;
+  padding: 8px;
+  font-size: 0.8rem;
+  font-family: "Georgia", serif;
+  text-align: left;
+  cursor: pointer;
+}
+
+@media (max-width: 1100px) {
+  .emotes__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 </style>

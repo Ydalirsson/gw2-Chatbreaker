@@ -1,18 +1,19 @@
 <template>
     <div class="ac-container">
-        <input class="form-group" type="search" placeholder="Search for chatlink" title="Input is case sensitive!"
+        <input class="search-input" type="search" placeholder="Search for chatlink ..." title="Input is case sensitive!"
             v-model="searchInput" @blur="blur" @input="inputChanged" @focus="focus" @keyup.esc="escape"
             @keyup.enter="enter" @keydown.tab="enter" @keydown.up="up" @keydown.down="down" />
 
-        <div class="form-check form-check-inline">
-            <input class="form-check-input" type="checkbox" id="cbxLangEng" v-model="cbxLangEng" true-value="true"
-                false-value="false" checked @change="updateLanguage" />
-            <label class="form-check-label" for="cbxLangEng">eng</label>
-        </div>
-        <div class="form-check form-check-inline">
-            <input class="form-check-input" type="checkbox" id="cbxLangGer" v-model="cbxLangGer" true-value="true"
-                false-value="false" @change="updateLanguage" />
-            <label class="form-check-label" for="cbxLangGer">ger</label>
+        <div class="lang-toggle">
+            <label class="lang-pill">
+                <input type="checkbox" id="cbxLangEng" v-model="cbxLangEng" true-value="true" false-value="false"
+                    checked />
+                <span>eng</span>
+            </label>
+            <label class="lang-pill">
+                <input type="checkbox" id="cbxLangGer" v-model="cbxLangGer" true-value="true" false-value="false" />
+                <span>ger</span>
+            </label>
         </div>
 
         <div class="ac-filtered-items" v-if="showItems">
@@ -21,7 +22,7 @@
                 @mouseover="cursor = index">
                 <div>
                     {{ item.name }},
-                    <span style="font-size: 8pt">{{ item.chat_link }}</span>
+                    <span class="chat-code">{{ item.chat_link }}</span>
                 </div>
             </div>
         </div>
@@ -212,35 +213,73 @@ export default defineComponent({
 .ac-container {
     position: relative;
     display: grid;
-    grid-template-columns: auto auto auto;
-    justify-content: start;
+    grid-template-columns: 1fr auto;
+    gap: 12px 16px;
+    align-items: center;
 }
 
-.ac-filtered-items {
-    position: relative;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: auto;
-    grid-row: 2;
-    padding: 2px;
-    text-align: left;
-    border: 2px solid #ececec;
-    border-top: none;
-    border-radius: 2px;
-    max-height: 400px;
-    overflow-y: auto;
-    z-index: 9999;
-    font-size: 10pt;
+.search-input {
+    grid-column: 1 / -1;
+    height: 40px;
+    border-radius: 999px;
+    border: 1px solid #1f262d;
+    background: #0b0f14;
+    color: #f5f5f5;
+    padding: 0 16px;
+    font-family: "Georgia", serif;
 }
 
-.ac-container .ac-filtered-items .ac-filtered-item {
+.lang-toggle {
+    display: flex;
+    gap: 8px;
+}
+
+.lang-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #94a0a8;
+    color: #0d1013;
+    border-radius: 999px;
+    padding: 4px 10px;
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    font-family: "Georgia", serif;
     cursor: pointer;
 }
 
-.ac-container .ac-filtered-items .ac-filtered-item:hover,
-.ac-container .ac-filtered-items .ac-filtered-item__hovered {
-    background-color: #eee;
-    color: #101010;
+.lang-pill input {
+    accent-color: #0f2dd9;
+}
+
+.ac-filtered-items {
+    grid-column: 1 / -1;
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #1f262d;
+    border-radius: 12px;
+    background: #1b232a;
+    max-height: 320px;
+    overflow-y: auto;
+    z-index: 10;
+    font-size: 0.85rem;
+    color: #d7dde2;
+}
+
+.ac-filtered-item {
+    cursor: pointer;
+    padding: 6px 8px;
+    border-radius: 8px;
+}
+
+.ac-filtered-item:hover,
+.ac-filtered-item__hovered {
+    background-color: #2b353d;
+    color: #f5f5f5;
+}
+
+.chat-code {
+    font-size: 0.75rem;
+    color: #9aa3aa;
 }
 </style>

@@ -1,10 +1,10 @@
 <template>
-    <div class="greeting">
-      <p style="font-size: 10pt">
-        Hello, today is {{ currentMouvDate() }}, {{ currentElonDate() }},
-        {{ currentCantDate() }}
-      </p>
-    </div>
+  <div class="greeting">
+    <p>
+      Hello, today is {{ currentMouvDate() }}, {{ currentElonDate() }},
+      {{ currentCantDate() }}
+    </p>
+  </div>
 </template>
   
   <script lang="ts">
@@ -177,4 +177,8 @@
   
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="css">
+.greeting p {
+  margin: 0;
+  font-size: 0.85rem;
+}
 </style>
