@@ -213,10 +213,23 @@ export default defineComponent({
       const endPos = textarea.selectionEnd;
       const textBefore = this.chatContent.substring(0, startPos);
       const textAfter = this.chatContent.substring(endPos, this.chatContent.length);
-      if (startPos == 0) text = text.substring(1, text.length);
-      this.chatContent = textBefore + text + textAfter;
+      let insertText = text;
+
+      if (startPos === 0 && insertText.startsWith(" ")) {
+        insertText = insertText.substring(1);
+      }
+
+      if (textBefore.endsWith(" ") && insertText.startsWith(" ")) {
+        insertText = insertText.substring(1);
+      }
+
+      if (textAfter.startsWith(" ") && insertText.endsWith(" ")) {
+        insertText = insertText.substring(0, insertText.length - 1);
+      }
+
+      this.chatContent = textBefore + insertText + textAfter;
       // set the cursor to the position after inserting the text
-      const newCursorPos = startPos + text.length;
+      const newCursorPos = startPos + insertText.length;
       textarea.selectionStart = newCursorPos;
       textarea.selectionEnd = newCursorPos;
       textarea.focus();

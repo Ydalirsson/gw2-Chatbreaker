@@ -14,7 +14,7 @@
     <div class="toolbar__group">
       <label class="toolbar__label">Limit</label>
       <input type="number" min="3" class="toolbar__input" v-model.number="localMaxWordLength"
-        title="This field determines the number of characters that can appear in a message. Can be set as required.\n- GW2-Mode: 197\n- Discord-Mode: 1998" />
+        title="This field determines the number of characters that can appear in a message. Can be set as required.&#10;- GW2-Mode: 197&#10;- Discord-Mode: 1998" />
     </div>
 
     <div class="toolbar__meta">
